@@ -1,5 +1,5 @@
 import streamlit as st
-import fairhelp
+from . import fairhelp
 import numpy as np
 from datetime import datetime
 
