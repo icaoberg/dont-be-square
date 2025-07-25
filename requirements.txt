@@ -1,6 +1,7 @@
-streamlit>=1.30.0
-fairhelp
-numpy
-matplotlib
+streamlit
 pandas
+requests
 humanize
+matplotlib
+numpy
+plotly
