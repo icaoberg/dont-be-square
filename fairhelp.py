@@ -11,23 +11,45 @@ from datetime import datetime
 from typing import Dict
 import logging
 
-# Generate dynamic log filename
+# Optional Streamlit integration
+try:
+    import streamlit as st
+    STREAMLIT_AVAILABLE = True
+    streamlit_logs = []
+except ImportError:
+    STREAMLIT_AVAILABLE = False
+    streamlit_logs = []
+
+# ────────────────────────────────
+# Logging Setup
+# ────────────────────────────────
 timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
 log_filename = f"dontbesquare-{timestamp}.log"
 
-# Create logger
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-# Add file handler (required to write to disk!)
 file_handler = logging.FileHandler(log_filename)
-file_handler.setFormatter(
-    logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
-)
+file_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
 
 if not logger.handlers:
     logger.addHandler(file_handler)
 
+# Streamlit handler
+class StreamlitHandler(logging.Handler):
+    def emit(self, record):
+        msg = self.format(record)
+        streamlit_logs.append(msg)
+
+if STREAMLIT_AVAILABLE:
+    streamlit_handler = StreamlitHandler()
+    streamlit_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
+    logger.addHandler(streamlit_handler)
+
+
+# ────────────────────────────────
+# Core Functions
+# ────────────────────────────────
 
 def create_fair_plot(data, output_file=None, scale=100, dpi=100, curated=False):
     logger.info("create_fair_plot() started")
@@ -85,133 +107,45 @@ def create_fair_plot(data, output_file=None, scale=100, dpi=100, curated=False):
     logger.info(f"create_fair_plot() completed and saved to {output_file}")
 
 
-def __get_metadata(dataset_id: str, api_url: str = "https://entity.api.hubmapconsortium.org/entities") -> Dict:
-    logger.info(f"__get_metadata() started for {dataset_id}")
-    try:
-        response = requests.get(f"{api_url}/{dataset_id}")
-        response.raise_for_status()
-        metadata = response.json()
-        os.makedirs("JSON", exist_ok=True)
-        filepath = os.path.join("JSON", f"{dataset_id}.json")
-        with open(filepath, "w", encoding="utf-8") as f:
-            json.dump(metadata, f, indent=2)
-        logger.info(f"__get_metadata() completed successfully for {dataset_id}")
-        return metadata
-    except requests.RequestException as e:
-        logger.error(f"Error fetching metadata for {dataset_id}: {e}")
-        return {"error": str(e)}
 
 
-def findable(dataset_id: str) -> float:
-    logger.info(f"findable() started for {dataset_id}")
-    metadata = __get_metadata(dataset_id)
-    score = [
-        __no_error(metadata),
-        __has_antibodies(metadata),
-        __has_uuid(metadata),
-        __is_dataset_entity(metadata),
-    ]
-    result = np.mean(score)
-    logger.info(f"findable() completed for {dataset_id} with score {result}")
-    return result
 
 
-def accessible(dataset_id: str) -> float:
-    logger.info(f"accessible() started for {dataset_id}")
-    metadata = __get_metadata(dataset_id)
-    score = [1 if "doi_url" in metadata and __is_link_accessible(metadata["doi_url"]) else 0]
-    result = np.mean(score)
-    logger.info(f"accessible() completed for {dataset_id} with score {result}")
-    return result
 
 
-def interoperable(dataset_id: str) -> float:
-    logger.info(f"interoperable() started for {dataset_id}")
-    score = []  # placeholder for future logic
-    result = 0.0
-    logger.info(f"interoperable() completed for {dataset_id} with score {result}")
-    return result
 
 
-def reproducible(dataset_id: str) -> float:
-    logger.info(f"reproducible() started for {dataset_id}")
-    score = [average_metadata_success(dataset_id)]
-    result = np.mean(score)
-    logger.info(f"reproducible() completed for {dataset_id} with score {result}")
-    return result
 
 
-def __is_link_accessible(url: str, timeout: int = 5) -> bool:
-    logger.info(f"__is_link_accessible() checking URL: {url}")
-    try:
-        response = requests.head(url, allow_redirects=True, timeout=timeout)
-        success = response.status_code == 200
-        logger.info(f"URL {url} is {'accessible' if success else 'not accessible'}")
-        return success
-    except requests.RequestException:
-        logger.warning(f"URL check failed: {url}")
-        return False
 
 
-def __has_antibodies(metadata: dict) -> bool:
-    logger.info("__has_antibodies() started")
-    score = []
-    antibodies = metadata.get("antibodies", [])
-    score.append(bool(antibodies))
-
-    for antibody in tqdm(antibodies):
-        accession = antibody.get("uniprot_accession_number")
-        if accession:
-            url = f"https://rest.uniprot.org/uniprotkb/{accession}"
-            if not __is_link_accessible(url):
-                logger.error(f"Failed to access UniProt URL for accession: {accession}")
-                score.append(False)
-            else:
-                score.append(True)
-
-    result = all(score)
-    logger.info(f"__has_antibodies() completed with result {result}")
-    return result
 
 
-def __is_published(metadata: dict) -> int:
-    logger.info("__is_published() started")
-    result = 1 if metadata.get("status") == "Published" else 0
-    logger.info(f"__is_published() completed with result {result}")
-    return result
 
 
-def __has_uuid(metadata: dict) -> int:
-    logger.info("__has_uuid() started")
-    result = 1 if "uuid" in metadata else 0
-    logger.info(f"__has_uuid() completed with result {result}")
-    return result
 
 
-def __is_dataset_entity(metadata: dict) -> int:
-    logger.info("__is_dataset_entity() started")
-    result = 1 if metadata.get("entity_type") == "Dataset" else 0
-    logger.info(f"__is_dataset_entity() completed with result {result}")
-    return result
 
 
-def __no_error(metadata: dict) -> int:
-    logger.info("__no_error() started")
-    result = 0 if "error" in metadata else 1
-    logger.info(f"__no_error() completed with result {result}")
-    return result
+# ────────────────────────────────
+# Optional Log Display for Streamlit
+# ────────────────────────────────
+def show_logs_in_streamlit():
+    if STREAMLIT_AVAILABLE and streamlit_logs:
+        st.subheader("🪵 Execution Log")
+        for log in streamlit_logs:
+            st.text(log)
 
-
-def average_metadata_success(hubmap_id: str) -> float:
-    logger.info(f"average_metadata_success() started for {hubmap_id}")
-    num_trials = random.randint(3, 10)
-    success_count = 0
-
-    for _ in tqdm(range(num_trials)):
-        metadata = __get_metadata(hubmap_id)
-        if metadata and isinstance(metadata, dict) and "error" not in metadata and len(metadata) > 0:
-            success_count += 1
-
-    result = success_count / num_trials
-    logger.info(f"average_metadata_success() completed with result {result}")
-    return result
+def show_status(label: str, condition: bool, detail: str = ""):
+    """
+    Display a labeled status in Streamlit with optional detail.
+    
+    Args:
+        label (str): Description of the check.
+        condition (bool): Whether it passed.
+        detail (str): Optional detail to include in failure case.
+    """
+    if condition:
+        st.success(f"✅ {label} passed")
+    else:
+        st.error(f"❌ {label} failed - Status: {detail}")
