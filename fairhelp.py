@@ -110,6 +110,7 @@ def findable(dataset_id: str) -> float:
         __has_antibodies(metadata),
         __has_uuid(metadata),
         __is_dataset_entity(metadata),
+        __has_title(metadata)
     ]
     result = np.mean(score)
     logger.info(f"findable() completed for {dataset_id} with score {result}")
@@ -119,7 +120,13 @@ def findable(dataset_id: str) -> float:
 def accessible(dataset_id: str) -> float:
     logger.info(f"accessible() started for {dataset_id}")
     metadata = __get_metadata(dataset_id)
-    score = [1 if "doi_url" in metadata and __is_link_accessible(metadata["doi_url"]) else 0]
+    score = [
+        1 if "doi_url" in metadata and __is_link_accessible(metadata["doi_url"]) else 0,
+             __is_published(metadata),
+             __has_group_name(metadata),
+            __has_group_uuid(metadata),
+            __has_hubmap_id(metadata)
+             ]
     result = np.mean(score)
     logger.info(f"accessible() completed for {dataset_id} with score {result}")
     return result
@@ -127,15 +134,24 @@ def accessible(dataset_id: str) -> float:
 
 def interoperable(dataset_id: str) -> float:
     logger.info(f"interoperable() started for {dataset_id}")
-    score = []  # placeholder for future logic
-    result = 0.0
+    metadata = __get_metadata(dataset_id)
+    score = [
+        __has_genetic_sequences(metadata),
+        __has_assay_category(metadata),
+        __has_assay_type(metadata),
+        __has_contributors_path(metadata)
+    ] 
+    result = np.mean(score)
     logger.info(f"interoperable() completed for {dataset_id} with score {result}")
     return result
 
 
 def reproducible(dataset_id: str) -> float:
     logger.info(f"reproducible() started for {dataset_id}")
-    score = [average_metadata_success(dataset_id)]
+    metadata = __get_metadata(dataset_id)
+    score = [
+        average_metadata_success(dataset_id)
+        ]
     result = np.mean(score)
     logger.info(f"reproducible() completed for {dataset_id} with score {result}")
     return result
@@ -214,4 +230,52 @@ def average_metadata_success(hubmap_id: str) -> float:
 
     result = success_count / num_trials
     logger.info(f"average_metadata_success() completed with result {result}")
+    return result
+
+def __has_group_name(metadata: dict) -> int:
+    logger.info("__has_group_name() started")
+    result = 1 if "group_name" in metadata else 0
+    logger.info(f"__has_group_name() completed with result {result}")
+    return result
+
+def __has_group_uuid(metadata: dict) -> int:
+    logger.info("__has_group_uuid() started")
+    result = 1 if "group_uuid" in metadata else 0
+    logger.info(f"__has_group_uuid() completed with result {result}")
+    return result
+
+def __has_hubmap_id(metadata: dict) -> int:
+    logger.info("__has_hubmap_id() started")
+    result = 1 if "hubmap_id" in metadata else 0
+    logger.info(f"__has_hubmap_id() completed with result {result}")
+    return result
+
+def __has_title(metadata: dict) -> int:
+    logger.info("__has_title() started")
+    result = 1 if "title" in metadata else 0
+    logger.info(f"__has_title() completed with result {result}")
+    return result
+
+def __has_genetic_sequences(metadata: dict) -> int:
+    logger.info("__has_genetic_sequences() started")
+    result = 1 if "contains_human_genetic_sequences" in metadata else 0
+    logger.info(f"__has_genetic_sequences() completed with result {result}")
+    return result
+
+def __has_assay_category(metadata: dict) -> int:
+    logger.info("__has_assay_category() started")
+    result = 1 if "assay_category" in metadata else 0
+    logger.info(f"__has_assay_category() completed with result {result}")
+    return result
+
+def __has_assay_type(metadata: dict) -> int:
+    logger.info("__has_assay_type() started")
+    result = 1 if "assay_type" in metadata else 0
+    logger.info(f"__has_assay_type() completed with result {result}")
+    return result
+
+def __has_contributors_path(metadata: dict) -> int:
+    logger.info("__has_hubmap_id() started")
+    result = 1 if "contributors_path" in metadata else 0
+    logger.info(f"__has_contributors_path() completed with result {result}")
     return result

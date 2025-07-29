@@ -1,0 +1,23 @@
+Findable 
+  - metadata exist
+  - antibodies
+  - uuid
+  - dataset entity
+  - title
+  
+Accessable 
+  - is public
+  - doi exist 
+  - doi works
+  - published
+  - group_name
+  - group_uuid
+  - hubmap_id
+
+Interoperable
+  - genetic_sequences
+  - assay_category
+  - assay_type
+  - contributors_path
+Reprodusable 
+  - len(metadata) > 0

@@ -33,7 +33,7 @@ if hubmap_id:
         st.subheader("📊 FAIR Scores")
         st.markdown(f"- **Findable:** {findable:.2f}")
         st.markdown(f"- **Accessible:** {accessible:.2f}")
-        st.markdown(f"- **Interoperable:** {interoperable:.2f}")
+        st.markdown(f"- **Interoperable:** {interoperable:.2f}") 
         st.markdown(f"- **Reproducible:** {reproducible:.2f}")
 
         # ────────────────────────────────
