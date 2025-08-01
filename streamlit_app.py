@@ -3,6 +3,9 @@ import fairhelp
 import numpy as np
 from datetime import datetime
 
+from findable import findable
+from accecssible import accesible
+
 # ────────────────────────────────
 # Streamlit App Title
 # ────────────────────────────────
@@ -13,14 +16,17 @@ st.title("🔬 FAIR Score Visualizer for HuBMAP Datasets")
 # ────────────────────────────────
 hubmap_id = st.text_input("Enter HuBMAP Dataset ID:", value="HBM666.NDQZ.365")
 
-if hubmap_id:
+# ────────────────────────────────
+# Trigger Button
+# ────────────────────────────────
+if st.button("Calculate FAIR Score") and hubmap_id:
     try:
         # ────────────────────────────────
         # Compute FAIR Scores
         # ────────────────────────────────
         st.info("Calculating FAIR scores...")
-        findable = fairhelp.findable(hubmap_id)
-        accessible = fairhelp.accessible(hubmap_id)
+        findable_score = findable(hubmap_id)
+        accessible_score = accessible(hubmap_id)
         interoperable = fairhelp.interoperable(hubmap_id)
         reproducible = fairhelp.reproducible(hubmap_id)
 
