@@ -19,5 +19,7 @@ Interoperable
   - assay_category
   - assay_type
   - contributors_path
+  - version
+
 Reprodusable 
   - len(metadata) > 0

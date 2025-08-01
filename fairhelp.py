@@ -139,7 +139,8 @@ def interoperable(dataset_id: str) -> float:
         __has_genetic_sequences(metadata),
         __has_assay_category(metadata),
         __has_assay_type(metadata),
-        __has_contributors_path(metadata)
+        __has_contributors_path(metadata),
+        __has_version(metadata)
     ] 
     result = np.mean(score)
     logger.info(f"interoperable() completed for {dataset_id} with score {result}")
@@ -278,4 +279,9 @@ def __has_contributors_path(metadata: dict) -> int:
     logger.info("__has_hubmap_id() started")
     result = 1 if "contributors_path" in metadata else 0
     logger.info(f"__has_contributors_path() completed with result {result}")
+    return result
+def __has_version(metadata: dict) -> int:
+    logger.info("__has_version() started")
+    result = 1 if "version" in metadata else 0
+    logger.info(f"__has_version() completed with result {result}")
     return result
