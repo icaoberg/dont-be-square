@@ -25,6 +25,12 @@ def accessible(dataset_id: str) -> float:
     logger.info(f"accessible() completed for {dataset_id} with score {result}")
     return result
 
+# ─────────────────────────────────────────────────────────────
+# Helper Methods Section
+# Add any additional helper methods below this block.
+# These should be utility functions to support the main logic.
+# ─────────────────────────────────────────────────────────────
+
 def __is_link_accessible(url: str, timeout: int = 5) -> bool:
     logger.info(f"__is_link_accessible() checking URL: {url}")
     try:
@@ -35,3 +41,5 @@ def __is_link_accessible(url: str, timeout: int = 5) -> bool:
     except requests.RequestException:
         logger.warning(f"URL check failed: {url}")
         return False
+    
+

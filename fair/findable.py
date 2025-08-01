@@ -23,6 +23,13 @@ def findable(dataset_id: str) -> float:
     result = np.mean(score)
     return result
 
+# ─────────────────────────────────────────────────────────────
+# Helper Methods Section
+# Add any additional helper methods below this block.
+# These should be utility functions to support the main logic.
+# ─────────────────────────────────────────────────────────────
+
+
 def __is_link_accessible(url: str, timeout: int = 5) -> bool:
     try:
         response = requests.head(url, allow_redirects=True, timeout=timeout)
