@@ -6,13 +6,14 @@ import numpy as np
 from tqdm import tqdm
 from datetime import datetime
 from typing import Dict
-from findable import __get_metadata
+from fair.findable import __get_metadata
 
 def reproducible(dataset_id: str) -> float:
     metadata = __get_metadata(dataset_id)
     score = [
-        __average_metadata_success(hubmap_id: str)
+        __average_metadata_success(dataset_id)
     ]
+    print(f'R: {score}')
     result = np.mean(score)
     return result
 
@@ -21,14 +22,6 @@ def reproducible(dataset_id: str) -> float:
 # Add any additional helper methods below this block.
 # These should be utility functions to support the main logic.
 # ─────────────────────────────────────────────────────────────
-
-def __is_link_accessible(url: str, timeout: int = 5) -> bool:
-    try:
-        response = requests.head(url, allow_redirects=True, timeout=timeout)
-        success = response.status_code == 200
-        return success
-    except requests.RequestException:
-        return False
     
 def __average_metadata_success(hubmap_id: str) -> float:
     num_trials = random.randint(3, 10)

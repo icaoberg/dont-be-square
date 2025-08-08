@@ -10,16 +10,24 @@ from tqdm import tqdm
 from datetime import datetime
 from typing import Dict
 import logging
+import streamlit as st
+import time
+
+
+logger = logging.getLogger(__name__)
+
 
 def findable(dataset_id: str) -> float:
     metadata = __get_metadata(dataset_id)
     score = [
-        __is_published(metadata),
         __no_error(metadata),
         __has_antibodies(metadata),
         __has_uuid(metadata),
         __is_dataset_entity(metadata),
+        __has_title(metadata),
+        __is_published(metadata)[0],
     ]
+    print(f'F: {score}')
     result = np.mean(score)
     return result
 
@@ -63,7 +71,7 @@ def __is_published(metadata: dict) -> bool:
     """
     status = metadata.get("status", "Unknown")
     result = status == "Published"
-    return result, status
+    return int(result), status
 
 
 def __has_uuid(metadata: dict) -> int:
@@ -101,8 +109,18 @@ def __has_antibodies(metadata: dict) -> bool:
             url = f"https://rest.uniprot.org/uniprotkb/{accession}"
             if not __is_link_accessible(url):
                 score.append(False)
+
             else:
                 score.append(True)
+    # list of true
+    result = int(all(score))
+    progress_bar.empty()
+    status_text.empty()
+    
+    return result
 
-    result = all(score)
+def __has_title(metadata: dict) -> int:
+    logger.info("__has_title() started")
+    result = 1 if "title" in metadata else 0
+    logger.info(f"__has_title() completed with result {result}")
     return result

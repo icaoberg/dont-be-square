@@ -3,13 +3,18 @@ import fairhelp
 import numpy as np
 from datetime import datetime
 
-from findable import findable
-from accecssible import accesible
+from fair.accessible import accessible
+from fair.reproducible import reproducible
+from fair.interoperable import interoperable
+from fair.findable import findable
+
+
 
 # ────────────────────────────────
 # Streamlit App Title
 # ────────────────────────────────
 st.title("🔬 FAIR Score Visualizer for HuBMAP Datasets")
+
 
 # ────────────────────────────────
 # Input for HuBMAP Dataset ID
@@ -24,14 +29,18 @@ if st.button("Calculate FAIR Score") and hubmap_id:
         # ────────────────────────────────
         # Compute FAIR Scores
         # ────────────────────────────────
-        st.info("Calculating FAIR scores...")
-        findable_score = findable(hubmap_id)
-        accessible_score = accessible(hubmap_id)
-        interoperable = fairhelp.interoperable(hubmap_id)
-        reproducible = fairhelp.reproducible(hubmap_id)
+        status_text = st.empty()
+        status_text.text(f"Calculating FAIR scores...")
+        #st.info("Calculating FAIR scores...")
+        findable = findable(hubmap_id)
+        accessible = accessible(hubmap_id)
+        interoperable = interoperable(hubmap_id)
+        reproducible = reproducible(hubmap_id)
 
         fair = [findable, accessible, interoperable, reproducible]
-        st.success("Scores calculated successfully!")
+        
+        status_text.success("Scores calculated successfully!")
+        #st.success("Scores calculated successfully!")
 
         # ────────────────────────────────
         # Display Individual Scores
@@ -57,6 +66,5 @@ if st.button("Calculate FAIR Score") and hubmap_id:
         )
 
         st.image(output_file, caption=f"FAIR Heatmap for {hubmap_id}")
-
     except Exception as e:
         st.error(f"Failed to compute FAIR score: {e}")
