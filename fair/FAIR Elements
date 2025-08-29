@@ -1,3 +1,5 @@
+revisar todos los calls que son con metadata[metadata]
+
 Findable 
   - metadata exist
   - antibodies
@@ -5,12 +7,8 @@ Findable
   - dataset entity
   - title
   - published
-??
   - contributors
-  (check validj orcid -id)
   - contactcs
-  (check validj orcid -id)
-  - 
 
 Accessable 
   - doi exist 
@@ -19,35 +17,33 @@ Accessable
   - group_uuid
   - hubmap_id
 
-  ??
-  registered_doi
+  registered_doi #falta validar
+  protocols_io_doi #falta validar
+  reagent_prep_protocols_io_doi #falta validar
 
 Interoperable
   - genetic_sequences
-  - assay_category
-  - assay_type
+  - assay_category #Req y parte de vocabulario
+  - assay_type #Req y parte de vocabulario
   - contributors_path
   - version
-
-  ?? 
-  antibodies version
+  - antibodies version
+  direct_ancestors
 
 Reprodusable 
   - len(metadata) > 0
+  
+# tienen que existir
+  resolution_x_unit #string
+  resolution_x_value #num
+  resolution_y_unit #string
+  resolution_y_value # unit
+  resolution_z_unit #string
+  resolution_z_value #num
 
-  ??
-  run_id
-  dataset_type
+  dataset_type # opcional
+  #string y parte de vocabular
   preparation_instrument_kit
   acquisition_instrument_model
-  analyte_class
-  is_targeted
-  protocols_io_doi
-  reagent_prep_protocols_io_doi
-  section_prep_protocols_io_doi
-  resolution_x_unit
-  resolution_x_value
-  resolution_y_unit
-  resolution_y_value
-  resolution_z_unit
-  resolution_z_value
+  analyte_class 
+  #string y parte de vocabular

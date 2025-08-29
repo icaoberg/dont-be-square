@@ -8,21 +8,25 @@ from datetime import datetime
 from typing import Dict
 import logging
 from fair.findable import __get_metadata
+
 logger = logging.getLogger(__name__)
 
 
 def interoperable(dataset_id: str) -> float:
     metadata = __get_metadata(dataset_id)
     score = [
-        __has_genetic_sequences(metadata), #1
-        __has_assay_category(metadata), # nolo estat
-        __has_assay_type(metadata), #0 no esta 
-        __has_contributors_path(metadata), #0 tiene
-        __has_version(metadata) #1 no esta 
+        __has_genetic_sequences(metadata),
+        __has_assay_category(metadata), 
+        __has_assay_type(metadata),
+
+        __has_contributors_path(metadata),
+        __has_version(metadata),
+        __has_direct_ancestors(metadata),
+        __has_antibody_version(metadata)
     ]
     print(f'I: {score}')
     result = np.mean(score)
-    return result
+    return result,score
 
 # ─────────────────────────────────────────────────────────────
 # Helper Methods Section
@@ -37,24 +41,86 @@ def __has_genetic_sequences(metadata: dict) -> int:
 
 def __has_assay_category(metadata: dict) -> int:
     logger.info("__has_assay_category() started")
-    result = 1 if "assay_category" in metadata['metadata'] else 0
+    result = 0 
+    try:
+        if "assay_category" in metadata:
+            result = 1
+        elif "assay_category" in metadata['metadata']:
+            result = 1
+
+    except Exception as e:
+        logger.error(f"Error checking assay category key: {e}")        
     logger.info(f"__has_assay_category() completed with result {result}")
     return result
 
 def __has_assay_type(metadata: dict) -> int:
     logger.info("__has_assay_type() started")
-    result = 1 if "assay_type" in metadata['metadata'] else 0
+    result = 0 
+    try:
+        if "assay_type" in metadata:
+            result = 1
+
+        elif "assay_type" in metadata['metadata']:
+            result = 1
+
+    except Exception as e:
+        logger.error(f"Error checking assay type key: {e}")        
     logger.info(f"__has_assay_type() completed with result {result}")
     return result
 
 def __has_contributors_path(metadata: dict) -> int:
     logger.info("__has_hubmap_id() started")
-    result = 1 if "contributors_path" in metadata['metadata'] else 0
+    result = 0 
+    try:
+        if "contributors_path" in metadata:
+            result = 1
+
+        elif "contributors_path" in metadata['metadata']:
+            result = 1
+
+    except Exception as e:
+        logger.error(f"Error checking contributor path key: {e}")        
     logger.info(f"__has_contributors_path() completed with result {result}")
     return result
 
 def __has_version(metadata: dict) -> int:
     logger.info("__has_version() started")
-    result = 1 if "version" in metadata['metadata'] else 0
+    result = 0  # default
+    try:
+        if "version" in metadata:
+            result = 1
+
+        elif "version" in metadata['metadata']:
+            result = 1
+
+    except Exception as e:
+        logger.error(f"Error checking version key: {e}")        
     logger.info(f"__has_version() completed with result {result}")
+    return result
+
+def __has_direct_ancestors(metadata: dict) -> int:
+    logger.info("__has_direct_ancestors() started")
+    hubmap_id = metadata.get('hubmap_id')
+    try:
+        ancestry_hubamp_id = metadata['direct_ancestors'][0].get('hubmap_id')
+        result = 1 if hubmap_id == ancestry_hubamp_id else 0
+        #print(hubmap_id, ancestry_hubamp_id)
+        logger.info(f"__has_direct_ancestors() completed with result {result}")
+        return result
+    except Exception as e:
+        return 1
+        logger.error(f"Error checking antibodies key: {e}")     
+    
+
+def __has_antibody_version(metadata: dict) -> int:
+    logger.info("__has_antibody_version() started")
+    result = 0 
+    try :
+        anti = metadata['antibodies'][0]
+        result = 1 if "version" in anti else 0
+    except Exception as e:
+        result = 1 
+        return result 
+        logger.error(f"Error checking antibodies key: {e}")     
+    logger.info(f"__has_antibody_version() completed with result {result}")
     return result

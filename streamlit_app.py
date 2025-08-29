@@ -8,8 +8,6 @@ from fair.reproducible import reproducible
 from fair.interoperable import interoperable
 from fair.findable import findable
 
-
-
 # ────────────────────────────────
 # Streamlit App Title
 # ────────────────────────────────
@@ -32,10 +30,10 @@ if st.button("Calculate FAIR Score") and hubmap_id:
         status_text = st.empty()
         status_text.text(f"Calculating FAIR scores...")
         #st.info("Calculating FAIR scores...")
-        findable = findable(hubmap_id)
-        accessible = accessible(hubmap_id)
-        interoperable = interoperable(hubmap_id)
-        reproducible = reproducible(hubmap_id)
+        findable = findable(hubmap_id)[0]
+        accessible = accessible(hubmap_id)[0]
+        interoperable = interoperable(hubmap_id)[0]
+        reproducible = reproducible(hubmap_id)[0]
 
         fair = [findable, accessible, interoperable, reproducible]
         

@@ -12,13 +12,25 @@ from typing import Dict
 import logging
 import streamlit as st
 import time
-
+import requests
 
 logger = logging.getLogger(__name__)
+
+def explore_json(obj, path=""):
+    if isinstance(obj, dict):
+        print(f"Dict found at '{path}' with keys: {list(obj.keys())}\n")
+        for key, value in obj.items():
+            new_path = f"{path}.{key}" if path else key
+            print('\n')
+            explore_json(value, new_path)
+    elif isinstance(obj, list):
+        print(f"List found at '{path}' with {len(obj)} items: {obj}\n")
 
 
 def findable(dataset_id: str) -> float:
     metadata = __get_metadata(dataset_id)
+    #explore_json(metadata)
+
     score = [
         __no_error(metadata),
         __has_antibodies(metadata),
@@ -26,10 +38,12 @@ def findable(dataset_id: str) -> float:
         __is_dataset_entity(metadata),
         __has_title(metadata),
         __is_published(metadata)[0],
+        __has_contributors(metadata),
+        __has_contacts(metadata)
     ]
     print(f'F: {score}')
     result = np.mean(score)
-    return result
+    return result,score
 
 # ─────────────────────────────────────────────────────────────
 # Helper Methods Section
@@ -93,6 +107,10 @@ def __has_antibodies(metadata: dict) -> bool:
     score = []
     antibodies = metadata.get("antibodies", [])
     score.append(bool(antibodies))
+    
+    # donnt have antibodies
+    if not antibodies:
+        return 1 
 
     progress_bar = st.progress(0)
     status_text = st.empty()
@@ -124,3 +142,83 @@ def __has_title(metadata: dict) -> int:
     result = 1 if "title" in metadata else 0
     logger.info(f"__has_title() completed with result {result}")
     return result
+
+def check_orcid(orcid_id: str):
+    base_url = "https://pub.orcid.org/v3.0"
+    headers = {"Accept": "application/json"}
+    url = f"{base_url}/{orcid_id}"
+    
+    response = requests.get(url, headers=headers)
+
+    if response.status_code == 200:
+        data = response.json()
+        return True
+    elif response.status_code == 404:
+        return False
+    else:
+        return False
+
+def __has_contributors(metadata: dict) -> int:
+    logger.info("__has_contributors() started")
+    result = 1 if "contributors" in metadata else 0
+    if result == 0:
+        return 0
+    logger.info(f"__has_contributors() completed with result {result}")
+
+    contributors = metadata['contributors'][0]
+
+    if 'orcid' in contributors:
+        orcid_value = 1
+    
+    elif 'orcid_id' in contributors:
+        orcid_value = 2
+
+    else:
+        orcid_value = None
+    #--------------------------------------
+    if orcid_value == 1:
+        validate_orcid_id = check_orcid(contributors['orcid'])
+    
+    elif orcid_value == 2:
+        validate_orcid_id = check_orcid(contributors['orcid_id'])
+    else:
+        validate_orcid_id = None
+
+
+    if validate_orcid_id and result:
+        return 1
+    else:
+        return 0
+
+def __has_contacts(metadata: dict) -> int:
+    logger.info("__has_contacts() started")
+    result = 1 if "contacts" in metadata else 0
+    if result == 0:
+        return 0
+    
+    logger.info(f"__has_contacts() completed with result {result}")
+    
+    contact = metadata['contacts'][0]
+
+    if 'orcid' in contact:
+        orcid_value = 1
+    
+    elif 'orcid_id' in contact:
+        orcid_value = 2
+
+    else:
+        orcid_value = None
+#--------------------------------------
+    if orcid_value == 1:
+        validate_orcid_id = check_orcid(contact['orcid'])
+    
+    elif orcid_value == 2:
+        validate_orcid_id = check_orcid(contact['orcid_id'])
+    else:
+        validate_orcid_id = None
+
+
+    if validate_orcid_id and result:
+        return 1
+    else:
+        return 0

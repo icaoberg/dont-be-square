@@ -256,7 +256,6 @@
   "metadata": {
     "capture_batch_id": "Penn-Batch_0057",
     "contributors_path": "extras/contributors.tsv",
-    "data_path": ".",
     "dataset_type": "10X Multiome",
     "metadata_schema_id": "63c06fb2-4638-4979-aa97-5aff2a840156",
     "number_of_pre_amplification_pcr_cycles": "7",
@@ -313,7 +312,6 @@
   ],
   "title": "10X Multiome data from the uterus of a 22-year-old white female",
   "upload": {
-    "assigned_to_group_name": "IEC",
     "created_by_user_displayname": "C. NORDGREN",
     "created_by_user_email": "nordgren@sas.upenn.edu",
     "created_by_user_sub": "6e3bbf9a-df76-4735-9ac2-517e1b501fc0",
@@ -323,11 +321,11 @@
     "group_name": "TMC - University of Pennsylvania",
     "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
     "hubmap_id": "HBM639.HBVB.336",
-    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.].",
-    "last_modified_timestamp": 1729887293204,
-    "last_modified_user_displayname": "HuBMAP Process",
-    "last_modified_user_email": "hubmap@hubmapconsortium.org",
-    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231489749,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
     "status": "Reorganized",
     "status_history": [
       {
