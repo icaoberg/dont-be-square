@@ -18,7 +18,6 @@ def interoperable(dataset_id: str) -> float:
         __has_genetic_sequences(metadata),
         __has_assay_category(metadata), 
         __has_assay_type(metadata),
-
         __has_contributors_path(metadata),
         __has_version(metadata),
         __has_direct_ancestors(metadata),
@@ -35,6 +34,8 @@ def interoperable(dataset_id: str) -> float:
 # ─────────────────────────────────────────────────────────────
 def __has_genetic_sequences(metadata: dict) -> int:
     logger.info("__has_genetic_sequences() started")
+    if "contains_human_genetic_sequences" not in metadata:
+        return 1
     result = 1 if "contains_human_genetic_sequences" in metadata else 0
     logger.info(f"__has_genetic_sequences() completed with result {result}")
     return result
@@ -49,7 +50,8 @@ def __has_assay_category(metadata: dict) -> int:
             result = 1
 
     except Exception as e:
-        logger.error(f"Error checking assay category key: {e}")        
+        logger.error(f"Error checking assay category key: {e}")
+
     logger.info(f"__has_assay_category() completed with result {result}")
     return result
 
@@ -64,7 +66,8 @@ def __has_assay_type(metadata: dict) -> int:
             result = 1
 
     except Exception as e:
-        logger.error(f"Error checking assay type key: {e}")        
+        logger.error(f"Error checking assay type key: {e}") 
+        
     logger.info(f"__has_assay_type() completed with result {result}")
     return result
 
@@ -79,7 +82,8 @@ def __has_contributors_path(metadata: dict) -> int:
             result = 1
 
     except Exception as e:
-        logger.error(f"Error checking contributor path key: {e}")        
+        logger.error(f"Error checking contributor path key: {e}")
+                
     logger.info(f"__has_contributors_path() completed with result {result}")
     return result
 
@@ -94,7 +98,8 @@ def __has_version(metadata: dict) -> int:
             result = 1
 
     except Exception as e:
-        logger.error(f"Error checking version key: {e}")        
+        logger.error(f"Error checking version key: {e}")
+
     logger.info(f"__has_version() completed with result {result}")
     return result
 
@@ -104,13 +109,11 @@ def __has_direct_ancestors(metadata: dict) -> int:
     try:
         ancestry_hubamp_id = metadata['direct_ancestors'][0].get('hubmap_id')
         result = 1 if hubmap_id == ancestry_hubamp_id else 0
-        #print(hubmap_id, ancestry_hubamp_id)
         logger.info(f"__has_direct_ancestors() completed with result {result}")
         return result
     except Exception as e:
-        return 1
         logger.error(f"Error checking antibodies key: {e}")     
-    
+        return 1    
 
 def __has_antibody_version(metadata: dict) -> int:
     logger.info("__has_antibody_version() started")
@@ -120,7 +123,8 @@ def __has_antibody_version(metadata: dict) -> int:
         result = 1 if "version" in anti else 0
     except Exception as e:
         result = 1 
-        return result 
         logger.error(f"Error checking antibodies key: {e}")     
+        return result 
+    
     logger.info(f"__has_antibody_version() completed with result {result}")
     return result

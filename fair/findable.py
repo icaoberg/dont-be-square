@@ -74,15 +74,6 @@ def __get_metadata(dataset_id: str, api_url: str = "https://entity.api.hubmapcon
         return {"error": str(e)}
 
 def __is_published(metadata: dict) -> bool:
-    """
-    Check whether the dataset status is 'Published'.
-
-    Args:
-        metadata (dict): Dataset metadata dictionary.
-
-    Returns:
-        bool: True if status is 'Published', False otherwise.
-    """
     status = metadata.get("status", "Unknown")
     result = status == "Published"
     return int(result), status

@@ -65,7 +65,7 @@ def __has_resolution_x_unit(metadata: dict) -> int:
         result = 1 if isinstance(value, str) and not isinstance(value, bool) else 0
         print(f'x unite: {value},{result}')
     except (KeyError, TypeError):
-        result = 1  # key not required
+        result = 1 
     logger.info(f"__has_resolution_x_unit() completed with result {result}")
     return result
 
@@ -148,9 +148,13 @@ def __has_resolution_z_value(metadata: dict) -> int:
 
 def __has_dataset_type(metadata: dict) -> int:
     logger.info("__has_dataset_type() started")
-    result = 1 if "dataset_type" in metadata else 0
+    try: 
+        result = 1 if "dataset_type" in metadata else 0
+    except:
+        return 1 
     logger.info("__has_dataset_type() completed  with result {result}")
     return result 
+
 
 def __has_analyte_class(metadata: dict) -> int:
     logger.info("__has_analyte_class() started")

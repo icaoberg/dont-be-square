@@ -1,49 +1,50 @@
 revisar todos los calls que son con metadata[metadata]
 
 Findable 
-  - metadata exist
-  - antibodies
-  - uuid
-  - dataset entity
-  - title
-  - published
-  - contributors
-  - contactcs
+  - metadata exist -> R
+  - antibodies -> R not all
+  - uuid -> R
+  - dataset entity -> R
+  - title -> R
+  - published -> R
+  - contributors -> R in metadata or metadata['metadata']
+  - contactcs -> R  in metadata or metadata['metadata']
 
 Accessable 
-  - doi exist 
-  - doi works
-  - group_name
-  - group_uuid
-  - hubmap_id
+  - doi exist -> R
+  - doi works -> R
+  - group_name -> R
+  - group_uuid -> R
+  - hubmap_id -> R
+  - register_doi -> R
 
-  registered_doi #falta validar
-  protocols_io_doi #falta validar
-  reagent_prep_protocols_io_doi #falta validar
+- revisar mas(formato de doi es distinto/no uniforme)
+  - registered_doi - falta validar 
+  - protocols_io_doi - falta validar
+  - reagent_prep_protocols_io_doi - falta validar
 
 Interoperable
-  - genetic_sequences
-  - assay_category #Req y parte de vocabulario
-  - assay_type #Req y parte de vocabulario
-  - contributors_path
-  - version
-  - antibodies version
-  direct_ancestors
+  - genetic_sequences - R/O-1 
+  - assay_category - R (parte de vocabulario)
+  - assay_type - R (parte de vocabulario)
+  - contributors_path - R
+  - version - R
+  - direct_ancestors - R/O-1
+  - antibodies version - R/O-1
+
 
 Reprodusable 
-  - len(metadata) > 0
-  
-# tienen que existir
-  resolution_x_unit #string
-  resolution_x_value #num
-  resolution_y_unit #string
-  resolution_y_value # unit
-  resolution_z_unit #string
-  resolution_z_value #num
+  - len(metadata) > 0 - R  
+  - resolution_x_unit - R/O-1
+  - resolution_x_value - R/O-1
+  - resolution_y_unit - R/O-1
+  - resolution_y_value - R/O-1
+  - resolution_z_unit - R/O-1
+  - resolution_z_value - R/O-1
+  - dataset_type - R/O-1(parte de 
+  vocabular)
+  - analyte_class - R/O-1(parte de vocabular)
+  - preparation_instrument_kit - R/O-1
+  - acquisition_instrument_model - R/O-1
 
-  dataset_type # opcional
-  #string y parte de vocabular
-  preparation_instrument_kit
-  acquisition_instrument_model
-  analyte_class 
-  #string y parte de vocabular
+
