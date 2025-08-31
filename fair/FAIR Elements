@@ -2,7 +2,7 @@ revisar todos los calls que son con metadata[metadata]
 
 Findable 
   - metadata exist -> R
-  - antibodies -> R not all
+  - antibodies -> R/O-1
   - uuid -> R
   - dataset entity -> R
   - title -> R

@@ -213,3 +213,5 @@ def __has_contacts(metadata: dict) -> int:
         return 1
     else:
         return 0
+    
+

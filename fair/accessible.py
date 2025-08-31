@@ -11,6 +11,7 @@ from datetime import datetime
 from typing import Dict
 import logging
 from fair.findable import __get_metadata
+import re
 
 logger = logging.getLogger(__name__)
 
@@ -18,15 +19,15 @@ logger = logging.getLogger(__name__)
 def accessible(dataset_id: str) -> float:
     logger.info(f"accessible() started for {dataset_id}")
     metadata = __get_metadata(dataset_id)
+    meta = metadata.get('metadata')
     score = [
         1 if "doi_url" in metadata and __is_link_accessible(metadata["doi_url"]) else 0,
             __has_group_name(metadata),
             __has_group_uuid(metadata),
             __has_hubmap_id(metadata),
-            #1 if "reagent_prep_protocols_io_doi" in meta else 0,
-            #1 if "protocols_io_doi" in meta else 0,
-            __has_register_doi(metadata)
-
+            __has_register_doi(metadata),
+            __has_protocols_io_doi(metadata),
+            __has_reagent_prep_protocols_io_doi(metadata)
     ]
 
 
@@ -46,14 +47,12 @@ def accessible(dataset_id: str) -> float:
 def __is_link_accessible(url: str, timeout: int = 5) -> bool:
     logger.info(f"__is_link_accessible() checking URL: {url}")
     try:
-        # protocol.io
-
-        # 
         response = requests.get(url, allow_redirects=True, timeout=timeout)
         success = response.status_code == 200
         logger.info(f"URL {url} is {'accessible' if success else 'not accessible'}")
         return success
     except requests.RequestException:
+
         logger.warning(f"URL check failed: {url}")
         return False
     
@@ -77,7 +76,29 @@ def __has_hubmap_id(metadata: dict) -> int:
 
 
 def __has_register_doi(metadata: dict) -> int:
+    doi = metadata.get("doi_url")
+    doi_id = re.sub(r"^https://doi\.org/", "", doi)
     logger.info("__has_register_doi() started")
-    result = 1 if metadata.get("registered_doi") else 0
+    result = 1 if metadata.get("registered_doi") == doi_id else 0
     logger.info(f"__has_register_doi() completed with result {result}")
+    return result
+
+def __has_protocols_io_doi(metadata:dict) -> int:
+    meta = metadata.get('metadata')
+    add = 'https://dx.doi.org/'
+    doi = meta.get('protocols_io_doi')
+    url = add + doi
+    logger.info("__has_protocols_io_doi() started")
+    result = 1 if "protocols_io_doi" in meta and __is_link_accessible(url) else 0
+    logger.info(f"__has_protocols_io_doi() completed with result {result}")
+    return result
+
+def __has_reagent_prep_protocols_io_doi(metadata:dict) -> int:
+    meta = metadata.get('metadata')
+    add = 'https://dx.doi.org/'
+    doi = meta.get('reagent_prep_protocols_io_doi')
+    url = add+ doi
+    logger.info("__has_reagent_prep_protocols_io_doi() started")
+    result = 1 if "reagent_prep_protocols_io_doi" in meta and __is_link_accessible(url) else 0
+    logger.info(f"__has_reagent_prep_protocols_io_doi() completed with result {result}")
     return result

@@ -18,9 +18,11 @@ def interoperable(dataset_id: str) -> float:
         __has_genetic_sequences(metadata),
         __has_assay_category(metadata), 
         __has_assay_type(metadata),
+
         __has_contributors_path(metadata),
         __has_version(metadata),
         __has_direct_ancestors(metadata),
+        
         __has_antibody_version(metadata)
     ]
     print(f'I: {score}')
@@ -42,32 +44,35 @@ def __has_genetic_sequences(metadata: dict) -> int:
 
 def __has_assay_category(metadata: dict) -> int:
     logger.info("__has_assay_category() started")
-    result = 0 
+    valid_categories = {'imaging', 'sequence', None}
+    result = 0
     try:
-        if "assay_category" in metadata:
+        value = metadata.get("assay_category") or metadata.get("metadata", {}).get("assay_category")
+        if value in valid_categories:
             result = 1
-        elif "assay_category" in metadata['metadata']:
-            result = 1
-
     except Exception as e:
-        logger.error(f"Error checking assay category key: {e}")
+        logger.error(f"Error checking assay category: {e}")
 
     logger.info(f"__has_assay_category() completed with result {result}")
     return result
 
+
 def __has_assay_type(metadata: dict) -> int:
     logger.info("__has_assay_type() started")
-    result = 0 
+    valid_types = {
+        'CODEX', 'Imaging Mass Cytometry', 'scRNAseq-10xGenomics',
+        'bulkATACseq','snATACseq', 'sciATACseq', 'sciRNAseq', 
+        'scRNAseq-10xGenomics-v2','scRNAseq-10xGenomics-v3', 'snRNAseq',
+        'snRNAseq-10xGenomics-v3','SNARE-seq2', 'SNARE2-RNAseq', 'seqFISH', None
+    }
+    result = 0
     try:
-        if "assay_type" in metadata:
+        value = metadata.get("assay_type") or metadata.get("metadata", {}).get("assay_type")
+        if value in valid_types:
             result = 1
-
-        elif "assay_type" in metadata['metadata']:
-            result = 1
-
     except Exception as e:
-        logger.error(f"Error checking assay type key: {e}") 
-        
+        logger.error(f"Error checking assay type: {e}")
+
     logger.info(f"__has_assay_type() completed with result {result}")
     return result
 

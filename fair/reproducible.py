@@ -63,7 +63,6 @@ def __has_resolution_x_unit(metadata: dict) -> int:
         if value == None:
             return 1
         result = 1 if isinstance(value, str) and not isinstance(value, bool) else 0
-        print(f'x unite: {value},{result}')
     except (KeyError, TypeError):
         result = 1 
     logger.info(f"__has_resolution_x_unit() completed with result {result}")
@@ -148,24 +147,36 @@ def __has_resolution_z_value(metadata: dict) -> int:
 
 def __has_dataset_type(metadata: dict) -> int:
     logger.info("__has_dataset_type() started")
-    try: 
-        result = 1 if "dataset_type" in metadata else 0
-    except:
-        return 1 
-    logger.info("__has_dataset_type() completed  with result {result}")
-    return result 
+    valid_dataset_types = {
+        'CODEX', 'IMC', 'scRNA-Seq-10x', 'ATACseq-bulk', 'snATACseq',
+        'sciATACseq', 'sciRNAseq', 'scRNAseq-10xGenomics-v2', 'scRNAseq-10xGenomics-v3',
+        'snRNAseq-10xGenomics-v3', 'snRNAseq', 'SNARE-ATACseq2', 'SNARE-RNAseq2',
+        'seqFish', 'image_pyramid'
+    }
+    result = 0
+    try:
+        value = metadata.get("dataset_type") or metadata.get("metadata", {}).get("dataset_type")
+        if value in valid_dataset_types:
+            result = 1
+    except Exception as e:
+        logger.error(f"Error checking dataset_type: {e}")
+    logger.info(f"__has_dataset_type() completed with result {result}")
+    return result
 
 
 def __has_analyte_class(metadata: dict) -> int:
     logger.info("__has_analyte_class() started")
+    valid_analyte_classes = {'Protein', 'RNA', 'DNA', None}
+    result = 0
     try:
-        meta = metadata['metadata']
-        value = meta.get("analyte_class")
-        result = 1 if isinstance(value, str) else 0
-    except:
-        return 1 
+        value = metadata.get("analyte_class") or metadata.get("metadata", {}).get("analyte_class")
+        if value in valid_analyte_classes:
+            result = 1
+    except Exception as e:
+        logger.error(f"Error checking analyte_class: {e}")
     logger.info(f"__has_analyte_class() completed with result {result}")
     return result
+
 #
 
 def __has_preparation_instrument_kit(metadata: dict) -> int:
