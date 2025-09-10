@@ -18,7 +18,6 @@ def interoperable(dataset_id: str) -> float:
         __has_genetic_sequences(metadata),
         __has_assay_category(metadata), 
         __has_assay_type(metadata),
-
         __has_contributors_path(metadata),
         __has_version(metadata),
         __has_direct_ancestors(metadata),

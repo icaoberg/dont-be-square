@@ -6,3 +6,5 @@ matplotlib
 numpy
 plotly
 tqdm
+seaborn 
+hubmap_sdk

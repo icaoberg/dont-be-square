@@ -5,10 +5,15 @@ from fair.findable import findable
 from fair.accessible import accessible
 from fair.interoperable import interoperable
 from fair.reproducible import reproducible
+from fair.utils import list_of_names_df
+from fair.utils import existing_names_to_df
 
+df = existing_names_to_df()
+print(df.head())
+
+'''
 all_assay_results = []
 data = { 'data': 'HBM573.VSJK.526'}
-'''
     "10x multiome": "HBM738.KGBN.464",
     "codex": "HBM734.XBSR.357",
     "atacseq": "HBM426.JKVD.368",
@@ -21,7 +26,6 @@ data = { 'data': 'HBM573.VSJK.526'}
     "visium (no probes)": "HBM937.RTLZ.357",
     "seqFISH": "HBM682.TWTR.428"
     }
-'''
 
 for assay, hubmap_id in data.items():
     print(f'Dataset: {assay} - {hubmap_id}')
@@ -42,13 +46,15 @@ for assay, hubmap_id in data.items():
     results_tuple = ((assay,hubmap_id,score))
     all_assay_results.append(results_tuple)
 
+'''
 
-    '''
-     fairhelp.create_fair_plot(
+'''
+    fairhelp.create_fair_plot(
         np.array(fair).reshape(2, 2), scale=100, dpi=100, curated=False
     )
-    '''
+'''
 
+'''
 print('########## List of all FAIR datasets ##########')
 for assay in all_assay_results:
     print('####################')   
@@ -59,3 +65,8 @@ for assay in all_assay_results:
     print(f'\tA: {assay[2][1]}')
     print(f'\tI: {assay[2][2]}')
     print(f'\tR: {assay[2][3]}')
+
+df = list_of_names_df()
+print(df.head())
+
+'''

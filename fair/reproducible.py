@@ -151,7 +151,16 @@ def __has_dataset_type(metadata: dict) -> int:
         'CODEX', 'IMC', 'scRNA-Seq-10x', 'ATACseq-bulk', 'snATACseq',
         'sciATACseq', 'sciRNAseq', 'scRNAseq-10xGenomics-v2', 'scRNAseq-10xGenomics-v3',
         'snRNAseq-10xGenomics-v3', 'snRNAseq', 'SNARE-ATACseq2', 'SNARE-RNAseq2',
-        'seqFish', 'image_pyramid'
+        'seqFish', 'image_pyramid', 'CODEX [Cytokit + SPRM]', 'RNAseq [Salmon]', 'RNAseq',
+        None, '2D Imaging Mass Cytometry [Image Pyramid]', 'Light Sheet',
+        'Light Sheet [Image Pyramid]', '2D Imaging Mass Cytometry','3D Imaging Mass Cytometry',
+        '3D Imaging Mass Cytometry [Image Pyramid]', 'LC-MS', 'ATACseq',
+        'ATACseq [BWA + MACS2]', 'ATACseq [SnapATAC]', 'WGS',
+        'Histology [Image Pyramid]', 'Histology', 'Publication', 'seqFISH','seqFISH [Image Pyramid]',
+        'seqFISH [Lab Processed]', 'ATACseq [ArchR]', 'Slide-seq', 'Slide-seq [Salmon]', 
+        'SNARE-seq2','SNARE-seq2 [Salmon + ArchR + Muon]', 'MUSIC', 'DESI','DESI [Image Pyramid]',
+        '10X Multiome''10X Multiome [Salmon + ArchR + Muon]', 'Visium (no probes)','Visium (no probes) [Salmon + Scanpy]'
+
     }
     result = 0
     try:
