@@ -12,6 +12,8 @@ from typing import Dict
 import logging
 from fair.findable import __get_metadata
 import re
+import streamlit as st
+
 
 logger = logging.getLogger(__name__)
 
@@ -52,7 +54,6 @@ def __is_link_accessible(url: str, timeout: int = 5) -> bool:
         logger.info(f"URL {url} is {'accessible' if success else 'not accessible'}")
         return success
     except requests.RequestException:
-
         logger.warning(f"URL check failed: {url}")
         return False
     
@@ -76,17 +77,25 @@ def __has_hubmap_id(metadata: dict) -> int:
 
 
 def __has_register_doi(metadata: dict) -> int:
-    doi = metadata.get("doi_url")
-    doi_id = re.sub(r"^https://doi\.org/", "", doi)
+    doi = metadata.get("registered_doi")
+    if not doi:
+        return 0
+    add = "https://doi.org/"
+    print(add,doi)
+    url = add+doi
     logger.info("__has_register_doi() started")
-    result = 1 if metadata.get("registered_doi") == doi_id else 0
-    logger.info(f"__has_register_doi() completed with result {result}")
+    result = 1 if metadata.get("registered_doi") and __is_link_accessible(url) else 0
+    #logger.info(f"__has_register_doi() completed with result {result}")
     return result
 
 def __has_protocols_io_doi(metadata:dict) -> int:
     meta = metadata.get('metadata')
+    if not meta:
+        return 0
     add = 'https://dx.doi.org/'
     doi = meta.get('protocols_io_doi')
+    if not doi:
+        return 0
     url = add + doi
     logger.info("__has_protocols_io_doi() started")
     result = 1 if "protocols_io_doi" in meta and __is_link_accessible(url) else 0
@@ -95,8 +104,12 @@ def __has_protocols_io_doi(metadata:dict) -> int:
 
 def __has_reagent_prep_protocols_io_doi(metadata:dict) -> int:
     meta = metadata.get('metadata')
+    if not meta:
+        return 0
     add = 'https://dx.doi.org/'
     doi = meta.get('reagent_prep_protocols_io_doi')
+    if not doi:
+        return 0
     url = add+ doi
     logger.info("__has_reagent_prep_protocols_io_doi() started")
     result = 1 if "reagent_prep_protocols_io_doi" in meta and __is_link_accessible(url) else 0

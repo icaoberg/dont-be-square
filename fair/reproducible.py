@@ -8,6 +8,8 @@ from datetime import datetime
 from typing import Dict
 from fair.findable import __get_metadata
 import logging
+import streamlit as st
+
 
 logger = logging.getLogger(__name__)
 

@@ -10,9 +10,9 @@ from tqdm import tqdm
 from datetime import datetime
 from typing import Dict
 import logging
-import streamlit as st
 import time
 import requests
+import streamlit as st
 
 logger = logging.getLogger(__name__)
 

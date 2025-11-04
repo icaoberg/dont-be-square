@@ -1,0 +1,601 @@
+,hubmap_id,group_name,dataset_type
+0,HBM732.GQLB.743,University of Florida TMC,CODEX [Cytokit + SPRM]
+1,HBM987.XGTH.368,University of Florida TMC,CODEX
+2,HBM696.DSTM.687,University of Florida TMC,CODEX [Cytokit + SPRM]
+3,HBM536.GZQR.922,University of Florida TMC,RNAseq [Salmon]
+4,HBM472.NTNN.543,University of Florida TMC,RNAseq
+5,HBM338.TDRB.772,University of Florida TMC,
+6,HBM373.RTKK.586,University of Florida TMC,RNAseq
+7,HBM558.SRZG.629,University of Florida TMC,CODEX
+8,HBM538.PHSC.677,University of Florida TMC,RNAseq [Salmon]
+9,HBM733.NFWS.792,University of Florida TMC,
+10,HBM623.TSMG.452,University of Florida TMC,CODEX
+11,HBM362.RFHX.274,University of Florida TMC,CODEX [Cytokit + SPRM]
+12,HBM286.LQFR.435,University of Florida TMC,
+13,HBM749.QJZK.937,University of Florida TMC,
+14,HBM556.QMSM.776,University of Florida TMC,RNAseq
+15,HBM647.MFQB.496,University of Florida TMC,CODEX
+16,HBM749.WHLC.649,University of Florida TMC,RNAseq
+17,HBM682.WKXK.867,University of Florida TMC,
+18,HBM336.FWTN.636,University of Florida TMC,RNAseq
+19,HBM342.JTKN.834,University of Florida TMC,CODEX
+20,HBM377.TVMS.734,University of Florida TMC,2D Imaging Mass Cytometry [Image Pyramid]
+21,HBM268.KFRS.574,University of Florida TMC,2D Imaging Mass Cytometry [Image Pyramid]
+22,HBM234.ZMWX.697,University of Florida TMC,
+23,HBM878.QLSS.279,University of Florida TMC,2D Imaging Mass Cytometry [Image Pyramid]
+24,HBM838.WXVW.284,University of Florida TMC,
+25,HBM983.SRWC.777,University of Florida TMC,
+26,HBM645.TQTF.532,University of Florida TMC,
+27,HBM579.DQWG.388,University of Florida TMC,
+28,HBM287.TLBJ.556,University of Florida TMC,
+29,HBM366.XKPX.554,University of Florida TMC,CODEX [Cytokit + SPRM]
+30,HBM658.NKSZ.578,University of Florida TMC,
+31,HBM287.QFKL.692,University of Florida TMC,CODEX [Cytokit + SPRM]
+32,HBM822.MQNG.225,University of Florida TMC,CODEX [Cytokit + SPRM]
+33,HBM545.WPDT.262,University of Florida TMC,CODEX [Cytokit + SPRM]
+34,HBM356.BVRR.244,University of Florida TMC,CODEX [Cytokit + SPRM]
+35,HBM675.SDNC.963,University of Florida TMC,Light Sheet
+36,HBM945.XPKJ.998,University of Florida TMC,Light Sheet [Image Pyramid]
+37,HBM472.SZJZ.622,University of Florida TMC,2D Imaging Mass Cytometry
+38,HBM927.CWBF.456,University of Florida TMC,2D Imaging Mass Cytometry [Image Pyramid]
+39,HBM989.VVXT.224,University of Florida TMC,CODEX [Cytokit + SPRM]
+40,HBM573.SRBV.565,University of Florida TMC,
+41,HBM244.TJLK.223,University of Florida TMC,CODEX
+42,HBM633.CLVN.674,University of Florida TMC,CODEX
+43,HBM738.TXMT.668,University of Florida TMC,
+44,HBM759.NFNZ.647,University of Florida TMC,
+45,HBM273.LHDV.987,University of Florida TMC,CODEX [Cytokit + SPRM]
+46,HBM785.CNWZ.888,University of Florida TMC,CODEX [Cytokit + SPRM]
+47,HBM277.GJFC.833,University of Florida TMC,CODEX
+48,HBM427.SMGB.866,University of Florida TMC,CODEX
+49,HBM293.XRCC.846,University of Florida TMC,
+50,HBM353.PBPQ.757,University of Florida TMC,CODEX [Cytokit + SPRM]
+51,HBM226.LBVC.946,University of Florida TMC,RNAseq
+52,HBM897.QGJF.429,University of Florida TMC,
+53,HBM443.TZCQ.232,University of Florida TMC,CODEX [Cytokit + SPRM]
+54,HBM483.KDBW.482,University of Florida TMC,CODEX
+55,HBM447.MZTB.589,University of Florida TMC,
+56,HBM345.NLTW.958,University of Florida TMC,
+57,HBM685.TBGN.663,University of Florida TMC,CODEX [Cytokit + SPRM]
+58,HBM744.TGMS.672,University of Florida TMC,CODEX [Cytokit + SPRM]
+59,HBM326.NRWR.638,University of Florida TMC,
+60,HBM268.NKXB.243,University of Florida TMC,CODEX [Cytokit + SPRM]
+61,HBM338.MNSC.953,University of Florida TMC,
+62,HBM396.BXSQ.568,University of Florida TMC,CODEX [Cytokit + SPRM]
+63,HBM384.XMBW.725,University of Florida TMC,Light Sheet
+64,HBM536.HTQR.233,University of Florida TMC,
+65,HBM337.QDTN.869,University of Florida TMC,
+66,HBM433.RVMH.946,University of Florida TMC,
+67,HBM288.ZWLS.355,University of Florida TMC,
+68,HBM495.VWBD.428,University of Florida TMC,CODEX [Cytokit + SPRM]
+69,HBM685.KHRQ.684,University of Florida TMC,
+70,HBM746.ZTBR.275,University of Florida TMC,CODEX
+71,HBM278.SFQW.627,University of Florida TMC,
+72,HBM722.RCMR.826,University of Florida TMC,CODEX [Cytokit + SPRM]
+73,HBM496.ZJFC.554,University of Florida TMC,CODEX [Cytokit + SPRM]
+74,HBM362.QZWG.832,University of Florida TMC,CODEX [Cytokit + SPRM]
+75,HBM893.CCKX.496,University of Florida TMC,CODEX [Cytokit + SPRM]
+76,HBM774.LTVV.995,University of Florida TMC,CODEX [Cytokit + SPRM]
+77,HBM882.DNWX.356,University of Florida TMC,
+78,HBM957.JXKN.887,University of Florida TMC,CODEX
+79,HBM798.MXFT.837,University of Florida TMC,CODEX
+80,HBM938.TNNT.879,University of Florida TMC,CODEX [Cytokit + SPRM]
+81,HBM337.LFBG.349,University of Florida TMC,CODEX [Cytokit + SPRM]
+82,HBM877.GTKS.653,University of Florida TMC,
+83,HBM299.TTLG.749,University of Florida TMC,CODEX [Cytokit + SPRM]
+84,HBM585.FCXH.792,University of Florida TMC,
+85,HBM723.BZKF.992,University of Florida TMC,CODEX
+86,HBM643.RGRZ.429,University of Florida TMC,
+87,HBM863.HZBL.628,University of Florida TMC,
+88,HBM592.KNRW.784,University of Florida TMC,
+89,HBM388.MPQC.336,University of Florida TMC,RNAseq [Salmon]
+90,HBM263.TLLN.467,University of Florida TMC,RNAseq
+91,HBM927.KDXB.445,University of Florida TMC,CODEX
+92,HBM673.TNZM.339,University of Florida TMC,CODEX [Cytokit + SPRM]
+93,HBM386.GZKR.947,University of Florida TMC,
+94,HBM528.RHMC.832,University of Florida TMC,
+95,HBM543.RSRV.265,University of Florida TMC,CODEX
+96,HBM684.MFNQ.782,University of Florida TMC,
+97,HBM994.TNMH.444,University of Florida TMC,
+98,HBM437.HTCQ.742,University of Florida TMC,
+99,HBM355.CZJX.599,University of Florida TMC,CODEX
+100,HBM532.LNNP.926,University of Florida TMC,CODEX [Cytokit + SPRM]
+101,HBM289.BWJW.663,University of Florida TMC,
+102,HBM374.DMXZ.352,University of Florida TMC,CODEX
+103,HBM842.QNVH.828,University of Florida TMC,
+104,HBM757.VHCK.858,University of Florida TMC,CODEX
+105,HBM248.HKBC.256,University of Florida TMC,CODEX [Cytokit + SPRM]
+106,HBM373.LDGF.766,University of Florida TMC,CODEX [Cytokit + SPRM]
+107,HBM342.PTWT.238,University of Florida TMC,
+108,HBM599.PSZG.737,University of Florida TMC,
+109,HBM239.CBWR.263,University of Florida TMC,
+110,HBM698.FWFH.998,University of Florida TMC,RNAseq [Salmon]
+111,HBM342.FSLD.938,University of Florida TMC,CODEX
+112,HBM722.RVJB.637,University of Florida TMC,
+113,HBM465.HZHH.676,University of Florida TMC,CODEX [Cytokit + SPRM]
+114,HBM958.ZLWG.988,University of Florida TMC,
+115,HBM622.JXWQ.554,University of Florida TMC,CODEX [Cytokit + SPRM]
+116,HBM823.LDGC.365,University of Florida TMC,CODEX [Cytokit + SPRM]
+117,HBM992.RHJW.288,University of Florida TMC,CODEX [Cytokit + SPRM]
+118,HBM864.JSLF.723,University of Florida TMC,CODEX [Cytokit + SPRM]
+119,HBM224.XXWB.669,University of Florida TMC,CODEX [Cytokit + SPRM]
+120,HBM443.QMZS.483,University of Florida TMC,Light Sheet [Image Pyramid]
+121,HBM489.LMMT.845,University of Florida TMC,
+122,HBM655.MKZV.728,University of Florida TMC,
+123,HBM557.SGTC.262,University of Florida TMC,CODEX [Cytokit + SPRM]
+124,HBM784.GSBZ.598,University of Florida TMC,
+125,HBM754.WKLP.262,University of Florida TMC,CODEX
+126,HBM583.XKJN.698,University of Florida TMC,CODEX [Cytokit + SPRM]
+127,HBM546.HQGH.786,University of Florida TMC,
+128,HBM688.DQGM.882,University of Florida TMC,
+129,HBM223.WQVG.533,University of Florida TMC,
+130,HBM866.QJZP.732,University of Florida TMC,
+131,HBM429.XGQK.385,University of Florida TMC,CODEX [Cytokit + SPRM]
+132,HBM397.RXSM.962,University of Florida TMC,2D Imaging Mass Cytometry
+133,HBM387.XZWR.467,University of Florida TMC,3D Imaging Mass Cytometry
+134,HBM475.RQSB.723,University of Florida TMC,3D Imaging Mass Cytometry [Image Pyramid]
+135,HBM666.SDLF.468,University of Florida TMC,CODEX [Cytokit + SPRM]
+136,HBM473.VKCM.878,University of Florida TMC,
+137,HBM733.DLLK.799,University of Florida TMC,CODEX [Cytokit + SPRM]
+138,HBM267.CGMB.979,University of Florida TMC,
+139,HBM437.XSFH.532,University of Florida TMC,CODEX [Cytokit + SPRM]
+140,HBM478.PKGV.696,University of Florida TMC,
+141,HBM976.HCCV.642,University of Florida TMC,
+142,HBM762.RGKD.795,University of Florida TMC,
+143,HBM894.RZFJ.749,University of Florida TMC,
+144,HBM575.MTPD.997,University of Florida TMC,CODEX
+145,HBM684.BGFH.533,University of Florida TMC,
+146,HBM254.XGFQ.345,University of Florida TMC,CODEX [Cytokit + SPRM]
+147,HBM345.CXVP.994,University of Florida TMC,2D Imaging Mass Cytometry [Image Pyramid]
+148,HBM252.HMBK.543,University of Florida TMC,RNAseq
+149,HBM778.VHHR.349,University of Florida TMC,3D Imaging Mass Cytometry
+150,HBM676.BLTC.766,University of Florida TMC,
+151,HBM382.KGWK.435,University of Florida TMC,
+152,HBM534.GFQB.782,University of Florida TMC,
+153,HBM836.WNJS.587,University of Florida TMC,CODEX [Cytokit + SPRM]
+154,HBM258.JTLS.898,University of Florida TMC,
+155,HBM724.ZKSM.924,University of Florida TMC,RNAseq
+156,HBM243.HRTG.365,University of Florida TMC,RNAseq [Salmon]
+157,HBM457.SQKR.279,University of Florida TMC,RNAseq
+158,HBM579.CMHL.343,University of Florida TMC,
+159,HBM583.PJBG.338,University of Florida TMC,2D Imaging Mass Cytometry
+160,HBM356.QRPV.263,University of Florida TMC,2D Imaging Mass Cytometry
+161,HBM623.CWHD.575,University of Florida TMC,RNAseq [Salmon]
+162,HBM769.GQBZ.382,University of Florida TMC,
+163,HBM747.BBQG.734,University of Florida TMC,
+164,HBM589.RMDK.548,University of Florida TMC,
+165,HBM424.MVPW.359,University of Florida TMC,
+166,HBM443.FDHZ.888,University of Florida TMC,CODEX [Cytokit + SPRM]
+167,HBM882.DBTR.869,University of Florida TMC,CODEX
+168,HBM826.ZFQD.944,University of Florida TMC,
+169,HBM637.QBTV.856,University of Florida TMC,
+170,HBM498.TCSV.345,University of Florida TMC,CODEX
+171,HBM984.GRBB.858,University of Florida TMC,RNAseq
+172,HBM797.LKNL.358,University of Florida TMC,CODEX [Cytokit + SPRM]
+173,HBM939.GHBT.939,University of Florida TMC,
+174,HBM524.PBKM.993,University of Florida TMC,
+175,HBM452.MTRP.523,University of Florida TMC,RNAseq [Salmon]
+176,HBM293.GBPH.862,University of Florida TMC,RNAseq [Salmon]
+177,HBM336.FKTQ.774,University of Florida TMC,
+178,HBM528.NMQV.274,University of Florida TMC,CODEX [Cytokit + SPRM]
+179,HBM663.CXTS.935,University of Florida TMC,
+180,HBM685.NQMR.594,University of Florida TMC,
+181,HBM772.XXCD.697,University of Florida TMC,CODEX
+182,HBM378.PGLB.484,University of Florida TMC,
+183,HBM689.XCBK.436,University of Florida TMC,RNAseq [Salmon]
+184,HBM796.DQCS.798,University of Florida TMC,
+185,HBM232.MLHJ.832,University of Florida TMC,RNAseq [Salmon]
+186,HBM595.RJJF.938,University of Florida TMC,
+187,HBM376.TQFR.354,University of Florida TMC,RNAseq
+188,HBM546.GPHN.345,University of Florida TMC,
+189,HBM644.LHFR.583,University of Florida TMC,RNAseq
+190,HBM628.HGGF.468,University of Florida TMC,RNAseq [Salmon]
+191,HBM573.VSJK.526,University of Florida TMC,CODEX
+192,HBM588.FHDS.363,University of Florida TMC,CODEX
+193,HBM392.LRRZ.326,University of Florida TMC,
+194,HBM887.MWNM.832,University of Florida TMC,
+195,HBM949.DCNW.683,University of Florida TMC,
+196,HBM628.KVPD.267,University of Florida TMC,
+197,HBM643.RBNF.882,University of Florida TMC,
+198,HBM436.GHWX.449,University of Florida TMC,
+199,HBM573.GQRD.788,University of Florida TMC,CODEX [Cytokit + SPRM]
+200,HBM279.SLFX.335,University of Florida TMC,RNAseq [Salmon]
+201,HBM455.VLSJ.746,University of Florida TMC,
+202,HBM695.FLZW.688,University of Florida TMC,2D Imaging Mass Cytometry [Image Pyramid]
+203,HBM839.VWVF.894,University of Florida TMC,2D Imaging Mass Cytometry
+204,HBM585.SVFL.994,University of Florida TMC,CODEX [Cytokit + SPRM]
+205,HBM638.HMDC.533,University of Florida TMC,
+206,HBM748.ZDKH.494,University of Florida TMC,
+207,HBM684.PPPQ.769,University of Florida TMC,2D Imaging Mass Cytometry [Image Pyramid]
+208,HBM652.HHXD.556,University of Florida TMC,3D Imaging Mass Cytometry [Image Pyramid]
+209,HBM936.XMNF.773,University of Florida TMC,
+210,HBM557.SSSH.298,University of Florida TMC,
+211,HBM594.PWXG.764,University of Florida TMC,CODEX [Cytokit + SPRM]
+212,HBM932.MDJJ.846,University of Florida TMC,
+213,HBM262.HJSQ.643,University of Florida TMC,2D Imaging Mass Cytometry
+214,HBM273.PSKK.537,University of Florida TMC,2D Imaging Mass Cytometry [Image Pyramid]
+215,HBM542.THBC.733,University of Florida TMC,CODEX [Cytokit + SPRM]
+216,HBM292.MDGW.892,University of Florida TMC,
+217,HBM256.TVMB.842,University of Florida TMC,2D Imaging Mass Cytometry
+218,HBM273.TDVP.568,University of Florida TMC,2D Imaging Mass Cytometry
+219,HBM572.PHZP.966,University of Florida TMC,2D Imaging Mass Cytometry
+220,HBM633.GRZR.589,University of Florida TMC,2D Imaging Mass Cytometry [Image Pyramid]
+221,HBM374.XJNM.984,University of Florida TMC,
+222,HBM827.VSGK.934,University of Florida TMC,
+223,HBM946.WMTC.283,University of Florida TMC,CODEX [Cytokit + SPRM]
+224,HBM548.TSMP.663,University of Florida TMC,CODEX
+225,HBM956.BGBN.293,University of Florida TMC,CODEX [Cytokit + SPRM]
+226,HBM785.TNNJ.448,University of Florida TMC,
+227,HBM554.DMMS.226,University of Florida TMC,CODEX [Cytokit + SPRM]
+228,HBM869.VZJM.366,University of Florida TMC,CODEX
+229,HBM253.MVCZ.759,University of Florida TMC,
+230,HBM794.JCHR.674,University of Florida TMC,
+231,HBM296.RWBN.476,University of Florida TMC,
+232,HBM968.HFNM.663,University of Florida TMC,
+233,HBM353.JLWX.367,University of Florida TMC,
+234,HBM282.KDLP.535,University of Florida TMC,
+235,HBM577.BPFV.553,University of Florida TMC,
+236,HBM775.KDDL.468,University of Florida TMC,
+237,HBM455.PWQW.883,University of Florida TMC,CODEX [Cytokit + SPRM]
+238,HBM734.WXNH.664,University of Florida TMC,CODEX [Cytokit + SPRM]
+239,HBM895.WHGJ.263,University of Florida TMC,RNAseq
+240,HBM968.XQCF.256,University of Florida TMC,
+241,HBM626.KXRZ.238,University of Florida TMC,CODEX [Cytokit + SPRM]
+242,HBM376.QCCJ.269,University of Florida TMC,CODEX
+243,HBM432.DCGC.449,University of Florida TMC,
+244,HBM793.HSTZ.834,University of Florida TMC,
+245,HBM448.NSSK.723,University of Florida TMC,
+246,HBM723.NSQV.587,University of Florida TMC,
+247,HBM752.PJSW.923,University of Florida TMC,
+248,HBM329.NSHR.999,University of Florida TMC,
+249,HBM579.XTJL.682,University of Florida TMC,
+250,HBM499.TKDW.458,University of Florida TMC,
+251,HBM343.JQKM.578,University of Florida TMC,
+252,HBM294.SZND.926,University of Florida TMC,
+253,HBM347.PSLC.425,University of Florida TMC,CODEX [Cytokit + SPRM]
+254,HBM522.BSZT.385,University of Florida TMC,CODEX [Cytokit + SPRM]
+255,HBM825.PBVN.284,University of Florida TMC,CODEX
+256,HBM929.BRVT.339,University of Florida TMC,RNAseq
+257,HBM698.CVWX.464,University of Florida TMC,
+258,HBM922.CBTS.647,University of Florida TMC,
+259,HBM693.THZB.697,University of Florida TMC,
+260,HBM283.GNGR.785,University of Florida TMC,CODEX
+261,HBM887.SHVF.747,University of Florida TMC,CODEX [Cytokit + SPRM]
+262,HBM622.TTKZ.387,University of Florida TMC,CODEX [Cytokit + SPRM]
+263,HBM597.VLVV.963,University of Florida TMC,
+264,HBM357.PJDL.372,University of Florida TMC,
+265,HBM294.RZFN.624,University of Florida TMC,
+266,HBM825.KFFT.669,University of Florida TMC,CODEX [Cytokit + SPRM]
+267,HBM374.HKFP.523,University of Florida TMC,
+268,HBM794.RLFN.358,University of Florida TMC,
+269,HBM565.QQGJ.494,University of Florida TMC,
+270,HBM327.LNVF.877,University of Florida TMC,CODEX [Cytokit + SPRM]
+271,HBM363.GJNF.946,University of Florida TMC,
+272,HBM597.QSZV.956,University of Florida TMC,CODEX
+273,HBM863.FDNH.844,University of Florida TMC,CODEX [Cytokit + SPRM]
+274,HBM844.GDWH.846,University of Florida TMC,RNAseq
+275,HBM624.WJZD.337,University of Florida TMC,CODEX [Cytokit + SPRM]
+276,HBM424.NKQG.578,University of Florida TMC,
+277,HBM743.GSLN.359,University of Florida TMC,
+278,HBM756.LVDR.338,University of Florida TMC,
+279,HBM769.QPWZ.976,University of Florida TMC,
+280,HBM995.NPWL.939,University of Florida TMC,RNAseq [Salmon]
+281,HBM863.FZKT.367,University of Florida TMC,
+282,HBM962.BSVN.575,University of Florida TMC,RNAseq
+283,HBM229.DHZF.938,University of Florida TMC,
+284,HBM998.KNJQ.234,University of Florida TMC,
+285,HBM992.DRDZ.999,University of Florida TMC,RNAseq
+286,HBM526.ZWKZ.578,University of Florida TMC,
+287,HBM966.VNKN.965,University of Florida TMC,
+288,HBM267.GWND.796,University of Florida TMC,RNAseq
+289,HBM482.JGJX.834,University of Florida TMC,RNAseq [Salmon]
+290,HBM372.BQSR.778,University of Florida TMC,
+291,HBM383.TRQG.424,University of Florida TMC,
+292,HBM866.FRFW.465,TC - University of Florida,
+293,HBM955.DMQK.543,TC - University of Florida,
+294,HBM883.LHNK.872,TC - University of Florida,
+295,HBM739.KJCB.594,University of Florida TMC,CODEX [Cytokit + SPRM]
+296,HBM369.DGXL.358,University of Florida TMC,
+297,HBM259.JWWT.889,University of Florida TMC,
+298,HBM488.PCCL.423,University of Florida TMC,
+299,HBM284.SSWZ.498,University of Florida TMC,CODEX [Cytokit + SPRM]
+300,HBM327.SDJD.338,Stanford TMC,
+301,HBM454.CJSX.364,Stanford TMC,
+302,HBM678.BGNX.633,Stanford TMC,
+303,HBM222.QQZL.292,Stanford TMC,ATACseq [SnapATAC]
+304,HBM298.FRVW.346,Stanford TMC,Histology [Image Pyramid]
+305,HBM634.MSKL.575,Stanford TMC,CODEX [Cytokit + SPRM]
+306,HBM338.SSPB.265,Stanford TMC,ATACseq
+307,HBM536.TFXK.432,Stanford TMC,Histology
+308,HBM892.BMFL.898,Stanford TMC,Histology [Image Pyramid]
+309,HBM296.NBPZ.987,Stanford TMC,ATACseq
+310,HBM423.QJJR.545,Stanford TMC,CODEX [Cytokit + SPRM]
+311,HBM829.QZQP.626,Stanford TMC,CODEX [Cytokit + SPRM]
+312,HBM725.QFKT.594,Stanford TMC,CODEX [Cytokit + SPRM]
+313,HBM346.CKWV.452,Stanford TMC,ATACseq [SnapATAC]
+314,HBM774.VXMJ.876,Stanford TMC,ATACseq [SnapATAC]
+315,HBM497.CMRN.349,Stanford TMC,Histology [Image Pyramid]
+316,HBM423.MMGW.744,Stanford TMC,CODEX [Cytokit + SPRM]
+317,HBM838.NDBV.498,Stanford TMC,ATACseq
+318,HBM654.NXWL.946,Stanford TMC,ATACseq [SnapATAC]
+319,HBM293.QGKG.996,Stanford TMC,ATACseq [SnapATAC]
+320,HBM645.KNRR.524,Stanford TMC,ATACseq
+321,HBM396.FNQW.543,Stanford TMC,CODEX [Cytokit + SPRM]
+322,HBM829.FJPP.583,Stanford TMC,ATACseq
+323,HBM432.DGFJ.894,Stanford TMC,Histology
+324,HBM223.JLJG.453,Stanford TMC,Histology
+325,HBM442.GCDL.454,Stanford TMC,ATACseq [SnapATAC]
+326,HBM724.PVGB.265,Stanford TMC,Publication [ancillary]
+327,HBM244.GNRF.278,Stanford TMC,Histology [Image Pyramid]
+328,HBM369.GXKB.469,Stanford TMC,Histology
+329,HBM448.ZXHM.747,Stanford TMC,LC-MS
+330,HBM587.SCQP.845,Stanford TMC,LC-MS
+331,HBM445.DGWX.599,Stanford TMC,ATACseq [SnapATAC]
+332,HBM582.WMNG.697,Stanford TMC,LC-MS
+333,HBM458.HGWZ.997,Stanford TMC,LC-MS
+334,HBM895.DDXX.282,Stanford TMC,LC-MS
+335,HBM427.ZHQM.724,Stanford TMC,LC-MS
+336,HBM583.CJZM.893,Stanford TMC,ATACseq [BWA + MACS2]
+337,HBM896.GHCN.579,Stanford TMC,RNAseq [Salmon]
+338,HBM385.SWLW.885,Stanford TMC,LC-MS
+339,HBM339.KDDK.637,Stanford TMC,Histology [Image Pyramid]
+340,HBM935.SFGK.683,Stanford TMC,LC-MS
+341,HBM697.RMQD.528,Stanford TMC,LC-MS
+342,HBM233.DDWS.858,Stanford TMC,LC-MS
+343,HBM947.XPXC.788,Stanford TMC,LC-MS
+344,HBM472.JBTD.782,Stanford TMC,LC-MS
+345,HBM588.GSHN.453,Stanford TMC,
+346,HBM589.RBJF.235,Stanford TMC,
+347,HBM873.BRSQ.589,Stanford TMC,LC-MS
+348,HBM375.BPSK.533,Stanford TMC,LC-MS
+349,HBM769.QVLZ.432,Stanford TMC,Histology [Image Pyramid]
+350,HBM975.DJNJ.667,Stanford TMC,ATACseq
+351,HBM233.NWVM.596,Stanford TMC,LC-MS
+352,HBM847.HRHF.876,Stanford TMC,LC-MS
+353,HBM953.VVQN.686,Stanford TMC,LC-MS
+354,HBM554.GLCH.444,Stanford TMC,LC-MS
+355,HBM388.DVMT.263,Stanford TMC,LC-MS
+356,HBM737.WJPM.259,Stanford TMC,Histology
+357,HBM488.SDDC.876,Stanford TMC,ATACseq [BWA + MACS2]
+358,HBM575.TBQV.552,Stanford TMC,
+359,HBM457.NMGW.798,Stanford TMC,LC-MS
+360,HBM752.ZDVQ.683,Stanford TMC,LC-MS
+361,HBM573.VSCW.874,Stanford TMC,ATACseq [SnapATAC]
+362,HBM344.XDFQ.434,Stanford TMC,LC-MS
+363,HBM243.MDKC.479,Stanford TMC,LC-MS
+364,HBM536.BPMN.923,Stanford TMC,LC-MS
+365,HBM929.PRKH.522,Stanford TMC,CODEX [Cytokit + SPRM]
+366,HBM667.ZWGS.745,Stanford TMC,ATACseq
+367,HBM343.MNRJ.754,Stanford TMC,ATACseq [SnapATAC]
+368,HBM368.LFLJ.489,Stanford TMC,LC-MS
+369,HBM884.QXRH.554,Stanford TMC,LC-MS
+370,HBM299.DMNX.732,Stanford TMC,LC-MS
+371,HBM555.KFGC.548,Stanford TMC,LC-MS
+372,HBM654.MLRM.725,Stanford TMC,CODEX [Cytokit + SPRM]
+373,HBM429.DWKZ.323,Stanford TMC,CODEX [Cytokit + SPRM]
+374,HBM389.XRDV.828,Stanford TMC,ATACseq
+375,HBM368.BMZL.342,Stanford TMC,WGS
+376,HBM425.BBFN.587,Stanford TMC,LC-MS
+377,HBM726.DSKB.293,Stanford TMC,Histology
+378,HBM436.MLPG.496,Stanford TMC,LC-MS
+379,HBM725.ZXDG.482,Stanford TMC,WGS
+380,HBM647.GGLM.655,Stanford TMC,LC-MS
+381,HBM474.GHZH.359,Stanford TMC,LC-MS
+382,HBM478.MRVG.423,Stanford TMC,LC-MS
+383,HBM879.SXLJ.429,Stanford TMC,LC-MS
+384,HBM754.SFBF.894,Stanford TMC,CODEX [Cytokit + SPRM]
+385,HBM596.PZBR.726,Stanford TMC,WGS
+386,HBM294.BRWS.556,Stanford TMC,LC-MS
+387,HBM534.DDKT.622,Stanford TMC,LC-MS
+388,HBM544.GZCF.842,Stanford TMC,LC-MS
+389,HBM637.KJJJ.837,Stanford TMC,LC-MS
+390,HBM293.LGZW.236,Stanford TMC,CODEX [Cytokit + SPRM]
+391,HBM398.JXVV.636,Stanford TMC,WGS
+392,HBM353.FVNP.353,Stanford TMC,LC-MS
+393,HBM393.FFWN.576,Stanford TMC,
+394,HBM584.XLZR.364,Stanford TMC,ATACseq
+395,HBM693.BHLJ.499,Stanford TMC,ATACseq
+396,HBM827.PWRL.726,Stanford TMC,ATACseq [SnapATAC]
+397,HBM784.TKZX.992,Stanford TMC,CODEX [Cytokit + SPRM]
+398,HBM796.XDBG.995,Stanford TMC,LC-MS
+399,HBM865.RRJN.777,Stanford TMC,LC-MS
+400,HBM442.BSXP.292,Stanford TMC,Histology
+401,HBM433.ZLWP.627,Stanford TMC,CODEX [Cytokit + SPRM]
+402,HBM868.TNKT.438,Stanford TMC,LC-MS
+403,HBM325.KXJK.373,Stanford TMC,LC-MS
+404,HBM533.MGCR.574,Stanford TMC,LC-MS
+405,HBM998.QMLC.982,Stanford TMC,LC-MS
+406,HBM668.FQTB.778,Stanford TMC,LC-MS
+407,HBM693.VGQG.275,Stanford TMC,Histology
+408,HBM354.CLWV.743,Stanford TMC,Histology
+409,HBM626.THPX.276,Stanford TMC,LC-MS
+410,HBM484.CJHL.347,Stanford TMC,LC-MS
+411,HBM538.RLFQ.294,Stanford TMC,ATACseq [SnapATAC]
+412,HBM295.KRDC.622,Stanford TMC,Histology [Image Pyramid]
+413,HBM394.JMKJ.386,Stanford TMC,Histology [Image Pyramid]
+414,HBM889.KDGM.632,Stanford TMC,CODEX [Cytokit + SPRM]
+415,HBM499.FFRG.246,Stanford TMC,Histology
+416,HBM765.WLVG.738,Stanford TMC,Histology [Image Pyramid]
+417,HBM839.BKRR.972,Stanford TMC,LC-MS
+418,HBM762.KNPK.922,Stanford TMC,LC-MS
+419,HBM958.VZLG.297,Stanford TMC,RNAseq
+420,HBM895.RCSZ.274,Stanford TMC,RNAseq [Salmon]
+421,HBM745.RQWF.695,Stanford TMC,RNAseq [Salmon]
+422,HBM235.VKNJ.237,Stanford TMC,CODEX
+423,HBM427.SRRW.989,Stanford TMC,RNAseq
+424,HBM677.NWSV.346,Stanford TMC,
+425,HBM595.TCBS.732,Stanford TMC,
+426,HBM373.WHJW.659,Stanford TMC,
+427,HBM627.KDHD.293,Stanford TMC,CODEX
+428,HBM443.HGJN.427,Stanford TMC,
+429,HBM269.CVLZ.955,Stanford TMC,
+430,HBM282.WSJN.883,Stanford TMC,
+431,HBM823.GGSW.733,Stanford TMC,
+432,HBM727.QBLQ.529,Stanford TMC,
+433,HBM945.QNRF.244,Stanford TMC,RNAseq
+434,HBM358.NWPX.662,Stanford TMC,
+435,HBM886.HXFS.654,Stanford TMC,
+436,HBM536.BHKD.628,Stanford TMC,
+437,HBM826.TNCK.998,Stanford TMC,
+438,HBM874.FDKQ.476,Stanford TMC,RNAseq
+439,HBM463.TBPC.754,Stanford TMC,
+440,HBM739.HCWP.359,Stanford TMC,CODEX
+441,HBM832.ZSQJ.442,Stanford TMC,CODEX
+442,HBM324.MKDC.693,Stanford TMC,RNAseq
+443,HBM544.CZWL.784,Stanford TMC,
+444,HBM924.VZKC.957,Stanford TMC,RNAseq [Salmon]
+445,HBM897.KJRJ.435,Stanford TMC,
+446,HBM254.XFHN.834,Stanford TMC,RNAseq
+447,HBM943.LMMD.654,Stanford TMC,RNAseq [Salmon]
+448,HBM967.JBBL.592,Stanford TMC,RNAseq
+449,HBM865.VDXC.862,Stanford TMC,CODEX
+450,HBM957.TXXZ.387,Stanford TMC,RNAseq [Salmon]
+451,HBM346.PSLV.994,Stanford TMC,
+452,HBM536.FHLK.529,Stanford TMC,RNAseq [Salmon]
+453,HBM382.VHCQ.532,Stanford TMC,RNAseq
+454,HBM947.NLPP.426,Stanford TMC,RNAseq [Salmon]
+455,HBM975.XFRZ.636,Stanford TMC,
+456,HBM626.RGND.384,Stanford TMC,
+457,HBM384.SXQB.763,Stanford TMC,
+458,HBM628.LKGZ.865,Stanford TMC,RNAseq [Salmon]
+459,HBM443.LGZK.435,Stanford TMC,CODEX
+460,HBM388.BLRJ.658,Stanford TMC,RNAseq [Salmon]
+461,HBM492.NPXK.885,Stanford TMC,RNAseq
+462,HBM237.PDJB.444,Stanford TMC,
+463,HBM342.BQPD.849,Stanford TMC,
+464,HBM285.RPBV.676,Stanford TMC,RNAseq [Salmon]
+465,HBM424.STVV.842,Stanford TMC,CODEX
+466,HBM487.LMVN.946,Stanford TMC,
+467,HBM579.JKPM.857,Stanford TMC,RNAseq
+468,HBM972.LWTD.655,Stanford TMC,RNAseq
+469,HBM399.GZRJ.726,Stanford TMC,RNAseq
+470,HBM399.RNVS.838,Stanford TMC,
+471,HBM346.LVWR.673,Stanford TMC,
+472,HBM838.JRBK.233,Stanford TMC,
+473,HBM256.CJVZ.757,Stanford TMC,RNAseq [Salmon]
+474,HBM342.FWKM.533,Stanford TMC,RNAseq
+475,HBM772.TKCN.287,Stanford TMC,CODEX
+476,HBM254.QFCD.845,Stanford TMC,
+477,HBM374.PCQG.742,Stanford TMC,RNAseq [Salmon]
+478,HBM378.WGXD.394,Stanford TMC,RNAseq
+479,HBM683.LPTG.838,Stanford TMC,
+480,HBM666.QFPZ.232,Stanford TMC,
+481,HBM862.RLLM.878,Stanford TMC,
+482,HBM285.VFDT.966,Stanford TMC,CODEX
+483,HBM585.HGJZ.542,Stanford TMC,
+484,HBM799.WGWR.477,Stanford TMC,
+485,HBM365.FRDM.796,Stanford TMC,
+486,HBM724.HRQM.872,Stanford TMC,
+487,HBM844.RXXR.293,Stanford TMC,RNAseq [Salmon]
+488,HBM487.WJST.938,Stanford TMC,RNAseq
+489,HBM433.PPZJ.377,Stanford TMC,RNAseq [Salmon]
+490,HBM824.XGWZ.857,Stanford TMC,CODEX
+491,HBM569.NBHZ.832,Stanford TMC,CODEX
+492,HBM936.THPV.749,Stanford TMC,
+493,HBM454.TFJX.987,Stanford TMC,
+494,HBM364.JHKZ.383,Stanford TMC,RNAseq
+495,HBM364.SJBR.333,Stanford TMC,RNAseq [Salmon]
+496,HBM852.NHMT.774,Stanford TMC,
+497,HBM962.KQLZ.422,Stanford TMC,RNAseq [Salmon]
+498,HBM935.WLRT.589,Stanford TMC,RNAseq [Salmon]
+499,HBM354.FMKQ.822,Stanford TMC,RNAseq
+500,HBM292.FTLJ.343,Stanford TMC,RNAseq
+501,HBM568.TFRG.449,Stanford TMC,RNAseq
+502,HBM676.KZRS.929,Stanford TMC,
+503,HBM898.QQRK.339,Stanford TMC,Histology
+504,HBM776.FNRJ.959,Stanford TMC,CODEX [Cytokit + SPRM]
+505,HBM576.LVBL.359,Stanford TMC,ATACseq
+506,HBM863.BSPG.254,Stanford TMC,Histology
+507,HBM953.LMWQ.235,Stanford TMC,CODEX [Cytokit + SPRM]
+508,HBM439.WKBL.739,Stanford TMC,ATACseq
+509,HBM377.QRQB.756,Stanford TMC,Histology
+510,HBM292.FCMS.497,Stanford TMC,CODEX [Cytokit + SPRM]
+511,HBM957.HKSV.373,Stanford TMC,ATACseq
+512,HBM455.DQXC.869,Stanford TMC,Histology
+513,HBM398.XJPT.272,Stanford TMC,Histology [Image Pyramid]
+514,HBM475.DXDC.532,Stanford TMC,CODEX [Cytokit + SPRM]
+515,HBM994.KDNT.678,Stanford TMC,CODEX [Cytokit + SPRM]
+516,HBM939.XFMQ.927,Stanford TMC,Histology [Image Pyramid]
+517,HBM963.LMFW.393,Stanford TMC,Histology
+518,HBM459.NXMV.864,Stanford TMC,Histology
+519,HBM757.DVSN.643,Stanford TMC,ATACseq
+520,HBM232.VCTZ.797,Stanford TMC,ATACseq [SnapATAC]
+521,HBM959.BVWN.344,Stanford TMC,CODEX [Cytokit + SPRM]
+522,HBM985.RHTM.678,Stanford TMC,ATACseq
+523,HBM284.RVLB.496,Stanford TMC,Histology
+524,HBM562.FTNH.728,Stanford TMC,ATACseq
+525,HBM832.KTWN.492,Stanford TMC,Histology
+526,HBM753.HJHZ.374,Stanford TMC,Histology [Image Pyramid]
+527,HBM283.XXQN.824,Stanford TMC,ATACseq
+528,HBM657.XWTH.877,Stanford TMC,LC-MS
+529,HBM999.NRRQ.328,Stanford TMC,WGS
+530,HBM234.VPWQ.726,Stanford TMC,Histology
+531,HBM623.XWCM.667,Stanford TMC,LC-MS
+532,HBM578.GHNR.755,Stanford TMC,
+533,HBM393.TMDX.795,Stanford TMC,CODEX [Cytokit + SPRM]
+534,HBM855.VBLX.337,Stanford TMC,RNAseq
+535,HBM666.QBKB.629,Stanford TMC,ATACseq
+536,HBM488.GBJJ.766,Stanford TMC,LC-MS
+537,HBM363.LRHS.566,Stanford TMC,
+538,HBM864.HFST.567,Stanford TMC,LC-MS
+539,HBM366.TWHT.638,Stanford TMC,ATACseq
+540,HBM264.QCGR.632,Stanford TMC,ATACseq
+541,HBM256.TSRN.268,Stanford TMC,ATACseq [BWA + MACS2]
+542,HBM323.JGNJ.947,Stanford TMC,ATACseq
+543,HBM436.VWQC.266,Stanford TMC,LC-MS
+544,HBM224.DLMP.923,Stanford TMC,LC-MS
+545,HBM449.DRGX.996,Stanford TMC,LC-MS
+546,HBM793.KBHR.474,Stanford TMC,Histology
+547,HBM526.XSXG.362,Stanford TMC,RNAseq [Salmon]
+548,HBM592.TMFS.579,Stanford TMC,Histology [Image Pyramid]
+549,HBM873.KSGM.433,Stanford TMC,LC-MS
+550,HBM749.QZTF.577,Stanford TMC,ATACseq [SnapATAC]
+551,HBM247.DGTL.844,Stanford TMC,RNAseq [Salmon]
+552,HBM485.TBWH.322,Stanford TMC,ATACseq [SnapATAC]
+553,HBM662.GPFP.539,Stanford TMC,LC-MS
+554,HBM322.RKXM.874,Stanford TMC,LC-MS
+555,HBM534.XNJK.939,Stanford TMC,WGS
+556,HBM429.LVSS.584,Stanford TMC,RNAseq [Salmon]
+557,HBM435.TTTZ.696,Stanford TMC,
+558,HBM354.NXSX.594,Stanford TMC,Histology [Image Pyramid]
+559,HBM967.PSHK.968,Stanford TMC,
+560,HBM254.SXCB.872,Stanford TMC,WGS
+561,HBM833.MJCB.275,Stanford TMC,LC-MS
+562,HBM964.SWGQ.824,Stanford TMC,LC-MS
+563,HBM422.GKTR.735,Stanford TMC,ATACseq
+564,HBM739.KSDT.896,Stanford TMC,ATACseq
+565,HBM723.SFNS.898,Stanford TMC,ATACseq
+566,HBM545.BLFV.957,Stanford TMC,LC-MS
+567,HBM634.HGLT.739,Stanford TMC,RNAseq
+568,HBM724.KNHZ.284,Stanford TMC,ATACseq [SnapATAC]
+569,HBM656.HPSJ.875,Stanford TMC,ATACseq [SnapATAC]
+570,HBM632.RCPM.722,Stanford TMC,LC-MS
+571,HBM523.VXBR.729,Stanford TMC,LC-MS
+572,HBM722.HPXF.559,Stanford TMC,ATACseq
+573,HBM392.WRMX.469,Stanford TMC,LC-MS
+574,HBM822.DZFP.968,Stanford TMC,LC-MS
+575,HBM497.XXNW.493,Stanford TMC,Histology
+576,HBM523.XHWW.384,Stanford TMC,CODEX [Cytokit + SPRM]
+577,HBM687.SQGT.679,Stanford TMC,LC-MS
+578,HBM384.NBHW.884,Stanford TMC,LC-MS
+579,HBM244.TVNH.734,Stanford TMC,CODEX [Cytokit + SPRM]
+580,HBM367.RBFR.728,Stanford TMC,LC-MS
+581,HBM839.ZSVL.565,Stanford TMC,LC-MS
+582,HBM255.JXWV.538,Stanford TMC,ATACseq
+583,HBM369.NGWT.977,Stanford TMC,LC-MS
+584,HBM925.MMLZ.279,Stanford TMC,ATACseq [SnapATAC]
+585,HBM495.CJKS.463,Stanford TMC,ATACseq [SnapATAC]
+586,HBM996.KJJG.745,Stanford TMC,ATACseq [SnapATAC]
+587,HBM249.HMZD.496,Stanford TMC,LC-MS
+588,HBM658.WGPT.978,Stanford TMC,CODEX [Cytokit + SPRM]
+589,HBM688.WSXP.332,Stanford TMC,LC-MS
+590,HBM836.RDTL.835,Stanford TMC,LC-MS
+591,HBM735.RVZX.352,Stanford TMC,LC-MS
+592,HBM669.FBKC.238,Stanford TMC,WGS
+593,HBM438.NJKG.575,Stanford TMC,WGS
+594,HBM683.ZZPK.428,Stanford TMC,LC-MS
+595,HBM658.HHLH.689,Stanford TMC,CODEX [Cytokit + SPRM]
+596,HBM897.QVCK.438,Stanford TMC,LC-MS
+597,HBM674.CLGB.833,Stanford TMC,LC-MS
+598,HBM386.ZCBN.462,Stanford TMC,LC-MS
+599,HBM777.TLQL.487,Stanford TMC,CODEX [Cytokit + SPRM]
