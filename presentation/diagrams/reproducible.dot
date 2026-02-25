@@ -1,0 +1,83 @@
+// Reproducible pillar - trunk diagram (alternating left/right)
+// Run: dot -Tpng reproducible.dot -o reproducible.png
+
+digraph Reproducible {
+  rankdir=TB;
+  graph [ranksep=0.15, nodesep=0.30, splines=false];
+  node [fontname="Arial", fontsize=10, shape=box, style="rounded,filled", color=black, fillcolor=white];
+  edge [fontname="Arial", fontsize=9, color=black, dir=none];
+
+  // Top
+  reproducible [
+    label="Reproducible",
+    fillcolor=lightblue,
+    penwidth=2,
+    fontsize=18,
+    width=2.2,
+    height=0.9
+  ];
+
+  // Trunk
+  s1  [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s2  [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s3  [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s4  [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s5  [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s6  [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s7  [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s8  [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s9  [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s10 [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s11 [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+
+  reproducible -> s1 [penwidth=2.2];
+  s1 -> s2  [penwidth=2.2];
+  s2 -> s3  [penwidth=2.2];
+  s3 -> s4  [penwidth=2.2];
+  s4 -> s5  [penwidth=2.2];
+  s5 -> s6  [penwidth=2.2];
+  s6 -> s7  [penwidth=2.2];
+  s7 -> s8  [penwidth=2.2];
+  s8 -> s9  [penwidth=2.2];
+  s9 -> s10 [penwidth=2.2];
+  s10 -> s11 [penwidth=2.2];
+
+  // Metrics
+  m1  [label="len(metadata) > 0", group=left];
+  m2  [label="resolution_x_unit", group=right];
+  m3  [label="resolution_x_value", group=left];
+  m4  [label="resolution_y_unit", group=right];
+  m5  [label="resolution_y_value", group=left];
+  m6  [label="resolution_z_unit", group=right];
+  m7  [label="resolution_z_value", group=left];
+  m8  [label="dataset_type", group=right];
+  m9  [label="analyte_class", group=left];
+  m10 [label="preparation_instrument_kit", group=right];
+  m11 [label="acquisition_instrument_model", group=left];
+
+  // Invisible placeholders
+  p1  [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=right];
+  p2  [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=left];
+  p3  [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=right];
+  p4  [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=left];
+  p5  [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=right];
+  p6  [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=left];
+  p7  [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=right];
+  p8  [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=left];
+  p9  [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=right];
+  p10 [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=left];
+  p11 [shape=box, style=invis, width=3.6, height=0.35, fixedsize=true, group=right];
+
+  // Alternating rows (branches dashed)
+  m1  -> s1  [style=dashed]; { rank=same; m1;  s1;  p1;  } m1  -> s1  -> p1  [style=invis, weight=100];
+  m2  -> s2  [style=dashed]; { rank=same; p2;  s2;  m2;  } p2  -> s2  -> m2  [style=invis, weight=100];
+  m3  -> s3  [style=dashed]; { rank=same; m3;  s3;  p3;  } m3  -> s3  -> p3  [style=invis, weight=100];
+  m4  -> s4  [style=dashed]; { rank=same; p4;  s4;  m4;  } p4  -> s4  -> m4  [style=invis, weight=100];
+  m5  -> s5  [style=dashed]; { rank=same; m5;  s5;  p5;  } m5  -> s5  -> p5  [style=invis, weight=100];
+  m6  -> s6  [style=dashed]; { rank=same; p6;  s6;  m6;  } p6  -> s6  -> m6  [style=invis, weight=100];
+  m7  -> s7  [style=dashed]; { rank=same; m7;  s7;  p7;  } m7  -> s7  -> p7  [style=invis, weight=100];
+  m8  -> s8  [style=dashed]; { rank=same; p8;  s8;  m8;  } p8  -> s8  -> m8  [style=invis, weight=100];
+  m9  -> s9  [style=dashed]; { rank=same; m9;  s9;  p9;  } m9  -> s9  -> p9  [style=invis, weight=100];
+  m10 -> s10 [style=dashed]; { rank=same; p10; s10; m10; } p10 -> s10 -> m10 [style=invis, weight=100];
+  m11 -> s11 [style=dashed]; { rank=same; m11; s11; p11; } m11 -> s11 -> p11 [style=invis, weight=100];
+}

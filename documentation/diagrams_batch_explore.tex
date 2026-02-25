@@ -1,0 +1,135 @@
+% Improved TikZ diagram for Batch Precompute + Explore Path
+% Two-phase layout with clear separation
+
+\begin{figure}[h!]
+\centering
+\begin{tikzpicture}[
+  node distance=8mm and 12mm,
+  font=\small,
+  on grid,
+  % Node styles
+  process/.style={rectangle, rounded corners=3pt, draw=black, fill=green!10, inner sep=6pt, align=center, minimum width=2.2cm},
+  api/.style={ellipse, draw=black, fill=yellow!15, inner sep=6pt, align=center, minimum width=2cm},
+  storage/.style={cylinder, shape border rotate=90, aspect=0.3, draw=black, fill=orange!15, inner sep=6pt, align=center, minimum width=2cm},
+  phase/.style={rectangle, draw=none, fill=none, inner sep=4pt, font=\bfseries\small, text=gray!60},
+  arr/.style={-{Latex[length=2.5mm]}, thick, color=black!70},
+  phasebox/.style={rectangle, draw=blue!50, dashed, fill=blue!5, inner sep=10pt, rounded corners=4pt},
+  phasebox2/.style={rectangle, draw=purple!50, dashed, fill=purple!5, inner sep=10pt, rounded corners=4pt}
+]
+
+  % ============================================
+  % LEFT SIDE: Batch Precompute Workflow
+  % ============================================
+  
+  % Phase 1: Discovery
+  \node[process] (batch) {Batch Builder\\\texttt{create\_fair\_json.py}};
+  \node[api, right=of batch] (search) {HuBMAP Search API\\\texttt{hubmap\_sdk}};
+  
+  \begin{scope}[local bounding box=batch1]
+    \node[phase, above=of batch, yshift=3mm] {Step 1: Discovery};
+  \end{scope}
+  \node[fit=(batch)(search), phasebox] {};
+
+  % Phase 2: Fetch Entities
+  \node[api, below=of batch, yshift=-8mm] (entity) {HuBMAP Entity API\\\texttt{/entities/\{id\}}};
+  
+  \begin{scope}[local bounding box=batch2]
+    \node[phase, above=of entity, yshift=3mm] {Step 2: Fetch Entities};
+  \end{scope}
+  \node[fit=(entity), phasebox] {};
+
+  % Phase 3: Compute FAIR
+  \node[process, below=of entity, yshift=-8mm] (score) {Compute FAIR Scores\\\texttt{fair/*.py}\\\texttt{(for each dataset)}};
+  
+  \begin{scope}[local bounding box=batch3]
+    \node[phase, above=of score, yshift=3mm] {Step 3: Compute FAIR};
+  \end{scope}
+  \node[fit=(score), phasebox] {};
+
+  % Central Storage (connects both workflows)
+  \node[storage, right=of score, xshift=25mm] (results) {\texttt{fair/fair\_results.json}\\\textit{(precomputed scores)}};
+
+  % ============================================
+  % RIGHT SIDE: Explore UI Workflow
+  % ============================================
+  
+  % Phase 1: Load
+  \node[process, below=of results, yshift=-15mm] (ui) {Explore UI\\\texttt{streamlit\_test.py}};
+  
+  \begin{scope}[local bounding box=explore1]
+    \node[phase, above=of ui, yshift=3mm] {Step 1: Load Data};
+  \end{scope}
+  \node[fit=(ui), phasebox2] {};
+
+  % Phase 2: Filter
+  \node[process, right=of ui, xshift=15mm] (filter) {Filter \& Select\\\texttt{fair/utils.py}\\\texttt{(by Lab/Assay/ID/All)}};
+  
+  \begin{scope}[local bounding box=explore2]
+    \node[phase, above=of filter, yshift=3mm] {Step 2: Filter};
+  \end{scope}
+  \node[fit=(filter), phasebox2] {};
+
+  % Phase 3: Aggregate
+  \node[process, right=of filter, xshift=15mm] (agg) {Aggregate\\\texttt{mean\_fair\_results()}\\\texttt{[F, A, I, R]}};
+  
+  \begin{scope}[local bounding box=explore3]
+    \node[phase, above=of agg, yshift=3mm] {Step 3: Aggregate};
+  \end{scope}
+  \node[fit=(agg), phasebox2] {};
+
+  % Phase 4: Visualize
+  \node[process, below=of agg, yshift=-8mm] (plot) {Plotter\\\texttt{fairhelp.create\_fair\_plot}};
+  \node[storage, below=of plot] (png) {PNG File\\\texttt{heatmap}};
+  
+  \begin{scope}[local bounding box=explore4]
+    \node[phase, above=of plot, yshift=3mm] {Step 4: Visualize};
+  \end{scope}
+  \node[fit=(plot)(png), phasebox2] {};
+
+  % ============================================
+  % Edges: Batch Precompute Workflow
+  % ============================================
+  
+  % Discovery phase
+  \draw[arr] (batch) -- node[above] {query by\\\texttt{group\_name}} (search);
+  \draw[arr] (search) -- node[right] {\texttt{dataset IDs}} (batch);
+  
+  % Fetch phase
+  \draw[arr] (batch) -- node[left] {fetch entities} (entity);
+  \draw[arr] (entity) -- node[right] {\texttt{metadata JSON}} (batch);
+  
+  % Compute phase
+  \draw[arr] (batch) -- node[left] {\texttt{dataset rows}} (score);
+  \draw[arr] (score) -- node[above] {\texttt{write FAIR scores}} (results);
+  
+  % Iteration indicator
+  \draw[arr, dashed, color=blue!50] (score) -- ++(-15mm,0) |- node[pos=0.7, left] {\textit{for each\\dataset}} (batch);
+
+  % ============================================
+  % Edges: Explore UI Workflow
+  % ============================================
+  
+  % Load phase
+  \draw[arr] (results) -- node[left] {\texttt{load JSON}} (ui);
+  
+  % Filter phase
+  \draw[arr] (ui) -- node[above] {\texttt{user selection}} (filter);
+  
+  % Aggregate phase
+  \draw[arr] (filter) -- node[above] {\texttt{filtered results}} (agg);
+  
+  % Visualize phase
+  \draw[arr] (agg) -- node[right] {\texttt{mean FAIR vector}} (plot);
+  \draw[arr] (plot) -- node[right] {\texttt{save PNG}} (png);
+  \draw[arr] (png) -- ++(-50mm,0) |- node[pos=0.7, above] {\texttt{display}} (ui);
+
+  % ============================================
+  % Labels for workflow separation
+  % ============================================
+  \node[above=of batch, xshift=-20mm, font=\bfseries\large, text=blue!70] {Batch Precompute};
+  \node[below=of ui, xshift=35mm, font=\bfseries\large, text=purple!70] {Explore UI};
+
+\end{tikzpicture}
+\caption{Batch precompute + explore workflow: (Left) Batch builder discovers datasets via Search API, fetches entities, computes FAIR scores iteratively, and writes to \texttt{fair/fair\_results.json}. (Right) Explore UI loads precomputed JSON, filters by user criteria (Lab/Assay/ID/All), aggregates mean FAIR scores, and visualizes as a heatmap. The JSON file serves as the bridge between the two workflows.}
+\label{fig:batch_explore}
+\end{figure}

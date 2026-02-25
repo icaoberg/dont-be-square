@@ -23,8 +23,12 @@ except ImportError:
 # ────────────────────────────────
 # Logging Setup
 # ────────────────────────────────
+LOG_DIR = "logs"
+OUTPUT_DIR = "output"
+os.makedirs(LOG_DIR, exist_ok=True)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-log_filename = f"dontbesquare-{timestamp}.log"
+log_filename = os.path.join(LOG_DIR, f"dontbesquare-{timestamp}.log")
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
@@ -62,7 +66,9 @@ def create_fair_plot(data, output_file=None, scale=100, dpi=100, curated=False):
 
     if output_file is None:
         date_str = datetime.today().strftime("%Y%m%d")
-        output_file = f"output-{date_str}.png"
+        output_file = os.path.join(OUTPUT_DIR, f"output-{date_str}.png")
+    else:
+        output_file = os.path.join(OUTPUT_DIR, os.path.basename(output_file))
 
     labels = np.array([["F", "A"], ["I", "R"]])
     masked_data = np.where(data < 0, np.nan, data)
@@ -105,6 +111,7 @@ def create_fair_plot(data, output_file=None, scale=100, dpi=100, curated=False):
     plt.savefig(output_file, dpi=dpi, bbox_inches="tight")
     plt.close(fig)
     logger.info(f"create_fair_plot() completed and saved to {output_file}")
+    return output_file
 
 
 

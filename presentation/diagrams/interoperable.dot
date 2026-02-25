@@ -1,0 +1,84 @@
+// Interoperable pillar - trunk diagram (Accessible format style)
+// Run: dot -Tpng interoperable.dot -o interoperable.png
+
+digraph Interoperable {
+  rankdir=TB;
+  graph [ranksep=0.15, nodesep=0.30, splines=false];
+  node [fontname="Arial", fontsize=10, shape=box, style="rounded,filled", color=black, fillcolor=white];
+  edge [fontname="Arial", fontsize=9, color=black, dir=none];
+
+  // Top
+  interoperable [
+    label="Interoperable",
+    fillcolor=lightblue,
+    penwidth=2,
+    fontsize=18,
+    width=2.2,
+    height=0.9
+  ];
+
+  // Trunk
+  s1 [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s2 [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s3 [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s4 [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s5 [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s6 [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+  s7 [shape=point, width=0.06, height=0.06, fixedsize=true, style=filled, fillcolor=black];
+
+  interoperable -> s1 [penwidth=2.2];
+  s1 -> s2 [penwidth=2.2];
+  s2 -> s3 [penwidth=2.2];
+  s3 -> s4 [penwidth=2.2];
+  s4 -> s5 [penwidth=2.2];
+  s5 -> s6 [penwidth=2.2];
+  s6 -> s7 [penwidth=2.2];
+
+  // Metrics
+  m1 [label="genetic_sequences", group=left];
+  m2 [label="assay_category", group=right];
+  m3 [label="assay_type", group=left];
+  m4 [label="contributors_path", group=right];
+  m5 [label="version", group=left];
+  m6 [label="direct_ancestors", group=right];
+  m7 [label="antibodies version", group=left];
+
+  // Invisible placeholders
+  p1 [shape=box, style=invis, width=2.4, height=0.35, fixedsize=true, group=right];
+  p2 [shape=box, style=invis, width=2.4, height=0.35, fixedsize=true, group=left];
+  p3 [shape=box, style=invis, width=2.4, height=0.35, fixedsize=true, group=right];
+  p4 [shape=box, style=invis, width=2.4, height=0.35, fixedsize=true, group=left];
+  p5 [shape=box, style=invis, width=2.4, height=0.35, fixedsize=true, group=right];
+  p6 [shape=box, style=invis, width=2.4, height=0.35, fixedsize=true, group=left];
+  p7 [shape=box, style=invis, width=2.4, height=0.35, fixedsize=true, group=right];
+
+  // Alternating rows (branches dashed)
+
+  m1 -> s1 [style=dashed];
+  { rank=same; m1; s1; p1; }
+  m1 -> s1 -> p1 [style=invis, weight=100];
+
+  m2 -> s2 [style=dashed];
+  { rank=same; p2; s2; m2; }
+  p2 -> s2 -> m2 [style=invis, weight=100];
+
+  m3 -> s3 [style=dashed];
+  { rank=same; m3; s3; p3; }
+  m3 -> s3 -> p3 [style=invis, weight=100];
+
+  m4 -> s4 [style=dashed];
+  { rank=same; p4; s4; m4; }
+  p4 -> s4 -> m4 [style=invis, weight=100];
+
+  m5 -> s5 [style=dashed];
+  { rank=same; m5; s5; p5; }
+  m5 -> s5 -> p5 [style=invis, weight=100];
+
+  m6 -> s6 [style=dashed];
+  { rank=same; p6; s6; m6; }
+  p6 -> s6 -> m6 [style=invis, weight=100];
+
+  m7 -> s7 [style=dashed];
+  { rank=same; m7; s7; p7; }
+  m7 -> s7 -> p7 [style=invis, weight=100];
+}

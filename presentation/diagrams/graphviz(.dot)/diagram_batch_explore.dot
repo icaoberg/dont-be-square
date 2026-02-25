@@ -1,0 +1,147 @@
+// Graphviz diagram for Batch Precompute + Explore Path
+// Two-phase layout with clear separation
+
+digraph BatchExploreFlow {
+    rankdir=TB;
+    splines=ortho;
+    node [fontname="Arial", fontsize=10];
+    edge [fontname="Arial", fontsize=9];
+
+    // Node style definitions
+    node [shape=box, style="rounded,filled", fillcolor=lightblue, color=black];
+    
+    // ============================================
+    // LEFT SIDE: Batch Precompute Workflow
+    // ============================================
+    
+    subgraph cluster_batch {
+        label="Batch Precompute Workflow";
+        style="dashed,rounded";
+        fillcolor=lightblue;
+        color=blue;
+        
+        // Step 1: Discovery
+        subgraph cluster_discovery {
+            label="Step 1: Discovery";
+            style="dashed,rounded";
+            fillcolor=white;
+            color=gray;
+            
+            BatchBuilder [label="Batch Builder\ncreate_fair_json.py", fillcolor=lightgreen];
+            SearchAPI [label="HuBMAP Search API\nhubmap_sdk", shape=ellipse, fillcolor=lightyellow];
+        }
+        
+        // Step 2: Fetch Entities
+        subgraph cluster_fetch {
+            label="Step 2: Fetch Entities";
+            style="dashed,rounded";
+            fillcolor=white;
+            color=gray;
+            
+            EntityAPI [label="HuBMAP Entity API\n/entities/{id}", shape=ellipse, fillcolor=lightyellow];
+        }
+        
+        // Step 3: Compute FAIR
+        subgraph cluster_compute {
+            label="Step 3: Compute FAIR";
+            style="dashed,rounded";
+            fillcolor=white;
+            color=gray;
+            
+            ComputeFAIR [label="Compute FAIR Scores\nfair/*.py\n(for each dataset)", fillcolor=lightgreen];
+        }
+    }
+
+    // Central Storage (connects both workflows)
+    ResultsJSON [label="fair/fair_results.json\n(precomputed scores)", shape=cylinder, fillcolor=lightcoral];
+
+    // ============================================
+    // RIGHT SIDE: Explore UI Workflow
+    // ============================================
+    
+    subgraph cluster_explore {
+        label="Explore UI Workflow";
+        style="dashed,rounded";
+        fillcolor=lavender;
+        color=purple;
+        
+        // Step 1: Load
+        subgraph cluster_load {
+            label="Step 1: Load Data";
+            style="dashed,rounded";
+            fillcolor=white;
+            color=gray;
+            
+            ExploreUI [label="Explore UI\nstreamlit_test.py", fillcolor=lightgreen];
+        }
+        
+        // Step 2: Filter
+        subgraph cluster_filter {
+            label="Step 2: Filter";
+            style="dashed,rounded";
+            fillcolor=white;
+            color=gray;
+            
+            FilterSelect [label="Filter & Select\nfair/utils.py\n(by Lab/Assay/ID/All)", fillcolor=lightgreen];
+        }
+        
+        // Step 3: Aggregate
+        subgraph cluster_aggregate {
+            label="Step 3: Aggregate";
+            style="dashed,rounded";
+            fillcolor=white;
+            color=gray;
+            
+            AggregateScores [label="Aggregate\nmean_fair_results()\n[F, A, I, R]", fillcolor=lightgreen];
+        }
+        
+        // Step 4: Visualize
+        subgraph cluster_visualize {
+            label="Step 4: Visualize";
+            style="dashed,rounded";
+            fillcolor=white;
+            color=gray;
+            
+            Plotter [label="Plotter\nfairhelp.create_fair_plot", fillcolor=lightgreen];
+            PNGFile [label="PNG File\nheatmap", shape=cylinder, fillcolor=lightcoral];
+        }
+    }
+
+    // ============================================
+    // Edges: Batch Precompute Workflow
+    // ============================================
+    
+    // Discovery phase
+    BatchBuilder -> SearchAPI [label="query by\ngroup_name"];
+    SearchAPI -> BatchBuilder [label="dataset IDs"];
+    
+    // Fetch phase
+    BatchBuilder -> EntityAPI [label="fetch entities"];
+    EntityAPI -> BatchBuilder [label="metadata JSON"];
+    
+    // Compute phase
+    BatchBuilder -> ComputeFAIR [label="dataset rows"];
+    ComputeFAIR -> ResultsJSON [label="write FAIR scores"];
+    
+    // Iteration indicator
+    ComputeFAIR -> BatchBuilder [label="for each\ndataset", style=dashed, color=blue];
+
+    // ============================================
+    // Edges: Explore UI Workflow
+    // ============================================
+    
+    // Load phase
+    ResultsJSON -> ExploreUI [label="load JSON"];
+    
+    // Filter phase
+    ExploreUI -> FilterSelect [label="user selection"];
+    
+    // Aggregate phase
+    FilterSelect -> AggregateScores [label="filtered results"];
+    
+    // Visualize phase
+    AggregateScores -> Plotter [label="mean FAIR vector"];
+    Plotter -> PNGFile [label="save PNG"];
+    PNGFile -> ExploreUI [label="display", style=dashed];
+
+}

@@ -55,7 +55,7 @@ if st.button("Calculate FAIR Score") and hubmap_id:
         st.subheader("🖼️ FAIR Heatmap")
 
         output_file = f"FAIR_{hubmap_id}_{datetime.now().strftime('%Y%m%d-%H%M%S')}.png"
-        fairhelp.create_fair_plot(
+        output_path = fairhelp.create_fair_plot(
             np.array(fair).reshape(2, 2),
             output_file=output_file,
             scale=100,
@@ -63,6 +63,6 @@ if st.button("Calculate FAIR Score") and hubmap_id:
             curated=False,
         )
 
-        st.image(output_file, caption=f"FAIR Heatmap for {hubmap_id}")
+        st.image(output_path, caption=f"FAIR Heatmap for {hubmap_id}")
     except Exception as e:
         st.error(f"Failed to compute FAIR score: {e}")

@@ -1,0 +1,100 @@
+% Improved TikZ diagram for Live Scoring Path
+% Clear top-to-bottom flow with grouped components
+
+\begin{figure}[h!]
+\centering
+\begin{tikzpicture}[
+  node distance=8mm and 15mm,
+  font=\small,
+  on grid,
+  % Node styles
+  user/.style={rectangle, rounded corners=3pt, draw=black, fill=blue!12, inner sep=8pt, align=center, minimum width=2.5cm},
+  process/.style={rectangle, rounded corners=3pt, draw=black, fill=green!10, inner sep=6pt, align=center, minimum width=2.2cm},
+  api/.style={ellipse, draw=black, fill=yellow!15, inner sep=6pt, align=center, minimum width=2cm},
+  storage/.style={cylinder, shape border rotate=90, aspect=0.3, draw=black, fill=orange!12, inner sep=6pt, align=center, minimum width=1.8cm},
+  phase/.style={rectangle, draw=none, fill=none, inner sep=4pt, font=\bfseries\small, text=gray!60},
+  arr/.style={-{Latex[length=2.5mm]}, thick, color=black!70},
+  phasebox/.style={rectangle, draw=gray!40, dashed, fill=gray!5, inner sep=8pt, rounded corners=4pt}
+]
+
+  % Phase 1: Input
+  \node[user] (user) {User\\\texttt{hubmap\_id}};
+  \node[process, below=of user] (ui) {Streamlit UI\\\texttt{streamlit\_app.py}};
+  
+  \begin{scope}[local bounding box=phase1]
+    \node[phase, above=of user, yshift=3mm] {Phase 1: Input};
+  \end{scope}
+  \node[fit=(user)(ui), phasebox] {};
+
+  % Phase 2: Processing - FAIR Modules
+  \node[process, below=of ui, yshift=-8mm] (F) {Findable\\\texttt{fair/findable.py}};
+  \node[process, right=of F] (A) {Accessible\\\texttt{fair/accessible.py}};
+  \node[process, right=of A] (I) {Interoperable\\\texttt{fair/interoperable.py}};
+  \node[process, right=of I] (R) {Reproducible\\\texttt{fair/reproducible.py}};
+  
+  \begin{scope}[local bounding box=phase2]
+    \node[phase, above=of F, yshift=3mm] {Phase 2: FAIR Scoring};
+  \end{scope}
+  \node[fit=(F)(A)(I)(R), phasebox] {};
+
+  % Phase 3: External APIs
+  \node[api, below=of F, yshift=-10mm] (entity) {HuBMAP Entity API\\\texttt{/entities/\{id\}}};
+  \node[api, below=of A] (orcid) {ORCID API\\\texttt{pub.orcid.org}};
+  \node[api, below=of I] (uniprot) {UniProt REST\\\texttt{rest.uniprot.org}};
+  \node[api, below=of R] (doi) {DOI Resolvers\\\texttt{doi.org / dx.doi.org}};
+  
+  \begin{scope}[local bounding box=phase3]
+    \node[phase, above=of entity, yshift=3mm] {Phase 3: External Validation};
+  \end{scope}
+  \node[fit=(entity)(orcid)(uniprot)(doi), phasebox] {};
+
+  % Phase 4: Output
+  \node[process, below=of entity, yshift=-12mm, xshift=30mm] (aggregate) {Aggregate Scores\\\texttt{[F, A, I, R]}};
+  \node[process, below=of aggregate] (plot) {Plotter\\\texttt{fairhelp.create\_fair\_plot}};
+  \node[storage, below=of plot] (png) {PNG File\\\texttt{heatmap}};
+  
+  \begin{scope}[local bounding box=phase4]
+    \node[phase, above=of aggregate, yshift=3mm] {Phase 4: Visualization};
+  \end{scope}
+  \node[fit=(aggregate)(plot)(png), phasebox] {};
+
+  % Storage (metadata snapshot)
+  \node[storage, left=of entity, xshift=-15mm] (jsonmeta) {Metadata Snapshot\\\texttt{JSON/<id>.json}};
+
+  % Edges: Phase 1 → Phase 2
+  \draw[arr] (user) -- node[right] {\texttt{hubmap\_id}} (ui);
+  
+  % Edges: Phase 2 (UI → FAIR modules)
+  \draw[arr] (ui) -- node[left] {\texttt{hubmap\_id}} (F);
+  \draw[arr] (ui) -- node[left] {\texttt{hubmap\_id}} (A);
+  \draw[arr] (ui) -- node[left] {\texttt{hubmap\_id}} (I);
+  \draw[arr] (ui) -- node[left] {\texttt{hubmap\_id}} (R);
+
+  % Edges: Phase 2 → Phase 3 (FAIR modules → APIs)
+  \draw[arr] (F) -- node[left] {GET metadata} (entity);
+  \draw[arr] (A) -- node[left] {GET metadata} (entity);
+  \draw[arr] (I) -- node[left] {GET metadata} (entity);
+  \draw[arr] (R) -- node[left] {GET metadata} (entity);
+  
+  \draw[arr] (F) -- node[above] {validate ORCID} (orcid);
+  \draw[arr] (F) -- node[above] {validate accessions} (uniprot);
+  \draw[arr] (A) -- node[above] {validate URLs} (doi);
+
+  % Edges: Metadata snapshot
+  \draw[arr] (entity) -- node[above] {save JSON} (jsonmeta);
+
+  % Edges: Phase 2 → Phase 4 (FAIR modules → Aggregate)
+  \draw[arr] (F) -- node[above, sloped] {score} (aggregate);
+  \draw[arr] (A) -- node[above, sloped] {score} (aggregate);
+  \draw[arr] (I) -- node[above, sloped] {score} (aggregate);
+  \draw[arr] (R) -- node[above, sloped] {score} (aggregate);
+
+  % Edges: Phase 4 (Visualization flow)
+  \draw[arr] (aggregate) -- node[right] {\texttt{[F,A,I,R]}} (plot);
+  \draw[arr] (plot) -- node[right] {save PNG} (png);
+  \draw[arr] (png) -- ++(-30mm,0) |- node[pos=0.7, above] {display} (ui);
+
+\end{tikzpicture}
+\caption{Live scoring data flow: User enters \texttt{hubmap\_id}, Streamlit UI triggers four FAIR scoring modules in parallel. Each module fetches metadata from HuBMAP Entity API and performs external validations. Scores are aggregated into a 4-element vector, plotted as a 2$\times$2 heatmap, and displayed back to the user. Metadata snapshots are saved locally.}
+\label{fig:live_scoring}
+\end{figure}
