@@ -1,0 +1,91 @@
+digraph DataNormalizationProject {
+    rankdir=TB; // Top to bottom layout
+    node [shape=box, style=filled, fontcolor=white];
+
+    // Main Phases with border colors
+    subgraph cluster_phase1 {
+        label="Phase 1";
+        style=dashed;
+        color=lightblue;
+        Phase1 [label="FAIR Structures" fillcolor=lightblue, fontname="Helvetica-bold"];
+        Frameworks [label="Frameworks" fillcolor=deepskyblue];
+        FairGuidelines [label="FAIR Guidelines" fillcolor=deepskyblue];
+        Workflows [label="Workflows" fillcolor=deepskyblue];
+        Toolkits [label="Toolkits" fillcolor=deepskyblue];
+        Comparative [label="Comparative Analysis" fillcolor=deepskyblue];
+        EvaluatingTool [label="Evaluating Tool" fillcolor=deepskyblue];
+    }
+
+    subgraph cluster_phase2 {
+        label="Phase 2";
+        style=dashed;
+        color=lightgreen;
+        Phase2 [label="Multi-Assays Evaluation" fillcolor=lightgreen, fontname="Helvetica-bold"];
+        AssayCheck [label="Check datasets for assay types" fillcolor=mediumseagreen];
+    }
+
+    subgraph cluster_phase3 {
+        label="Phase 3";
+        style=dashed;
+        color=lightcoral;
+        Phase3 [label="Multi-Version Evaluation" fillcolor=lightcoral, fontname="Helvetica-bold"];
+        VersionVerification [label="Verify data availability for assay types" fillcolor=tomato];
+    }
+
+    // Subgraphs for Phases 4 and 5
+    subgraph cluster_phase4 {
+        label="Phase 4";
+        style=dashed;
+        color=lightsalmon;
+        Phase4 [label="Merging Data Evaluation" fillcolor=lightsalmon, fontname="Helvetica-bold"];
+        CommonFeatures [label="Identify common features" fillcolor=lightcoral];
+        GlobalMerge [label="Create global version" fillcolor=lightcoral];
+        
+        // Feature Types branches
+        FeatureTypes [label="Feature Types" fillcolor=lightcoral];
+        AlwaysRequired [label=" Always Required" fillcolor=lightpink];
+        Conditionals [label=" Conditionals" fillcolor=lightpink];
+        Optional [label=" Optional" fillcolor=lightpink];
+    }
+
+    subgraph cluster_phase5 {
+        label="Phase 5";
+        style=dashed;
+        color=lightpurple;
+        Phase5 [label="dapting FAIR to HUBMAP" fillcolor=lightpurple, fontname="Helvetica-bold"];
+        MetricEvaluation [label="Evaluate metrics" fillcolor=mediumPurple];
+        FairCategory [label="Identify FAIR categories" fillcolor=mediumPurple];
+    }
+
+    // Connecting phases vertically
+    Phase1 -> Phase2
+    Phase2 -> Phase3
+
+    // Connecting Phase 3 to Phase 4 and Phase 5 horizontally
+    Phase3 -> Phase4
+    Phase3 -> Phase5
+
+    // Connecting main phases to sub-tasks
+    Phase1 -> Frameworks
+    Phase1 -> FairGuidelines
+    Phase1 -> Workflows
+    Phase1 -> Toolkits
+    Phase1 -> Comparative
+    Phase1 -> EvaluatingTool
+
+    Phase2 -> AssayCheck
+
+    Phase3 -> VersionVerification
+
+    Phase4 -> CommonFeatures
+    Phase4 -> GlobalMerge
+    Phase4 -> FeatureTypes
+
+    // Connecting feature types
+    FeatureTypes -> AlwaysRequired
+    FeatureTypes -> Conditionals
+    FeatureTypes -> Optional
+
+    Phase5 -> MetricEvaluation
+    Phase5 -> FairCategory
+}
