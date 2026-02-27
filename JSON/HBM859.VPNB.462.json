@@ -1,0 +1,374 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Junhyong Kim",
+      "email": "junhyong@sas.upenn.edu",
+      "first_name": "Junhyong",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Kim",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-7726-8246"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Junhyong Kim",
+      "email": "junhyong@sas.upenn.edu",
+      "first_name": "Junhyong",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Kim",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-7726-8246"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Kathleen O'Neill",
+      "email": "kathleen.o'neill2@pennmedicine.upenn.edu",
+      "first_name": "Kathleen",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "O'Neill",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-1980-6840"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Stephen Fisher",
+      "email": "safisher@sas.upenn.edu",
+      "first_name": "Stephen",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Fisher",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-8034-7685"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Erik Nordgren",
+      "email": "nordgren@sas.upenn.edu",
+      "first_name": "Erik",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Nordgren",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-5024-0278"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Addie Johnston",
+      "email": "addiejohnston940@gmail.com",
+      "first_name": "Addie",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Johnston",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0005-2286-9078"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Jean Rosario",
+      "email": "jrosar@sas.upenn.edu",
+      "first_name": "Jean",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Rosario",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-6116-5058"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Hieu Nguyen",
+      "email": "hieung@sas.upenn.edu",
+      "first_name": "Hieu",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Nguyen",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0003-6552-821X"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Lauren Schwartz",
+      "email": "lauren.schwartz@pennmedicine.upenn.edu",
+      "first_name": "Lauren",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Schwartz",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2418-7167"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1739932685054,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "dataset_type": "Visium (no probes)",
+  "description": "This upload supersedes the one originally done in December 2023. It contains exactly the same raw data files (FASTQ) for the same 83 sample datasets, for uterus/ovary/Fallopian tube. The only things that have changed are: 1) a correction to one field in the Visium-RNAseq metadata file (the \"library layout\" for all samples); and 2) new OME-TIFF files, with the exact same image data as before, but with corrections to the metadata in the XML header of each file. : ./Visium_13_41_S1_b",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "C. NORDGREN",
+      "created_by_user_email": "nordgren@sas.upenn.edu",
+      "created_by_user_sub": "6e3bbf9a-df76-4735-9ac2-517e1b501fc0",
+      "created_timestamp": 1699659389941,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "TMC - University of Pennsylvania",
+      "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
+      "hubmap_id": "HBM345.BTXZ.683",
+      "last_modified_timestamp": 1733135082257,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "area_unit": "mm^2",
+        "area_value": "15.83",
+        "entity_type": "Sample",
+        "metadata_schema_id": "01e9bc58-bdf2-49f4-9cf9-dd34f3cc62d7",
+        "notes": "Visium",
+        "preparation_condition": "frozen at -20 degrees celsius",
+        "preparation_medium": "Methanol",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.eq2lyno9qvx9/v1",
+        "processing_time_unit": "minute",
+        "processing_time_value": "4",
+        "sample_category": "section",
+        "sample_id": "HBM345.BTXZ.683",
+        "section_index_number": "2",
+        "source_id": "HBM474.TQQQ.496",
+        "source_storage_duration_unit": "day",
+        "source_storage_duration_value": "98",
+        "storage_medium": "None",
+        "storage_method": "none",
+        "thickness_unit": "um",
+        "thickness_value": "10"
+      },
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.eq2lyno9qvx9/v1",
+      "sample_category": "section",
+      "uuid": "f3d4847e637156a92fe48593e0b01f5f"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM859.VPNB.462",
+  "entity_type": "Dataset",
+  "group_name": "TMC - University of Pennsylvania",
+  "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
+  "hubmap_id": "HBM859.VPNB.462",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "ea19bf57",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.11.1"
+      },
+      {
+        "documentation_url": null,
+        "hash": "21df00dd",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.31"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "multiassay_metadatatsv"
+    }
+  },
+  "last_modified_timestamp": 1769460767738,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "protected/TMC - University of Pennsylvania/cd8efa518fe75b54db828991b0fc8f17/",
+  "metadata": {
+    "capture_area_id": "A1",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "Visium (no probes)",
+    "mapped_area_unit": "mm^2",
+    "mapped_area_value": "42.25",
+    "metadata_schema_id": "babf1e69-f0eb-479a-bdc5-b70199669675",
+    "number_of_spots": "4992",
+    "permeabilization_time_unit": "minute",
+    "permeabilization_time_value": "30",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.eq2lyno9qvx9/v1",
+    "spot_size_unit": "um^2",
+    "spot_size_value": "2375.9",
+    "spot_spacing_unit": "um",
+    "spot_spacing_value": "100"
+  },
+  "pipeline_message": "the process ran",
+  "previous_revision_uuid": "d2d71da1f847071be035aa2ad2bbbaa9",
+  "provider_info": "Penn-TMC full Visium re-upload 83 datasets : ./Visium_13_41_S1_b",
+  "published_timestamp": 1769460767738,
+  "registered_doi": "10.35079/HBM859.VPNB.462",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1739932685054,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1739934172785,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1740541683654,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1740570243999,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1769460767738,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Visium (no probes) data from the fallopian tube (left) of a 19-year-old white female",
+  "upload": {
+    "created_by_user_displayname": "C. NORDGREN",
+    "created_by_user_email": "nordgren@sas.upenn.edu",
+    "created_by_user_sub": "6e3bbf9a-df76-4735-9ac2-517e1b501fc0",
+    "created_timestamp": 1735935869659,
+    "description": "This upload supersedes the one originally done in December 2023. It contains exactly the same raw data files (FASTQ) for the same 83 sample datasets, for uterus/ovary/Fallopian tube. The only things that have changed are: 1) a correction to one field in the Visium-RNAseq metadata file (the \"library layout\" for all samples); and 2) new OME-TIFF files, with the exact same image data as before, but with corrections to the metadata in the XML header of each file.",
+    "entity_type": "Upload",
+    "group_name": "TMC - University of Pennsylvania",
+    "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
+    "hubmap_id": "HBM592.MBRL.625",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "intended_dataset_type": "Visium (no probes)",
+    "intended_organ": "UT",
+    "last_modified_timestamp": 1756232627407,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1735935869659,
+        "changed_by_email": "nordgren@sas.upenn.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1736261561953,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1736261571248,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1736269358568,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1736269396728,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1736269718073,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1736285895218,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1739835768291,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1739835776111,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1739835921643,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1739915018074,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1739915022398,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1739915174097,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1739921353837,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1739921357826,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1739929736638,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1739931898536,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1739931907358,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1739933148514,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "Penn-TMC full Visium re-upload 83 datasets",
+    "uuid": "2786d509d12e51c22b7216abfe066f26"
+  },
+  "uuid": "cd8efa518fe75b54db828991b0fc8f17"
+}

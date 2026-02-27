@@ -1,0 +1,290 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Jeffrey",
+      "is_contact": "TRUE",
+      "last_name": "Spraggins",
+      "middle_name_or_initial": "M.",
+      "name": "Jeffrey M. Spraggins",
+      "orcid_id": "0000-0001-9198-5498",
+      "version": "1"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Jamie",
+      "is_contact": "FALSE",
+      "last_name": "Allen",
+      "middle_name_or_initial": "L.",
+      "name": "Jamie L. Allen",
+      "orcid_id": "0000-0002-4739-2166",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "David",
+      "is_contact": "FALSE",
+      "last_name": "Anderson",
+      "middle_name_or_initial": "M.G.",
+      "name": "David M.G. Anderson",
+      "orcid_id": "0000-0002-3866-0923",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Maya",
+      "is_contact": "FALSE",
+      "last_name": "Brewer",
+      "middle_name_or_initial": "",
+      "name": "Maya Brewer",
+      "orcid_id": "0000-0001-5914-0081",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Richard",
+      "is_contact": "FALSE",
+      "last_name": "Caprioli",
+      "middle_name_or_initial": "M.",
+      "name": "Richard M. Caprioli",
+      "orcid_id": "0000-0001-5859-3310",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Mark",
+      "is_contact": "FALSE",
+      "last_name": "deCaestecker",
+      "middle_name_or_initial": "",
+      "name": "Mark deCaestecker",
+      "orcid_id": "0000-0001-7926-1673",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Agnes",
+      "is_contact": "FALSE",
+      "last_name": "Fogo",
+      "middle_name_or_initial": "B.",
+      "name": "Agnes B. Fogo",
+      "orcid_id": "0000-0003-3698-8527",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Danielle",
+      "is_contact": "FALSE",
+      "last_name": "Gutierrez",
+      "middle_name_or_initial": "B.",
+      "name": "Danielle B. Gutierrez",
+      "orcid_id": "0000-0001-6355-2134",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Raymond",
+      "is_contact": "FALSE",
+      "last_name": "Harris",
+      "middle_name_or_initial": "C.",
+      "name": "Raymond C. Harris",
+      "orcid_id": "0000-0001-8025-0883",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Migas",
+      "is_contact": "FALSE",
+      "last_name": "Lukasz",
+      "middle_name_or_initial": "",
+      "name": "Lukasz Migas",
+      "orcid_id": "0000-0002-1884-6405",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Elizabeth",
+      "is_contact": "FALSE",
+      "last_name": "Neumann",
+      "middle_name_or_initial": "K.",
+      "name": "Elizabeth K. Neumann",
+      "orcid_id": "0000-0002-6078-3321",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Nathan",
+      "is_contact": "FALSE",
+      "last_name": "Patterson",
+      "middle_name_or_initial": "Heath",
+      "name": "Nathan Heath Patterson",
+      "orcid_id": "0000-0002-0064-1583",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Jeffrey",
+      "is_contact": "TRUE",
+      "last_name": "Spraggins",
+      "middle_name_or_initial": "M.",
+      "name": "Jeffrey M. Spraggins",
+      "orcid_id": "0000-0001-9198-5498",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Leonoor",
+      "is_contact": "FALSE",
+      "last_name": "Tideman",
+      "middle_name_or_initial": "",
+      "name": "Leonor Tideman",
+      "orcid_id": "0000-0001-7405-3146",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Raf",
+      "is_contact": "FALSE",
+      "last_name": "Van de Plas",
+      "middle_name_or_initial": "",
+      "name": "Raf Van de Plas",
+      "orcid_id": "0000-0002-2232-7130",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Haichun",
+      "is_contact": "FALSE",
+      "last_name": "Yang",
+      "middle_name_or_initial": "",
+      "name": "Haichun Yang",
+      "orcid_id": "0000-0003-4265-7492",
+      "version": "1"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "first_name": "Melissa",
+      "is_contact": "FALSE",
+      "last_name": "Farrow",
+      "middle_name_or_initial": "A.",
+      "name": "Melissa A. Farrow",
+      "orcid_id": "0000-0002-1602-2082",
+      "version": "1"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1664820979311,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "data_types": [
+    "AF"
+  ],
+  "dataset_type": "Auto-fluorescence",
+  "description": "Autofluorescence Microscopy collected from the right kidney of a 64 year old White male donor by the Biomolecular Multimodal Imaging Center (BIOMIC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Autofluorescence images were collected with a Carl Zeiss microscopy AxioScan.Z1 using 3 channels/filters -- DAPI (excitation: 335-383 nm/emission: 420-470 nm), eGFP (excitation: 450-490 nm/emission: 500-550 nm), and dsRed (excitation: 538-562 nm/emission: 570-640 nm). Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Jamie Allen",
+      "created_by_user_email": "jamie.l.allen@vanderbilt.edu",
+      "created_by_user_sub": "83ae233d-6d1d-40eb-baa7-b6f636ab579a",
+      "created_timestamp": 1632155622899,
+      "data_access_level": "public",
+      "description": "09/17/21:  DR3  (1-30-trim, 31-33-proteomics, 34-36-lipidomics, 37-PAS, 38-Codex, 39-IMS, 40-Codex, 41-IMS, 42-DSP, 43-IMS, 44-LCM, 45-uLESA, 46-Prot, 47-Met, 48-MXIF, 49)-PAS",
+      "entity_type": "Sample",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM573.VQLR.649",
+      "last_modified_timestamp": 1632155622899,
+      "last_modified_user_displayname": "Jamie Allen",
+      "last_modified_user_email": "jamie.l.allen@vanderbilt.edu",
+      "last_modified_user_sub": "83ae233d-6d1d-40eb-baa7-b6f636ab579a",
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.bfskjncw",
+      "sample_category": "section",
+      "uuid": "ff64a1ad5da0c9764cd45912eb80a94c"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM353.XGRQ.833",
+  "entity_type": "Dataset",
+  "group_name": "Vanderbilt TMC",
+  "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+  "hubmap_id": "HBM353.XGRQ.833",
+  "ingest_id": "042dee3864a80e39e2501e84e844a697_scan.and.begin.processing_2023-02-16T11:49:22.594890-05:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "74bf63d",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1702862155798,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Vanderbilt TMC/042dee3864a80e39e2501e84e844a697/",
+  "metadata": {
+    "acquisition_instrument_model": "AxioScan.Z1",
+    "acquisition_instrument_vendor": "Carl Zeiss Microscopy",
+    "analyte_class": "Endogenous fluorophore",
+    "assay_category": "imaging",
+    "assay_type": "AF",
+    "contributors_path": "extras/contributors.tsv",
+    "description": "Autofluorescence Microscopy collected from the right kidney of a 64 year old White male donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Autofluorescence images were collected with a Carl Zeiss microscopy AxioScan.Z1 using 3 channels/filters -- DAPI (excitation: 335-383 nm/emission: 420-470 nm), eGFP (excitation: 450-490 nm/emission: 500-550 nm), and dsRed (excitation: 538-562 nm/emission: 570-640 nm). Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+    "execution_datetime": "2022-01-19 20:23",
+    "is_targeted": "False",
+    "number_of_channels": "3",
+    "operator": "Jamie L Allen",
+    "operator_email": "jamie.l.allen@vanderbilt.edu",
+    "overall_protocols_io_doi": "10.17504/protocols.io.bfskjncw",
+    "pi": "Jeffrey M. Spraggins",
+    "pi_email": "jeff.spraggins@vanderbilt.edu",
+    "protocols_io_doi": "10.17504/protocols.io.7e3hjgn",
+    "resolution_x_unit": "um",
+    "resolution_x_value": "0.65",
+    "resolution_y_unit": "um",
+    "resolution_y_value": "0.65",
+    "resolution_z_unit": "um",
+    "resolution_z_value": "0.0",
+    "version": "1"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "BIOMIC Data Release 3 Autofluorescence data : VAN0063-RK-1-41-AF",
+  "published_timestamp": 1702862155798,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM353.XGRQ.833",
+  "run_id": "042dee3864a80e39e2501e84e844a697_scan.and.begin.processing_2023-02-16T11:49:22.594890-05:00",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1702862155798,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Auto-fluorescence data from the kidney (right) of a 64-year-old white male",
+  "upload": {
+    "created_by_user_displayname": "Nathan Patterson",
+    "created_by_user_email": "nathan.h.patterson@vanderbilt.edu",
+    "created_by_user_sub": "17d825d9-74e4-47dd-a9fa-6e5f199684a0",
+    "created_timestamp": 1663694010862,
+    "description": "32 autofluorescence whole slide images from BIOMIC's Data Release 3 package from tissue_ids:\n\nVAN0008-RK-402-18\nVAN0010-LK-154-19\nVAN0011-RK-4-25\nVAN0012-RK-104-20\nVAN0014-LK-203-191\nVAN0016-LK-203-107\nVAN0023-LK-1-49\nVAN0024-LK-2-55\nVAN0025-LK-3-18\nVAN0027-RK-1-22\nVAN0028-LK-2-31\nVAN0029-RK-2-122\nVAN0030-LK-1-34\nVAN0031-LK-3-97\nVAN0033-RK-2-88\nVAN0041-LK-1-45\nVAN0042-RK-1-31\nVAN0043-RK-2-53\nVAN0044-LK-1-46\nVAN0045-LK-3-25\nVAN0046-LK-3-45\nVAN0048-LK-1-25\nVAN0049-RK-1-35\nVAN0050-RK-2-35\nVAN0051-LK-3-23\nVAN0052-RK-2-14\nVAN0053-LK-3-23\nVAN0054-LK-3-21\nVAN0055-RK-1-11\nVAN0063-RK-1-41\n",
+    "entity_type": "Upload",
+    "group_name": "Vanderbilt TMC",
+    "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+    "hubmap_id": "HBM875.TQDR.998",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231273573,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "title": "BIOMIC Data Release 3 Autofluorescence data",
+    "uuid": "267805628fd24abb8e62fa1d4505796e"
+  },
+  "uuid": "042dee3864a80e39e2501e84e844a697"
+}

@@ -1,0 +1,4758 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1595642449901,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "codex_cytokit_v1"
+  ],
+  "dataset_info": "['codex_cytokit__4df8eb42549d6954d0b98b18cb92d9b6__codex-pipeline']",
+  "dataset_type": "CODEX [Cytokit + SPRM]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Clive",
+          "last_name": "Wasserfall",
+          "name": "Clive Wasserfall",
+          "orcid_id": "0000-0002-3522-8932"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Clive",
+          "is_contact": "TRUE",
+          "last_name": "Wasserfall",
+          "name": "Clive Wasserfall",
+          "orcid_id": "0000-0002-3522-8932"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Jerelyn",
+          "last_name": "Nick",
+          "name": "Jerelyn Nick",
+          "orcid_id": "0000-0002-8928-741X"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Marda",
+          "last_name": "Jorgensen",
+          "name": "Marda Jorgensen",
+          "orcid_id": "0000-0002-7250-3569"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Nick",
+          "last_name": "Harry",
+          "name": "Harry Nick",
+          "orcid_id": "0000-0002-0374-2283"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Mark",
+          "last_name": "Atkinson",
+          "name": "Mark Atkinson",
+          "orcid_id": "0000-0001-8489-4782"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Jesus",
+          "last_name": "Aponte",
+          "middle_name_or_initial": "Penaloza",
+          "name": "Jesus Aponte",
+          "orcid_id": "0000-0001-5903-2291"
+        }
+      ],
+      "created_by_user_displayname": "Jesus Penaloza Aponte",
+      "created_by_user_email": "jesus.penalozaa@ufl.edu",
+      "created_by_user_sub": "2fbc1615-1bfe-479b-92ff-6019902e3d6b",
+      "created_timestamp": 1582041156255,
+      "data_access_level": "public",
+      "data_types": [
+        "CODEX"
+      ],
+      "dataset_info": "19-004_lymph-node_R3\r\n\r\n19-004_lymph-node_R3 Codex Dataset",
+      "dataset_type": "CODEX",
+      "description": "19-004_lymph-node_R3 Codex Dataset",
+      "doi_url": "https://doi.org/10.35079/HBM492.LXSS.627",
+      "entity_type": "Dataset",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM492.LXSS.627",
+      "ingest_id": "4df8eb42549d6954d0b98b18cb92d9b6_scan.and.begin.processing_2020-07-24T21:58:48.507745-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "45472e9",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1644609518284,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/University of Florida TMC/4df8eb42549d6954d0b98b18cb92d9b6",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "BZ-X800",
+        "acquisition_instrument_vendor": "Keyence",
+        "analyte_class": "Protein",
+        "assay_category": "imaging",
+        "assay_type": "CODEX",
+        "collectiontype": "codex",
+        "data_path": ".",
+        "execution_datetime": "2019-12-12 11:22",
+        "is_targeted": "TRUE",
+        "metadata_path": ".",
+        "number_of_antibodies": "18",
+        "number_of_channels": "4",
+        "number_of_cycles": "9",
+        "operator": "Marda Jorgensen",
+        "operator_email": "marda@ufl.edu",
+        "pi": "Clive Wasserfall",
+        "pi_email": "clive@ufl.edu",
+        "preparation_instrument_model": "version 1 robot",
+        "preparation_instrument_vendor": "CODEX",
+        "protocols_io_doi": "10.17504/protocols.io.bdcbi2sn",
+        "reagent_prep_protocols_io_doi": "10.17504/protocols.io.bc2riyd6",
+        "resolution_x_unit": "nm",
+        "resolution_x_value": "377.4463384",
+        "resolution_y_unit": "nm",
+        "resolution_y_value": "377.4463384",
+        "resolution_z_unit": "nm",
+        "resolution_z_value": "1500",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.bbsdina6"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598109105364,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM492.LXSS.627",
+      "run_id": "4df8eb42549d6954d0b98b18cb92d9b6_scan.and.begin.processing_2020-07-24T21:58:48.507745-04:00",
+      "status": "Published",
+      "uuid": "4df8eb42549d6954d0b98b18cb92d9b6"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "File containing Cytokit's calculations from deconvolution, drift compensation, and focal plan selection, in JSON format",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "data.json",
+      "size": 125502,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y005.factors.json",
+      "size": 90846,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y003.cell-sets.json",
+      "size": 256956,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y003.cells.json",
+      "size": 5227091,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y005.clusters.json",
+      "size": 330478,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y002.genes.json",
+      "size": 718589,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y003.genes.json",
+      "size": 651731,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y001.factors.json",
+      "size": 206571,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y001.cell-sets.json",
+      "size": 40906,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y001.clusters.json",
+      "size": 258487,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y003.cell-sets.json",
+      "size": 277436,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y004.factors.json",
+      "size": 137456,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y001.cells.json",
+      "size": 2452666,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y003.factors.json",
+      "size": 180696,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y001.genes.json",
+      "size": 100822,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y004.cell-sets.json",
+      "size": 196156,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y005.genes.json",
+      "size": 511392,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y004.genes.json",
+      "size": 519855,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y002.factors.json",
+      "size": 184836,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y004.cell-sets.json",
+      "size": 207996,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y004.clusters.json",
+      "size": 462856,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y002.factors.json",
+      "size": 210366,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y002.clusters.json",
+      "size": 437501,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y001.clusters.json",
+      "size": 401605,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y003.genes.json",
+      "size": 683842,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y002.genes.json",
+      "size": 697983,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y005.clusters.json",
+      "size": 455371,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y003.factors.json",
+      "size": 181156,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y004.factors.json",
+      "size": 132281,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y004.clusters.json",
+      "size": 492273,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y004.cells.json",
+      "size": 3334059,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y004.genes.json",
+      "size": 419918,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y005.genes.json",
+      "size": 277085,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y001.factors.json",
+      "size": 75006,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y001.cells.json",
+      "size": 1765573,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y005.factors.json",
+      "size": 134696,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y004.factors.json",
+      "size": 110546,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y004.cells.json",
+      "size": 3214152,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y005.cell-sets.json",
+      "size": 192316,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y005.cells.json",
+      "size": 3151641,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y005.clusters.json",
+      "size": 57535,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y001.factors.json",
+      "size": 117331,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y001.cells.json",
+      "size": 628097,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y002.clusters.json",
+      "size": 619861,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y001.genes.json",
+      "size": 395140,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y005.factors.json",
+      "size": 96786,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y004.cell-sets.json",
+      "size": 203516,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y005.cell-sets.json",
+      "size": 139331,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y002.factors.json",
+      "size": 190011,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y002.cell-sets.json",
+      "size": 262076,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y001.cell-sets.json",
+      "size": 108641,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y003.clusters.json",
+      "size": 658480,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y002.cell-sets.json",
+      "size": 267036,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y003.cell-sets.json",
+      "size": 319836,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y001.cell-sets.json",
+      "size": 168156,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y003.cells.json",
+      "size": 4008340,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y002.cells.json",
+      "size": 4403012,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y003.genes.json",
+      "size": 853315,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y003.factors.json",
+      "size": 195876,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y002.clusters.json",
+      "size": 629930,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y001.genes.json",
+      "size": 283796,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y003.factors.json",
+      "size": 172646,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y005.cells.json",
+      "size": 1714476,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y004.cells.json",
+      "size": 2602571,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y002.factors.json",
+      "size": 188401,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y004.genes.json",
+      "size": 540498,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y005.factors.json",
+      "size": 73136,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y002.cells.json",
+      "size": 4285335,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y003.cells.json",
+      "size": 4200522,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y003.clusters.json",
+      "size": 606484,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y001.factors.json",
+      "size": 103936,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y004.factors.json",
+      "size": 145966,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y005.genes.json",
+      "size": 63975,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y004.cells.json",
+      "size": 3397290,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y005.cells.json",
+      "size": 2278969,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y002.clusters.json",
+      "size": 701929,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y001.genes.json",
+      "size": 780764,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y003.clusters.json",
+      "size": 580499,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y003.cells.json",
+      "size": 4189964,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y002.cells.json",
+      "size": 4865537,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y001.clusters.json",
+      "size": 92128,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y001.genes.json",
+      "size": 446497,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y004.cell-sets.json",
+      "size": 188956,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y002.clusters.json",
+      "size": 635898,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y005.cells.json",
+      "size": 2139973,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y004.cells.json",
+      "size": 3097529,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y005.cell-sets.json",
+      "size": 27266,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y004.cell-sets.json",
+      "size": 158716,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y002.genes.json",
+      "size": 484803,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y003.cell-sets.json",
+      "size": 256316,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y004.clusters.json",
+      "size": 483619,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y002.cells.json",
+      "size": 4365128,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y003.cells.json",
+      "size": 4531141,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y003.cell-sets.json",
+      "size": 245116,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y002.cell-sets.json",
+      "size": 182716,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y003.clusters.json",
+      "size": 606758,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y005.clusters.json",
+      "size": 248130,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y002.genes.json",
+      "size": 792805,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y003.genes.json",
+      "size": 682478,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y001.clusters.json",
+      "size": 691916,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y001.cells.json",
+      "size": 4780682,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y003.clusters.json",
+      "size": 755528,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y005.factors.json",
+      "size": 17256,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y005.genes.json",
+      "size": 367386,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y004.genes.json",
+      "size": 553077,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y004.factors.json",
+      "size": 142746,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y004.clusters.json",
+      "size": 450192,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y005.cells.json",
+      "size": 398051,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y001.cell-sets.json",
+      "size": 292316,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y001.factors.json",
+      "size": 26936,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y002.cell-sets.json",
+      "size": 297596,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y001.clusters.json",
+      "size": 355425,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y001.cell-sets.json",
+      "size": 149406,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y003.genes.json",
+      "size": 740022,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y002.cell-sets.json",
+      "size": 269276,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y002.genes.json",
+      "size": 711644,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y002.cells.json",
+      "size": 2999323,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y005.clusters.json",
+      "size": 311937,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X004_Y004.genes.json",
+      "size": 501769,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y005.genes.json",
+      "size": 344569,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X003_Y004.clusters.json",
+      "size": 375027,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y002.factors.json",
+      "size": 127796,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X002_Y005.cell-sets.json",
+      "size": 130961,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X001_Y003.factors.json",
+      "size": 226351,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y001.cells.json",
+      "size": 2754568,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_json/R001_X005_Y005.cell-sets.json",
+      "size": 106006,
+      "type": "json"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 32843,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 346,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-Top3ChannelPCA.png",
+      "size": 306436,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-Superpixels.png",
+      "size": 60830,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-cell_channel_total.csv",
+      "size": 148581,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-cell_channel_mean.csv",
+      "size": 267742,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-ClusterByShape.png",
+      "size": 37131,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-channel_pca.ome.tiff",
+      "size": 2047580,
+      "type": "unknown"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-cell_channel_mean.csv",
+      "size": 248293,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 377,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-cell_cluster.csv",
+      "size": 22161,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 320,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 12568,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-cell_channel_covar.csv",
+      "size": 3616607,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-channel_pca.ome.tiff",
+      "size": 3023226,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 39481,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-cell_shape.csv",
+      "size": 3195543,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 384,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-cell_channel_mean.csv",
+      "size": 261525,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-channel_pca.ome.tiff",
+      "size": 3453978,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 330,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-ClusterByShape.png",
+      "size": 31473,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 19717,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-Superpixels.png",
+      "size": 57739,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-cell_shape.csv",
+      "size": 1864804,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 360,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-Top3ChannelPCA.png",
+      "size": 352965,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-superpixel.ome.tiff",
+      "size": 174780,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 38517,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 344,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-channel_pca.ome.tiff",
+      "size": 2623797,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-cell_shape.csv",
+      "size": 1738839,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 367,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 379,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-cell_channel_mean.csv",
+      "size": 329673,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-Superpixels.png",
+      "size": 53139,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-cell_channel_covar.csv",
+      "size": 2371283,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-cell_channel_mean.csv",
+      "size": 343153,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-cell_channel_mean.csv",
+      "size": 376555,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 30406,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-Superpixels.png",
+      "size": 69920,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 21320,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-cell_channel_covar.csv",
+      "size": 3691640,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-channel_pca.ome.tiff",
+      "size": 3733839,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 327,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 369,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-cell_channel_total.csv",
+      "size": 145133,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-cell_cluster.csv",
+      "size": 16896,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-superpixel.ome.tiff",
+      "size": 173583,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 360,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-channel_pca.ome.tiff",
+      "size": 2897031,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 27684,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-cell_shape.csv",
+      "size": 1345222,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-channel_pca.ome.tiff",
+      "size": 3440265,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-cell_cluster.csv",
+      "size": 26586,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 372,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-Top3ChannelPCA.png",
+      "size": 245468,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 346,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-superpixel.ome.tiff",
+      "size": 176125,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 366,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-Superpixels.png",
+      "size": 47907,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 362,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-Superpixels.png",
+      "size": 63591,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-ClusterByShape.png",
+      "size": 25733,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-cell_shape.csv",
+      "size": 3456864,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-Top3ChannelPCA.png",
+      "size": 320992,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-Top3ChannelPCA.png",
+      "size": 265865,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 41295,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-Superpixels.png",
+      "size": 72754,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 25564,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 29230,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-ClusterByShape.png",
+      "size": 34700,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-cell_channel_covar.csv",
+      "size": 3911064,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 37925,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 41878,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-cell_cluster.csv",
+      "size": 12309,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-cell_channel_total.csv",
+      "size": 80769,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 378,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-ClusterByShape.png",
+      "size": 23271,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 35059,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 324,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-superpixel.ome.tiff",
+      "size": 164974,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-Superpixels.png",
+      "size": 56005,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-channel_pca.ome.tiff",
+      "size": 2438324,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-cell_channel_total.csv",
+      "size": 160940,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 369,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-cell_channel_covar.csv",
+      "size": 3792632,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-cell_cluster.csv",
+      "size": 23751,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 354,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 374,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 41688,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 379,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 37048,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 33788,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 30166,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-cell_channel_covar.csv",
+      "size": 4112347,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 34240,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-cell_shape.csv",
+      "size": 2282316,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 38600,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-Superpixels.png",
+      "size": 80738,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 26732,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-Superpixels.png",
+      "size": 65810,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 29858,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 361,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 358,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 215,
+      "type": "csv"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-cell_shape.csv",
+      "size": 1631663,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 9408,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-Top3ChannelPCA.png",
+      "size": 275113,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-cell_channel_total.csv",
+      "size": 198730,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-channel_pca.ome.tiff",
+      "size": 3035256,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-cell_cluster.csv",
+      "size": 14946,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 30485,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 336,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-ClusterByShape.png",
+      "size": 37302,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-Superpixels.png",
+      "size": 55897,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 378,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 29518,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-channel_pca.ome.tiff",
+      "size": 791706,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-cell_channel_covar.csv",
+      "size": 2710128,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-superpixel.ome.tiff",
+      "size": 127890,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-ClusterByShape.png",
+      "size": 26379,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-cell_cluster.csv",
+      "size": 16311,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-superpixel.ome.tiff",
+      "size": 167268,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 214,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 28468,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-channel_pca.ome.tiff",
+      "size": 3544772,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 43526,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 337,
+      "type": "csv"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-cell_shape.csv",
+      "size": 304314,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-Top3ChannelPCA.png",
+      "size": 253156,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 42486,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 369,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 23554,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 374,
+      "type": "csv"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-cell_shape.csv",
+      "size": 3706052,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 38600,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-ClusterByShape.png",
+      "size": 27076,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-cell_cluster.csv",
+      "size": 11553,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 36032,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-Superpixels.png",
+      "size": 39280,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-superpixel.ome.tiff",
+      "size": 155053,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-Top3ChannelPCA.png",
+      "size": 357557,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 332,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 23432,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-channel_pca.ome.tiff",
+      "size": 3247769,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 29038,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 38487,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 380,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-cell_channel_total.csv",
+      "size": 129882,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 332,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-cell_cluster.csv",
+      "size": 3419,
+      "type": "csv"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-cell_shape.csv",
+      "size": 2597139,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-superpixel.ome.tiff",
+      "size": 128337,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-Top3ChannelPCA.png",
+      "size": 290415,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-cell_cluster.csv",
+      "size": 24426,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-superpixel.ome.tiff",
+      "size": 146366,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 381,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 36895,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-ClusterByShape.png",
+      "size": 29544,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-cell_shape.csv",
+      "size": 479921,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 20542,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-Superpixels.png",
+      "size": 48499,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 21310,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 365,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-channel_pca.ome.tiff",
+      "size": 3590365,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-ClusterByShape.png",
+      "size": 30507,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 34587,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 380,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 31172,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 362,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-cell_channel_covar.csv",
+      "size": 2662268,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-Superpixels.png",
+      "size": 60198,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 34668,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-Top3ChannelPCA.png",
+      "size": 283101,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 32347,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-channel_pca.ome.tiff",
+      "size": 3849915,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 24559,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-cell_channel_total.csv",
+      "size": 202426,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 24790,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-cell_shape.csv",
+      "size": 3327805,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-cell_channel_mean.csv",
+      "size": 134696,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-superpixel.ome.tiff",
+      "size": 35831,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-ClusterByShape.png",
+      "size": 29759,
+      "type": "unknown"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-cell_channel_mean.csv",
+      "size": 243305,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-cell_cluster.csv",
+      "size": 23271,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-Superpixels.png",
+      "size": 74017,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 30076,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 350,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-Top3ChannelPCA.png",
+      "size": 349042,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 365,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-Superpixels.png",
+      "size": 53471,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 380,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 384,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-cell_channel_covar.csv",
+      "size": 1479325,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 40518,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-Top3ChannelPCA.png",
+      "size": 284522,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-superpixel.ome.tiff",
+      "size": 127846,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-Superpixels.png",
+      "size": 69712,
+      "type": "unknown"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-cell_channel_mean.csv",
+      "size": 31217,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-ClusterByShape.png",
+      "size": 36318,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 303,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-cell_channel_total.csv",
+      "size": 214601,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 361,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 22555,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-cell_cluster.csv",
+      "size": 18261,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-cell_channel_mean.csv",
+      "size": 217337,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 8640,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 374,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 364,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-cell_channel_total.csv",
+      "size": 208454,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-Superpixels.png",
+      "size": 77406,
+      "type": "unknown"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-cell_channel_mean.csv",
+      "size": 381271,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-cell_channel_mean.csv",
+      "size": 314015,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-cell_channel_covar.csv",
+      "size": 2932589,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 364,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 365,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-cell_channel_mean.csv",
+      "size": 49043,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-superpixel.ome.tiff",
+      "size": 134941,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 11361,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-cell_shape.csv",
+      "size": 2360820,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 26504,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 357,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 40937,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-cell_cluster.csv",
+      "size": 18681,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-Superpixels.png",
+      "size": 52693,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-cell_channel_total.csv",
+      "size": 226498,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 380,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-Superpixels.png",
+      "size": 75442,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 28758,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 33409,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-cell_channel_total.csv",
+      "size": 157345,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-cell_channel_covar.csv",
+      "size": 1959171,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-Top3ChannelPCA.png",
+      "size": 355639,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 38036,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 26760,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 32365,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-cell_channel_total.csv",
+      "size": 189173,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-superpixel.ome.tiff",
+      "size": 189135,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-ClusterByShape.png",
+      "size": 28007,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-cell_channel_covar.csv",
+      "size": 2575413,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 38368,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 363,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-cell_cluster.csv",
+      "size": 24216,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 343,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 217,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 372,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-ClusterByShape.png",
+      "size": 37605,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 368,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-Top3ChannelPCA.png",
+      "size": 276243,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-channel_pca.ome.tiff",
+      "size": 2400568,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-cell_shape.csv",
+      "size": 3352223,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 218,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-superpixel.ome.tiff",
+      "size": 169975,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 366,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-Top3ChannelPCA.png",
+      "size": 85900,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-cell_shape.csv",
+      "size": 3982150,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 38688,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-ClusterByShape.png",
+      "size": 37503,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 218,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-cell_cluster.csv",
+      "size": 13219,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 38172,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 19828,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-superpixel.ome.tiff",
+      "size": 144347,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-cell_channel_total.csv",
+      "size": 82925,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 43108,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 27227,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-cell_shape.csv",
+      "size": 2449721,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 31243,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 366,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 35907,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-ClusterByShape.png",
+      "size": 12317,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-cell_channel_covar.csv",
+      "size": 4494151,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 217,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-cell_channel_total.csv",
+      "size": 205794,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 343,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-Top3ChannelPCA.png",
+      "size": 146743,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 38687,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-channel_pca.ome.tiff",
+      "size": 2485430,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-cell_channel_covar.csv",
+      "size": 2241265,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 29178,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-cell_channel_total.csv",
+      "size": 18576,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-ClusterByShape.png",
+      "size": 8695,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-cell_cluster.csv",
+      "size": 17211,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-Top3ChannelPCA.png",
+      "size": 345158,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 22055,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-cell_shape.csv",
+      "size": 3266066,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-ClusterByShape.png",
+      "size": 36136,
+      "type": "unknown"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-cell_channel_mean.csv",
+      "size": 251339,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-Top3ChannelPCA.png",
+      "size": 183450,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-superpixel.ome.tiff",
+      "size": 119999,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 38432,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-ClusterByShape.png",
+      "size": 27708,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 217,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-cell_channel_covar.csv",
+      "size": 539035,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-channel_pca.ome.tiff",
+      "size": 3813513,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 362,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 27094,
+      "type": "unknown"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-cell_channel_mean.csv",
+      "size": 178551,
+      "type": "csv"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-Top3ChannelPCA.png",
+      "size": 250168,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-cell_channel_total.csv",
+      "size": 197819,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 11261,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 217,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-superpixel.ome.tiff",
+      "size": 133189,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 366,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 28910,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-Top3ChannelPCA.png",
+      "size": 356879,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 376,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 218,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-channel_pca.ome.tiff",
+      "size": 2782044,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-cell_channel_covar.csv",
+      "size": 1838024,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-cell_cluster.csv",
+      "size": 14061,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-ClusterByShape.png",
+      "size": 20176,
+      "type": "unknown"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-cell_channel_mean.csv",
+      "size": 356962,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-cell_channel_covar.csv",
+      "size": 2767719,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 380,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 360,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 25455,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 37853,
+      "type": "unknown"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-cell_channel_mean.csv",
+      "size": 192468,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-cell_channel_total.csv",
+      "size": 230453,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-cell_channel_mean.csv",
+      "size": 336318,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-cell_cluster.csv",
+      "size": 23211,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-channel_pca.ome.tiff",
+      "size": 3660180,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-cell_channel_total.csv",
+      "size": 115206,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-cell_channel_mean.csv",
+      "size": 410572,
+      "type": "csv"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-cell_shape.csv",
+      "size": 1985253,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-superpixel.ome.tiff",
+      "size": 176525,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 367,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 217,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 377,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 12040,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-channel_pca.ome.tiff",
+      "size": 2918706,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-Top3ChannelPCA.png",
+      "size": 331409,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 379,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-cell_channel_total.csv",
+      "size": 141145,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-cell_channel_mean.csv",
+      "size": 167402,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-cell_channel_covar.csv",
+      "size": 3456328,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 29391,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 26177,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 363,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-cell_channel_total.csv",
+      "size": 107811,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 35416,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-Top3ChannelPCA.png",
+      "size": 357960,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-cell_channel_covar.csv",
+      "size": 2865400,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 36385,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-cell_cluster.csv",
+      "size": 29166,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 215,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-cell_channel_mean.csv",
+      "size": 204224,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-ClusterByShape.png",
+      "size": 32628,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-ClusterByShape.png",
+      "size": 36428,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-Top3ChannelPCA.png",
+      "size": 289298,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 26619,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y003.ome.tiff-cell_shape.csv",
+      "size": 3055247,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 214,
+      "type": "csv"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-cell_shape.csv",
+      "size": 3639767,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-ClusterByShape.png",
+      "size": 35945,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-superpixel.ome.tiff",
+      "size": 143321,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-superpixel.ome.tiff",
+      "size": 159104,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-cell_cluster.csv",
+      "size": 17571,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-cell_channel_mean.csv",
+      "size": 346787,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 217,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 33022,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-Superpixels.png",
+      "size": 15406,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 28644,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 366,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-cell_channel_covar.csv",
+      "size": 1515569,
+      "type": "csv"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y005.ome.tiff-cell_shape.csv",
+      "size": 2400308,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-cell_channel_mean.csv",
+      "size": 137755,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-superpixel.ome.tiff",
+      "size": 81377,
+      "type": "unknown"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y003.ome.tiff-cell_channel_mean.csv",
+      "size": 328977,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-cell_cluster.csv",
+      "size": 25191,
+      "type": "csv"
+    },
+    {
+      "description": "Mean intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-cell_channel_mean.csv",
+      "size": 235170,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-cell_channel_covar.csv",
+      "size": 342440,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 218,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-cell_channel_total.csv",
+      "size": 122180,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 355,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-channel_pca.ome.tiff",
+      "size": 1298389,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-superpixel.ome.tiff",
+      "size": 134126,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 325,
+      "type": "csv"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-Superpixels.png",
+      "size": 64566,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-superpixel.ome.tiff",
+      "size": 114090,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-cell_channel_covar.csv",
+      "size": 3759724,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-cell_channel_total.csv",
+      "size": 248317,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 20211,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-ClusterByShape.png",
+      "size": 37616,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-Superpixels.png",
+      "size": 33272,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y001.ome.tiff-cell_channel_total.csv",
+      "size": 29311,
+      "type": "csv"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y001.ome.tiff-cell_shape.csv",
+      "size": 2101291,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 217,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y005.ome.tiff-superpixel.ome.tiff",
+      "size": 114933,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-Top3ChannelPCA.png",
+      "size": 318875,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 33615,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-cell_shape.csv",
+      "size": 2539461,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X004_Y001.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 384,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 217,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 372,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 33929,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 38201,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y002.ome.tiff-channel_pca.ome.tiff",
+      "size": 3636773,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 30315,
+      "type": "unknown"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-cell_shape.csv",
+      "size": 3202193,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 364,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 24005,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-cell_cluster.csv",
+      "size": 27081,
+      "type": "csv"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-cell_channel_total.csv",
+      "size": 100419,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 28827,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to covariance cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-clustercells_cellcovariance_legend.csv",
+      "size": 372,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 8199,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with PCA clustering of top 3 channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-Top3ChannelPCA.png",
+      "size": 340816,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y004.ome.tiff-channel_pca.ome.tiff",
+      "size": 2867586,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-cell_channel_covar.csv",
+      "size": 3616349,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 42960,
+      "type": "unknown"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-cell_cluster.csv",
+      "size": 2187,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by shape clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-ClusterByShape.png",
+      "size": 31686,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 344,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 218,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 367,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y002.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 42207,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering based on intensities in all channels (superpixel) output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-superpixel.ome.tiff",
+      "size": 93872,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 32713,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y003.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 36838,
+      "type": "unknown"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-cell_channel_covar.csv",
+      "size": 4193041,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y001.ome.tiff-cell_cluster.csv",
+      "size": 9537,
+      "type": "csv"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X003_Y002.ome.tiff-channel_pca.ome.tiff",
+      "size": 3645222,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 19700,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-Superpixels.png",
+      "size": 50130,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X005_Y003.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 39411,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 38893,
+      "type": "unknown"
+    },
+    {
+      "description": "Total intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-cell_channel_total.csv",
+      "size": 151761,
+      "type": "csv"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y004.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 31838,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean cell intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y005.ome.tiff-ClusterByMeansPerCell.png",
+      "size": 8558,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with superpixel clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-Superpixels.png",
+      "size": 73280,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by total intensity clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y004.ome.tiff-ClusterByTotalPerCell.png",
+      "size": 34638,
+      "type": "unknown"
+    },
+    {
+      "description": "Major components of variation in multiple channels output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "sprm_outputs/R001_X004_Y004.ome.tiff-channel_pca.ome.tiff",
+      "size": 3019149,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by covariance clustering output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X001_Y002.ome.tiff-ClusterByCovarPerCell.png",
+      "size": 22373,
+      "type": "unknown"
+    },
+    {
+      "description": "Image with each cell colored by mean intensity of all channels output for region 001, in PNG format",
+      "edam_term": "EDAM_1.24.format_3603",
+      "rel_path": "sprm_outputs/R001_X002_Y002.ome.tiff-ClusterByMeansAllMasks.png",
+      "size": 33558,
+      "type": "unknown"
+    },
+    {
+      "description": "Show major contributors to cell shape cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y004.ome.tiff-clustercells_cellshape_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "PCA of parametric outlines of cells output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-cell_shape.csv",
+      "size": 1308915,
+      "type": "csv"
+    },
+    {
+      "description": "Cluster number of each cell for each cluster (column) output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X005_Y005.ome.tiff-cell_cluster.csv",
+      "size": 9299,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to mean intensity of cell cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X002_Y005.ome.tiff-clustercells_cellmean_legend.csv",
+      "size": 362,
+      "type": "csv"
+    },
+    {
+      "description": "Show major contributors to total intensity cluster output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X001_Y003.ome.tiff-clustercells_celltotal_legend.csv",
+      "size": 363,
+      "type": "csv"
+    },
+    {
+      "description": "Covariance of intensities in each channel output for region 001, in CSV format",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "sprm_outputs/R001_X003_Y001.ome.tiff-cell_channel_covar.csv",
+      "size": 2105207,
+      "type": "csv"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X004_Y001.ome.tiff",
+      "size": 474593226,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X005_Y002.ome.tiff",
+      "size": 473842091,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X002_Y004.ome.tiff",
+      "size": 463760091,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X001_Y001.ome.tiff",
+      "size": 423455071,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X005_Y005.ome.tiff",
+      "size": 429774659,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X002_Y003.ome.tiff",
+      "size": 464591163,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X002_Y005.ome.tiff",
+      "size": 450372467,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X005_Y003.ome.tiff",
+      "size": 476820320,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X002_Y002.ome.tiff",
+      "size": 478295744,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X003_Y001.ome.tiff",
+      "size": 449773011,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X005_Y004.ome.tiff",
+      "size": 461762628,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X004_Y004.ome.tiff",
+      "size": 457913815,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X001_Y004.ome.tiff",
+      "size": 459332815,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X003_Y002.ome.tiff",
+      "size": 469124003,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X002_Y001.ome.tiff",
+      "size": 446416367,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X004_Y003.ome.tiff",
+      "size": 481096227,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X003_Y005.ome.tiff",
+      "size": 468384078,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X001_Y003.ome.tiff",
+      "size": 480285976,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X001_Y005.ome.tiff",
+      "size": 390765272,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X003_Y003.ome.tiff",
+      "size": 471765435,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X004_Y005.ome.tiff",
+      "size": 462077407,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X003_Y004.ome.tiff",
+      "size": 455683501,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X001_Y002.ome.tiff",
+      "size": 457249011,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X005_Y001.ome.tiff",
+      "size": 447591550,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/extract/expressions/ome-tiff/R001_X004_Y002.ome.tiff",
+      "size": 474271857,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X001_Y003.ome.tiff",
+      "size": 863824,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X003_Y005.ome.tiff",
+      "size": 615824,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X004_Y003.ome.tiff",
+      "size": 790384,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X002_Y001.ome.tiff",
+      "size": 554400,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X003_Y002.ome.tiff",
+      "size": 806352,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X001_Y004.ome.tiff",
+      "size": 693792,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X004_Y004.ome.tiff",
+      "size": 684976,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X004_Y002.ome.tiff",
+      "size": 793664,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X005_Y001.ome.tiff",
+      "size": 647888,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X001_Y002.ome.tiff",
+      "size": 675168,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X003_Y004.ome.tiff",
+      "size": 631328,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X004_Y005.ome.tiff",
+      "size": 699888,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X003_Y003.ome.tiff",
+      "size": 777584,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X001_Y005.ome.tiff",
+      "size": 400448,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X002_Y003.ome.tiff",
+      "size": 780000,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X005_Y005.ome.tiff",
+      "size": 544672,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X001_Y001.ome.tiff",
+      "size": 428208,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X002_Y004.ome.tiff",
+      "size": 692272,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X005_Y002.ome.tiff",
+      "size": 807184,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X004_Y001.ome.tiff",
+      "size": 815248,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X005_Y004.ome.tiff",
+      "size": 704640,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X003_Y001.ome.tiff",
+      "size": 613984,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X002_Y002.ome.tiff",
+      "size": 833312,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X005_Y003.ome.tiff",
+      "size": 810432,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit cytometry output for region 001, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "output/cytometry/tile/ome-tiff/R001_X002_Y005.ome.tiff",
+      "size": 591488,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X002_Y001.offsets.json",
+      "size": 2357,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X004_Y004.offsets.json",
+      "size": 2358,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X004_Y005.offsets.json",
+      "size": 2359,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X002_Y002.offsets.json",
+      "size": 2361,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X002_Y003.offsets.json",
+      "size": 2359,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X004_Y003.offsets.json",
+      "size": 2361,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X004_Y002.offsets.json",
+      "size": 2360,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X002_Y005.offsets.json",
+      "size": 2357,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X002_Y004.offsets.json",
+      "size": 2359,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X004_Y001.offsets.json",
+      "size": 2361,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X005_Y005.offsets.json",
+      "size": 2355,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X005_Y004.offsets.json",
+      "size": 2359,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X003_Y001.offsets.json",
+      "size": 2358,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X003_Y003.offsets.json",
+      "size": 2359,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X003_Y002.offsets.json",
+      "size": 2359,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X005_Y002.offsets.json",
+      "size": 2361,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X005_Y003.offsets.json",
+      "size": 2360,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X005_Y001.offsets.json",
+      "size": 2357,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X003_Y004.offsets.json",
+      "size": 2358,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X003_Y005.offsets.json",
+      "size": 2359,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X001_Y002.offsets.json",
+      "size": 2359,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X001_Y003.offsets.json",
+      "size": 2362,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X001_Y001.offsets.json",
+      "size": 2352,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X001_Y005.offsets.json",
+      "size": 2348,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/R001_X001_Y004.offsets.json",
+      "size": 2359,
+      "type": "json"
+    }
+  ],
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM956.BGBN.293",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "45472e9",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "45472e9",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "2d9ddc6",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/codex-pipeline.git",
+        "version": "v1.6.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "fb19103",
+        "input_parameters": [],
+        "name": "sprm-to-json.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers.git",
+        "version": ""
+      }
+    ],
+    "files_info_alt_path": "trig__2020-07-25T02:00:11.136257+00:00/83890a6b-1f7f-44b5-bab2-5347820f99bf.json",
+    "workflow_description": "The CODEX pipeline performs illumination correction and other pre-processing steps, segments nuclei and cells using Cytokit, and performs spatial analysis of expression data using SPRM, which computes various measures of analyte intensity per cell, performs clustering based on expression and other data, and computes markers for each cluster.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1598109190783,
+  "last_modified_user_displayname": "Bill Shirey",
+  "last_modified_user_email": "shirey@pitt.edu",
+  "last_modified_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "local_directory_rel_path": "public/University of Florida TMC/0cda590ee3e9d6675b7ece255f8839b8/",
+  "next_revision_uuid": "e3887f226ddd65f0326c73131a2da4c1",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1598109190783,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "status": "Published",
+  "title": "CODEX [Cytokit + SPRM] data from the lymph node of a 18-year-old white male",
+  "uuid": "0cda590ee3e9d6675b7ece255f8839b8"
+}

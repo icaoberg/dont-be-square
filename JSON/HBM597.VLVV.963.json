@@ -1,0 +1,75 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603738026598,
+  "data_access_level": "public",
+  "description": "1 cm slab taken 2.3 cm from superior end of thymus (CC-1) and 5.9 cm from superior end (CC-2)",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603123533425,
+    "data_access_level": "public",
+    "description": "complete thymus ",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM345.NLTW.958",
+    "image_file_metadata": [
+      {
+        "description": "Intact organ prior to dissection",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/76f0838d2d7f34360422df9077af0a59/IMG_8018.JPG"
+      },
+      {
+        "description": "H&E of organ",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/3949e1d5cbe8e778e6a7122aa88b2a1f/20-005_THY_CC-2_B_7x9.tif"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Intact organ prior to dissection",
+        "file_uuid": "ffffe61a7c5f80c13e336d870f32b269",
+        "filename": "IMG_8018.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617750864578,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "organ": "TH",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/76f0838d2d7f34360422df9077af0a59/Pathology_Report20-005.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "3949e1d5cbe8e778e6a7122aa88b2a1f"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM597.VLVV.963",
+  "image_file_metadata": [
+    {
+      "description": "Dissection of thymus UFL0005 ",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/42759074d86b39741376549dd41640d2/IMG_3594.JPG"
+    }
+  ],
+  "image_files": [
+    {
+      "description": "Dissection of thymus UFL0005 ",
+      "file_uuid": "ffffa107bf883edf95bd27e4f4a25d45",
+      "filename": "IMG_3594.JPG"
+    }
+  ],
+  "last_modified_timestamp": 1617759156284,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgmiju6",
+  "sample_category": "block",
+  "uuid": "f7665f508a033afb7c6ed47b8c29aa8e"
+}

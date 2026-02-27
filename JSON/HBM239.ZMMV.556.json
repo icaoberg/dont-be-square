@@ -1,0 +1,316 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Stanford",
+      "display_name": "John Hickey",
+      "email": "john.hickey@duke.edu",
+      "first_name": "John",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Hickey",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "W",
+      "orcid": "0000-0001-9961-7673"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "Chiara Caraccio",
+      "email": "caraccio@stanford.edu",
+      "first_name": "Chiara",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Caraccio",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-3580-1348"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "Garry Nolan",
+      "email": "gnolan@stanford.edu",
+      "first_name": "Garry",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Nolan",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-8862-9043"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Stanford",
+      "display_name": "John Hickey",
+      "email": "john.hickey@duke.edu",
+      "first_name": "John",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Hickey",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "W",
+      "orcid": "0000-0001-9961-7673"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "Chiara Caraccio",
+      "email": "caraccio@stanford.edu",
+      "first_name": "Chiara",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Caraccio",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-3580-1348"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "Garry Nolan",
+      "email": "gnolan@stanford.edu",
+      "first_name": "Garry",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Nolan",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-8862-9043"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1720814337715,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "Histology",
+  "description": "H&E slides corresponding to CODEX datasets : Sample of transverse large intestine from donor B011 / W192",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Daniel Cotter",
+      "created_by_user_email": "Daniel.cotter@stanford.edu",
+      "created_by_user_sub": "9bc64b24-20e9-4612-bb84-a80e9f806022",
+      "created_timestamp": 1649887575695,
+      "data_access_level": "public",
+      "description": "Sample of transverse large intestine from donor B011 / W192",
+      "entity_type": "Sample",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM366.MKJF.425",
+      "last_modified_timestamp": 1654708865763,
+      "last_modified_user_displayname": "Yiing Lin",
+      "last_modified_user_email": "liny@wustl.edu",
+      "last_modified_user_sub": "be70e17d-9bc1-4a91-a83f-6950bdd1287b",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.bqm5mu86",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/db4f3eca-e9f8-4f9c-88a1-795a20dd0f84",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/UBERON_0001157",
+          "http://purl.obolibrary.org/obo/UBERON_0001158",
+          "http://purl.obolibrary.org/obo/UBERON_0022276"
+        ],
+        "creation_date": "2022-06-08",
+        "creator": "Yiing Lin",
+        "creator_first_name": "Yiing",
+        "creator_last_name": "Lin",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/db4f3eca-e9f8-4f9c-88a1-795a20dd0f84_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2022-06-08",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine",
+          "translation_units": "millimeter",
+          "x_rotation": 90,
+          "x_scaling": 1,
+          "x_translation": 124.831,
+          "y_rotation": -3,
+          "y_scaling": 1,
+          "y_translation": 225.996,
+          "z_rotation": 88,
+          "z_scaling": 1,
+          "z_translation": 156.403
+        },
+        "slice_count": 1,
+        "slice_thickness": 1,
+        "x_dimension": 20,
+        "y_dimension": 50,
+        "z_dimension": 5
+      },
+      "sample_category": "block",
+      "uuid": "7de2b4da1bcc1df5eb305cedb30a20c6"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM239.ZMMV.556",
+  "entity_type": "Dataset",
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM239.ZMMV.556",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "32004d8",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      },
+      {
+        "hash": "8a14a9a",
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1731708440712,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Stanford TMC/ac66fe681157e71de27e0596bbb4dbb2/",
+  "metadata": {
+    "acquisition_instrument_model": "BZ-X710",
+    "acquisition_instrument_vendor": "Keyence",
+    "analyte_class": "Nucleic acid + protein",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "Histology",
+    "intended_tile_overlap_percentage": "",
+    "is_batch_staining_done": "No",
+    "is_image_preprocessing_required": "No",
+    "is_staining_automated": "No",
+    "is_targeted": "No",
+    "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+    "non_global_files": "",
+    "preparation_instrument_model": "",
+    "preparation_instrument_vendor": "",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.be8qjhvw",
+    "scan_direction": "",
+    "source_storage_duration_unit": "year",
+    "source_storage_duration_value": "1.337",
+    "stain_name": "H&E",
+    "stain_technique": "",
+    "tile_configuration": "",
+    "tiled_image_columns": "",
+    "tiled_image_count": "",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": ""
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "H&E for CODEX : ./B011A-reg004",
+  "published_timestamp": 1722026569950,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM239.ZMMV.556",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1720814337715,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1720814439724,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1720830040627,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1720830680703,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1722026569950,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology data from the large intestine of a 54-year-old black or african american female",
+  "upload": {
+    "created_by_user_displayname": "Thomas Karathanos",
+    "created_by_user_email": "tkarathanos@stanford.edu",
+    "created_by_user_sub": "853d17b6-18ec-46b2-8976-8dbdc2151668",
+    "created_timestamp": 1720191813985,
+    "description": "H&E slides corresponding to CODEX datasets",
+    "entity_type": "Upload",
+    "group_name": "Stanford TMC",
+    "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM483.FJLG.696",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231860461,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1720191813985,
+        "changed_by_email": "tkarathanos@stanford.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1720450292312,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Incomplete"
+      },
+      {
+        "change_timestamp": 1720795698041,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1720795706174,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1720795764449,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1720814112351,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1720814121662,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1720814191106,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1720814221291,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1720814234832,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1720814403977,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "H&E for CODEX",
+    "uuid": "448c676862d27f75270312e4d3afb1f1"
+  },
+  "uuid": "ac66fe681157e71de27e0596bbb4dbb2"
+}

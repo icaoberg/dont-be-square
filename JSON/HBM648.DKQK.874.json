@@ -1,0 +1,946 @@
+{
+  "calculated_metadata": {
+    "annotation_tools": [
+      "Azimuth"
+    ],
+    "object_types": [
+      "CL:0000000"
+    ]
+  },
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1679717413067,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "salmon_sn_rnaseq_10x"
+  ],
+  "dataset_info": "salmon_rnaseq_10x_sn__99c5c80509be87d2356d19a9ed8b22ff__salmon-rnaseq",
+  "dataset_type": "RNAseq [Salmon]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Madhurima",
+          "last_name": "Kaushal",
+          "middle_name_or_initial": "",
+          "name": "Madhurima Kaushal",
+          "orcid_id": "0000-0003-2760-0586"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Sanjay",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Diane",
+          "last_name": "Salamon",
+          "middle_name_or_initial": "",
+          "name": "Diane Salamon",
+          "orcid_id": "0000-0003-0427-0262"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Masato",
+          "last_name": "Hoshi",
+          "middle_name_or_initial": "",
+          "name": "Masato Hoshi",
+          "orcid_id": "0000-0003-2874-1807"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Amanda",
+          "last_name": "Knoten",
+          "middle_name_or_initial": "",
+          "name": "Amanda Knoten",
+          "orcid_id": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Joseph",
+          "last_name": "Gaut",
+          "middle_name_or_initial": "",
+          "name": "Joseph Gaut",
+          "orcid_id": "0000-0002-9580-3951"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Blue Lake",
+      "created_by_user_email": "b1lake@ucsd.edu",
+      "created_by_user_sub": "45e89a2a-5016-46d0-85e3-cff224a0e257",
+      "created_timestamp": 1607454946561,
+      "data_access_level": "protected",
+      "data_types": [
+        "snRNAseq"
+      ],
+      "dataset_info": "BUKMAP_20191104A_10X-R\r\n\r\n10X snRNA-seq on adult kidney",
+      "dataset_type": "RNAseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX15196668",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "10X snRNA-seq on adult kidney",
+      "doi_url": "https://doi.org/10.35079/HBM764.ZCQR.585",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM764.ZCQR.585",
+      "ingest_id": "99c5c80509be87d2356d19a9ed8b22ff_scan.and.begin.processing_2021-06-23T17:12:07.914027-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "9f6aad9",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1678133009472,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "local_directory_rel_path": "/hive/hubmap/data/protected/University of California San Diego TMC/99c5c80509be87d2356d19a9ed8b22ff",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "RNA",
+        "assay_category": "sequence",
+        "assay_type": "snRNAseq",
+        "cell_barcode_offset": "0",
+        "cell_barcode_read": "R1",
+        "cell_barcode_size": "16",
+        "contributors_path": "extras/BUKMAP_20191104A_10X-R_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2019-11-04 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "AGATCGGAAGAGC",
+        "library_average_fragment_size": "478",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.86khzcw",
+        "library_final_yield_unit": "ng",
+        "library_final_yield_value": "805.0",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "12",
+        "library_pcr_cycles_for_sample_index": "14",
+        "operator": "Masato Hoshi",
+        "operator_email": "mhoshi@wustl.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.86khzcw",
+        "rnaseq_assay_input": "12475",
+        "rnaseq_assay_method": "snRNAseq-10Xgenomics",
+        "sc_isolation_cell_number": "12475",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.ufketkw",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "1",
+        "sequencing_read_format": "101/8/101",
+        "sequencing_read_percent_q30": "73.88",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1624926498350,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM764.ZCQR.585",
+      "run_id": "99c5c80509be87d2356d19a9ed8b22ff_scan.and.begin.processing_2021-06-23T17:12:07.914027-04:00",
+      "status": "Published",
+      "uuid": "99c5c80509be87d2356d19a9ed8b22ff"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "Disperson plot of gene expression",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "dispersion_plot.pdf",
+      "size": 830223,
+      "type": "pdf"
+    },
+    {
+      "description": "Genome build information in JSON format",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "genome_build.json",
+      "size": 106,
+      "type": "json"
+    },
+    {
+      "description": "Normalized gene expression with additional metadata, in HDF5 format, readable with the 'anndata' Python package",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "secondary_analysis.h5ad",
+      "size": 561735650,
+      "type": "h5ad"
+    },
+    {
+      "description": "Quality control report in JSON format",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": true,
+      "rel_path": "qc_results.json",
+      "size": 450,
+      "type": "json"
+    },
+    {
+      "description": "scVelo RNA velocity grid plot",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "scvelo_embedding_grid.pdf",
+      "size": 250232,
+      "type": "pdf"
+    },
+    {
+      "description": "RNA velocity results, in HDF5 format, readable with the 'anndata' Python package",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "scvelo_annotated.h5ad",
+      "size": 298308964,
+      "type": "h5ad"
+    },
+    {
+      "description": "UMAP plot of cells, colored by Leiden cluster ID",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "umap_by_leiden_cluster.pdf",
+      "size": 70788,
+      "type": "pdf"
+    },
+    {
+      "description": "Raw gene expression, in HDF5 format, readable with the 'anndata' Python package, intronic counts as AnnData layer",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "expr.h5ad",
+      "size": 134128424,
+      "type": "h5ad"
+    },
+    {
+      "description": "UMAP plot of cells, colored by embedding density",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "umap_embedding_density.pdf",
+      "size": 574032,
+      "type": "pdf"
+    },
+    {
+      "description": "Quality control results from Scanpy, per-cell and per-gene, in HDF5 format",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_qa_qc": true,
+      "rel_path": "qc_results.hdf5",
+      "size": 3278108,
+      "type": "hdf5"
+    },
+    {
+      "description": "Raw gene expression, in HDF5 format, readable with the 'anndata' Python package, intronic counts as AnnData layer",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_qa_qc": false,
+      "rel_path": "raw_expr.h5ad",
+      "size": 65789376,
+      "type": "h5ad"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20191104A_10X-R_L004_R1_001_fastqc.html",
+      "size": 641570,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20191104A_10X-R_L004_R2_001_fastqc.html",
+      "size": 690499,
+      "type": "unknown"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar comma-separated-file format.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.csv",
+      "size": 179095,
+      "type": "csv"
+    },
+    {
+      "description": "JSON-formatted information about this scRNA-seq run including scatterplot coordinates and clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.cells.json",
+      "size": 391724,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about this scRNA-seq's clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.factors.json",
+      "size": 80861,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about the heirarchy scRNA-seq's cells.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.cell-sets.json",
+      "size": 84659,
+      "type": "json"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar Apache Arrow format.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.arrow",
+      "size": 121754,
+      "type": "arrow"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/spliced/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/unspliced/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/spliced_unspliced_sum/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsp/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsp/distances/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsp/connectivities/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/velocity_graph_neg/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/velocity_params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/neighbors/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/neighbors/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/umap/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/umap/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/leiden/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/leiden/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/velocity_graph/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/pca/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/pca/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/recover_dynamics/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/var/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/var/__categories/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obs/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obs/__categories/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/varm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/spliced/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/unspliced/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/unscaled/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/spliced_unspliced_sum/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsp/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsp/distances/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsp/connectivities/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/umap_density_params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/reviewer2/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/reviewer3/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/disclaimers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/azimuth_to_CLID_mapping/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/reviewer4/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/seurat/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/CLID/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/azimuth_reference/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/reviewer1/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/azimuth/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/neighbors/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/neighbors/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/umap/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/umap/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/leiden/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/leiden/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/pca/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/pca/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/rank_genes_groups/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/rank_genes_groups/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/hvg/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/var/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/var/__categories/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obs/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obs/__categories/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/varm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "University of California San Diego TMC",
+  "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+  "hubmap_id": "HBM648.DKQK.874",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a754a24",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.0.14"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a754a24",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.0.14"
+      },
+      {
+        "documentation_url": "",
+        "hash": "d18fd49",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/salmon-rnaseq",
+        "version": "v2.1.11"
+      },
+      {
+        "documentation_url": "",
+        "hash": "0da4327",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/azimuth-annotate",
+        "version": "v1.3"
+      },
+      {
+        "documentation_url": "",
+        "hash": "0b94a44",
+        "input_parameters": [],
+        "name": "anndata-to-ui.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.27"
+      }
+    ],
+    "workflow_description": "The pipeline for scRNA/snRNA data with whole transcriptome sequencing results uses Salmon alevin for alignment free quasimapping to the hg38 reference genome and converts the resulting capture bead by gene matrix to the h5ad format, which is used by ScanPy for downstream analysis including dimensionality reduction, unsupervised clustering, and differential expression analysis. Cell type annotations are provided by Azimuth when available for the type of tissue being analyzed.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1699302645796,
+  "last_modified_user_displayname": "Karl Burke",
+  "last_modified_user_email": "KBURKE@pitt.edu",
+  "last_modified_user_sub": "3aaa925d-755a-4193-98c7-44455de783ff",
+  "local_directory_rel_path": "public/University of California San Diego TMC/08c1aa2e74700e1170fc9218ae255992/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1692213991537,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "RNAseq [Salmon] data from the kidney (left) of a 14-year-old white female",
+  "uuid": "08c1aa2e74700e1170fc9218ae255992"
+}

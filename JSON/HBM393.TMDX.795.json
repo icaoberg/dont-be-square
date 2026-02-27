@@ -1,0 +1,3554 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1690051760212,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "codex_cytokit"
+  ],
+  "dataset_info": "codex_cytokit__f1da42ceecf7aee4022a656c45566c18__codex-pipeline",
+  "dataset_type": "CODEX [Cytokit + SPRM]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "last_name": "Hickey",
+          "name": "John Hickey",
+          "orcid_id": "0000-0001-9961-7673"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Roxanne",
+          "last_name": "Chiu",
+          "middle_name_or_initial": "B",
+          "name": "Roxanne Chiu",
+          "orcid_id": "0000-0002-7306-9186"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Christian",
+          "last_name": "Sch\u00fcrch",
+          "name": "Christian Sch\u00fcrch",
+          "orcid_id": "0000-0002-1792-1768"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Chiara",
+          "last_name": "Caraccio",
+          "name": "Chiara Caraccio",
+          "orcid_id": "0000-0002-3580-1348"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "is_contact": "TRUE",
+          "last_name": "Hickey",
+          "name": "John Hickey",
+          "orcid_id": "0000-0001-9961-7673"
+        }
+      ],
+      "created_by_user_displayname": "daniel Cotter",
+      "created_by_user_email": "dlcott2@stanford.edu",
+      "created_by_user_sub": "9bc64b24-20e9-4612-bb84-a80e9f806022",
+      "created_timestamp": 1580259071571,
+      "data_access_level": "public",
+      "data_types": [
+        "CODEX"
+      ],
+      "dataset_info": "B001-A-LargeIntestine-CODEX\r\n\r\nCODEX imaging data for B001 large intestine samples",
+      "dataset_type": "CODEX",
+      "description": "CODEX imaging data for B001 large intestine samples",
+      "doi_url": "https://doi.org/10.35079/HBM433.MQRQ.278",
+      "entity_type": "Dataset",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM433.MQRQ.278",
+      "ingest_id": "f1da42ceecf7aee4022a656c45566c18_scan.and.begin.processing_2020-07-27T21:07:29.772062-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "de1b3fc",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1644610258240,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/Stanford TMC/f1da42ceecf7aee4022a656c45566c18",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "BZ-X710",
+        "acquisition_instrument_vendor": "Keyence",
+        "analyte_class": "Protein",
+        "assay_category": "imaging",
+        "assay_type": "CODEX",
+        "collectiontype": "codex",
+        "data_path": ".",
+        "execution_datetime": "2019-05-21 5:18",
+        "is_targeted": "TRUE",
+        "metadata_path": ".",
+        "number_of_antibodies": "52",
+        "number_of_channels": "4",
+        "number_of_cycles": "22",
+        "operator": "John Hickey",
+        "operator_email": "jwhickey@stanford.edu",
+        "pi": "Garry Nolan",
+        "pi_email": "gnolan@stanford.edu",
+        "preparation_instrument_model": "prototype robot - Stanford/Nolan Lab",
+        "preparation_instrument_vendor": "CODEX",
+        "protocols_io_doi": "10.17504/.protocols.io/private/8DA69578804511EA88340242AC110006",
+        "reagent_prep_protocols_io_doi": "\b.17504/.protocols.io/private/8BD44830810111EAB95F0242AC110005/abstract",
+        "resolution_x_unit": "nm",
+        "resolution_x_value": "377.442",
+        "resolution_y_unit": "nm",
+        "resolution_y_value": "377.442",
+        "resolution_z_unit": "nm",
+        "resolution_z_value": "1500",
+        "section_prep_protocols_io_doi": "10.17504/.protocols.io/private/7220269A810111EAB95F0242AC110005/abstract"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598112335411,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM433.MQRQ.278",
+      "run_id": "f1da42ceecf7aee4022a656c45566c18_scan.and.begin.processing_2020-07-27T21:07:29.772062-04:00",
+      "status": "Published",
+      "uuid": "f1da42ceecf7aee4022a656c45566c18"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/mask/reg002_mask.ome.tif",
+      "size": 28378212,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/mask/reg004_mask.ome.tif",
+      "size": 22867091,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/mask/reg001_mask.ome.tif",
+      "size": 31841111,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/mask/reg003_mask.ome.tif",
+      "size": 25205293,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/expr/reg003_expr.ome.tif",
+      "size": 5087520905,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/expr/reg002_expr.ome.tif",
+      "size": 5124299359,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/expr/reg004_expr.ome.tif",
+      "size": 4804035296,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/expr/reg001_expr.ome.tif",
+      "size": 5846151144,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg003_expr.ome.tiff-superpixel.ome.tif",
+      "size": 2009983,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg002_expr.ome.tiff-channel_pca.ome.tif",
+      "size": 75935827,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg002_expr.ome.tiff-superpixel.ome.tif",
+      "size": 3597269,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg003_expr.ome.tiff-channel_pca.ome.tif",
+      "size": 52308565,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg001_expr.ome.tiff-channel_pca.ome.tif",
+      "size": 72198200,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg004_expr.ome.tiff-superpixel.ome.tif",
+      "size": 2328957,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg001_expr.ome.tiff-superpixel.ome.tif",
+      "size": 4013636,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg004_expr.ome.tiff-channel_pca.ome.tif",
+      "size": 48978512,
+      "type": "unknown"
+    },
+    {
+      "description": "Segmentation mask for image reg002_mask, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/mask/reg002_mask.ome.tiff",
+      "size": 1523362880,
+      "type": "unknown"
+    },
+    {
+      "description": "Segmentation mask for image reg003_mask, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/mask/reg003_mask.ome.tiff",
+      "size": 1523362880,
+      "type": "unknown"
+    },
+    {
+      "description": "Segmentation mask for image reg001_mask, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/mask/reg001_mask.ome.tiff",
+      "size": 1523362880,
+      "type": "unknown"
+    },
+    {
+      "description": "Segmentation mask for image reg004_mask, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/mask/reg004_mask.ome.tiff",
+      "size": 1523362880,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for image reg002_expr, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/expr/reg002_expr.ome.tiff",
+      "size": 8378498096,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for image reg001_expr, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/expr/reg001_expr.ome.tiff",
+      "size": 8378498096,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for image reg003_expr, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/expr/reg003_expr.ome.tiff",
+      "size": 8378498096,
+      "type": "unknown"
+    },
+    {
+      "description": "Cytokit expression output for image reg004_expr, in OME-TIFF format",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/expr/reg004_expr.ome.tiff",
+      "size": 8378498096,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/mask/reg003_mask.offsets.json",
+      "size": 40,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/mask/reg004_mask.offsets.json",
+      "size": 40,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/mask/reg001_mask.offsets.json",
+      "size": 40,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/mask/reg002_mask.offsets.json",
+      "size": 40,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/expr/reg004_expr.offsets.json",
+      "size": 528,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/expr/reg003_expr.offsets.json",
+      "size": 528,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/expr/reg001_expr.offsets.json",
+      "size": 528,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/expr/reg002_expr.offsets.json",
+      "size": 528,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg002_expr.ome.tiff-channel_pca.offsets.json",
+      "size": 30,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg001_expr.ome.tiff-superpixel.offsets.json",
+      "size": 9,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg004_expr.ome.tiff-superpixel.offsets.json",
+      "size": 9,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg001_expr.ome.tiff-channel_pca.offsets.json",
+      "size": 30,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg003_expr.ome.tiff-channel_pca.offsets.json",
+      "size": 30,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg003_expr.ome.tiff-superpixel.offsets.json",
+      "size": 9,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg002_expr.ome.tiff-superpixel.offsets.json",
+      "size": 9,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg004_expr.ome.tiff-channel_pca.offsets.json",
+      "size": 30,
+      "type": "json"
+    },
+    {
+      "description": "total intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-nuclei_channel_total.csv",
+      "size": 8596460,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.pdf",
+      "size": 12852,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternucleus_boundaries_total_legend.pdf",
+      "size": 12878,
+      "type": "pdf"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image and heat map visualization of their components",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff_nmf_components.pdf",
+      "size": 22249,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_mean_legend.pdf",
+      "size": 12544,
+      "type": "pdf"
+    },
+    {
+      "description": "mean intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-nuclei_channel_mean.csv",
+      "size": 30671812,
+      "type": "csv"
+    },
+    {
+      "description": "Cell outlines normalized for size; first column indicates the scaling factor. xy coordinates are pair indices of a total 100 points but with 200 columns",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-normalized_cell_outlines.csv",
+      "size": 121791625,
+      "type": "csv"
+    },
+    {
+      "description": "texture features for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_1_texture.csv",
+      "size": 32340051,
+      "type": "csv"
+    },
+    {
+      "description": "Sparse matrix output of cell adjacency matrix for minimal distance.",
+      "edam_term": "EDAM_1.24.format_3916",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff_AdjacencyMatrix.mtx",
+      "size": 1416428,
+      "type": "unknown"
+    },
+    {
+      "description": "normalized (only shape) cell shape coordinates.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_shape_normalized.csv",
+      "size": 65075022,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyMeanspernuclei.png",
+      "size": 2660467,
+      "type": "unknown"
+    },
+    {
+      "description": "Signal to noise ratio of each channel image by otsu and z-score.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-SNR.csv",
+      "size": 1947,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercells_cellshape_legend.pdf",
+      "size": 11352,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternucleus_boundaries_mean_legend.csv",
+      "size": 196,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternuclei_mean_legend.pdf",
+      "size": 12608,
+      "type": "pdf"
+    },
+    {
+      "description": "clustering by cell shape mapped back onto the spatial locations of cells in the image.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-Cluster_Shape.png",
+      "size": 3550654,
+      "type": "unknown"
+    },
+    {
+      "description": "Sparse matrix output of cell adjacency matrix for average distance.",
+      "edam_term": "EDAM_1.24.format_3916",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff_AdjacencyMatrix_avg.mtx",
+      "size": 3101121,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternuclei_total_legend.csv",
+      "size": 190,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-nuclei_channel_mean.csv",
+      "size": 22342688,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for clustering by total intensity in cytoplasm of each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_cluster.csv",
+      "size": 1099387,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of nuclear pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-nuclei_channel_covar.csv",
+      "size": 1250228135,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for clustering cells by total intensity in cell boundary pixels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_boundaries_cluster.csv",
+      "size": 1099387,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyTotalpernuclei.png",
+      "size": 3539962,
+      "type": "unknown"
+    },
+    {
+      "description": "normalized (only shape) cell shape coordinates.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_shape_normalized.csv",
+      "size": 98574705,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyMeanspernuclei.png",
+      "size": 3525403,
+      "type": "unknown"
+    },
+    {
+      "description": "total intensity clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyTotalpercell_boundaries.png",
+      "size": 5429247,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyCovarpernuclei.png",
+      "size": 3023695,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternuclei_total_legend.csv",
+      "size": 197,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering of pixels by intensities of each channel.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-Superpixels.png",
+      "size": 1683758,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyCovarpernuclei.png",
+      "size": 3475040,
+      "type": "unknown"
+    },
+    {
+      "description": "clustering by normalized cell shape mapped back onto the spatial locations of cells in the image.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-Cluster_ShapeNormalized.png",
+      "size": 3404970,
+      "type": "unknown"
+    },
+    {
+      "description": "Spatial adjacency graph of cells and their connected neighbors.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff_AdjacencyGraph.pdf",
+      "size": 1442788,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_texture_legend.csv",
+      "size": 35,
+      "type": "csv"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-Top3ChannelPCA.png",
+      "size": 41096918,
+      "type": "unknown"
+    },
+    {
+      "description": "tSNE 2-Dimensional projection of all SPRM calculated features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-tSNE_allfeatures.csv",
+      "size": 1040451,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_channel_total.csv",
+      "size": 9135523,
+      "type": "csv"
+    },
+    {
+      "description": "Sparse matrix output of cell adjacency matrix for minimal distance.",
+      "edam_term": "EDAM_1.24.format_3916",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff_AdjacencyMatrix.mtx",
+      "size": 1752874,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_total_legend.csv",
+      "size": 193,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_mean_legend.csv",
+      "size": 258,
+      "type": "csv"
+    },
+    {
+      "description": "text file of row and column label for adjacency matrix.",
+      "edam_term": "EDAM_1.24.data_3671",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff_AdjacencyMatrixRowColLabels.txt",
+      "size": 267374,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.csv",
+      "size": 210,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_boundaries_total_legend.pdf",
+      "size": 12813,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_total_legend.csv",
+      "size": 192,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_covariance_legend.pdf",
+      "size": 12693,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyTotalpernuclei.png",
+      "size": 2467174,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-nucleus_boundaries_channel_mean.csv",
+      "size": 23912515,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyCovarpernucleus_boundaries.png",
+      "size": 2579101,
+      "type": "unknown"
+    },
+    {
+      "description": "image coordinates for outline of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_polygons_spatial.csv",
+      "size": 66882941,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyMeanspernuclei.png",
+      "size": 3055087,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternuclei_mean_legend.pdf",
+      "size": 12659,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternuclei_mean_legend.csv",
+      "size": 246,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of cytoplasm pixel intensities for all channels of each cell (not including cell boundary, nucleus or nuclear bounday).",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_channel_covar.csv",
+      "size": 1381948503,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_boundaries_covariance_legend.pdf",
+      "size": 12917,
+      "type": "pdf"
+    },
+    {
+      "description": "clustering by cell shape mapped back onto the spatial locations of cells in the image.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-Cluster_Shape.png",
+      "size": 4148299,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercells_texture_legend.pdf",
+      "size": 10925,
+      "type": "pdf"
+    },
+    {
+      "description": "Sparse matrix output of cell adjacency matrix for average distance.",
+      "edam_term": "EDAM_1.24.format_3916",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff_AdjacencyMatrix_avg.mtx",
+      "size": 1431814,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_mean_legend.csv",
+      "size": 194,
+      "type": "csv"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image and heat map visualization of their components",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff_nmf_components.pdf",
+      "size": 22318,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_texture_legend.csv",
+      "size": 35,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyCovarpercell.png",
+      "size": 2638210,
+      "type": "unknown"
+    },
+    {
+      "description": "cluster identification for clustering by total intensity in cytoplasm of each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_cluster.csv",
+      "size": 815696,
+      "type": "csv"
+    },
+    {
+      "description": "image coordinates for outline of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_polygons_spatial.csv",
+      "size": 51940937,
+      "type": "csv"
+    },
+    {
+      "description": "foreground and background binarization of the image (used for evaluation of the segmentation).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff_img_binary.png",
+      "size": 417887,
+      "type": "unknown"
+    },
+    {
+      "description": "cluster identification for clustering by nuclear boundaries total intensity.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-nucleus_boundaries_cluster.csv",
+      "size": 720269,
+      "type": "csv"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3) output as an ometiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-channel_pca.ome.tiff",
+      "size": 40254323,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-nucleus_boundaries_channel_mean.csv",
+      "size": 19947980,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternuclei_total_legend.csv",
+      "size": 196,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyTotalpercell.png",
+      "size": 2775111,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_channel_mean.csv",
+      "size": 21688347,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyCovarpercell_boundaries.png",
+      "size": 4691797,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_boundaries_channel_mean.csv",
+      "size": 26172776,
+      "type": "csv"
+    },
+    {
+      "description": "Spatial adjacency graph of cells and their connected neighbors.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff_AdjacencyGraph.pdf",
+      "size": 952238,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternuclei_mean_legend.csv",
+      "size": 195,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_boundaries_total_legend.csv",
+      "size": 189,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyTotalpercell_boundaries.png",
+      "size": 4411138,
+      "type": "unknown"
+    },
+    {
+      "description": "texture clusters mapped back into the spatial location of each cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyTexture.png",
+      "size": 2534406,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_mean_legend.pdf",
+      "size": 13126,
+      "type": "pdf"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3) output as an ometiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-channel_pca.ome.tiff",
+      "size": 55917800,
+      "type": "unknown"
+    },
+    {
+      "description": "tSNE clusters for all the features used in SPRM mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbytSNEAllFeatures.png",
+      "size": 3436671,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_covariance_legend.pdf",
+      "size": 14129,
+      "type": "pdf"
+    },
+    {
+      "description": "texture clusters mapped back into the spatial location of each cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyTexture.png",
+      "size": 2517053,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_boundaries_mean_legend.csv",
+      "size": 197,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cells mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyMeanspercell.png",
+      "size": 2708134,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_mean_legend.csv",
+      "size": 246,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of cytoplasm pixel intensities for all channels of each cell (not including cell boundary, nucleus or nuclear bounday).",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_channel_covar.csv",
+      "size": 1178937003,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-nuclei_channel_total.csv",
+      "size": 10236569,
+      "type": "csv"
+    },
+    {
+      "description": "clustering by normalized cell shape mapped back onto the spatial locations of cells in the image.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-Cluster_ShapeNormalized.png",
+      "size": 3374696,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternucleus_boundaries_mean_legend.pdf",
+      "size": 12606,
+      "type": "pdf"
+    },
+    {
+      "description": "Clustering of pixels by intensities of each channel.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-Superpixels.png",
+      "size": 2951911,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternuclei_covariance_legend.csv",
+      "size": 214,
+      "type": "csv"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-Top3ChannelPCA.png",
+      "size": 55889833,
+      "type": "unknown"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff_nmf_top3.png",
+      "size": 9249916,
+      "type": "unknown"
+    },
+    {
+      "description": "total intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-nuclei_channel_total.csv",
+      "size": 11818020,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_boundaries_total_legend.pdf",
+      "size": 12658,
+      "type": "pdf"
+    },
+    {
+      "description": "Signal to noise ratio of each channel image by otsu and z-score.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-SNR.csv",
+      "size": 1938,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of cell boundary pixel intensities for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_boundaries_channel_covar.csv",
+      "size": 796326864,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_boundaries_covariance_legend.pdf",
+      "size": 12987,
+      "type": "pdf"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image and heat map visualization of their components",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff_nmf_components.pdf",
+      "size": 22331,
+      "type": "pdf"
+    },
+    {
+      "description": "nuclei texture ",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-nuclei_1_texture.csv",
+      "size": 32340051,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_boundaries_covariance_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyTotalpernucleus_boundaries.png",
+      "size": 4194908,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternuclei_mean_legend.csv",
+      "size": 190,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for clustering by total intensity in cytoplasm of each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_cluster.csv",
+      "size": 963195,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_boundaries_mean_legend.csv",
+      "size": 253,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyCovarpercell.png",
+      "size": 2581297,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_total_legend.csv",
+      "size": 193,
+      "type": "csv"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image and their corresponding component values",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff_nmf_components.csv",
+      "size": 2585,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of pixel intensities for all parts of each cell for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_channel_meanAll.csv",
+      "size": 19947980,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternuclei_total_legend.pdf",
+      "size": 11668,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cluster_meanALLCH_legend.pdf",
+      "size": 13361,
+      "type": "pdf"
+    },
+    {
+      "description": "Sparse matrix output of cell adjacency matrix for average distance.",
+      "edam_term": "EDAM_1.24.format_3916",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff_AdjacencyMatrix_avg.mtx",
+      "size": 2477537,
+      "type": "unknown"
+    },
+    {
+      "description": "Sparse matrix output of cell adjacency matrix for minimal distance.",
+      "edam_term": "EDAM_1.24.format_3916",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff_AdjacencyMatrix.mtx",
+      "size": 957049,
+      "type": "unknown"
+    },
+    {
+      "description": "foreground and background binarization of the image (used for evaluation of the segmentation).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff_img_binary.png",
+      "size": 408879,
+      "type": "unknown"
+    },
+    {
+      "description": "total intensity clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyTotalpercell.png",
+      "size": 2731095,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyCovarpernucleus_boundaries.png",
+      "size": 3796240,
+      "type": "unknown"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff_nmf_top3.png",
+      "size": 19718892,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cluster_meanALLCH_legend.pdf",
+      "size": 14043,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyTotalpernucleus_boundaries.png",
+      "size": 2670905,
+      "type": "unknown"
+    },
+    {
+      "description": "cluster identification for clustering by nuclear boundaries total intensity.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-nucleus_boundaries_cluster.csv",
+      "size": 815696,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_covariance_legend.csv",
+      "size": 227,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of nuclear boundaries pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-nucleus_boundaries_channel_covar.csv",
+      "size": 724382593,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyTotalpernucleus_boundaries.png",
+      "size": 2893981,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternuclei_covariance_legend.csv",
+      "size": 212,
+      "type": "csv"
+    },
+    {
+      "description": "foreground and background binarization of the image (used for evaluation of the segmentation).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff_img_binary.png",
+      "size": 438221,
+      "type": "unknown"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image and their corresponding component values",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff_nmf_components.csv",
+      "size": 2540,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyMeanspercell_boundaries.png",
+      "size": 3639623,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyMeanspernucleus_boundaries.png",
+      "size": 2877570,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternuclei_total_legend.pdf",
+      "size": 12607,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_channel_total.csv",
+      "size": 12526066,
+      "type": "csv"
+    },
+    {
+      "description": "foreground and background binarization of the image (used for evaluation of the segmentation).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff_img_binary.png",
+      "size": 507449,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each tSNE cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_tSNE_legend.csv",
+      "size": 109,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_cellshape_legend.csv",
+      "size": 236,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternucleus_boundaries_total_legend.pdf",
+      "size": 13281,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_boundaries_mean_legend.csv",
+      "size": 365,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_boundaries_channel_total.csv",
+      "size": 9613965,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-nucleus_boundaries_channel_total.csv",
+      "size": 6931103,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of nuclear boundaries pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-nucleus_boundaries_channel_covar.csv",
+      "size": 1159587188,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cluster_meanALLCH_legend.pdf",
+      "size": 13203,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyTotalpercell_boundaries.png",
+      "size": 4352486,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_boundaries_total_legend.pdf",
+      "size": 11592,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternucleus_boundaries_mean_legend.csv",
+      "size": 192,
+      "type": "csv"
+    },
+    {
+      "description": "texture features for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_1_texture.csv",
+      "size": 36553005,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) clusters mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyMeansAll.png",
+      "size": 2671432,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering of pixels by intensities in each channel written out as an ome.tiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-superpixel.ome.tiff",
+      "size": 1974901,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternuclei_mean_legend.csv",
+      "size": 193,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-nuclei_channel_mean.csv",
+      "size": 19866602,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of nuclear boundaries pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-nucleus_boundaries_channel_covar.csv",
+      "size": 812285978,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyMeanspercell_boundaries.png",
+      "size": 4306237,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_boundaries_mean_legend.csv",
+      "size": 189,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for each nucleus.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-nuclei_cluster.csv",
+      "size": 815696,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_boundaries_covariance_legend.pdf",
+      "size": 13551,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyTotalpernucleus_boundaries.png",
+      "size": 3365588,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternuclei_mean_legend.pdf",
+      "size": 12539,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_channel_total.csv",
+      "size": 10856094,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyCovarpernuclei.png",
+      "size": 2389126,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercells_texture_legend.pdf",
+      "size": 10923,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternuclei_mean_legend.pdf",
+      "size": 12609,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.csv",
+      "size": 226,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_covariance_legend.csv",
+      "size": 213,
+      "type": "csv"
+    },
+    {
+      "description": "image coordinates for outline of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_polygons_spatial.csv",
+      "size": 76104344,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each tSNE cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_tSNE_legend.csv",
+      "size": 111,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyCovarpercell.png",
+      "size": 2741850,
+      "type": "unknown"
+    },
+    {
+      "description": "image coordinates for outline of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_polygons_spatial.csv",
+      "size": 57892911,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_boundaries_channel_total.csv",
+      "size": 11089941,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_total_legend.pdf",
+      "size": 12304,
+      "type": "pdf"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyCovarpercell_boundaries.png",
+      "size": 4256562,
+      "type": "unknown"
+    },
+    {
+      "description": "text file of row and column label for adjacency matrix.",
+      "edam_term": "EDAM_1.24.data_3671",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff_AdjacencyMatrixRowColLabels.txt",
+      "size": 196412,
+      "type": "unknown"
+    },
+    {
+      "description": "pixel coordinates of cell centers of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_centers.csv",
+      "size": 716293,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cells mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyMeanspercell.png",
+      "size": 2715396,
+      "type": "unknown"
+    },
+    {
+      "description": "cluster identification for clustering by total intensity in cytoplasm of each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_cluster.csv",
+      "size": 720269,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-nuclei_channel_mean.csv",
+      "size": 26640010,
+      "type": "csv"
+    },
+    {
+      "description": "Sparse matrix output of cell adjacency matrix for average distance.",
+      "edam_term": "EDAM_1.24.format_3916",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff_AdjacencyMatrix_avg.mtx",
+      "size": 1651424,
+      "type": "unknown"
+    },
+    {
+      "description": "tSNE 2-Dimensional projection of all SPRM calculated features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-tSNE_allfeatures.csv",
+      "size": 1175724,
+      "type": "csv"
+    },
+    {
+      "description": "nuclei texture ",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-nuclei_1_texture.csv",
+      "size": 43080057,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternucleus_boundaries_total_legend.pdf",
+      "size": 12656,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternucleus_boundaries_total_legend.csv",
+      "size": 426,
+      "type": "csv"
+    },
+    {
+      "description": "silhouette scores for clustering using different subsets of features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiffclusteringsilhouetteScores.csv",
+      "size": 2786,
+      "type": "csv"
+    },
+    {
+      "description": "silhouette scores for clustering using different subsets of features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiffclusteringsilhouetteScores.csv",
+      "size": 2792,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternucleus_boundaries_total_legend.csv",
+      "size": 257,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_boundaries_total_legend.csv",
+      "size": 189,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_channel_mean.csv",
+      "size": 33140339,
+      "type": "csv"
+    },
+    {
+      "description": "text file of row and column label for adjacency matrix.",
+      "edam_term": "EDAM_1.24.data_3671",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff_AdjacencyMatrixRowColLabels.txt",
+      "size": 172526,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternuclei_covariance_legend.pdf",
+      "size": 12694,
+      "type": "pdf"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyMeanspernuclei.png",
+      "size": 2470505,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance of cell boundary pixel intensities for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_boundaries_channel_covar.csv",
+      "size": 1086508053,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for clustering cells by total intensity in cell boundary pixels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_boundaries_cluster.csv",
+      "size": 720269,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-nucleus_boundaries_channel_mean.csv",
+      "size": 27730693,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_covariance_legend.pdf",
+      "size": 13000,
+      "type": "pdf"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyMeanspercell_boundaries.png",
+      "size": 5260810,
+      "type": "unknown"
+    },
+    {
+      "description": "texture features for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_1_texture.csv",
+      "size": 49103721,
+      "type": "csv"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image and their corresponding component values",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff_nmf_components.csv",
+      "size": 2587,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of nuclear pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-nuclei_channel_covar.csv",
+      "size": 888645649,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering of pixels by intensities in each channel written out as an ome.tiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-superpixel.ome.tiff",
+      "size": 1711639,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance of nuclear pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-nuclei_channel_covar.csv",
+      "size": 791791834,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyTotalpercell.png",
+      "size": 2800609,
+      "type": "unknown"
+    },
+    {
+      "description": "cluster identification for each nucleus.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-nuclei_cluster.csv",
+      "size": 963195,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_total_legend.pdf",
+      "size": 11667,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each tSNE cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_tSNE_legend.csv",
+      "size": 139,
+      "type": "csv"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff_nmf_top3.png",
+      "size": 7426627,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternuclei_covariance_legend.pdf",
+      "size": 12628,
+      "type": "pdf"
+    },
+    {
+      "description": "tSNE clusters for all the features used in SPRM mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbytSNEAllFeatures.png",
+      "size": 3701357,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercells_texture_legend.pdf",
+      "size": 11441,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.csv",
+      "size": 275,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternucleus_boundaries_mean_legend.pdf",
+      "size": 13039,
+      "type": "pdf"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image and their corresponding component values",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff_nmf_components.csv",
+      "size": 2556,
+      "type": "csv"
+    },
+    {
+      "description": "clustering by cell shape mapped back onto the spatial locations of cells in the image.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-Cluster_Shape.png",
+      "size": 3848507,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_boundaries_mean_legend.pdf",
+      "size": 12021,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_boundaries_total_legend.csv",
+      "size": 189,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternucleus_boundaries_total_legend.csv",
+      "size": 192,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternucleus_boundaries_mean_legend.pdf",
+      "size": 12659,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_covariance_legend.csv",
+      "size": 209,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_mean_legend.csv",
+      "size": 192,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_boundaries_mean_legend.pdf",
+      "size": 13053,
+      "type": "pdf"
+    },
+    {
+      "description": "clustering by normalized cell shape mapped back onto the spatial locations of cells in the image.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-Cluster_ShapeNormalized.png",
+      "size": 3589695,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyMeanspernucleus_boundaries.png",
+      "size": 3887852,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_boundaries_total_legend.pdf",
+      "size": 12227,
+      "type": "pdf"
+    },
+    {
+      "description": "mean intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyMeanspernucleus_boundaries.png",
+      "size": 3372565,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_boundaries_mean_legend.pdf",
+      "size": 12727,
+      "type": "pdf"
+    },
+    {
+      "description": "mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) clusters mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbyMeansAll.png",
+      "size": 2714170,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyCovarpernuclei.png",
+      "size": 2637538,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity clusters for cells mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyMeanspercell.png",
+      "size": 2669942,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_boundaries_mean_legend.pdf",
+      "size": 12821,
+      "type": "pdf"
+    },
+    {
+      "description": "pixel coordinates of cell centers of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_centers.csv",
+      "size": 957934,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyTotalpercell_boundaries.png",
+      "size": 3698109,
+      "type": "unknown"
+    },
+    {
+      "description": "cluster identification for clustering cells by total intensity in cell boundary pixels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_boundaries_cluster.csv",
+      "size": 963195,
+      "type": "csv"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-Top3ChannelPCA.png",
+      "size": 51847321,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_total_legend.pdf",
+      "size": 12605,
+      "type": "pdf"
+    },
+    {
+      "description": "top 3 PCA components and their explained variance in each channel in the image.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-channelPCA_summary.csv",
+      "size": 2996,
+      "type": "csv"
+    },
+    {
+      "description": "text file of row and column label for adjacency matrix.",
+      "edam_term": "EDAM_1.24.data_3671",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff_AdjacencyMatrixRowColLabels.txt",
+      "size": 233624,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyCovarpercell_boundaries.png",
+      "size": 3571754,
+      "type": "unknown"
+    },
+    {
+      "description": "tSNE 2-Dimensional projection of all SPRM calculated features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-tSNE_allfeatures.csv",
+      "size": 1384732,
+      "type": "csv"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3) output as an ometiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-channel_pca.ome.tiff",
+      "size": 37082772,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyCovarpernucleus_boundaries.png",
+      "size": 2840250,
+      "type": "unknown"
+    },
+    {
+      "description": "normalized (only shape) cell shape coordinates.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_shape_normalized.csv",
+      "size": 86517798,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_mean_legend.pdf",
+      "size": 12658,
+      "type": "pdf"
+    },
+    {
+      "description": "cluster identification for each nucleus.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-nuclei_cluster.csv",
+      "size": 720269,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.pdf",
+      "size": 12634,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-nuclei_channel_total.csv",
+      "size": 7666232,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cluster_meanALLCH_legend.csv",
+      "size": 239,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-nucleus_boundaries_channel_total.csv",
+      "size": 7798486,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_boundaries_covariance_legend.csv",
+      "size": 268,
+      "type": "csv"
+    },
+    {
+      "description": "tSNE clusters for all the features used in SPRM mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbytSNEAllFeatures.png",
+      "size": 3785438,
+      "type": "unknown"
+    },
+    {
+      "description": "silhouette scores for clustering using different subsets of features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiffclusteringsilhouetteScores.csv",
+      "size": 2793,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_boundaries_channel_mean.csv",
+      "size": 22061464,
+      "type": "csv"
+    },
+    {
+      "description": "clustering by cell shape mapped back onto the spatial locations of cells in the image.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-Cluster_Shape.png",
+      "size": 3884282,
+      "type": "unknown"
+    },
+    {
+      "description": "total intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-nucleus_boundaries_channel_total.csv",
+      "size": 10713729,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercells_cellshape_legend.pdf",
+      "size": 11352,
+      "type": "pdf"
+    },
+    {
+      "description": "covariance of cytoplasm pixel intensities for all channels of each cell (not including cell boundary, nucleus or nuclear bounday).",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_channel_covar.csv",
+      "size": 997120693,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyCovarpercell_boundaries.png",
+      "size": 3985526,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternuclei_covariance_legend.pdf",
+      "size": 13002,
+      "type": "pdf"
+    },
+    {
+      "description": "normalized (only shape) cell shape coordinates.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_shape_normalized.csv",
+      "size": 73476343,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternuclei_covariance_legend.csv",
+      "size": 210,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternucleus_boundaries_mean_legend.csv",
+      "size": 245,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) clusters mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyMeansAll.png",
+      "size": 2695970,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_boundaries_channel_mean.csv",
+      "size": 19500374,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for clustering cells by total intensity in cell boundary pixels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_boundaries_cluster.csv",
+      "size": 815696,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_channel_total.csv",
+      "size": 8155950,
+      "type": "csv"
+    },
+    {
+      "description": "top 3 PCA components and their explained variance in each channel in the image.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-channelPCA_summary.csv",
+      "size": 2973,
+      "type": "csv"
+    },
+    {
+      "description": "top 3 PCA components and their explained variance in each channel in the image.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-channelPCA_summary.csv",
+      "size": 2981,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternucleus_boundaries_mean_legend.csv",
+      "size": 257,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_boundaries_covariance_legend.pdf",
+      "size": 13305,
+      "type": "pdf"
+    },
+    {
+      "description": "cluster identification for clustering by nuclear boundaries total intensity.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-nucleus_boundaries_cluster.csv",
+      "size": 1099387,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for each nucleus.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-nuclei_cluster.csv",
+      "size": 1099387,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternucleus_boundaries_total_legend.pdf",
+      "size": 12611,
+      "type": "pdf"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyCovarpernucleus_boundaries.png",
+      "size": 3315522,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_channel_mean.csv",
+      "size": 24470558,
+      "type": "csv"
+    },
+    {
+      "description": "tSNE 2-Dimensional projection of all SPRM calculated features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-tSNE_allfeatures.csv",
+      "size": 1565901,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternuclei_covariance_legend.csv",
+      "size": 214,
+      "type": "csv"
+    },
+    {
+      "description": "Image Quality Measures.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": true,
+      "is_qa_qc": true,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-SPRM_Image_Quality_Measures.json",
+      "size": 14863,
+      "type": "json"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyMeanspercell_boundaries.png",
+      "size": 4289351,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-nucleus_boundaries_channel_mean.csv",
+      "size": 17752564,
+      "type": "csv"
+    },
+    {
+      "description": "Cell outlines normalized for size; first column indicates the scaling factor. xy coordinates are pair indices of a total 100 points but with 200 columns",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-normalized_cell_outlines.csv",
+      "size": 137636542,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_cellshape_legend.csv",
+      "size": 235,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_boundaries_covariance_legend.csv",
+      "size": 227,
+      "type": "csv"
+    },
+    {
+      "description": "texture clusters mapped back into the spatial location of each cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyTexture.png",
+      "size": 2681621,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_mean_legend.pdf",
+      "size": 12607,
+      "type": "pdf"
+    },
+    {
+      "description": "covariance clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyCovarpercell.png",
+      "size": 2550167,
+      "type": "unknown"
+    },
+    {
+      "description": "pixel coordinates of cell centers of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_centers.csv",
+      "size": 814519,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_channel_mean.csv",
+      "size": 28728981,
+      "type": "csv"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image and heat map visualization of their components",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff_nmf_components.pdf",
+      "size": 22191,
+      "type": "pdf"
+    },
+    {
+      "description": "covariance of nuclear boundaries pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-nucleus_boundaries_channel_covar.csv",
+      "size": 989843850,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternucleus_boundaries_mean_legend.pdf",
+      "size": 12538,
+      "type": "pdf"
+    },
+    {
+      "description": "Clustering of pixels by intensities of each channel.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-Superpixels.png",
+      "size": 2579936,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance of cell boundary pixel intensities for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_boundaries_channel_covar.csv",
+      "size": 899747036,
+      "type": "csv"
+    },
+    {
+      "description": "Cell outlines normalized for size; first column indicates the scaling factor. xy coordinates are pair indices of a total 100 points but with 200 columns",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-normalized_cell_outlines.csv",
+      "size": 184849308,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_boundaries_channel_total.csv",
+      "size": 8029840,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_total_legend.pdf",
+      "size": 12606,
+      "type": "pdf"
+    },
+    {
+      "description": "Clustering of pixels by intensities in each channel written out as an ome.tiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-superpixel.ome.tiff",
+      "size": 3092743,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cluster_meanALLCH_legend.csv",
+      "size": 307,
+      "type": "csv"
+    },
+    {
+      "description": "Cell outlines normalized for size; first column indicates the scaling factor. xy coordinates are pair indices of a total 100 points but with 200 columns",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-normalized_cell_outlines.csv",
+      "size": 162187607,
+      "type": "csv"
+    },
+    {
+      "description": "Signal to noise ratio of each channel image by otsu and z-score.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-SNR.csv",
+      "size": 1940,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for clustering by nuclear boundaries total intensity.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-nucleus_boundaries_cluster.csv",
+      "size": 963195,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternuclei_total_legend.pdf",
+      "size": 12607,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.pdf",
+      "size": 13059,
+      "type": "pdf"
+    },
+    {
+      "description": "covariance of cell boundary pixel intensities for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_boundaries_channel_covar.csv",
+      "size": 1280052886,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cells mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyMeanspercell.png",
+      "size": 2779217,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of pixel intensities for all parts of each cell for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_channel_meanAll.csv",
+      "size": 27730693,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusternuclei_total_legend.pdf",
+      "size": 12303,
+      "type": "pdf"
+    },
+    {
+      "description": "nuclei texture ",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-nuclei_1_texture.csv",
+      "size": 36553005,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_cellshape_legend.csv",
+      "size": 231,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-nucleus_boundaries_channel_total.csv",
+      "size": 9307416,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cluster_meanALLCH_legend.pdf",
+      "size": 14257,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyTotalpernuclei.png",
+      "size": 3062807,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercells_cellshape_legend.pdf",
+      "size": 11355,
+      "type": "pdf"
+    },
+    {
+      "description": "mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) clusters mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyMeansAll.png",
+      "size": 2777827,
+      "type": "unknown"
+    },
+    {
+      "description": "texture clusters mapped back into the spatial location of each cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyTexture.png",
+      "size": 2547788,
+      "type": "unknown"
+    },
+    {
+      "description": "Sparse matrix output of cell adjacency matrix for minimal distance.",
+      "edam_term": "EDAM_1.24.format_3916",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff_AdjacencyMatrix.mtx",
+      "size": 827470,
+      "type": "unknown"
+    },
+    {
+      "description": "Image Quality Measures.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": true,
+      "is_qa_qc": true,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-SPRM_Image_Quality_Measures.json",
+      "size": 14864,
+      "type": "json"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3) output as an ometiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-channel_pca.ome.tiff",
+      "size": 58700916,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each tSNE cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_tSNE_legend.csv",
+      "size": 108,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_texture_legend.csv",
+      "size": 35,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of nuclear pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-nuclei_channel_covar.csv",
+      "size": 1074344068,
+      "type": "csv"
+    },
+    {
+      "description": "size + shape cell shape coordinates.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_shape.csv",
+      "size": 64992420,
+      "type": "csv"
+    },
+    {
+      "description": "Image Quality Measures.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": true,
+      "is_qa_qc": true,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-SPRM_Image_Quality_Measures.json",
+      "size": 14852,
+      "type": "json"
+    },
+    {
+      "description": "Spatial adjacency graph of cells and their connected neighbors.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff_AdjacencyGraph.pdf",
+      "size": 1720338,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cluster_meanALLCH_legend.csv",
+      "size": 240,
+      "type": "csv"
+    },
+    {
+      "description": "size + shape cell shape coordinates.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_shape.csv",
+      "size": 98446317,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_covariance_legend.pdf",
+      "size": 12627,
+      "type": "pdf"
+    },
+    {
+      "description": "size + shape cell shape coordinates.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-cell_shape.csv",
+      "size": 73391319,
+      "type": "csv"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-Top3ChannelPCA.png",
+      "size": 41978539,
+      "type": "unknown"
+    },
+    {
+      "description": "Image Quality Measures.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": true,
+      "is_qa_qc": true,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-SPRM_Image_Quality_Measures.json",
+      "size": 14864,
+      "type": "json"
+    },
+    {
+      "description": "texture features for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_1_texture.csv",
+      "size": 43080057,
+      "type": "csv"
+    },
+    {
+      "description": "tSNE clusters for all the features used in SPRM mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusterbytSNEAllFeatures.png",
+      "size": 3514950,
+      "type": "unknown"
+    },
+    {
+      "description": "silhouette scores for clustering using different subsets of features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiffclusteringsilhouetteScores.csv",
+      "size": 2791,
+      "type": "csv"
+    },
+    {
+      "description": "nuclei texture ",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-nuclei_1_texture.csv",
+      "size": 49103721,
+      "type": "csv"
+    },
+    {
+      "description": "pixel coordinates of cell centers of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_centers.csv",
+      "size": 1092610,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusternucleus_boundaries_total_legend.csv",
+      "size": 185,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercells_texture_legend.pdf",
+      "size": 10925,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_boundaries_channel_total.csv",
+      "size": 7133984,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternuclei_covariance_legend.pdf",
+      "size": 14830,
+      "type": "pdf"
+    },
+    {
+      "description": "mean intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusterbyMeanspernucleus_boundaries.png",
+      "size": 2662699,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.pdf",
+      "size": 13541,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.csv",
+      "size": 201,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_boundaries_covariance_legend.csv",
+      "size": 279,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clusterbyTotalpercell.png",
+      "size": 2683618,
+      "type": "unknown"
+    },
+    {
+      "description": "Signal to noise ratio of each channel image by otsu and z-score.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-SNR.csv",
+      "size": 1934,
+      "type": "csv"
+    },
+    {
+      "description": "Spatial adjacency graph of cells and their connected neighbors.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff_AdjacencyGraph.pdf",
+      "size": 946385,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clusternuclei_total_legend.csv",
+      "size": 194,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering of pixels by intensities of each channel.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-Superpixels.png",
+      "size": 1479101,
+      "type": "unknown"
+    },
+    {
+      "description": "dimensionality reduction by NMF (Non-Negative Matrix Factorization) on image",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff_nmf_top3.png",
+      "size": 5167616,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clustercell_covariance_legend.csv",
+      "size": 211,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cluster_meanALLCH_legend.csv",
+      "size": 279,
+      "type": "csv"
+    },
+    {
+      "description": "top 3 PCA components and their explained variance in each channel in the image.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-channelPCA_summary.csv",
+      "size": 2984,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering of pixels by intensities in each channel written out as an ome.tiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-superpixel.ome.tiff",
+      "size": 2815831,
+      "type": "unknown"
+    },
+    {
+      "description": "size + shape cell shape coordinates.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_shape.csv",
+      "size": 86411101,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-clustercell_cellshape_legend.csv",
+      "size": 231,
+      "type": "csv"
+    },
+    {
+      "description": "clustering by normalized cell shape mapped back onto the spatial locations of cells in the image.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-Cluster_ShapeNormalized.png",
+      "size": 3145719,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_boundaries_total_legend.csv",
+      "size": 364,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg003_expr.ome.tiff-clusterbyTotalpernuclei.png",
+      "size": 2662335,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-cell_boundaries_channel_mean.csv",
+      "size": 30304153,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg001_expr.ome.tiff-clustercell_texture_legend.csv",
+      "size": 35,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of pixel intensities for all parts of each cell for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_channel_meanAll.csv",
+      "size": 17752564,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of pixel intensities for all parts of each cell for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-cell_channel_meanAll.csv",
+      "size": 23912515,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercells_cellshape_legend.pdf",
+      "size": 11352,
+      "type": "pdf"
+    },
+    {
+      "description": "covariance of cytoplasm pixel intensities for all channels of each cell (not including cell boundary, nucleus or nuclear bounday).",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg004_expr.ome.tiff-cell_channel_covar.csv",
+      "size": 883355213,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg002_expr.ome.tiff-clustercell_total_legend.csv",
+      "size": 193,
+      "type": "csv"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg001_expr-anndata.zarr/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg001_expr-anndata.zarr/layers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg001_expr-anndata.zarr/obsm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg001_expr-anndata.zarr/var/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg001_expr-anndata.zarr/obs/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg004_expr-anndata.zarr/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg004_expr-anndata.zarr/layers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg004_expr-anndata.zarr/obsm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg004_expr-anndata.zarr/var/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg004_expr-anndata.zarr/obs/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg002_expr-anndata.zarr/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg002_expr-anndata.zarr/layers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg002_expr-anndata.zarr/obsm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg002_expr-anndata.zarr/var/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg002_expr-anndata.zarr/obs/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg003_expr-anndata.zarr/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg003_expr-anndata.zarr/layers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg003_expr-anndata.zarr/obsm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg003_expr-anndata.zarr/var/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg003_expr-anndata.zarr/obs/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM393.TMDX.795",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      },
+      {
+        "documentation_url": "",
+        "hash": "16794b6",
+        "input_parameters": [],
+        "name": "steps/ometiff_second_stitching.cwl",
+        "origin": "https://github.com/hubmapconsortium/codex-pipeline",
+        "version": "v2.4.3"
+      },
+      {
+        "documentation_url": "",
+        "hash": "cba3af5",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/sprm",
+        "version": "v1.2.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "6e55233",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/create-vis-symlink-archive",
+        "version": "v1.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "b1b40c4",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "0b94a44",
+        "input_parameters": [],
+        "name": "sprm-to-anndata.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.27"
+      }
+    ],
+    "workflow_description": "The CODEX pipeline performs illumination correction and other pre-processing steps, segments nuclei and cells using Cytokit, and performs spatial analysis of expression data using SPRM, which computes various measures of analyte intensity per cell, performs clustering based on expression and other data, and computes markers for each cluster.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1699289107443,
+  "last_modified_user_displayname": "Karl Burke",
+  "last_modified_user_email": "KBURKE@pitt.edu",
+  "last_modified_user_sub": "3aaa925d-755a-4193-98c7-44455de783ff",
+  "local_directory_rel_path": "public/Stanford TMC/f2e3357fec56d65731ebd76ccf8758d0/",
+  "pipeline_message": "the process ran",
+  "previous_revision_uuid": "2f8d43199ca3167e991b320038024b77",
+  "published_timestamp": 1691434987582,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "CODEX [Cytokit + SPRM] data from the large intestine of a 67-year-old white female",
+  "uuid": "f2e3357fec56d65731ebd76ccf8758d0"
+}

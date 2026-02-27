@@ -1,0 +1,282 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603132392298,
+  "data_access_level": "public",
+  "description": "greater than 2/3 of a complete spleen",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603122722901,
+    "data_access_level": "public",
+    "description": "spleen from 20yo male European",
+    "entity_type": "Donor",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM966.VNKN.965",
+    "image_files": [
+      {
+        "description": "Spleen prior to dissection oriented on sectioning board hilar surface facing up.",
+        "file_uuid": "ffff7d19f92c7bca56f74d45df507e82",
+        "filename": "HubMap007_Spleen_9.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1746723953861,
+    "last_modified_user_displayname": "Joseph Simmons",
+    "last_modified_user_email": "JAS971@pitt.edu",
+    "last_modified_user_sub": "4562a4ca-2e28-4fb7-b3e1-1550bc117bbf",
+    "metadata": {
+      "organ_donor_data": [
+        {
+          "code": "424144002",
+          "concept_id": "C0001779",
+          "data_type": "Numeric",
+          "data_value": "20",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "424144002",
+          "grouping_concept": "C0001779",
+          "grouping_concept_preferred_term": "Age",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "EQ",
+          "preferred_term": "Age",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": "years"
+        },
+        {
+          "code": "413773004",
+          "concept_id": "C0007457",
+          "data_type": "Nominal",
+          "data_value": "White",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "415229000",
+          "grouping_concept": "C0034510",
+          "grouping_concept_preferred_term": "Race",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "White",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "10052007",
+          "concept_id": "C0086582",
+          "data_type": "Nominal",
+          "data_value": "Male",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "57312000",
+          "grouping_concept": "C1522384",
+          "grouping_concept_preferred_term": "Sex",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Male",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "82271004",
+          "concept_id": "C0018674",
+          "data_type": "Nominal",
+          "data_value": "Head trauma",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "184305005",
+          "grouping_concept": "C0007465",
+          "grouping_concept_preferred_term": "Cause of Death",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Head trauma",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "56768003",
+          "concept_id": "C0043252",
+          "data_type": "Nominal",
+          "data_value": "Gunshot wound",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "246078001",
+          "grouping_concept": "C0449413",
+          "grouping_concept_preferred_term": "Mechanism of Injury",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Gunshot wound",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "44301001",
+          "concept_id": "C0038661",
+          "data_type": "Nominal",
+          "data_value": "Suicide",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "419620001",
+          "grouping_concept": "C0011065",
+          "grouping_concept_preferred_term": "Death Event",
+          "grouping_sab": "SNOMEDCT_US ",
+          "numeric_operator": "",
+          "preferred_term": "Suicide",
+          "sab": "SNOMEDCT_US ",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "50373000",
+          "concept_id": "C0005890",
+          "data_type": "Numeric",
+          "data_value": "178",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "50373000",
+          "grouping_concept": "C0005890",
+          "grouping_concept_preferred_term": "Height",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "EQ",
+          "preferred_term": "Height",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": "cm"
+        },
+        {
+          "code": "27113001",
+          "concept_id": "C0005910",
+          "data_type": "Numeric",
+          "data_value": "91.2",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "27113001",
+          "grouping_concept": "C0005910",
+          "grouping_concept_preferred_term": "Weight",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "EQ",
+          "preferred_term": "Weight",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": "kg"
+        },
+        {
+          "code": "60621009",
+          "concept_id": "C1305855",
+          "data_type": "Numeric",
+          "data_value": "28.7",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "60621009",
+          "grouping_concept": "C1305855",
+          "grouping_concept_preferred_term": "Body Mass Index",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "EQ",
+          "preferred_term": "Body Mass Index",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": "kg/m2"
+        },
+        {
+          "code": "58460004",
+          "concept_id": "C0427625",
+          "data_type": "Nominal",
+          "data_value": "Blood Type O",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "63915006",
+          "grouping_concept": "C0000778",
+          "grouping_concept_preferred_term": "ABO blood group system",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Blood Type O",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "C76251",
+          "concept_id": "C2699078",
+          "data_type": "Nominal",
+          "data_value": "Rh positive",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "C76250",
+          "grouping_concept": "C0035406",
+          "grouping_concept_preferred_term": "Rh Blood Group",
+          "grouping_sab": "NCI",
+          "numeric_operator": "",
+          "preferred_term": "Rh positive",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        }
+      ]
+    },
+    "open_consent": "False",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/34c588415de6883c8fb289991ff43e46/AHBG161 Chart_Redacted.pdf"
+      },
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/34c588415de6883c8fb289991ff43e46/AHBG161 Consent_Redacted.pdf"
+      },
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/34c588415de6883c8fb289991ff43e46/AHBG161 DRAI_Redacted.pdf"
+      },
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/34c588415de6883c8fb289991ff43e46/AHBG161 Serology_Redacted.pdf"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "uuid": "1785aae4f0fb8f13a56d79957d1cbedf"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM546.GPHN.345",
+  "image_file_metadata": [
+    {
+      "description": "diaphragmatic surface up",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f918702c8fa3034a576693997c07f492/HubMap007 Spleen 6.JPG"
+    },
+    {
+      "description": "image taken from superior aspect",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f918702c8fa3034a576693997c07f492/HubMap007 Spleen 7.JPG"
+    },
+    {
+      "description": "Image showing hilar surface",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f918702c8fa3034a576693997c07f492/HubMap007 Spleen 8.JPG"
+    }
+  ],
+  "image_files": [
+    {
+      "description": "diaphragmatic surface up",
+      "file_uuid": "ffff8742a6329df4ffd65dd09969dd61",
+      "filename": "HubMap007_Spleen_6.JPG"
+    }
+  ],
+  "last_modified_timestamp": 1617750574887,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "organ": "SP",
+  "portal_metadata_upload_files": [
+    {
+      "description": "",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f918702c8fa3034a576693997c07f492/Pathology_Report20-007.docx"
+    }
+  ],
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+  "sample_category": "organ",
+  "uuid": "cf42bf8de034cc8d2d3c2f7a8d31dd90"
+}

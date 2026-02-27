@@ -1,0 +1,104 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603996922418,
+  "data_access_level": "public",
+  "description": "1cm cube taken from CCF 2 and prepped for 10x analysis",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603996590959,
+    "data_access_level": "public",
+    "description": "1cm slab taken cross sectional through hilum (CCF 2)",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM595.RJJF.938",
+    "image_file_metadata": [
+      {
+        "description": "Spleen hilum face up on sectioning board with organ piece dissected ( cm 7-8",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/7a78ac3f9e1ceac6f1afa833a80b1334/IMG_3450.JPG"
+      },
+      {
+        "description": "H&E image of organ piece",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/c3ae72c46047373fa579b4d2e37bdb3b/20-006_SPL_CC2_C_10X_final stitch.tif"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Spleen hilum face up on sectioning board with organ piece dissected ( cm 7-8",
+        "file_uuid": "ffff67209a25a4d72b18c2636882a1a1",
+        "filename": "IMG_3450.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617759166631,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+    "sample_category": "block",
+    "uuid": "c3ae72c46047373fa579b4d2e37bdb3b"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM769.QPWZ.976",
+  "last_modified_timestamp": 1633208081142,
+  "last_modified_user_displayname": "Hunter Hakimian",
+  "last_modified_user_email": "hakimianh13@ufl.edu",
+  "last_modified_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/fa9ecb7f-16d5-4733-bc89-46496a9e886e",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049",
+      "http://purl.obolibrary.org/obo/UBERON_0005457",
+      "http://purl.obolibrary.org/obo/UBERON_0005469",
+      "http://purl.org/sig/ont/fma/fma15828",
+      "http://purl.org/sig/ont/fma/fma15838",
+      "http://purl.org/sig/ont/fma/fma15837",
+      "http://purl.obolibrary.org/obo/UBERON_0001248",
+      "http://purl.org/sig/ont/fma/fma15839"
+    ],
+    "creation_date": "2021-10-02",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/fa9ecb7f-16d5-4733-bc89-46496a9e886e_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-02",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHFSpleen",
+      "translation_units": "millimeter",
+      "x_rotation": -91,
+      "x_scaling": 1,
+      "x_translation": 41.081,
+      "y_rotation": -46,
+      "y_scaling": 1,
+      "y_translation": 37.488,
+      "z_rotation": -53,
+      "z_scaling": 1,
+      "z_translation": 31.661
+    },
+    "x_dimension": 10,
+    "y_dimension": 10,
+    "z_dimension": 12
+  },
+  "sample_category": "suspension",
+  "uuid": "3d2bc79885fc7720f77fddd2c23f02e5"
+}

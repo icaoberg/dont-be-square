@@ -1,0 +1,258 @@
+{
+  "assigned_to_group_name": "University of Rochester Medical Center TMC",
+  "contacts": [
+    {
+      "affiliation": "University of North Carolina at Chapel Hill",
+      "display_name": "Kenichi Okuda ",
+      "email": "ken_okuda@med.unc.edu",
+      "first_name": "Kenichi",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Okuda",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-9341-2730"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "University of North Carolina at Chapel Hill",
+      "display_name": "James Hagood ",
+      "email": "jhagood@unc.edu",
+      "first_name": "James",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Hagood",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "S",
+      "orcid": "0000-0003-3938-0330"
+    },
+    {
+      "affiliation": "University of North Carolina at Chapel Hill",
+      "display_name": "Kenichi Okuda ",
+      "email": "ken_okuda@med.unc.edu",
+      "first_name": "Kenichi",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Okuda",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-9341-2730"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Gloria Pryhuber ",
+      "email": "gloria_pryhuber@urmc.rochester.edu",
+      "first_name": "Gloria",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Pryhuber",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-9185-3994"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1744724262497,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "Histology",
+  "description": "AB-PAS stain on LLL bronchioles (more distal than 12th): < 1 mm, no SMG/cartilage, potentially contain TB and RB, by microdissection of a 19.99-year-old black or african american male lung. One of 20 region specific dissections from single left lung (D460)",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Andrew Watts",
+      "created_by_user_email": "Andrew_Watts@URMC.Rochester.edu",
+      "created_by_user_sub": "bd3ebccf-fdf8-44d5-b51f-642311df8d77",
+      "created_timestamp": 1724340576960,
+      "data_access_level": "public",
+      "description": "PAS Section",
+      "entity_type": "Sample",
+      "group_name": "University of Rochester Medical Center TMC",
+      "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+      "hubmap_id": "HBM628.WFJT.779",
+      "last_modified_timestamp": 1724340576960,
+      "last_modified_user_displayname": "Andrew Watts",
+      "last_modified_user_email": "Andrew_Watts@URMC.Rochester.edu",
+      "last_modified_user_sub": "bd3ebccf-fdf8-44d5-b51f-642311df8d77",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.kxygxejwdv8j/v3",
+      "sample_category": "section",
+      "uuid": "e1b96ca83a4381d125bd9b4cdf135337"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM734.DNGV.238",
+  "entity_type": "Dataset",
+  "group_name": "University of Rochester Medical Center TMC",
+  "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+  "hubmap_id": "HBM734.DNGV.238",
+  "ingest_id": "e161dbea528028e890b393f40119eead_scan.and.begin.processing_2025-04-17T08:29:37.150689-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "9d31cf38",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.4.2"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "generic_metadatatsv"
+    }
+  },
+  "ingest_task": "[Missing registration metadata]",
+  "last_modified_timestamp": 1749760164475,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/University of Rochester Medical Center TMC/e161dbea528028e890b393f40119eead/",
+  "metadata": {
+    "acquisition_instrument_model": "VS200 Slide Scanner",
+    "acquisition_instrument_vendor": "Evident Scientific (Olympus)",
+    "analyte_class": "Polysaccharide",
+    "contributors_path": "extras/1098_contributors.tsv",
+    "dataset_type": "Histology",
+    "intended_tile_overlap_percentage": "",
+    "is_batch_staining_done": "Yes",
+    "is_image_preprocessing_required": "No",
+    "is_staining_automated": "Yes",
+    "is_targeted": "No",
+    "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+    "non_global_files": "",
+    "preparation_instrument_model": "AutoStainer XL",
+    "preparation_instrument_vendor": "Leica Biosystems",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.j8nlk91jdv5r/v1",
+    "scan_direction": "",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "7",
+    "stain_name": "AB-PAS",
+    "stain_technique": "",
+    "tile_configuration": "",
+    "tiled_image_columns": "",
+    "tiled_image_count": "",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": ""
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "D460 airway dissection AB-PAS histology",
+  "published_timestamp": 1749760164475,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM734.DNGV.238",
+  "run_id": "e161dbea528028e890b393f40119eead_scan.and.begin.processing_2025-04-17T08:29:37.150689-04:00",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1744724262497,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1744724392469,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1744725138555,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1744725530187,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1744892923739,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1744893706795,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1749760164475,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology data from the lung (left) of a 19.99-year-old black or african american male",
+  "upload": {
+    "created_by_user_displayname": "Anthony Corbett",
+    "created_by_user_email": "Anthony_Corbett@URMC.Rochester.edu",
+    "created_by_user_sub": "b4a08f60-d274-11e5-989f-4b82619d2bbe",
+    "created_timestamp": 1741271271349,
+    "description": "20 AB-PAS histology slides from donor D460",
+    "entity_type": "Upload",
+    "group_name": "University of Rochester Medical Center TMC",
+    "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+    "hubmap_id": "HBM787.CGRB.629",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "intended_dataset_type": "Histology",
+    "intended_organ": "LL",
+    "last_modified_timestamp": 1756262259159,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1741271271349,
+        "changed_by_email": "Anthony_Corbett@URMC.Rochester.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1743684782230,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1743684907289,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1744723905823,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1744723927812,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1744724065305,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1744724217531,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1744724221542,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1744724383576,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "D460 airway dissection AB-PAS histology",
+    "uuid": "e0cb7b662672b5d5e1139be8e2e96662"
+  },
+  "uuid": "e161dbea528028e890b393f40119eead"
+}

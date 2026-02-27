@@ -1,0 +1,2572 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1597877022478,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "image_pyramid",
+    "seqFish"
+  ],
+  "dataset_info": "ometiff_pyramid__149eea2020a082ea9dd5683bdaca67c9__ometiff_pyramid",
+  "dataset_type": "seqFISH [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "California Institute of Technology ",
+          "first_name": "Jina",
+          "last_name": "Yun",
+          "middle_name_or_initial": "",
+          "name": "Jina Yun",
+          "orcid_id": "0000-0002-7792-3749"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "California Institute of Technology ",
+          "first_name": "Long ",
+          "last_name": "Cai",
+          "middle_name_or_initial": "",
+          "name": "Long Cai",
+          "orcid_id": "0000-0002-7154-5361"
+        },
+        {
+          "affiliation": "California Institute of Technology ",
+          "first_name": "Jina",
+          "last_name": "Yun",
+          "middle_name_or_initial": "",
+          "name": "Jina Yun",
+          "orcid_id": "0000-0002-7792-3749"
+        },
+        {
+          "affiliation": "California Institute of Technology",
+          "first_name": "Nico",
+          "last_name": "Pierson",
+          "middle_name_or_initial": "",
+          "name": "Nico Pierson",
+          "orcid_id": "0000-0002-2451-0633"
+        },
+        {
+          "affiliation": "California Institute of Technology",
+          "first_name": "Nina",
+          "last_name": "Dar",
+          "middle_name_or_initial": "",
+          "name": "Nina Dar",
+          "orcid_id": "0000-0001-6410-0682"
+        }
+      ],
+      "created_by_user_displayname": "Nico Pierson",
+      "created_by_user_email": "nicogpt@caltech.edu",
+      "created_by_user_sub": "17d4e024-0696-4b18-a0fb-c5a4fa42ac48",
+      "created_timestamp": 1577804486886,
+      "data_access_level": "public",
+      "data_types": [
+        "seqFish"
+      ],
+      "dataset_info": "W105 spleen, central seqFISH raw data\r\n\r\nraw TIF images spanning across field of views 5-9",
+      "dataset_type": "seqFISH",
+      "description": "raw TIF images spanning across field of views 5-9",
+      "doi_url": "https://doi.org/10.35079/HBM682.TWTR.428",
+      "entity_type": "Dataset",
+      "group_name": "California Institute of Technology TMC",
+      "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM682.TWTR.428",
+      "ingest_id": "149eea2020a082ea9dd5683bdaca67c9_scan.and.begin.processing_2020-08-19T18:41:49.434066-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "77f2752",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1644612207734,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/California Institute of Technology TMC/149eea2020a082ea9dd5683bdaca67c9",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "Zyla 4.2 USB3",
+        "acquisition_instrument_vendor": "Andor sCMOS Camera",
+        "analyte_class": "RNA",
+        "assay_category": "imaging",
+        "assay_type": "seqFISH",
+        "collectiontype": "single_metadatatsv",
+        "data_path": ".",
+        "execution_datetime": "2019-12-07 14:24",
+        "is_targeted": "TRUE",
+        "metadata_path": ".",
+        "number_of_barcode_probes": "45",
+        "number_of_barcode_regions_per_barcode_probe": "6",
+        "number_of_channels": "3",
+        "number_of_cycles": "16",
+        "number_of_pseudocolors_per_channel": "1",
+        "number_of_readout_probes_per_channel": "1",
+        "operator": "Nina Dar",
+        "operator_email": "ninadar@caltech.edu",
+        "pi": "Long Cai",
+        "pi_email": "lcai@caltech.edu",
+        "preparation_instrument_model": "custom Hyb Station",
+        "preparation_instrument_vendor": "10.17504/protocols.io.bhfkj3kw",
+        "protocols_io_doi": "10.17504/protocols.io.7e7hjhn",
+        "reagent_prep_protocols_io_doi": "10.17504/protocols.io.7mihk4e",
+        "resolution_x_unit": "um",
+        "resolution_x_value": "0.112",
+        "resolution_y_unit": "um",
+        "resolution_y_value": "0.1126",
+        "resolution_z_unit": "um",
+        "resolution_z_value": "0.75",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.7mdhk26"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598130458270,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM682.TWTR.428",
+      "run_id": "149eea2020a082ea9dd5683bdaca67c9_scan.and.begin.processing_2020-08-19T18:41:49.434066-04:00",
+      "status": "Published",
+      "uuid": "149eea2020a082ea9dd5683bdaca67c9"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_0/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_13/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_14/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_7/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_3/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_9/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_10/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_4/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_15/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_6/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/final_mRNA_background/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_1/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_12/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_5/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_8/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_2/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos14.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos15.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos17.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos16.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos13.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos12.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos10.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos11.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos19.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/HybCycle_11/MMStack_Pos18.offsets.json",
+      "size": 484,
+      "type": "json"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos11.ome.tif",
+      "size": 299315362,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos15.ome.tif",
+      "size": 303420850,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos19.ome.tif",
+      "size": 298508982,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos18.ome.tif",
+      "size": 299072227,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos10.ome.tif",
+      "size": 287722751,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos14.ome.tif",
+      "size": 296528413,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos12.ome.tif",
+      "size": 298615921,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos16.ome.tif",
+      "size": 296121320,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos13.ome.tif",
+      "size": 292172752,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_5/MMStack_Pos17.ome.tif",
+      "size": 302384382,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos11.ome.tif",
+      "size": 298311416,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos15.ome.tif",
+      "size": 302548589,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos19.ome.tif",
+      "size": 296741848,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos18.ome.tif",
+      "size": 297679814,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos10.ome.tif",
+      "size": 286071753,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos14.ome.tif",
+      "size": 294680161,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos12.ome.tif",
+      "size": 297313531,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos16.ome.tif",
+      "size": 294302494,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos13.ome.tif",
+      "size": 290239292,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_10/MMStack_Pos17.ome.tif",
+      "size": 301537358,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos18.ome.tif",
+      "size": 295820934,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos14.ome.tif",
+      "size": 291625210,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos10.ome.tif",
+      "size": 283449199,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos15.ome.tif",
+      "size": 300340909,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos11.ome.tif",
+      "size": 295682853,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos19.ome.tif",
+      "size": 295048314,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos17.ome.tif",
+      "size": 300211039,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos13.ome.tif",
+      "size": 287329880,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos16.ome.tif",
+      "size": 292074440,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/final_mRNA_background/MMStack_Pos12.ome.tif",
+      "size": 295086248,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos10.ome.tif",
+      "size": 285629063,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos14.ome.tif",
+      "size": 294506085,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos18.ome.tif",
+      "size": 297647115,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos19.ome.tif",
+      "size": 296564447,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos11.ome.tif",
+      "size": 297066351,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos15.ome.tif",
+      "size": 302284511,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos13.ome.tif",
+      "size": 290063029,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos17.ome.tif",
+      "size": 300888669,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos12.ome.tif",
+      "size": 296929390,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_8/MMStack_Pos16.ome.tif",
+      "size": 293827740,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos12.ome.tif",
+      "size": 296832330,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos16.ome.tif",
+      "size": 294389611,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos13.ome.tif",
+      "size": 290161258,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos17.ome.tif",
+      "size": 300430687,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos19.ome.tif",
+      "size": 296182604,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos11.ome.tif",
+      "size": 297563819,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos15.ome.tif",
+      "size": 300956341,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos10.ome.tif",
+      "size": 286153762,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos14.ome.tif",
+      "size": 295012637,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_2/MMStack_Pos18.ome.tif",
+      "size": 296967984,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos16.ome.tif",
+      "size": 293254402,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos12.ome.tif",
+      "size": 297018113,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos17.ome.tif",
+      "size": 300287748,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos13.ome.tif",
+      "size": 289872541,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos15.ome.tif",
+      "size": 301838856,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos11.ome.tif",
+      "size": 297244779,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos19.ome.tif",
+      "size": 296755942,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos18.ome.tif",
+      "size": 297204875,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos14.ome.tif",
+      "size": 294239765,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_6/MMStack_Pos10.ome.tif",
+      "size": 285252373,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos15.ome.tif",
+      "size": 306288084,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos11.ome.tif",
+      "size": 302078041,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos19.ome.tif",
+      "size": 300833640,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos18.ome.tif",
+      "size": 301292083,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos14.ome.tif",
+      "size": 298546260,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos10.ome.tif",
+      "size": 289828013,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos16.ome.tif",
+      "size": 298741916,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos12.ome.tif",
+      "size": 301435226,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos17.ome.tif",
+      "size": 305049332,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_13/MMStack_Pos13.ome.tif",
+      "size": 294130415,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos10.ome.tif",
+      "size": 287571013,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos14.ome.tif",
+      "size": 296160333,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos18.ome.tif",
+      "size": 299484675,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos19.ome.tif",
+      "size": 298234313,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos11.ome.tif",
+      "size": 300260356,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos15.ome.tif",
+      "size": 304369119,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos13.ome.tif",
+      "size": 291905448,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos17.ome.tif",
+      "size": 302938535,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos12.ome.tif",
+      "size": 299512369,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_14/MMStack_Pos16.ome.tif",
+      "size": 296586566,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos11.ome.tif",
+      "size": 297130711,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos15.ome.tif",
+      "size": 300066937,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos19.ome.tif",
+      "size": 296123227,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos18.ome.tif",
+      "size": 295559817,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos10.ome.tif",
+      "size": 287129334,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos14.ome.tif",
+      "size": 295059685,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos12.ome.tif",
+      "size": 296646850,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos16.ome.tif",
+      "size": 294133224,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos13.ome.tif",
+      "size": 289436393,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_1/MMStack_Pos17.ome.tif",
+      "size": 299388983,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos12.ome.tif",
+      "size": 296393345,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos16.ome.tif",
+      "size": 292553439,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos13.ome.tif",
+      "size": 288639611,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos17.ome.tif",
+      "size": 299394366,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos11.ome.tif",
+      "size": 296490154,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos15.ome.tif",
+      "size": 300765202,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos19.ome.tif",
+      "size": 295782548,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos18.ome.tif",
+      "size": 296311080,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos10.ome.tif",
+      "size": 285137830,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_3/MMStack_Pos14.ome.tif",
+      "size": 293731076,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos17.ome.tif",
+      "size": 300746885,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos13.ome.tif",
+      "size": 289556221,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos16.ome.tif",
+      "size": 294253970,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos12.ome.tif",
+      "size": 297328483,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos18.ome.tif",
+      "size": 297304861,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos14.ome.tif",
+      "size": 294080284,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos10.ome.tif",
+      "size": 285757425,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos15.ome.tif",
+      "size": 302348983,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos11.ome.tif",
+      "size": 297543798,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_9/MMStack_Pos19.ome.tif",
+      "size": 296600334,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos18.ome.tif",
+      "size": 296968306,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos14.ome.tif",
+      "size": 294677413,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos10.ome.tif",
+      "size": 285914161,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos15.ome.tif",
+      "size": 301873142,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos11.ome.tif",
+      "size": 297588374,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos19.ome.tif",
+      "size": 296860413,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos17.ome.tif",
+      "size": 300792944,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos13.ome.tif",
+      "size": 290325932,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos16.ome.tif",
+      "size": 294119322,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_4/MMStack_Pos12.ome.tif",
+      "size": 297196399,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos19.ome.tif",
+      "size": 298544821,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos11.ome.tif",
+      "size": 299488955,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos15.ome.tif",
+      "size": 303645120,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos10.ome.tif",
+      "size": 286900468,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos14.ome.tif",
+      "size": 295587757,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos18.ome.tif",
+      "size": 299880095,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos12.ome.tif",
+      "size": 298538198,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos16.ome.tif",
+      "size": 295899060,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos13.ome.tif",
+      "size": 291757007,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_11/MMStack_Pos17.ome.tif",
+      "size": 302225858,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos14.ome.tif",
+      "size": 295687945,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos10.ome.tif",
+      "size": 288219793,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos18.ome.tif",
+      "size": 299512361,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos19.ome.tif",
+      "size": 298049223,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos15.ome.tif",
+      "size": 303954855,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos11.ome.tif",
+      "size": 299841747,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos17.ome.tif",
+      "size": 302738075,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos13.ome.tif",
+      "size": 292195718,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos16.ome.tif",
+      "size": 296231569,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_15/MMStack_Pos12.ome.tif",
+      "size": 298325965,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos15.ome.tif",
+      "size": 293512019,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos11.ome.tif",
+      "size": 290863336,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos19.ome.tif",
+      "size": 289215717,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos18.ome.tif",
+      "size": 288359088,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos14.ome.tif",
+      "size": 289916582,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos10.ome.tif",
+      "size": 281373663,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos16.ome.tif",
+      "size": 288402603,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos12.ome.tif",
+      "size": 290682194,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos17.ome.tif",
+      "size": 291735486,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_0/MMStack_Pos13.ome.tif",
+      "size": 282858418,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos17.ome.tif",
+      "size": 302295789,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos13.ome.tif",
+      "size": 291788939,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos16.ome.tif",
+      "size": 295530383,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos12.ome.tif",
+      "size": 298278707,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos14.ome.tif",
+      "size": 295922467,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos10.ome.tif",
+      "size": 287214031,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos18.ome.tif",
+      "size": 298499089,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos19.ome.tif",
+      "size": 298285699,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos15.ome.tif",
+      "size": 303406677,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_7/MMStack_Pos11.ome.tif",
+      "size": 298577888,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos11.ome.tif",
+      "size": 301559983,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos15.ome.tif",
+      "size": 305556182,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos19.ome.tif",
+      "size": 300238652,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos18.ome.tif",
+      "size": 300440742,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos10.ome.tif",
+      "size": 289689341,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos14.ome.tif",
+      "size": 298014543,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos12.ome.tif",
+      "size": 300933324,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos16.ome.tif",
+      "size": 298075496,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos13.ome.tif",
+      "size": 293671924,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/HybCycle_12/MMStack_Pos17.ome.tif",
+      "size": 304764910,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "California Institute of Technology TMC",
+  "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM467.WQZH.856",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "77f2752",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.3.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "77f2752",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.3.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "8c65f17",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid.git",
+        "version": "v1.2"
+      },
+      {
+        "documentation_url": "",
+        "hash": "fb19103",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers.git",
+        "version": ""
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1598130459155,
+  "last_modified_user_displayname": "Bill Shirey",
+  "last_modified_user_email": "shirey@pitt.edu",
+  "last_modified_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "local_directory_rel_path": "public/California Institute of Technology TMC/7fa46d1b74c3f146f0cb7138b8ac690d/",
+  "pipeline_message": "The process ran",
+  "published_timestamp": 1598130459155,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "status": "Published",
+  "title": "seqFISH [Image Pyramid] data from the spleen of a 62-year-old white female",
+  "uuid": "7fa46d1b74c3f146f0cb7138b8ac690d"
+}

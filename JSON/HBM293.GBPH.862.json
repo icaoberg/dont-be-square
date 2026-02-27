@@ -1,0 +1,279 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1593829610119,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "salmon_rnaseq_10x"
+  ],
+  "dataset_info": "['salmon_rnaseq_10x__617aa0f0fc9a4ad38ecd96afad012575__salmon-rnaseq']",
+  "dataset_type": "RNAseq [Salmon]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Maigan",
+          "last_name": "Brusko",
+          "name": "Maigan Brusko",
+          "orcid_id": "0000-0002-4331-2202"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Maigan",
+          "last_name": "Brusko",
+          "name": "Maigan Brusko",
+          "orcid_id": "0000-0002-4331-2202"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Jason",
+          "last_name": "Brant",
+          "name": "Jason Brant",
+          "orcid_id": "0000-0002-9800-9251"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Todd",
+          "last_name": "Brusko",
+          "name": "Todd Brusko",
+          "orcid_id": "0000-0003-2878-9296"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Mark",
+          "last_name": "Atkinson",
+          "name": "Mark Atkinson",
+          "orcid_id": "0000-0001-8489-4782"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Jesus",
+          "last_name": "Aponte",
+          "middle_name_or_initial": "Penaloza",
+          "name": "Jesus Aponte",
+          "orcid_id": "0000-0001-5903-2291"
+        }
+      ],
+      "created_by_user_displayname": "Jesus Penaloza Aponte",
+      "created_by_user_email": "jesus.penalozaa@ufl.edu",
+      "created_by_user_sub": "2fbc1615-1bfe-479b-92ff-6019902e3d6b",
+      "created_timestamp": 1576699035771,
+      "data_access_level": "protected",
+      "data_types": [
+        "scRNA-Seq-10x"
+      ],
+      "dataset_info": "HBMP1_lymph_node_1\r\n\r\nCase1  LN 1",
+      "dataset_type": "RNAseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX24345209",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002268",
+      "description": "Case1  LN 1",
+      "doi_url": "https://doi.org/10.35079/HBM226.LBVC.946",
+      "entity_type": "Dataset",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM226.LBVC.946",
+      "ingest_id": "617aa0f0fc9a4ad38ecd96afad012575_scan.and.begin.processing_2020-07-03T20:58:52.983628-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "8c8296d",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1721914260987,
+      "last_modified_user_displayname": "Jackie Uranic",
+      "last_modified_user_email": "juranic@psc.edu",
+      "last_modified_user_sub": "54dc2f06-b4c3-4f95-a97b-8636df4b9f00",
+      "local_directory_rel_path": "/University of Florida TMC/617aa0f0fc9a4ad38ecd96afad012575",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "NovaSeq 6000",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "RNA",
+        "assay_category": "sequence",
+        "assay_type": "scRNAseq-10xGenomics",
+        "cell_barcode_offset": "1",
+        "cell_barcode_read": "R1",
+        "cell_barcode_size": "16",
+        "collectiontype": "rnaseq_10x",
+        "data_path": ".",
+        "execution_datetime": "2019-11-07 12:00",
+        "is_targeted": "FALSE",
+        "is_technical_replicate": "FALSE",
+        "library_adapter_sequence": "5'-  GATCGGAAGAGCACACGTCTGAACTCCAGTCA -3'       3'- TCTAGCCTTCTCG -5'",
+        "library_average_fragment_size": "500",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.bffvjjn6",
+        "library_final_yield_unit": "ng",
+        "library_final_yield_value": "439",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "15",
+        "library_pcr_cycles_for_sample_index": "15",
+        "metadata_path": ".",
+        "operator": "Maigan Brusko",
+        "operator_email": "maigan@ufl.edu",
+        "other_metadata": {
+          "": "TCTGTTGG",
+          "10x_Genomics_Index_well_ID": "SI-GA-E6",
+          "Concentration_ng_ul": "24.6",
+          "FRAGMENT_SIZE_report_from_core": "",
+          "HuBMAP Case Identifier": "Case1  LN 1",
+          "Name": "HBMP1_lymph_node_1",
+          "Path": "",
+          "Quantification_method": "Qubit",
+          "Run_date_reported_from_ICBR": "",
+          "SI_INDEX_SEQUENCE": "CTGCGGCT",
+          "Seq_run": "NS-1699",
+          "Sequencing_concentration_reported_from_ICBR": "225 pM",
+          "UUID Identifier": "UFL0004-LY-05-1",
+          "Volume_ul": "10",
+          "fragment_analysis_method_report_from_core": "",
+          "qPCR_library_quantification_results": "",
+          "qPCR_quantification_method": ""
+        },
+        "pi": "Todd Brusko",
+        "pi_email": "tbrusko@ufl.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be79jhr6",
+        "rnaseq_assay_input": "15091",
+        "rnaseq_assay_method": "Single Cell 3' v3",
+        "sc_isolation_cell_number": "500000",
+        "sc_isolation_enrichment": "FACS",
+        "sc_isolation_entity": "whole cells",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.bd9vi966",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "digestion",
+        "sequencing_phix_percent": "0.01",
+        "sequencing_read_format": "28/8/0/91",
+        "sequencing_read_percent_q30": "0.9",
+        "sequencing_reagent_kit": "S4"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598109424859,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM226.LBVC.946",
+      "run_id": "617aa0f0fc9a4ad38ecd96afad012575_scan.and.begin.processing_2020-07-03T20:58:52.983628-04:00",
+      "status": "Published",
+      "uuid": "617aa0f0fc9a4ad38ecd96afad012575"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "Raw gene expression, in HDF5 format, readable with the 'anndata' Python package",
+      "edam_term": "EDAM_1.24.format_3590",
+      "rel_path": "out.h5ad",
+      "size": 53816384,
+      "type": "h5ad"
+    },
+    {
+      "description": "UMAP plot of cells, colored by Leiden cluster ID",
+      "edam_term": "EDAM_1.24.format_3508",
+      "rel_path": "umap_by_leiden_cluster.pdf",
+      "size": 268529,
+      "type": "pdf"
+    },
+    {
+      "description": "Normalized gene expression with additional metadata, in HDF5 format, readable with the 'anndata' Python package",
+      "edam_term": "EDAM_1.24.format_3590",
+      "rel_path": "cluster-marker-genes/cluster_marker_genes.h5ad",
+      "size": 647856408,
+      "type": "h5ad"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar Apache Arrow format.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "rel_path": "cluster-marker-genes/output/cluster_marker_genes.arrow",
+      "size": 418634,
+      "type": "arrow"
+    },
+    {
+      "description": "JSON-formatted information about this scRNA-seq run including scatterplot coordinates and clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "cluster-marker-genes/output/cluster_marker_genes.cells.json",
+      "size": 1768560,
+      "type": "json"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar comma-separated-file format.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "cluster-marker-genes/output/cluster_marker_genes.csv",
+      "size": 572020,
+      "type": "csv"
+    },
+    {
+      "description": "JSON-formatted information about the heirarchy scRNA-seq's cells.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "cluster-marker-genes/output/cluster_marker_genes.cell-sets.json",
+      "size": 373755,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about this scRNA-seq's clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "cluster-marker-genes/output/cluster_marker_genes.factors.json",
+      "size": 358790,
+      "type": "json"
+    }
+  ],
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM293.GBPH.862",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "8c8296d",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.0.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "8c8296d",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.0.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "72cf42a",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/salmon-rnaseq.git",
+        "version": "v1.2"
+      },
+      {
+        "documentation_url": "",
+        "hash": "1532711",
+        "input_parameters": [],
+        "name": "h5ad-to-arrow.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers.git",
+        "version": ""
+      }
+    ],
+    "workflow_description": "The pipeline for multiome RNA-ATACseq data uses Salmon for alignment free quasi mapping of reads from RNA sequencing to the hg38 reference genome and HISAT2 for short read alignment of ATACseq reads to the same genome.  Barcodes are then mapped between components of the assay to generate an annotated data matrix with consolidated RNA and ATACseq data. This annotated data matrix is then passed to the Muon package for dimensionality reduction, clustering, and multiomic factor analysis.  Cell type annotations are provided by Azimuth when available for the type of tissue being analyzed.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1598109500090,
+  "last_modified_user_displayname": "Bill Shirey",
+  "last_modified_user_email": "shirey@pitt.edu",
+  "last_modified_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "local_directory_rel_path": "public/University of Florida TMC/747bd5b3f6fef699bcd6363ff51e59d9/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1598109500090,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "status": "Published",
+  "title": "RNAseq [Salmon] data from the lymph node of a 14-year-old black or african american female",
+  "uuid": "747bd5b3f6fef699bcd6363ff51e59d9"
+}

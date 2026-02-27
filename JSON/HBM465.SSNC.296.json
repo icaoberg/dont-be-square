@@ -1,0 +1,226 @@
+{
+  "collections": [
+    {
+      "created_timestamp": 1613671060000,
+      "description": "Imaging Mass Cytometry ",
+      "entity_type": "Collection",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM865.BQMG.566",
+      "last_modified_timestamp": 1613671060000,
+      "title": "IMC",
+      "uuid": "c064465716add8cce42e8112fb99a6f1"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "University of Zurich",
+      "first_name": "Bernd",
+      "last_name": "Bodenmiller",
+      "middle_name_or_initial": "",
+      "name": "Bernd Bodenmiller",
+      "orcid_id": "0000-0002-6325-7861"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "University of Zurich",
+      "first_name": "Bernd",
+      "is_contact": "TRUE",
+      "last_name": "Bodenmiller",
+      "middle_name_or_initial": "",
+      "name": "Bernd Bodenmiller",
+      "orcid_id": "0000-0002-6325-7861"
+    },
+    {
+      "affiliation": "University of Zurich",
+      "first_name": "Nicolas",
+      "last_name": "Damon",
+      "middle_name_or_initial": "",
+      "name": "Nicolas Damon",
+      "orcid_id": "0000-0003-3027-8989"
+    },
+    {
+      "affiliation": "University of Zurich",
+      "first_name": "Ruben",
+      "last_name": "Casanova",
+      "middle_name_or_initial": "",
+      "name": "Ruben Casanova",
+      "orcid_id": "0000-0002-3957-8120"
+    },
+    {
+      "affiliation": "University of Zurich",
+      "first_name": "Michelle ",
+      "last_name": "Daniel",
+      "middle_name_or_initial": "",
+      "name": "Michelle Daniel",
+      "orcid_id": "0000-0002-2003-2865"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Mark",
+      "last_name": "Atkinson",
+      "middle_name_or_initial": "",
+      "name": "Mark Atkinson",
+      "orcid_id": "0000-0001-8489-4782"
+    },
+    {
+      "affiliation": "University of Zurich",
+      "first_name": "Esther",
+      "last_name": "Danerberg",
+      "middle_name_or_initial": "",
+      "name": "Esther Danenberg",
+      "orcid_id": "0000-0002-1799-4457"
+    }
+  ],
+  "created_by_user_displayname": "Jesus Penaloza Aponte",
+  "created_by_user_email": "jesus.penalozaa@ufl.edu",
+  "created_timestamp": 1596228084303,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "data_types": [
+    "IMC"
+  ],
+  "dataset_info": "19-003-SP-CC3-E-R3\r\n\r\nIMC Spleen",
+  "dataset_type": "2D Imaging Mass Cytometry",
+  "description": "IMC Spleen",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Marda Jorgensen",
+      "created_by_user_email": "marda@ufl.edu",
+      "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+      "created_timestamp": 1576874840617,
+      "data_access_level": "public",
+      "description": "section cut by IMC lab, no additional information available",
+      "entity_type": "Sample",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM936.XMNF.773",
+      "last_modified_timestamp": 1583962753499,
+      "metadata": {
+        "cold_ischemia_time_unit": "minutes",
+        "cold_ischemia_time_value": "912",
+        "health_status": "relatively healthy",
+        "organ_condition": "healthy",
+        "pathologist_report": "normal, no cancer",
+        "perfusion_solution": "UWS",
+        "sample_id": "UFL0001-SP-3-8-1",
+        "specimen_preservation_temperature": "Room Temperature",
+        "specimen_quality_criteria": "H&E",
+        "specimen_tumor_distance_unit": "cm",
+        "specimen_tumor_distance_value": "",
+        "vital_state": "deceased",
+        "warm_ischemia_time_unit": "minutes",
+        "warm_ischemia_time_value": "20"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.bfz4jp8w",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/0.5/3158731c-8066-49b2-903f-ba200e5fa3fd",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [],
+        "creation_date": "2/10/2020",
+        "creator": "Marda Jorgensen",
+        "creator_first_name": "Marda",
+        "creator_last_name": "Jorgensen",
+        "dimension_units": "millimeter",
+        "label": "SpatialEntity for Male, Age 18, BMI 27.1",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/0.5/3158731c-8066-49b2-903f-ba200e5fa3fd_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2/10/2020",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHSpleenCC3",
+          "translation_units": "millimeter",
+          "x_rotation": 0,
+          "x_scaling": 1,
+          "x_translation": 40.85,
+          "y_rotation": 0,
+          "y_scaling": 1,
+          "y_translation": -16.6,
+          "z_rotation": 0,
+          "z_scaling": 1,
+          "z_translation": 0
+        },
+        "x_dimension": 10,
+        "y_dimension": 10,
+        "z_dimension": 10
+      },
+      "sample_category": "section",
+      "uuid": "f81107e2ab183f87f019a8eb2f1112d2"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM465.SSNC.296",
+  "entity_type": "Dataset",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM465.SSNC.296",
+  "ingest_id": "c5b156bda4b396bfe8a06d981e155149_scan.and.begin.processing_2020-08-04T11:44:05.198985-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "852d698",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1644609373253,
+  "last_modified_user_displayname": "Zhou Yuan",
+  "last_modified_user_email": "ZHY19@pitt.edu",
+  "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+  "local_directory_rel_path": "public/University of Florida TMC/c5b156bda4b396bfe8a06d981e155149/",
+  "metadata": {
+    "_from_metadatatsv": true,
+    "ablation_distance_between_shots_x_units": "um",
+    "ablation_distance_between_shots_x_value": "1",
+    "ablation_distance_between_shots_y_units": "um",
+    "ablation_distance_between_shots_y_value": "1",
+    "ablation_frequency_unit": "Hz",
+    "ablation_frequency_value": "200",
+    "acquisition_instrument_model": "Hyperion Imaging System",
+    "acquisition_instrument_vendor": "Fluidigm",
+    "analyte_class": "Protein",
+    "assay_category": "imaging",
+    "assay_type": "Imaging Mass Cytometry",
+    "collectiontype": "single_metadatatsv",
+    "data_precision_bytes": "4",
+    "dual_count_start": "1",
+    "end_datetime": "2019-12-03 13:53",
+    "execution_datetime": "2019-12-03 12:14",
+    "is_targeted": "TRUE",
+    "max_x_width_unit": "um",
+    "max_x_width_value": "1000",
+    "max_y_height_unit": "um",
+    "max_y_height_value": "1000",
+    "metadata_path": ".",
+    "number_of_channels": "45",
+    "operator": "Esther Danenberg",
+    "operator_email": "esthermaria.danenberg@uzh.ch",
+    "pi": "Bernd Bodenmiller",
+    "pi_email": "bernd.bodenmiller@uzh.ch",
+    "preparation_instrument_model": "HM355S Automatic Microtome",
+    "preparation_instrument_vendor": "Thermo Fisher Scientific",
+    "protocols_io_doi": "10.17504/protocols.io.bgatjsen",
+    "reagent_prep_protocols_io_doi": "10.17504/protocols.io.bfz8jp9w",
+    "roi_description": "ROI_003_follicles",
+    "roi_id": "3",
+    "section_prep_protocols_io_doi": "10.17504/protocols.io.bfz4jp8w",
+    "segment_data_format": "float",
+    "signal_type": "dual count",
+    "start_datetime": "2019-12-03 12:14"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1598109325729,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "registered_doi": "10.35079/HBM465.SSNC.296",
+  "run_id": "c5b156bda4b396bfe8a06d981e155149_scan.and.begin.processing_2020-08-04T11:44:05.198985-04:00",
+  "status": "Published",
+  "title": "2D Imaging Mass Cytometry data from the spleen of a 18-year-old black or african american male",
+  "uuid": "c5b156bda4b396bfe8a06d981e155149"
+}

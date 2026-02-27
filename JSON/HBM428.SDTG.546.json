@@ -1,0 +1,292 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1720832482825,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "dataset_info": "ometiff_pyramid__75db10a5e30a41bb0513b8efd5d2bca8__ometiff_pyramid",
+  "dataset_type": "Histology [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford",
+          "display_name": "John Hickey",
+          "email": "john.hickey@duke.edu",
+          "first_name": "John",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Hickey",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "W",
+          "orcid": "0000-0001-9961-7673"
+        },
+        {
+          "affiliation": "Stanford",
+          "display_name": "Chiara Caraccio",
+          "email": "caraccio@stanford.edu",
+          "first_name": "Chiara",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Caraccio",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-3580-1348"
+        },
+        {
+          "affiliation": "Stanford",
+          "display_name": "Garry Nolan",
+          "email": "gnolan@stanford.edu",
+          "first_name": "Garry",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Nolan",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8862-9043"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Stanford",
+          "display_name": "John Hickey",
+          "email": "john.hickey@duke.edu",
+          "first_name": "John",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Hickey",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "W",
+          "orcid": "0000-0001-9961-7673"
+        },
+        {
+          "affiliation": "Stanford",
+          "display_name": "Chiara Caraccio",
+          "email": "caraccio@stanford.edu",
+          "first_name": "Chiara",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Caraccio",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-3580-1348"
+        },
+        {
+          "affiliation": "Stanford",
+          "display_name": "Garry Nolan",
+          "email": "gnolan@stanford.edu",
+          "first_name": "Garry",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Nolan",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8862-9043"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1720814362058,
+      "data_access_level": "public",
+      "dataset_type": "Histology",
+      "description": "H&E slides corresponding to CODEX datasets : Sample of sigmoid large intestine from donor B012 / W195",
+      "doi_url": "https://doi.org/10.35079/HBM432.DGFJ.894",
+      "entity_type": "Dataset",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM432.DGFJ.894",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "32004d8",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          },
+          {
+            "hash": "8a14a9a",
+            "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1731709108748,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "BZ-X710",
+        "acquisition_instrument_vendor": "Keyence",
+        "analyte_class": "Nucleic acid + protein",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "dataset_type": "Histology",
+        "intended_tile_overlap_percentage": "",
+        "is_batch_staining_done": "No",
+        "is_image_preprocessing_required": "No",
+        "is_staining_automated": "No",
+        "is_targeted": "No",
+        "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+        "non_global_files": "",
+        "preparation_instrument_model": "",
+        "preparation_instrument_vendor": "",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.be8qjhvw",
+        "scan_direction": "",
+        "source_storage_duration_unit": "year",
+        "source_storage_duration_value": "1.337",
+        "stain_name": "H&E",
+        "stain_technique": "",
+        "tile_configuration": "",
+        "tiled_image_columns": "",
+        "tiled_image_count": "",
+        "time_since_acquisition_instrument_calibration_unit": "",
+        "time_since_acquisition_instrument_calibration_value": ""
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "H&E for CODEX : ./B012B-reg003",
+      "published_timestamp": 1722026610964,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM432.DGFJ.894",
+      "status": "Published",
+      "status_history": [
+        {
+          "change_timestamp": 1720814362058,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1720814453233,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Submitted"
+        },
+        {
+          "change_timestamp": 1720830176239,
+          "changed_by_email": "dbordelo@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1720831100308,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1722026610964,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        }
+      ],
+      "uuid": "75db10a5e30a41bb0513b8efd5d2bca8"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/lab_processed/images/B012B-reg003.ome.tif",
+      "size": 62883328,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/lab_processed/images/B012B-reg003.offsets.json",
+      "size": 30,
+      "type": "json"
+    }
+  ],
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM428.SDTG.546",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "32004d8",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.9"
+      },
+      {
+        "documentation_url": "",
+        "hash": "8a14a9a",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.23"
+      },
+      {
+        "documentation_url": "",
+        "hash": "32004d8",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.9"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a063a34",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "8270e46",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.38"
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1722026746454,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Stanford TMC/b9e4b672645e32ea441d90ed3f05a3d4/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1722026746454,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1720832482825,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1720832489392,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1720832599574,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1722026746454,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology [Image Pyramid] data from the large intestine of a 24-year-old white male",
+  "uuid": "b9e4b672645e32ea441d90ed3f05a3d4"
+}

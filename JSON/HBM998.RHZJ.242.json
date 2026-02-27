@@ -1,0 +1,471 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Junhyong Kim",
+      "email": "junhyong@sas.upenn.edu",
+      "first_name": "Junhyong",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Kim",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-7726-8246"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Junhyong Kim",
+      "email": "junhyong@sas.upenn.edu",
+      "first_name": "Junhyong",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Kim",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-7726-8246"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Kathleen O'Neill",
+      "email": "kathleen.o'neill2@pennmedicine.upenn.edu",
+      "first_name": "Kathleen",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "O'Neill",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-1980-6840"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Stephen Fisher",
+      "email": "safisher@sas.upenn.edu",
+      "first_name": "Stephen",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Fisher",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-8034-7685"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Erik Nordgren",
+      "email": "nordgren@sas.upenn.edu",
+      "first_name": "Erik",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Nordgren",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-5024-0278"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Addie Johnston",
+      "email": "addiejohnston940@gmail.com",
+      "first_name": "Addie",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Johnston",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0005-2286-9078"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Jean Rosario",
+      "email": "jrosar@sas.upenn.edu",
+      "first_name": "Jean",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Rosario",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-6116-5058"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Hieu Nguyen",
+      "email": "hieung@sas.upenn.edu",
+      "first_name": "Hieu",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Nguyen",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0003-6552-821X"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Lauren Schwartz",
+      "email": "lauren.schwartz@pennmedicine.upenn.edu",
+      "first_name": "Lauren",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Schwartz",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2418-7167"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Rong Guo",
+      "email": "ronguo@sas.upenn.edu",
+      "first_name": "Rong",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Guo",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-7995-7889"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Michal Silber",
+      "email": "michal.silber@pennmedicine.upenn.edu",
+      "first_name": "Michal",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Silber",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-4884-3130"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Alex Cabrera",
+      "email": "alexander.cabrera@pennmedicine.upenn.edu",
+      "first_name": "Alex",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Cabrera",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0007-0189-026X"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Gabrielle Lenoir",
+      "email": "gabriellelenoirscholarships@gmail.com",
+      "first_name": "Gabrielle",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Lenoir",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0001-3657-7077"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Marielena Grijalva",
+      "email": "marielenagrijalva@gmail.com",
+      "first_name": "Marielena",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Grijalva",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0003-3062-7584"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1706910163272,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "dataset_type": "10X Multiome",
+  "description": "Multiomic single-cell RNAseq/ATACseq of the female reproductive system",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "C. NORDGREN",
+      "created_by_user_email": "nordgren@sas.upenn.edu",
+      "created_by_user_sub": "6e3bbf9a-df76-4735-9ac2-517e1b501fc0",
+      "created_timestamp": 1700517116639,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "TMC - University of Pennsylvania",
+      "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
+      "hubmap_id": "HBM347.JBXJ.485",
+      "last_modified_timestamp": 1770837268470,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "entity_type": "Sample",
+        "is_suspension_enriched": "No",
+        "metadata_schema_id": "ea4fb93c-508e-4ec4-8a4b-89492ba68088",
+        "notes": "14-157",
+        "preparation_condition": "Frozen on ice",
+        "preparation_medium": "None",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.yxmvmndx6g3p/v1",
+        "processing_time_unit": "minute",
+        "processing_time_value": "55",
+        "sample_category": "suspension",
+        "sample_id": "HBM347.JBXJ.485",
+        "source_id": "HBM235.FZDT.382",
+        "source_storage_duration_unit": "day",
+        "source_storage_duration_value": "287",
+        "storage_medium": "None",
+        "storage_method": "None",
+        "suspension_entity_count": "743333",
+        "suspension_entity_type": "nucleus"
+      },
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.yxmvmndx6g3p/v1",
+      "sample_category": "suspension",
+      "uuid": "e35a64da0e63f46f07a8fd2fbbaebe15"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM998.RHZJ.242",
+  "entity_type": "Dataset",
+  "group_name": "TMC - University of Pennsylvania",
+  "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
+  "hubmap_id": "HBM998.RHZJ.242",
+  "ingest_id": "42257a1b5830bebe3305b45e942102b6_scan.and.begin.processing_2024-05-09T12:25:47.184429-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "45fdd248",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v5.4.6"
+      },
+      {
+        "documentation_url": null,
+        "hash": "dcc54139",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.39"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "multiassay_metadatatsv"
+    }
+  },
+  "last_modified_timestamp": 1766160852985,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "protected/TMC - University of Pennsylvania/42257a1b5830bebe3305b45e942102b6/",
+  "metadata": {
+    "capture_batch_id": "Penn-Batch_0055",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "10X Multiome",
+    "metadata_schema_id": "63c06fb2-4638-4979-aa97-5aff2a840156",
+    "number_of_pre_amplification_pcr_cycles": "7",
+    "preparation_instrument_kit": "10X Genomics; Chromium NextGem Single Cell Multiome ATAC + Gene Expression Reagent Bundle, 16 rxn; PN 1000283",
+    "preparation_instrument_model": "Chromium Controller",
+    "preparation_instrument_vendor": "10X Genomics",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.yxmvmndx6g3p/v1"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "Penn-Multiome : ./14-157",
+  "published_timestamp": 1766160852985,
+  "registered_doi": "10.35079/HBM998.RHZJ.242",
+  "run_id": "42257a1b5830bebe3305b45e942102b6_scan.and.begin.processing_2024-05-09T12:25:47.184429-04:00",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1706910163272,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1706910327433,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1713795192073,
+      "changed_by_email": "jpuerto@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1713796545590,
+      "changed_by_email": "jpuerto@andrew.cmu.edu",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1715271637178,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1715277226190,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Invalid"
+    },
+    {
+      "change_timestamp": 1715570665058,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1715570695724,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1716389239800,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1716389368171,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1716393008114,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1716544211881,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Error"
+    },
+    {
+      "change_timestamp": 1730837635668,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1730837655673,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1730837734891,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1758119123888,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1758119186159,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1758122408014,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1766160852985,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "10X Multiome data from the uterus of a 29-year-old white female",
+  "upload": {
+    "created_by_user_displayname": "C. NORDGREN",
+    "created_by_user_email": "nordgren@sas.upenn.edu",
+    "created_by_user_sub": "6e3bbf9a-df76-4735-9ac2-517e1b501fc0",
+    "created_timestamp": 1700665248190,
+    "description": "Collection of 10X Multiome (ATACseq / RNAseq) datasets from various human female donors, sampling 22 anatomical locations from each, from the uterus / ovary / Fallopian tube.",
+    "entity_type": "Upload",
+    "group_name": "TMC - University of Pennsylvania",
+    "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
+    "hubmap_id": "HBM639.HBVB.336",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231489749,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1700665248190,
+        "changed_by_email": "nordgren@sas.upenn.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1702047776560,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1702047876855,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1702048537834,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1703170899112,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1703170991843,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1703172052024,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1705123060930,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1706909586976,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1706909596916,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1706909906807,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1706909910943,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1706910236747,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "Penn-Multiome",
+    "uuid": "8f6ef77a090200d572c331928ade1bd0"
+  },
+  "uuid": "42257a1b5830bebe3305b45e942102b6"
+}

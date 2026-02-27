@@ -1,0 +1,267 @@
+{
+  "contacts": [
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Jeffrey  Purkerson",
+      "email": "jeffrey_purkerson@urmc.rochester.edu",
+      "first_name": "Jeffrey ",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Purkerson",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-7636-4992"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Jeffrey  Purkerson",
+      "email": "jeffrey_purkerson@urmc.rochester.edu",
+      "first_name": "Jeffrey ",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Purkerson",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-7636-4992"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Heidie Huyck",
+      "email": "heidie_huyck@urmc.rochester.edu",
+      "first_name": "Heidie",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Huyck",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-9453-0747"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Luis Colon",
+      "email": "Luis_Colon1@URMC.Rochester.edu",
+      "first_name": "Luis",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Colon",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0003-9604-8008"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Gloria S Pryhuber",
+      "email": "Gloria_Pryhuber@urmc.rochester.edu",
+      "first_name": "Gloria",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Pryhuber",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "S",
+      "orcid": "0000-0002-9185-3994"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1722875797044,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "Histology",
+  "description": "Lung, H&E stain on lung section following phenocycler (CODEX HBM229.MGXM.853) assay. One of a set of 10 serial, 5 micron, sections from HBM797.KRVC.473, assayed by CODEX followed by H&E stain. Lab ID: D403-RLL-16A3-25",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Anthony Corbett",
+      "created_by_user_email": "Anthony_Corbett@URMC.Rochester.edu",
+      "created_by_user_sub": "b4a08f60-d274-11e5-989f-4b82619d2bbe",
+      "created_timestamp": 1706201316199,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "University of Rochester Medical Center TMC",
+      "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+      "hubmap_id": "HBM427.XFNX.857",
+      "last_modified_timestamp": 1706201316199,
+      "last_modified_user_displayname": "Anthony Corbett",
+      "last_modified_user_email": "Anthony_Corbett@URMC.Rochester.edu",
+      "last_modified_user_sub": "b4a08f60-d274-11e5-989f-4b82619d2bbe",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.kxygxejwdv8j/v2",
+      "sample_category": "section",
+      "uuid": "84a1e2c03bc58acc575420e9f1ee8f30"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM565.JWWL.387",
+  "entity_type": "Dataset",
+  "group_name": "University of Rochester Medical Center TMC",
+  "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+  "hubmap_id": "HBM565.JWWL.387",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "516b136",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      },
+      {
+        "hash": "8a14a9a",
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1730991087430,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/University of Rochester Medical Center TMC/14dd7e660d8395d14fcd9273a9b00b0a/",
+  "metadata": {
+    "acquisition_instrument_model": "PhenoImager Fusion",
+    "acquisition_instrument_vendor": "Akoya Biosciences",
+    "analyte_class": "Nucleic acid + protein",
+    "contributors_path": "extras/1009_contributors.tsv",
+    "dataset_type": "Histology",
+    "intended_tile_overlap_percentage": "",
+    "is_batch_staining_done": "Yes",
+    "is_image_preprocessing_required": "No",
+    "is_staining_automated": "No",
+    "is_targeted": "No",
+    "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+    "non_global_files": "",
+    "preparation_instrument_model": "",
+    "preparation_instrument_vendor": "",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.36wgqjnq3vk5/v4",
+    "scan_direction": "",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "1",
+    "stain_name": "H&E",
+    "stain_technique": "Progressive staining",
+    "tile_configuration": "",
+    "tiled_image_columns": "",
+    "tiled_image_count": "",
+    "time_since_acquisition_instrument_calibration_unit": "day",
+    "time_since_acquisition_instrument_calibration_value": "8"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "D403 and D265 serial sections histology : ./D403-RLL-16A3-25",
+  "published_timestamp": 1730991087430,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM565.JWWL.387",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1722875797044,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1722875916340,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1722883114576,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1722883237213,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1730991087430,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology data from the lung (right) of a 49-year-old asian female",
+  "upload": {
+    "created_by_user_displayname": "Anthony Corbett",
+    "created_by_user_email": "Anthony_Corbett@URMC.Rochester.edu",
+    "created_by_user_sub": "b4a08f60-d274-11e5-989f-4b82619d2bbe",
+    "created_timestamp": 1710943245331,
+    "description": "D403 and D265 serial sections histology",
+    "entity_type": "Upload",
+    "group_name": "University of Rochester Medical Center TMC",
+    "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+    "hubmap_id": "HBM338.HKQP.952",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231745777,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1710943245331,
+        "changed_by_email": "Anthony_Corbett@URMC.Rochester.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1710966345578,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1710966387978,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1711031842264,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1711032436078,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1711032486296,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1722875492703,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1722875496146,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1722875579567,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1722875753756,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1722875760498,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1722875896058,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "D403 and D265 serial sections histology",
+    "uuid": "0dda98fd4be2ef1114924662c5694b5c"
+  },
+  "uuid": "14dd7e660d8395d14fcd9273a9b00b0a"
+}

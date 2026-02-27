@@ -1,0 +1,235 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1624641825889,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "image_pyramid"
+  ],
+  "dataset_info": "ometiff_pyramid__298caad597d4a9eaaa3edbc89d79db82__ometiff_pyramid",
+  "dataset_type": "Light Sheet [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "antibodies": [
+        {
+          "antibody_name": "Anti-Lyve1 antibody",
+          "channel_id": "Alexaflour 488",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "1/200",
+          "lot_number": "GR3218005-2",
+          "rr_id": "AB_2884014",
+          "uniprot_accession_number": "Q9Y5Y7",
+          "version": "2"
+        }
+      ],
+      "contacts": [
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Hunter",
+          "last_name": "Hakimian",
+          "middle_name_or_initial": "B",
+          "name": "Hunter B Hakimian",
+          "orcid_id": "0000-0001-9668-044X"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Mark",
+          "last_name": "Atkinson",
+          "middle_name_or_initial": "A",
+          "name": "Mark A. Atkinson",
+          "orcid_id": "0000-0001-8489-4782"
+        },
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Seth",
+          "last_name": "Curlin",
+          "middle_name_or_initial": "W",
+          "name": "Seth W. Curlin",
+          "orcid_id": "0000-0001-6105-6890"
+        },
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Marda",
+          "last_name": "Jorgensen",
+          "middle_name_or_initial": "L",
+          "name": "Marda L. Jorgensen",
+          "orcid_id": "0000-0002-7250-3569"
+        },
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Hunter",
+          "is_contact": "TRUE",
+          "last_name": "Hakimian",
+          "middle_name_or_initial": "B",
+          "name": "Hunter B. Hakimian",
+          "orcid_id": "0000-0001-9668-044X"
+        },
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Kevin",
+          "last_name": "Otto",
+          "middle_name_or_initial": "J",
+          "name": "Kevin J. Otto",
+          "orcid_id": "0000-0002-2317-6194"
+        },
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Harry",
+          "last_name": "Nick",
+          "middle_name_or_initial": "S",
+          "name": "Harry S. Nick",
+          "orcid_id": "0000-0002-0374-2283"
+        }
+      ],
+      "created_by_user_displayname": "Hunter Hakimian",
+      "created_by_user_email": "hakimianh13@ufl.edu",
+      "created_by_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+      "created_timestamp": 1614620246471,
+      "data_access_level": "public",
+      "data_types": [
+        "Lightsheet"
+      ],
+      "dataset_info": "LS_20-002_TH_CC1_D\r\n\r\nLS_TH_CC1_D dataset\n",
+      "dataset_type": "Light Sheet",
+      "description": "LS_TH_CC1_D dataset\n",
+      "doi_url": "https://doi.org/10.35079/HBM675.SDNC.963",
+      "entity_type": "Dataset",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM675.SDNC.963",
+      "ingest_id": "298caad597d4a9eaaa3edbc89d79db82_scan.and.begin.processing_2021-06-25T13:21:19.806578-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "9f6aad9",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652236275404,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/hive/hubmap/data/consortium/University of Florida TMC/298caad597d4a9eaaa3edbc89d79db82",
+      "metadata": {
+        "acquisition_instrument_model": "Z.1",
+        "acquisition_instrument_vendor": "Zeiss",
+        "analyte_class": "Protein",
+        "antibodies_path": "extras/antibodies.tsv",
+        "assay_category": "imaging",
+        "assay_type": "Light Sheet",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "description": "lightsheet imaging of thymus",
+        "execution_datetime": "2020-07-24 15:28",
+        "increment_z_unit": "um",
+        "increment_z_value": "2.48",
+        "is_targeted": "TRUE",
+        "number_of_antibodies": "1",
+        "number_of_channels": "1",
+        "operator": "Seth Currlin",
+        "operator_email": "scurrlin@ufl.edu",
+        "pi": "Kevin Otto",
+        "pi_email": "Kevin.Otto@bme.ufl.edu",
+        "protocols_io_doi": "10.17504/protocols.io.bqaamsae",
+        "range_z_unit": "um",
+        "range_z_value": "2567",
+        "resolution_x_unit": "um",
+        "resolution_x_value": "3511.61",
+        "resolution_y_unit": "um",
+        "resolution_y_value": "3511.61",
+        "step_z_value": "1035",
+        "version": "2"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1625247770558,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM675.SDNC.963",
+      "run_id": "298caad597d4a9eaaa3edbc89d79db82_scan.and.begin.processing_2021-06-25T13:21:19.806578-04:00",
+      "status": "Published",
+      "uuid": "298caad597d4a9eaaa3edbc89d79db82"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/Level0/Channel1/UFL0002-TH-1-4-1.ome.tif",
+      "size": 3918629121,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/Level0/Channel1/UFL0002-TH-1-4-1.offsets.json",
+      "size": 12420,
+      "type": "json"
+    }
+  ],
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM945.XPKJ.998",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "9f6aad9",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.6.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "9f6aad9",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.6.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "b1b40c4",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "dc56823",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": ""
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1625247771058,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/University of Florida TMC/bc875d49ed4aaa112398aa32160d88c8/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1625247771058,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "Light Sheet [Image Pyramid] data from the thymus of a 1-year-old white male",
+  "uuid": "bc875d49ed4aaa112398aa32160d88c8"
+}

@@ -1,0 +1,1637 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1631584747736,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "sc_atac_seq_snare"
+  ],
+  "dataset_info": "snATAC-seq (SNARE-seq2) [SnapATAC] data from the kidney (left) of a <age>-year-old <race> <sex>",
+  "dataset_type": "ATACseq [SnapATAC]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "is_contact": "TRUE",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Nongluk",
+          "last_name": "Plongthongkum",
+          "middle_name_or_initial": "",
+          "name": "Nongluk Plongthongkum",
+          "orcid_id": "0000-0002-1305-285X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Sanjay",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Diane",
+          "last_name": "Salamon",
+          "middle_name_or_initial": "",
+          "name": "Diane Salamon",
+          "orcid_id": "0000-0003-0427-0262"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Amanda",
+          "last_name": "Knoten",
+          "middle_name_or_initial": "",
+          "name": "Amanda Knoten",
+          "orcid_id": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Joseph",
+          "last_name": "Gaut",
+          "middle_name_or_initial": "",
+          "name": "Joseph Gaut",
+          "orcid_id": "0000-0002-9580-3951"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Juan Puerto",
+      "created_by_user_email": "jpuerto@andrew.cmu.edu",
+      "created_by_user_sub": "8bd5dce2-de5a-4134-a69d-b04efabef706",
+      "created_timestamp": 1628170762063,
+      "data_access_level": "protected",
+      "data_types": [
+        "SNAREseq"
+      ],
+      "dataset_info": "SNARE-seq data from the kidney (left) of a <age>-year-old <race> <sex>\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N526",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX15196776",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "Single-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N526",
+      "doi_url": "https://doi.org/10.35079/HBM264.KNSL.465",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM264.KNSL.465",
+      "ingest_id": "469e619ef4dd5fd8d6857029acd45a5d_scan.and.begin.processing_2021-08-05T09:45:47.405521-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "2c68759",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652238550940,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "SNARE-seq2",
+        "cell_barcode_offset": "0,38,76",
+        "cell_barcode_read": "R2",
+        "cell_barcode_size": "8,8,8",
+        "contributors_path": "extras/bukmap_20190822_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2019-08-22 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "CTGTCTCTTATACACATCT+AGATGTGTATAAGAGACAG",
+        "library_average_fragment_size": "650",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "library_final_yield": "2438",
+        "library_final_yield_unit": "ng",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "9",
+        "library_pcr_cycles_for_sample_index": "9",
+        "operator": "Nongluk Plongthongkum",
+        "operator_email": "nplongth@eng.ucsd.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "sc_isolation_cell_number": "1760000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.ufketkw",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "20",
+        "sequencing_read_format": "75/94/8/75",
+        "sequencing_read_percent_q30": "93.31",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent",
+        "transposition_input": "14400",
+        "transposition_kit_number": "",
+        "transposition_method": "SNARE-Seq2-AC",
+        "transposition_transposase_source": "In-house"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1643320113860,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM264.KNSL.465",
+      "run_id": "469e619ef4dd5fd8d6857029acd45a5d_scan.and.begin.processing_2021-08-05T09:45:47.405521-04:00",
+      "status": "Published",
+      "uuid": "469e619ef4dd5fd8d6857029acd45a5d"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "is_contact": "TRUE",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Nongluk",
+          "last_name": "Plongthongkum",
+          "middle_name_or_initial": "",
+          "name": "Nongluk Plongthongkum",
+          "orcid_id": "0000-0002-1305-285X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Sanjay",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Diane",
+          "last_name": "Salamon",
+          "middle_name_or_initial": "",
+          "name": "Diane Salamon",
+          "orcid_id": "0000-0003-0427-0262"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Amanda",
+          "last_name": "Knoten",
+          "middle_name_or_initial": "",
+          "name": "Amanda Knoten",
+          "orcid_id": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Joseph",
+          "last_name": "Gaut",
+          "middle_name_or_initial": "",
+          "name": "Joseph Gaut",
+          "orcid_id": "0000-0002-9580-3951"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Juan Puerto",
+      "created_by_user_email": "jpuerto@andrew.cmu.edu",
+      "created_by_user_sub": "8bd5dce2-de5a-4134-a69d-b04efabef706",
+      "created_timestamp": 1628170760645,
+      "data_access_level": "protected",
+      "data_types": [
+        "SNAREseq"
+      ],
+      "dataset_info": "SNARE-seq data from the kidney (left) of a <age>-year-old <race> <sex>\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N525",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX15196778",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "Single-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N525",
+      "doi_url": "https://doi.org/10.35079/HBM393.QBPZ.886",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM393.QBPZ.886",
+      "ingest_id": "233734120eed95231140c5dfd22622d7_scan.and.begin.processing_2021-08-05T09:39:34.401238-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "2c68759",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652238527487,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "SNARE-seq2",
+        "cell_barcode_offset": "0,38,76",
+        "cell_barcode_read": "R2",
+        "cell_barcode_size": "8,8,8",
+        "contributors_path": "extras/bukmap_20190822_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2019-08-22 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "CTGTCTCTTATACACATCT+AGATGTGTATAAGAGACAG",
+        "library_average_fragment_size": "650",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "library_final_yield": "2438",
+        "library_final_yield_unit": "ng",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "9",
+        "library_pcr_cycles_for_sample_index": "9",
+        "operator": "Nongluk Plongthongkum",
+        "operator_email": "nplongth@eng.ucsd.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "sc_isolation_cell_number": "1760000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.ufketkw",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "20",
+        "sequencing_read_format": "75/94/8/75",
+        "sequencing_read_percent_q30": "93.38",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent",
+        "transposition_input": "14400",
+        "transposition_kit_number": "",
+        "transposition_method": "SNARE-Seq2-AC",
+        "transposition_transposase_source": "In-house"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1643320113516,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM393.QBPZ.886",
+      "run_id": "233734120eed95231140c5dfd22622d7_scan.and.begin.processing_2021-08-05T09:39:34.401238-04:00",
+      "status": "Published",
+      "uuid": "233734120eed95231140c5dfd22622d7"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "is_contact": "TRUE",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Nongluk",
+          "last_name": "Plongthongkum",
+          "middle_name_or_initial": "",
+          "name": "Nongluk Plongthongkum",
+          "orcid_id": "0000-0002-1305-285X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Sanjay",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Diane",
+          "last_name": "Salamon",
+          "middle_name_or_initial": "",
+          "name": "Diane Salamon",
+          "orcid_id": "0000-0003-0427-0262"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Amanda",
+          "last_name": "Knoten",
+          "middle_name_or_initial": "",
+          "name": "Amanda Knoten",
+          "orcid_id": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Joseph",
+          "last_name": "Gaut",
+          "middle_name_or_initial": "",
+          "name": "Joseph Gaut",
+          "orcid_id": "0000-0002-9580-3951"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Juan Puerto",
+      "created_by_user_email": "jpuerto@andrew.cmu.edu",
+      "created_by_user_sub": "8bd5dce2-de5a-4134-a69d-b04efabef706",
+      "created_timestamp": 1628170763048,
+      "data_access_level": "protected",
+      "data_types": [
+        "SNAREseq"
+      ],
+      "dataset_info": "SNARE-seq data from the kidney (left) of a <age>-year-old <race> <sex>\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N527",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX15196777",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "Single-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N527",
+      "doi_url": "https://doi.org/10.35079/HBM454.HBQV.975",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM454.HBQV.975",
+      "ingest_id": "27dd55b5e1721c64dc359e704de8f852_scan.and.begin.processing_2021-08-05T09:52:30.361772-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "2c68759",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652238574678,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "SNARE-seq2",
+        "cell_barcode_offset": "0,38,76",
+        "cell_barcode_read": "R2",
+        "cell_barcode_size": "8,8,8",
+        "contributors_path": "extras/bukmap_20190822_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2019-08-22 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "CTGTCTCTTATACACATCT+AGATGTGTATAAGAGACAG",
+        "library_average_fragment_size": "650",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "library_final_yield": "2438",
+        "library_final_yield_unit": "ng",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "9",
+        "library_pcr_cycles_for_sample_index": "9",
+        "operator": "Nongluk Plongthongkum",
+        "operator_email": "nplongth@eng.ucsd.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "sc_isolation_cell_number": "1760000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.ufketkw",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "20",
+        "sequencing_read_format": "75/94/8/75",
+        "sequencing_read_percent_q30": "88.79",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent",
+        "transposition_input": "14400",
+        "transposition_kit_number": "",
+        "transposition_method": "SNARE-Seq2-AC",
+        "transposition_transposase_source": "In-house"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1643320114145,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM454.HBQV.975",
+      "run_id": "27dd55b5e1721c64dc359e704de8f852_scan.and.begin.processing_2021-08-05T09:52:30.361772-04:00",
+      "status": "Published",
+      "uuid": "27dd55b5e1721c64dc359e704de8f852"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "is_contact": "TRUE",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Nongluk",
+          "last_name": "Plongthongkum",
+          "middle_name_or_initial": "",
+          "name": "Nongluk Plongthongkum",
+          "orcid_id": "0000-0002-1305-285X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Sanjay",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Diane",
+          "last_name": "Salamon",
+          "middle_name_or_initial": "",
+          "name": "Diane Salamon",
+          "orcid_id": "0000-0003-0427-0262"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Amanda",
+          "last_name": "Knoten",
+          "middle_name_or_initial": "",
+          "name": "Amanda Knoten",
+          "orcid_id": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Joseph",
+          "last_name": "Gaut",
+          "middle_name_or_initial": "",
+          "name": "Joseph Gaut",
+          "orcid_id": "0000-0002-9580-3951"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Juan Puerto",
+      "created_by_user_email": "jpuerto@andrew.cmu.edu",
+      "created_by_user_sub": "8bd5dce2-de5a-4134-a69d-b04efabef706",
+      "created_timestamp": 1628170765392,
+      "data_access_level": "protected",
+      "data_types": [
+        "SNAREseq"
+      ],
+      "dataset_info": "SNARE-seq data from the kidney (left) of a <age>-year-old <race> <sex>\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N529",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX15196780",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "Single-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N529",
+      "doi_url": "https://doi.org/10.35079/HBM664.KRQG.276",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM664.KRQG.276",
+      "ingest_id": "060ab67b1b2465f4416f843c29a68a06_scan.and.begin.processing_2021-08-05T10:00:54.292495-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "2c68759",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652238621731,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "SNARE-seq2",
+        "cell_barcode_offset": "0,38,76",
+        "cell_barcode_read": "R2",
+        "cell_barcode_size": "8,8,8",
+        "contributors_path": "extras/bukmap_20190822_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2019-08-22 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "CTGTCTCTTATACACATCT+AGATGTGTATAAGAGACAG",
+        "library_average_fragment_size": "650",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "library_final_yield": "2438",
+        "library_final_yield_unit": "ng",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "9",
+        "library_pcr_cycles_for_sample_index": "9",
+        "operator": "Nongluk Plongthongkum",
+        "operator_email": "nplongth@eng.ucsd.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "sc_isolation_cell_number": "1760000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.ufketkw",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "20",
+        "sequencing_read_format": "75/94/8/75",
+        "sequencing_read_percent_q30": "90.87",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent",
+        "transposition_input": "14400",
+        "transposition_kit_number": "",
+        "transposition_method": "SNARE-Seq2-AC",
+        "transposition_transposase_source": "In-house"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1643320114714,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM664.KRQG.276",
+      "run_id": "060ab67b1b2465f4416f843c29a68a06_scan.and.begin.processing_2021-08-05T10:00:54.292495-04:00",
+      "status": "Published",
+      "uuid": "060ab67b1b2465f4416f843c29a68a06"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "is_contact": "TRUE",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Nongluk",
+          "last_name": "Plongthongkum",
+          "middle_name_or_initial": "",
+          "name": "Nongluk Plongthongkum",
+          "orcid_id": "0000-0002-1305-285X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Sanjay",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Diane",
+          "last_name": "Salamon",
+          "middle_name_or_initial": "",
+          "name": "Diane Salamon",
+          "orcid_id": "0000-0003-0427-0262"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Amanda",
+          "last_name": "Knoten",
+          "middle_name_or_initial": "",
+          "name": "Amanda Knoten",
+          "orcid_id": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Joseph",
+          "last_name": "Gaut",
+          "middle_name_or_initial": "",
+          "name": "Joseph Gaut",
+          "orcid_id": "0000-0002-9580-3951"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Juan Puerto",
+      "created_by_user_email": "jpuerto@andrew.cmu.edu",
+      "created_by_user_sub": "8bd5dce2-de5a-4134-a69d-b04efabef706",
+      "created_timestamp": 1628170764220,
+      "data_access_level": "protected",
+      "data_types": [
+        "SNAREseq"
+      ],
+      "dataset_info": "SNARE-seq data from the kidney (left) of a <age>-year-old <race> <sex>\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N528",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX15196775",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "Single-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N528",
+      "doi_url": "https://doi.org/10.35079/HBM475.DZSR.334",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM475.DZSR.334",
+      "ingest_id": "4dccc53d79f9516f7067b2fcd09b37fa_scan.and.begin.processing_2021-08-05T09:54:41.507536-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "2c68759",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652238598047,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "SNARE-seq2",
+        "cell_barcode_offset": "0,38,76",
+        "cell_barcode_read": "R2",
+        "cell_barcode_size": "8,8,8",
+        "contributors_path": "extras/bukmap_20190822_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2019-08-22 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "CTGTCTCTTATACACATCT+AGATGTGTATAAGAGACAG",
+        "library_average_fragment_size": "650",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "library_final_yield": "2438",
+        "library_final_yield_unit": "ng",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "9",
+        "library_pcr_cycles_for_sample_index": "9",
+        "operator": "Nongluk Plongthongkum",
+        "operator_email": "nplongth@eng.ucsd.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "sc_isolation_cell_number": "1760000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.ufketkw",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "20",
+        "sequencing_read_format": "75/94/8/75",
+        "sequencing_read_percent_q30": "93.77",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent",
+        "transposition_input": "14400",
+        "transposition_kit_number": "",
+        "transposition_method": "SNARE-Seq2-AC",
+        "transposition_transposase_source": "In-house"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1643320114427,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM475.DZSR.334",
+      "run_id": "4dccc53d79f9516f7067b2fcd09b37fa_scan.and.begin.processing_2021-08-05T09:54:41.507536-04:00",
+      "status": "Published",
+      "uuid": "4dccc53d79f9516f7067b2fcd09b37fa"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "is_contact": "TRUE",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Nongluk",
+          "last_name": "Plongthongkum",
+          "middle_name_or_initial": "",
+          "name": "Nongluk Plongthongkum",
+          "orcid_id": "0000-0002-1305-285X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Sanjay",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Diane",
+          "last_name": "Salamon",
+          "middle_name_or_initial": "",
+          "name": "Diane Salamon",
+          "orcid_id": "0000-0003-0427-0262"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Amanda",
+          "last_name": "Knoten",
+          "middle_name_or_initial": "",
+          "name": "Amanda Knoten",
+          "orcid_id": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Joseph",
+          "last_name": "Gaut",
+          "middle_name_or_initial": "",
+          "name": "Joseph Gaut",
+          "orcid_id": "0000-0002-9580-3951"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Juan Puerto",
+      "created_by_user_email": "jpuerto@andrew.cmu.edu",
+      "created_by_user_sub": "8bd5dce2-de5a-4134-a69d-b04efabef706",
+      "created_timestamp": 1628170766533,
+      "data_access_level": "protected",
+      "data_types": [
+        "SNAREseq"
+      ],
+      "dataset_info": "SNARE-seq data from the kidney (left) of a <age>-year-old <race> <sex>\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N530",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX15196779",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "Single-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20190822E_SNARE2-AC_N530",
+      "doi_url": "https://doi.org/10.35079/HBM352.LGWD.929",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM352.LGWD.929",
+      "ingest_id": "1b358830d3d9a1c99131de862b35b153_scan.and.begin.processing_2021-08-05T10:06:07.088560-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "2c68759",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652238645612,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "SNARE-seq2",
+        "cell_barcode_offset": "0,38,76",
+        "cell_barcode_read": "R2",
+        "cell_barcode_size": "8,8,8",
+        "contributors_path": "extras/bukmap_20190822_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2019-08-22 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "CTGTCTCTTATACACATCT+AGATGTGTATAAGAGACAG",
+        "library_average_fragment_size": "650",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "library_final_yield": "2438",
+        "library_final_yield_unit": "ng",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "9",
+        "library_pcr_cycles_for_sample_index": "9",
+        "operator": "Nongluk Plongthongkum",
+        "operator_email": "nplongth@eng.ucsd.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "sc_isolation_cell_number": "1760000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.ufketkw",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "20",
+        "sequencing_read_format": "75/94/8/75",
+        "sequencing_read_percent_q30": "93.28",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent",
+        "transposition_input": "14400",
+        "transposition_kit_number": "",
+        "transposition_method": "SNARE-Seq2-AC",
+        "transposition_transposase_source": "In-house"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1643320114994,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM352.LGWD.929",
+      "run_id": "1b358830d3d9a1c99131de862b35b153_scan.and.begin.processing_2021-08-05T10:06:07.088560-04:00",
+      "status": "Published",
+      "uuid": "1b358830d3d9a1c99131de862b35b153"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": true,
+      "rel_path": "BarcodeQualityControlDistributionBefore.pdf",
+      "size": 6528,
+      "type": "pdf"
+    },
+    {
+      "description": "SNAP file (HDF5 convention) from SnapTools",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_qa_qc": false,
+      "rel_path": "snaptools.snap",
+      "size": 8085516161,
+      "type": "unknown"
+    },
+    {
+      "description": "Gene ranges used for peak calling",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "GenesRanges.csv",
+      "size": 3161162,
+      "type": "csv"
+    },
+    {
+      "description": "QC results from SnapTools",
+      "edam_term": "EDAM_1.24.data_3671",
+      "is_qa_qc": false,
+      "rel_path": "snaptools.snap.qc",
+      "size": 584,
+      "type": "unknown"
+    },
+    {
+      "description": "Fragment file from Sinto",
+      "edam_term": "EDAM_1.24.format_3003",
+      "is_qa_qc": false,
+      "rel_path": "frags.sort.bed.gz",
+      "size": 28,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": true,
+      "rel_path": "BarcodeQualityControlDistributionAfter.pdf",
+      "size": 6459,
+      "type": "pdf"
+    },
+    {
+      "description": "Log-log plot of promoter ratios",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "PromotorRatioLogPlot.pdf",
+      "size": 1245201,
+      "type": "pdf"
+    },
+    {
+      "description": "Motif enrichment, per-cell",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "cellMotif.csv",
+      "size": 132291125,
+      "type": "csv"
+    },
+    {
+      "description": "Per-cell UMAP coordinates and cluster assignments",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "umap_coords_clusters.csv",
+      "size": 1211279,
+      "type": "csv"
+    },
+    {
+      "description": "Quality control report, in JSON format",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": true,
+      "rel_path": "qc_report.json",
+      "size": 495,
+      "type": "json"
+    },
+    {
+      "description": "Cell by gene matrix (sparse, and smoothed with MAGIC), in H5AD format",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "cell_by_gene.h5ad",
+      "size": 9370352826,
+      "type": "h5ad"
+    },
+    {
+      "description": "Per-cell variability scores from chromVAR",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "chromvar_variability_scores.csv",
+      "size": 41395,
+      "type": "csv"
+    },
+    {
+      "description": "All genome bins",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "Bins.csv",
+      "size": 35858957,
+      "type": "csv"
+    },
+    {
+      "description": "Per-cell deviation scores from chromVAR",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "chromvar_deviation_scores.csv",
+      "size": 127537417,
+      "type": "csv"
+    },
+    {
+      "description": "Sparse cell by bin matrix, in H5AD format",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "cell_by_bin.h5ad",
+      "size": 430292078,
+      "type": "h5ad"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R2.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R2_fastqc.zip",
+      "size": 1289173,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R1.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R1_fastqc.html",
+      "size": 721366,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R2.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R2_fastqc.html",
+      "size": 812938,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R1.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R1_fastqc.zip",
+      "size": 1216516,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R3.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R3_fastqc.html",
+      "size": 729953,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R3.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R3_fastqc.zip",
+      "size": 1222995,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R1.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R1_fastqc.zip",
+      "size": 1210692,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R1.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R1_fastqc.zip",
+      "size": 1300780,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R1.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R1_fastqc.zip",
+      "size": 1218557,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R3.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R3_fastqc.zip",
+      "size": 1228064,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R2.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R2_fastqc.html",
+      "size": 811209,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R1.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R1_fastqc.html",
+      "size": 732856,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R3.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R3_fastqc.html",
+      "size": 728186,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R1.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R1_fastqc.html",
+      "size": 760097,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R3.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R3_fastqc.zip",
+      "size": 1222959,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R1.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R1_fastqc.zip",
+      "size": 1215054,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R3.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R3_fastqc.html",
+      "size": 720677,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R3.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R3_fastqc.zip",
+      "size": 1220974,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R3.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R3_fastqc.html",
+      "size": 727548,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R3.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R3_fastqc.zip",
+      "size": 1248800,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R1.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R1_fastqc.html",
+      "size": 720191,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R2.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R2_fastqc.html",
+      "size": 814125,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R2.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N530_S27_R2_fastqc.zip",
+      "size": 1286742,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R3.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R3_fastqc.html",
+      "size": 731145,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R2.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R2_fastqc.zip",
+      "size": 1308022,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R2.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R2_fastqc.zip",
+      "size": 1285377,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R1.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R1_fastqc.zip",
+      "size": 1254794,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R1.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R1_fastqc.html",
+      "size": 722402,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R2.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R2_fastqc.html",
+      "size": 815058,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R2.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N527_S24_R2_fastqc.html",
+      "size": 830523,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R2.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N526_S23_R2_fastqc.zip",
+      "size": 1283400,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R3.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R3_fastqc.html",
+      "size": 729016,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R2.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R2_fastqc.zip",
+      "size": 1284237,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R3.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N529_S26_R3_fastqc.zip",
+      "size": 1223345,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R1.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N525_S22_R1_fastqc.html",
+      "size": 724546,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R2.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/BUKMAP_20190822E.Ad1_N528_S25_R2_fastqc.html",
+      "size": 811510,
+      "type": "unknown"
+    },
+    {
+      "description": "Per-cell UMAP coordinates and cluster assignments",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.csv",
+      "size": 1198657,
+      "type": "csv"
+    },
+    {
+      "description": "JSON-formatted information about this scATAC-seq's clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.factors.json",
+      "size": 620956,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about the heirarchy scRNA-seq's cells.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.cell-sets.json",
+      "size": 635472,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about this scATAC-seq run including scatterplot coordinates and clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.cells.json",
+      "size": 2430585,
+      "type": "json"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar Apache Arrow format.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.arrow",
+      "size": 973106,
+      "type": "arrow"
+    }
+  ],
+  "group_name": "University of California San Diego TMC",
+  "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+  "hubmap_id": "HBM287.RHLR.928",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "882fc6a",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.7.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "882fc6a",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.7.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "4b2af54",
+        "input_parameters": [],
+        "name": "create_snap_and_analyze.cwl",
+        "origin": "https://github.com/hubmapconsortium/sc-atac-seq-pipeline",
+        "version": "v1.4.3"
+      },
+      {
+        "documentation_url": "",
+        "hash": "bb2d9e5",
+        "input_parameters": [],
+        "name": "scatac-csv-to-arrow.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.23"
+      }
+    ],
+    "workflow_description": "The pipeline for multiome RNA-ATACseq data uses Salmon for alignment free quasi mapping of reads from RNA sequencing to the hg38 reference genome and HISAT2 for short read alignment of ATACseq reads to the same genome.  Barcodes are then mapped between components of the assay to generate an annotated data matrix with consolidated RNA and ATACseq data. This annotated data matrix is then passed to the Muon package for dimensionality reduction, clustering, and multiomic factor analysis.  Cell type annotations are provided by Azimuth when available for the type of tissue being analyzed.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1698980420898,
+  "last_modified_user_displayname": "Karl Burke",
+  "last_modified_user_email": "KBURKE@pitt.edu",
+  "last_modified_user_sub": "3aaa925d-755a-4193-98c7-44455de783ff",
+  "local_directory_rel_path": "public/University of California San Diego TMC/f925e640576b80238a816ec7ab747e11/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1643320158103,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "ATACseq [SnapATAC] data from the kidney (left) of a 45-year-old white female",
+  "uuid": "f925e640576b80238a816ec7ab747e11"
+}

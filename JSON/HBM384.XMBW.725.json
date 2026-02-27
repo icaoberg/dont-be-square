@@ -1,0 +1,240 @@
+{
+  "antibodies": [
+    {
+      "antibody_name": "Anti-GAP43 antibody",
+      "channel_id": "Alexaflour 633",
+      "concentration_unit": "ug/ml",
+      "concentration_value": "",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution": "1/200",
+      "lot_number": "1-10412",
+      "rr_id": "AB_2572284",
+      "uniprot_accession_number": "P07936",
+      "version": "2"
+    }
+  ],
+  "collections": [
+    {
+      "created_timestamp": 1614617127000,
+      "entity_type": "Collection",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM524.JGZP.374",
+      "last_modified_timestamp": 1614617127000,
+      "title": "LIGHTSHEET",
+      "uuid": "215911ab945a2cf5a182619b4cac31a5"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Hunter",
+      "last_name": "Hakimian",
+      "middle_name_or_initial": "B",
+      "name": "Hunter B Hakimian",
+      "orcid_id": "0000-0001-9668-044X"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Mark",
+      "last_name": "Atkinson",
+      "middle_name_or_initial": "A",
+      "name": "Mark A. Atkinson",
+      "orcid_id": "0000-0001-8489-4782"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Seth",
+      "last_name": "Curlin",
+      "middle_name_or_initial": "W",
+      "name": "Seth W. Curlin",
+      "orcid_id": "0000-0001-6105-6890"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Marda",
+      "last_name": "Jorgensen",
+      "middle_name_or_initial": "L",
+      "name": "Marda L. Jorgensen",
+      "orcid_id": "0000-0002-7250-3569"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Hunter",
+      "is_contact": "TRUE",
+      "last_name": "Hakimian",
+      "middle_name_or_initial": "B",
+      "name": "Hunter B. Hakimian",
+      "orcid_id": "0000-0001-9668-044X"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Kevin",
+      "last_name": "Otto",
+      "middle_name_or_initial": "J",
+      "name": "Kevin J. Otto",
+      "orcid_id": "0000-0002-2317-6194"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Harry",
+      "last_name": "Nick",
+      "middle_name_or_initial": "S",
+      "name": "Harry S. Nick",
+      "orcid_id": "0000-0002-0374-2283"
+    }
+  ],
+  "created_by_user_displayname": "Hunter Hakimian",
+  "created_by_user_email": "hakimianh13@ufl.edu",
+  "created_by_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+  "created_timestamp": 1614620426872,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "data_types": [
+    "Lightsheet"
+  ],
+  "dataset_info": "LS_20-006_LN-_9\r\n\r\nLS_20-006_LN_9 datasheet ",
+  "dataset_type": "Light Sheet",
+  "description": "LS_20-006_LN_9 datasheet ",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Marda Jorgensen",
+      "created_by_user_email": "marda@ufl.edu",
+      "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+      "created_timestamp": 1611685212346,
+      "data_access_level": "public",
+      "description": "Piece of lymph node clarified and in hydrogel used for light sheet FEB 2021 dataset upload. Stained with GAP43.",
+      "entity_type": "Sample",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM687.HPMQ.796",
+      "last_modified_timestamp": 1633119407893,
+      "last_modified_user_displayname": "Hunter Hakimian",
+      "last_modified_user_email": "hakimianh13@ufl.edu",
+      "last_modified_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+      "metadata": {
+        "cold_ischemia_time_unit": "minutes",
+        "cold_ischemia_time_value": "121",
+        "health_status": "relatively healthy",
+        "organ_condition": "healthy",
+        "pathologist_report": "normal, no cancer",
+        "perfusion_solution": "UWS",
+        "procedure_date": "2020-01-31",
+        "specimen_preservation_temperature": "Refrigerator (4 Celsius)",
+        "specimen_quality_criteria": "H&E",
+        "specimen_tumor_distance_unit": "",
+        "specimen_tumor_distance_value": "",
+        "vital_state": "deceased",
+        "warm_ischemia_time_unit": "minutes",
+        "warm_ischemia_time_value": "0"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/d007fc5d-392e-481a-a9e8-b40c33ef3301",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/UBERON_0010396",
+          "http://purl.obolibrary.org/obo/UBERON_0002194",
+          "http://purl.obolibrary.org/obo/UBERON_0010748",
+          "http://purl.obolibrary.org/obo/UBERON_0010397",
+          "http://purl.obolibrary.org/obo/UBERON_0002007",
+          "http://purl.obolibrary.org/obo/UBERON_0010417",
+          "http://purl.obolibrary.org/obo/UBERON_0002049"
+        ],
+        "creation_date": "2021-10-01",
+        "creator": "Hunter Hakimian",
+        "creator_first_name": "Hunter",
+        "creator_last_name": "Hakimian",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/d007fc5d-392e-481a-a9e8-b40c33ef3301_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2021-10-01",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHFRightLymphNode",
+          "translation_units": "millimeter",
+          "x_rotation": 0,
+          "x_scaling": 1,
+          "x_translation": 10.117,
+          "y_rotation": 0,
+          "y_scaling": 1,
+          "y_translation": 5.667,
+          "z_rotation": 0,
+          "z_scaling": 1,
+          "z_translation": 6.256
+        },
+        "x_dimension": 20,
+        "y_dimension": 12,
+        "z_dimension": 14
+      },
+      "sample_category": "block",
+      "uuid": "23f012ad7b5fe0e3f3c19186de7c4ea4"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM384.XMBW.725",
+  "entity_type": "Dataset",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM384.XMBW.725",
+  "ingest_id": "b6eba6afe660a8a85c2648e368b0cf9f_scan.and.begin.processing_2021-06-25T13:24:43.001218-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "9f6aad9",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1652236324203,
+  "last_modified_user_displayname": "Zhou Yuan",
+  "last_modified_user_email": "ZHY19@pitt.edu",
+  "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+  "local_directory_rel_path": "public/University of Florida TMC/b6eba6afe660a8a85c2648e368b0cf9f/",
+  "metadata": {
+    "acquisition_instrument_model": "Z.1",
+    "acquisition_instrument_vendor": "Zeiss",
+    "analyte_class": "Protein",
+    "antibodies_path": "extras/antibodies.tsv",
+    "assay_category": "imaging",
+    "assay_type": "Light Sheet",
+    "contributors_path": "extras/contributors.tsv",
+    "description": "lightsheet imaging of lymphnode",
+    "execution_datetime": "2021-01-11 15:39",
+    "increment_z_unit": "um",
+    "increment_z_value": "1",
+    "is_targeted": "TRUE",
+    "number_of_antibodies": "1",
+    "number_of_channels": "1",
+    "operator": "Seth Currlin",
+    "operator_email": "scurrlin@ufl.edu",
+    "pi": "Kevin Otto",
+    "pi_email": "Kevin.Otto@bme.ufl.edu",
+    "protocols_io_doi": "10.17504/protocols.io.bqaamsae",
+    "range_z_unit": "um",
+    "range_z_value": "2366",
+    "resolution_x_unit": "um",
+    "resolution_x_value": "4679.72",
+    "resolution_y_unit": "um",
+    "resolution_y_value": "4658.75",
+    "step_z_value": "2366",
+    "version": "2"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1625247772864,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM384.XMBW.725",
+  "run_id": "b6eba6afe660a8a85c2648e368b0cf9f_scan.and.begin.processing_2021-06-25T13:24:43.001218-04:00",
+  "status": "Published",
+  "title": "Light Sheet data from the lymph node of a 21-year-old black or african american female",
+  "uuid": "b6eba6afe660a8a85c2648e368b0cf9f"
+}

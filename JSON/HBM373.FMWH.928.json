@@ -1,0 +1,100 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603733287642,
+  "data_access_level": "public",
+  "description": "Complete 0.8cm lymph node processed in hydrogel ",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603131948021,
+    "data_access_level": "public",
+    "description": "0.8cm lymph node isolatd for light sheet microscopy analysis",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM943.ZHKQ.478",
+    "image_file_metadata": [
+      {
+        "description": "Lymph node cleaned of surrounding fat, located left in image",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/2681fc12b6f16b20776ad5f6887addfd/LN 9,4 .JPG"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Lymph node cleaned of surrounding fat, located left in image",
+        "file_uuid": "ffff6f87247ef04158b420a4834967b5",
+        "filename": "LN_94_.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617750571315,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "organ": "LY",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/2681fc12b6f16b20776ad5f6887addfd/Pathology_Report20-006 LN.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "db428c9c722bde311ea433ae6a1b798d"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM373.FMWH.928",
+  "last_modified_timestamp": 1664376449146,
+  "last_modified_user_displayname": "Hunter Hakimian",
+  "last_modified_user_email": "hakimianh13@ufl.edu",
+  "last_modified_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgnijve",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/740eebf8-3de5-48d9-b63a-09eb75dd8f9b",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0004536"
+    ],
+    "creation_date": "2022-09-28",
+    "creator": "Marda Jorgensen",
+    "creator_first_name": "Marda",
+    "creator_last_name": "Jorgensen",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/740eebf8-3de5-48d9-b63a-09eb75dd8f9b_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2022-09-28",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHFLymphNode",
+      "translation_units": "millimeter",
+      "x_rotation": 0,
+      "x_scaling": 1,
+      "x_translation": 9.819,
+      "y_rotation": 0,
+      "y_scaling": 1,
+      "y_translation": 5.596,
+      "z_rotation": 96,
+      "z_scaling": 1,
+      "z_translation": 6.256
+    },
+    "x_dimension": 13,
+    "y_dimension": 20,
+    "z_dimension": 13
+  },
+  "sample_category": "block",
+  "uuid": "46a4eaa8de7078fa4037c08cbc83ec95"
+}

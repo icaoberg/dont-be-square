@@ -1,0 +1,690 @@
+{
+  "collections": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Katy",
+          "last_name": "Borner",
+          "name": "Borner, Katy",
+          "orcid_id": "0000-0002-3321-6137"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Spraggins, Jeffrey M.",
+          "orcid_id": "0000-0001-9198-5498"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jamie",
+          "last_name": "Allen",
+          "middle_name_or_initial": "L",
+          "name": "Allen, Jamie L.",
+          "orcid_id": "0000-0002-4739-2166"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "David",
+          "last_name": "Anderson",
+          "middle_name_or_initial": "M.G.",
+          "name": "Anderson, David M.G.",
+          "orcid_id": "0000-0002-3866-0923"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Maya",
+          "last_name": "Brewer",
+          "name": "Brewer, Maya",
+          "orcid_id": "0000-0001-5914-0081"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Richard",
+          "last_name": "Caprioli",
+          "middle_name_or_initial": "M",
+          "name": "Caprioli, Richard M.",
+          "orcid_id": "0000-0001-5859-3310"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Mark",
+          "last_name": "deCaestecker",
+          "name": "deCaestecker, Mark",
+          "orcid_id": "0000-0001-7926-1673"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Agnes",
+          "last_name": "Fogo",
+          "middle_name_or_initial": "B",
+          "name": "Fogo, Agnes B.",
+          "orcid_id": "0000-0003-3698-8527"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Danielle",
+          "last_name": "Gutierrez",
+          "middle_name_or_initial": "B",
+          "name": "Gutierrez, Danielle B.",
+          "orcid_id": "0000-0001-6355-2134"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Raymond",
+          "last_name": "Harris",
+          "middle_name_or_initial": "C",
+          "name": "Harris, Raymond C.",
+          "orcid_id": "0000-0001-8025-0883"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jennifer",
+          "last_name": "Harvey",
+          "name": "Harvey, Jennifer",
+          "orcid_id": "0000-0001-8025-0883"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Lukasz",
+          "last_name": "Migas",
+          "name": "Migas, Lukasz",
+          "orcid_id": "0000-0002-1884-6405"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Elizabeth",
+          "last_name": "Neumann",
+          "middle_name_or_initial": "K",
+          "name": "Neumann, Elizabeth K.",
+          "orcid_id": "0000-0002-6078-3321"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Heath",
+          "last_name": "Patterson",
+          "middle_name_or_initial": "Heath",
+          "name": "Patterson, Nathan Heath",
+          "orcid_id": "0000-0002-0064-1583"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Kavya",
+          "last_name": "Sharman",
+          "name": "Sharman, Kavya",
+          "orcid_id": "0000-0002-3487-7199"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Spraggins, Jeffrey M.",
+          "orcid_id": "0000-0001-9198-5498"
+        },
+        {
+          "affiliation": "Delft University of Technology",
+          "first_name": "Leonor",
+          "last_name": "Tideman",
+          "name": "Tideman, Leonor",
+          "orcid_id": "0000-0001-7405-3146"
+        },
+        {
+          "affiliation": "Delft University of Technology",
+          "first_name": "Raf",
+          "last_name": "Van de Plas",
+          "name": "Van de Plas, Raf",
+          "orcid_id": "0000-0002-2232-7130"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Haichun",
+          "last_name": "Yang",
+          "name": "Yang, Haichun",
+          "orcid_id": "0000-0003-4265-7492"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Leah",
+          "last_name": "Scherschel",
+          "middle_name_or_initial": "L",
+          "name": "Scherschel, Leah L.",
+          "orcid_id": "0000-0001-6279-4377"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Ellen",
+          "last_name": "Quardokus",
+          "middle_name_or_initial": "M",
+          "name": "Quardokus, Ellen M.",
+          "orcid_id": "0000-0001-7655-4833"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Katy",
+          "is_contact": "Yes",
+          "last_name": "Borner",
+          "name": "Borner, Katy",
+          "orcid_id": "0000-0002-3321-6137"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Yingnan",
+          "last_name": "Ju",
+          "name": "Ju, Yingnan",
+          "orcid_id": "0000-0001-5498-332X"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1621444904673,
+      "description": "Our best estimates show there are over 7 billion people on the planet and 300 billion stars in the Milky Way galaxy. By comparison, the adult human body contains 37 trillion cells. To determine the function and relationship among these cells is a monumental undertaking. Many areas of human health would be impacted if we better understand cellular activity. A problem with this much data is a great match for the Kaggle community.\n\nJust as the Human Genome Project mapped the entirety of human DNA, the Human BioMolecular Atlas Program (HuBMAP) is a major endeavor. Sponsored by the National Institutes of Health (NIH), HuBMAP is working to catalyze the development of a framework for mapping the human body at a level of glomerulus functional tissue units for the first time in history. Hoping to become one of the world\u2019s largest collaborative biological projects, HuBMAP aims to be an open map of the human body at the cellular level.\n\nThe competitions challenge is to detect glomerulus functional tissue units (FTUs) across different tissue preparation pipelines. An FTU is defined as a \u201cthree-dimensional block of cells centered around a capillary, such that each cell in this block is within diffusion distance from any other cell in the same block\u201d (de Bono, 2013). The goal of this competition is the implementation of a successful and robust glomeruli FTU detector.\n\nAdvancements in HuBMAP will accelerate the world\u2019s understanding of the relationships between cell and tissue organization and function and human health. These datasets and insights can be used by researchers in cell and tissue anatomy, pharmaceutical companies to develop therapies, or even parents to show their children the magnitude of the human body.",
+      "doi_url": "https://doi.org/10.35079/hbm925.sgxl.596",
+      "entity_type": "Collection",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM925.SGXL.596",
+      "last_modified_timestamp": 1621468225801,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/hbm925.sgxl.596",
+      "title": "HuBMAP \"Hacking the Kidney\" 2021 Kaggle Competition Dataset - Glomerulus Segmentation on Periodic acid-Schiff Whole Slide Images",
+      "uuid": "4964d24bbc6668a72c4cbb5e0393a6bc"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey M. Spraggins",
+          "orcid_id": "0000-0001-9198-5498"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Elizabeth",
+          "last_name": "Neumann",
+          "middle_name_or_initial": "K",
+          "name": "Elizabeth K. Neumann",
+          "orcid_id": "0000-0002-6078-3321"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Nathan",
+          "last_name": "Patterson",
+          "middle_name_or_initial": "Heath",
+          "name": "Nathan Heath Patterson",
+          "orcid_id": "0000-0002-0064-1583"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "David",
+          "last_name": "Anderson",
+          "middle_name_or_initial": "M.G",
+          "name": "David M.G. Anderson",
+          "orcid_id": "0000-0002-3866-0923"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Kavya",
+          "last_name": "Sharman",
+          "name": "Kavya Sharman",
+          "orcid_id": "0000-0002-3487-7199"
+        },
+        {
+          "affiliation": "Delft University of Technology",
+          "first_name": "Lukasz",
+          "last_name": "Migas",
+          "name": "Lukasz Migas",
+          "orcid_id": "0000-0002-1884-6405"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jamie",
+          "last_name": "Allen",
+          "middle_name_or_initial": "L",
+          "name": "Jamie L. Allen",
+          "orcid_id": "0000-0002-4739-2166"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Maya",
+          "last_name": "Brewer",
+          "name": "Maya Brewer",
+          "orcid_id": "0000-0001-5914-0081"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jennifer",
+          "last_name": "Harvey",
+          "name": "Jennifer Harvey",
+          "orcid_id": "0000-0003-3067-1238"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Haichun",
+          "last_name": "Yang",
+          "name": "Haichun Yang",
+          "orcid_id": "0000-0003-4265-7492"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Raymond",
+          "last_name": "Harris",
+          "middle_name_or_initial": "C",
+          "name": "Raymond C. Harris",
+          "orcid_id": "0000-0001-8025-0883"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Agnes",
+          "last_name": "Fogo",
+          "middle_name_or_initial": "B",
+          "name": "Agnes B. Fogo",
+          "orcid_id": "0000-0003-3698-8527"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Mark",
+          "last_name": "deCaestecker",
+          "name": "Mark deCaestecker",
+          "orcid_id": "0000-0001-7926-1673"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Danielle",
+          "last_name": "Gutierrez",
+          "middle_name_or_initial": "B",
+          "name": "Danielle B. Gutierrez",
+          "orcid_id": "0000-0001-6355-2134"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Richard",
+          "last_name": "Caprioli",
+          "middle_name_or_initial": "M",
+          "name": "Richard M. Caprioli",
+          "orcid_id": "0000-0001-5859-3310"
+        },
+        {
+          "affiliation": "Delft University of Technology",
+          "first_name": "Raf",
+          "last_name": "Van de Plas",
+          "name": "Raf Van de Plas",
+          "orcid_id": "0000-0002-2232-7130"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "is_contact": "Yes",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey M. Spraggins",
+          "orcid_id": "0000-0001-9198-5498"
+        }
+      ],
+      "created_by_user_displayname": "Bill Shirey",
+      "created_by_user_email": "shirey@pitt.edu",
+      "created_timestamp": 1599591303132,
+      "description": "Multimodal molecular imaging data collected from the Left Kidney of a 53 year old Black or African American Male donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Datasets generated by BIOMIC combine MALDI imaging mass spectrometry with various microscopy modalities including autoflourescence and stained microscopy. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+      "doi_url": "https://doi.org/10.35079/hbm789.jxct.358",
+      "entity_type": "Collection",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM789.JXCT.358",
+      "last_modified_timestamp": 1601307660839,
+      "registered_doi": "10.35079/hbm789.jxct.358",
+      "title": "Multimodal Molecular Imaging of Human Kidney Tissue From a 53 Year Old Black or African American Male Donor",
+      "uuid": "90399057f6ff0ff18d4c46a378f0b069"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Yashvardhan",
+          "is_contact": "TRUE",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Yashvardhan Jain",
+          "orcid_id": "0000-0002-6300-5568",
+          "version": "1"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Katy",
+          "is_contact": "TRUE",
+          "last_name": "Borner",
+          "middle_name_or_initial": "",
+          "name": "Katy Borner",
+          "orcid_id": "0000-0002-3321-6137",
+          "version": "1"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Yashvardhan",
+          "is_contact": "TRUE",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Yashvardhan Jain",
+          "orcid_id": "0000-0002-6300-5568",
+          "version": "1"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Leah",
+          "is_contact": "FALSE",
+          "last_name": "Godwin",
+          "middle_name_or_initial": "L",
+          "name": "Leah L Godwin",
+          "orcid_id": "0000-0001-5498-332X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Yingnan",
+          "is_contact": "FALSE",
+          "last_name": "Ju",
+          "middle_name_or_initial": "",
+          "name": "Yingnan Ju",
+          "orcid_id": "0000-0001-5498-332X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Naveksha",
+          "is_contact": "FALSE",
+          "last_name": "Sood",
+          "middle_name_or_initial": "",
+          "name": "Naveksha Sood",
+          "orcid_id": "0000-0003-0261-8966",
+          "version": "1"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Ellen",
+          "is_contact": "FALSE",
+          "last_name": "Quardokus",
+          "middle_name_or_initial": "M",
+          "name": "Ellen M Quardokus",
+          "orcid_id": "0000-0001-7655-4833",
+          "version": "1"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Andreas",
+          "is_contact": "FALSE",
+          "last_name": "Bueckle",
+          "middle_name_or_initial": "",
+          "name": "Andreas Bueckle",
+          "orcid_id": "0000-0002-8977-498X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Teri",
+          "is_contact": "FALSE",
+          "last_name": "Longacre",
+          "middle_name_or_initial": "",
+          "name": "Teri Longacre",
+          "orcid_id": "0000-0002-0935-7300",
+          "version": "1"
+        },
+        {
+          "affiliation": "Thermo Fisher Scientific",
+          "first_name": "Aaron",
+          "is_contact": "FALSE",
+          "last_name": "Horning",
+          "middle_name_or_initial": "",
+          "name": "Aaron Horning",
+          "orcid_id": "0000-0003-3247-0798",
+          "version": "1"
+        },
+        {
+          "affiliation": "Washington University School of Medicine",
+          "first_name": "Yiing",
+          "is_contact": "FALSE",
+          "last_name": "Lin",
+          "middle_name_or_initial": "",
+          "name": "Yiing Lin",
+          "orcid_id": "0000-0002-0317-7608",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Edward",
+          "is_contact": "FALSE",
+          "last_name": "Esplin",
+          "middle_name_or_initial": "D",
+          "name": "Edward D Esplin",
+          "orcid_id": "0000-0001-9205-3756",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "is_contact": "FALSE",
+          "last_name": "Hickey",
+          "middle_name_or_initial": "W",
+          "name": "John W Hickey",
+          "orcid_id": "0000-0001-9961-7673",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Michael",
+          "is_contact": "FALSE",
+          "last_name": "Snyder",
+          "middle_name_or_initial": "P",
+          "name": "Michael P Snyder",
+          "orcid_id": "0000-0003-0784-7987",
+          "version": "1"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Nathan",
+          "is_contact": "FALSE",
+          "last_name": "Patterson",
+          "middle_name_or_initial": "Heath",
+          "name": "Nathan Heath Patterson",
+          "orcid_id": "0000-0002-0064-1583",
+          "version": "1"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "is_contact": "FALSE",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey M Spraggins",
+          "orcid_id": "0000-0001-9198-5498",
+          "version": "1"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Katy",
+          "is_contact": "TRUE",
+          "last_name": "Borner",
+          "middle_name_or_initial": "",
+          "name": "Katy Borner",
+          "orcid_id": "0000-0002-3321-6137",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1766007816309,
+      "description": "The Human BioMolecular Atlas Program (HuBMAP) aims to compile a Human Reference Atlas (HRA) for the healthy adult body at\nthe cellular level. Functional tissue units (FTUs), relevant for HRA construction, are of pathobiological significance. Manual\nsegmentation of FTUs does not scale; highly accurate and performant, open-source machine-learning algorithms are needed. We\ndesigned and hosted a Kaggle competition that focused on development of such algorithms and 1200 teams from 60 countries\nparticipated. We present the competition outcomes and an expanded analysis of the winning algorithms on additional kidney and colon\ntissue data, and conduct a pilot study to understand spatial location and density of FTUs across the kidney. The top algorithm from the\ncompetition, Tom, outperforms other algorithms in the expanded study, while using fewer computational resources. Tom was added to\nthe HuBMAP infrastructure to run kidney FTU segmentation at scale\u2014showcasing the value of Kaggle competitions for advancing\nresearch.\n",
+      "doi_url": "https://doi.org/10.35079/HBM948.FVSJ.663",
+      "entity_type": "Collection",
+      "group_name": "MC - IU",
+      "group_uuid": "ff2283a0-20ea-11ee-9d2e-0bbf905dd76a",
+      "hubmap_id": "HBM948.FVSJ.663",
+      "last_modified_timestamp": 1766007820209,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM948.FVSJ.663",
+      "title": "A collection of datasets from Publication: Segmentation of human functional tissue units in support of a Human Reference Atlas",
+      "uuid": "4c43fe3f3b6e485da0f1c895d4bb90ae"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Jeffrey",
+      "last_name": "Spraggins",
+      "middle_name_or_initial": "M",
+      "name": "Jeffrey Spraggins",
+      "orcid_id": "0000-0001-9198-5498"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Jeffrey",
+      "is_contact": "TRUE",
+      "last_name": "Spraggins",
+      "middle_name_or_initial": "M",
+      "name": "Jeffrey Spraggins",
+      "orcid_id": "0000-0001-9198-5498"
+    },
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Jennifer",
+      "last_name": "Harvey",
+      "middle_name_or_initial": "L",
+      "name": "Jennifer L. Harvey",
+      "orcid_id": "0000-0003-3067-1238"
+    },
+    {
+      "affiliation": "Vanderbilt University Medical Center",
+      "first_name": "Agnes",
+      "last_name": "Fogo",
+      "middle_name_or_initial": "B",
+      "name": "Agnes B. Fogo",
+      "orcid_id": "0000-0003-3698-8527"
+    },
+    {
+      "affiliation": "Vanderbilt University Medical Center",
+      "first_name": "Haichun",
+      "last_name": "Yang",
+      "middle_name_or_initial": "",
+      "name": "Haichun Yang",
+      "orcid_id": "0000-0003-4265-7492"
+    },
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Jamie",
+      "last_name": "Allen",
+      "middle_name_or_initial": "L",
+      "name": "Jamie Allen",
+      "orcid_id": "0000-0002-4739-2166"
+    },
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Danielle",
+      "last_name": "Gutierrez",
+      "middle_name_or_initial": "B",
+      "name": "Danielle Gutierrez",
+      "orcid_id": "0000-0001-6355-2134"
+    }
+  ],
+  "created_by_user_displayname": "Jeff Spraggins",
+  "created_by_user_email": "spraggj@vanderbilt.edu",
+  "created_by_user_sub": "ce74ea5c-86bd-44b1-bfc4-4459d4fe20b5",
+  "created_timestamp": 1589766317008,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "data_types": [
+    "PAS"
+  ],
+  "dataset_info": "Periodic acid-Schiff Stained Microscopy of Human Kidney Tissue\r\n\r\nPeriodic acid-Schiff  Stained Microscopy collected from the Left Kidney of a 53 year old Black or African American Male donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Brightfield microscopy images of fresh-frozen tissue sections were collected with a Leica Biosystems SCN400. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+  "dataset_type": "Histology",
+  "description": "Periodic acid-Schiff  Stained Microscopy collected from the Left Kidney of a 53 year old Black or African American Male donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Brightfield microscopy images of fresh-frozen tissue sections were collected with a Leica Biosystems SCN400. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Jamie Allen",
+      "created_by_user_email": "allenj2@vanderbilt.edu",
+      "created_by_user_sub": "83ae233d-6d1d-40eb-baa7-b6f636ab579a",
+      "created_timestamp": 1577416287610,
+      "data_access_level": "public",
+      "description": "11/03/19 - 2D sections: 7-12, imaging odd, MxIF even\n01/10/20 - LC sections 13-18",
+      "entity_type": "Sample",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM392.LNBN.278",
+      "last_modified_timestamp": 1580316414155,
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.7ethjen",
+      "sample_category": "section",
+      "uuid": "6c84417088840d5fbc0c582b6c86503b"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM389.MBWW.346",
+  "entity_type": "Dataset",
+  "group_name": "Vanderbilt TMC",
+  "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+  "hubmap_id": "HBM389.MBWW.346",
+  "ingest_id": "7810dadcb43b35ef9de6378f3d53b532_scan.and.begin.processing_2020-07-27T20:09:22.733415-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "de1b3fc",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1723120994169,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Vanderbilt TMC/7810dadcb43b35ef9de6378f3d53b532/",
+  "metadata": {
+    "_from_metadatatsv": true,
+    "acquisition_instrument_model": "SCN400",
+    "acquisition_instrument_vendor": "Leica Biosystems",
+    "analyte_class": "Polysaccharide",
+    "assay_category": "imaging",
+    "assay_type": "PAS microscopy",
+    "collectiontype": "single_metadatatsv",
+    "execution_datetime": "12/6/19 17:46",
+    "is_targeted": "FALSE",
+    "metadata_path": "/rawMicroscopy/",
+    "operator": "Elizabeth K. Neumann",
+    "operator_email": "elizabeth.neumann@vanderbilt.edu",
+    "overall_protocols_io_doi": "10.17504/protocols.io.bfskjncw",
+    "pi": "Jeffrey M. Spraggins",
+    "pi_email": "jeff.spraggins@vanderbilt.edu",
+    "protocols_io_doi": "10.17504/protocols.io.4qngvve",
+    "resolution_x_unit": "nm",
+    "resolution_x_value": "500",
+    "resolution_y_unit": "nm",
+    "resolution_y_value": "500",
+    "resolution_z_unit": "nm",
+    "resolution_z_value": "0",
+    "section_prep_protocols_io_doi": "10.17504/protocols.io.4qngvve",
+    "stain": "Periodic acid-Schiff"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1598105350736,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "registered_doi": "10.35079/HBM389.MBWW.346",
+  "run_id": "7810dadcb43b35ef9de6378f3d53b532_scan.and.begin.processing_2020-07-27T20:09:22.733415-04:00",
+  "status": "Published",
+  "title": "Histology data from the kidney (left) of a 53-year-old black or african american male",
+  "uuid": "7810dadcb43b35ef9de6378f3d53b532"
+}

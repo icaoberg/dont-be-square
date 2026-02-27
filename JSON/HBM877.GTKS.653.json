@@ -1,0 +1,104 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603993199472,
+  "data_access_level": "public",
+  "description": "1cm x 1cm x 0.5cm piece of tisssue from CCF-3, embedded in paraffin",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603991939148,
+    "data_access_level": "public",
+    "description": "1cm slab cut cross sectional  at 34mm from superior end of organ",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM265.XNNN.752",
+    "image_file_metadata": [
+      {
+        "description": "1cm thick dissected organ piece shown on sectioning board. Upper slab in image is CC-3",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/32e0338d25bdef69ef3aefbd9b6ed331/IMG_3320.jpg"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "1cm thick dissected organ piece shown on sectioning board. Upper slab in image is CC-3",
+        "file_uuid": "ffff3df1116b036d7b5a06baedd8c55f",
+        "filename": "IMG_3320.jpg"
+      }
+    ],
+    "last_modified_timestamp": 1617759161939,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+    "sample_category": "block",
+    "uuid": "0ad04274f40908917621a4c95574960b"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM877.GTKS.653",
+  "last_modified_timestamp": 1670964108809,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/6ac1278c-a82d-4f1d-aa17-5c52d9f31dc2",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049",
+      "http://purl.obolibrary.org/obo/UBERON_0005457",
+      "http://purl.obolibrary.org/obo/UBERON_0005469",
+      "http://purl.org/sig/ont/fma/fma15828",
+      "http://purl.org/sig/ont/fma/fma15838",
+      "http://purl.org/sig/ont/fma/fma15837",
+      "http://purl.obolibrary.org/obo/UBERON_0001248",
+      "http://purl.org/sig/ont/fma/fma15839"
+    ],
+    "creation_date": "2021-10-02",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/6ac1278c-a82d-4f1d-aa17-5c52d9f31dc2_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-02",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHMSpleen",
+      "translation_units": "millimeter",
+      "x_rotation": -91,
+      "x_scaling": 1,
+      "x_translation": 25.01,
+      "y_rotation": -46,
+      "y_scaling": 1,
+      "y_translation": 62.199,
+      "z_rotation": -53,
+      "z_scaling": 1,
+      "z_translation": 30.63
+    },
+    "x_dimension": 10,
+    "y_dimension": 10,
+    "z_dimension": 12
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffff8f80aa20b941575335752d736cb9",
+    "filename": "HBM877.GTKS.653.jpg"
+  },
+  "uuid": "bf7db5748c79ce21ff2fbdea95643a0e"
+}

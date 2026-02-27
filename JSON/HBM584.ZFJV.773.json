@@ -1,0 +1,283 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1726499992638,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "dataset_info": "pas_ftu_segmentation__59992e8c75656eb81ee07c45e79eb13b__pas-ftu-segmentation-pipeline",
+  "dataset_type": "Histology [Kaggle-1 Glomerulus Segmentation]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "University Clinic of Nephrology, Faculty of Medicine, University of Coimbra",
+          "display_name": "Luis Rodrigues",
+          "email": "luis.arodrigues@hotmail.com",
+          "first_name": "Luis",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "Yes",
+          "last_name": "Rodrigues",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-0122-982X"
+        },
+        {
+          "affiliation": "Department of Pathology and Laboratory Medicine, University of California, Davis School of Medicine",
+          "display_name": "Kuang-Yu Jen",
+          "email": "kyjen@ucdavis.edu",
+          "first_name": "Kuang-Yu",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "Yes",
+          "last_name": "Jen",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9502",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2815-5912"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Seoul National University College of Medicine",
+          "display_name": "Seung Seok Han",
+          "email": "hansway7@snu.ac.kr ",
+          "first_name": "Seung Seok",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "Yes",
+          "last_name": "Han",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9503",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-0137-5261"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "University Clinic of Nephrology, Faculty of Medicine, University of Coimbra",
+          "display_name": "Luis Rodrigues",
+          "email": "luis.arodrigues@hotmail.com",
+          "first_name": "Luis",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "Yes",
+          "last_name": "Rodrigues",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-0122-982X"
+        },
+        {
+          "affiliation": "Department of Pathology and Laboratory Medicine, University of California, Davis School of Medicine",
+          "display_name": "Kuang-Yu Jen",
+          "email": "kyjen@ucdavis.edu",
+          "first_name": "Kuang-Yu",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "Yes",
+          "last_name": "Jen",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9502",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2815-5912"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Seoul National University College of Medicine",
+          "display_name": "Seung Seok Han",
+          "email": "hansway7@snu.ac.kr ",
+          "first_name": "Seung Seok",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "Yes",
+          "last_name": "Han",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9503",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-0137-5261"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1726237972579,
+      "data_access_level": "public",
+      "dataset_type": "Histology",
+      "description": "All deidentified kidney tissue sections in this study were obtained from the pathology archives of the University of California, Davis, Centro Hospitalar e Universit\u00e1rio de Coimbra, and Seoul National University Hospital. The original tissue was formalin-fixed, paraffin-embedded, and sectioned at 2\u20134 \u00b5m in thickness. The reference kidney tissue sections consisted of archived glass slides of the renal parenchyma uninvolved and away from the renal tumor of human tumor nephrectomy specimens. These cases were screened to have no evidence of hydronephrosis, infectious disease, or proteinuria. The renal pathologist screened the slides to include only cases with minimal pathologic changes (e.g., no tumor, no significant preservation or processing artifact, and <5% interstitial fibrosis and tubular atrophy). These criteria were implemented to ensure that only areas of tissue consistent with reference morphometry were included. In total, reference sections from 79 unique participants were included, with a tissue area totaling 17,208 mm2. eGFR was measured using the 2021 CKD Epidemiology Collaboration eGFRcr equation.",
+      "doi_url": "https://doi.org/10.35079/HBM847.ZQZH.768",
+      "entity_type": "Dataset",
+      "group_name": "TC - University of Florida",
+      "group_uuid": "9d7be1c8-20ea-11ee-b9e0-4f7fcf0abd92",
+      "hubmap_id": "HBM847.ZQZH.768",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "a4c0d4e8",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          },
+          {
+            "hash": "8c716ba8",
+            "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1728495708590,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "Aperio CS2",
+        "acquisition_instrument_vendor": "Leica Biosystems",
+        "analyte_class": "Nucleic acid + protein",
+        "contributors_path": "./extras/contributors.tsv",
+        "data_path": ".",
+        "dataset_type": "Histology",
+        "is_batch_staining_done": "No",
+        "is_image_preprocessing_required": "No",
+        "is_staining_automated": "No",
+        "is_targeted": "No",
+        "metadata_schema_id": "e7475329-9a60-4088-8e34-19a3828e0b3b",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.e6nvwdo6dlmk/v1",
+        "source_storage_duration_unit": "minute",
+        "source_storage_duration_value": "0",
+        "stain_name": "PAS"
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "Histology_Data_Bulk : ./H14-12555_1L",
+      "published_timestamp": 1728495708590,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM847.ZQZH.768",
+      "status": "Published",
+      "status_history": [
+        {
+          "change_timestamp": 1726237972579,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1726237988194,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Submitted"
+        },
+        {
+          "change_timestamp": 1726238093057,
+          "changed_by_email": "bhonick@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1726238123108,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Invalid"
+        },
+        {
+          "change_timestamp": 1726255756119,
+          "changed_by_email": "bhonick@andrew.cmu.edu",
+          "status": "Submitted"
+        },
+        {
+          "change_timestamp": 1726255764800,
+          "changed_by_email": "bhonick@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1726255997966,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1728495708590,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        }
+      ],
+      "uuid": "59992e8c75656eb81ee07c45e79eb13b"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "FTU segmentation masks in json form",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "H14-12555_1L_PAS.ome_mask.json",
+      "size": 16154162,
+      "type": "json"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/H14-12555_1L_PAS.ome_mask.ome.tif",
+      "size": 14833560,
+      "type": "unknown"
+    },
+    {
+      "description": "FTU segmentation masks in json form",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/H14-12555_1L_PAS.ome_mask.offsets.json",
+      "size": 10,
+      "type": "json"
+    }
+  ],
+  "group_name": "TC - University of Florida",
+  "group_uuid": "9d7be1c8-20ea-11ee-b9e0-4f7fcf0abd92",
+  "hubmap_id": "HBM584.ZFJV.773",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "74a4fa07",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.18"
+      },
+      {
+        "documentation_url": "",
+        "hash": "35eb9414",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.19"
+      }
+    ],
+    "workflow_description": "The Kaggle 1 pipeline segments glomeruli in PAS-stained histology images of kidney.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1730130169854,
+  "last_modified_user_displayname": "Karl Burke",
+  "last_modified_user_email": "KBURKE@pitt.edu",
+  "last_modified_user_sub": "3aaa925d-755a-4193-98c7-44455de783ff",
+  "local_directory_rel_path": "public/TC - University of Florida/40f292a48b4d319acd354f2a632fe63b/",
+  "next_revision_uuid": "a12cb794ae64ec6e447f642f0b0e93fb",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1728495714956,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1726499992638,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1726499999139,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1726523994201,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1728495714956,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology [Kaggle-1 Glomerulus Segmentation] data from the kidney (left) of a 63-year-old white male",
+  "uuid": "40f292a48b4d319acd354f2a632fe63b"
+}

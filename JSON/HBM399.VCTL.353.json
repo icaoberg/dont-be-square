@@ -1,0 +1,585 @@
+{
+  "collections": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA",
+          "display_name": "Katy Borner",
+          "email": "katy@iu.edu",
+          "first_name": "Katy",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Borner",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-3321-6137"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA",
+          "display_name": "Andreas Bueckle",
+          "email": "abueckle@iu.edu",
+          "first_name": "Andreas",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Bueckle",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8977-498X"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA",
+          "display_name": "Bruce W. Herr II",
+          "email": "bherr@iu.edu",
+          "first_name": "Bruce",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Herr II",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "W.",
+          "orcid": "0000-0002-6703-7647"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA",
+          "display_name": "Katy Borner",
+          "email": "katy@iu.edu",
+          "first_name": "Katy",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Borner",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-3321-6137"
+        },
+        {
+          "affiliation": "Pittsburgh Supercomputing Center, Carnegie Mellon University, Pittsburgh, PA, USA",
+          "display_name": "Philip D. Blood",
+          "email": "blood@psc.edu",
+          "first_name": "Philip",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Blood",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "D.",
+          "orcid": "0000-0002-9129-1223"
+        },
+        {
+          "affiliation": "Department of Biomedical Informatics, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+          "display_name": "Jonathan C. Silverstein",
+          "email": "j.c.s@pitt.edu",
+          "first_name": "Jonathan",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Silverstein",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "C.",
+          "orcid": "0000-0002-9252-6039"
+        },
+        {
+          "affiliation": "Ray and Stephanie Lane Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, USA",
+          "display_name": "Matthew Ruffalo",
+          "email": "mruffalo@cs.cmu.edu",
+          "first_name": "Matthew",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Ruffalo",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2222-6169"
+        },
+        {
+          "affiliation": "New York Genome Center, New York, NY, USA",
+          "display_name": "Rahul Satija",
+          "email": "rsatija@nygenome.org",
+          "first_name": "Rahul",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Satija",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-9448-8833"
+        },
+        {
+          "affiliation": "Cambridge Stem Cell Institute, Jeffrey Cheah Biomedical Centre, Cambridge Biomedical Campus, University of Cambridge, Cambridge, UK",
+          "display_name": "Sarah A. Teichmann",
+          "email": "sat1003@cam.ac.uk",
+          "first_name": "Sarah",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Teichmann",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "A.",
+          "orcid": "0000-0002-6294-6366"
+        },
+        {
+          "affiliation": "Department of Pediatrics, Division of Neonatology, University of Rochester Medical Center, Rochester, NY, USA",
+          "display_name": "Gloria Pryhuber",
+          "email": "Gloria_Pryhuber@URMC.Rochester.edu",
+          "first_name": "Gloria",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Pryhuber",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-9185-3994"
+        },
+        {
+          "affiliation": "Department of Pediatrics, Division of Neonatology, University of Rochester Medical Center, Rochester, NY, USA",
+          "display_name": "Ravi S. Misra",
+          "email": "Ravi_Misra@URMC.Rochester.edu",
+          "first_name": "Ravi",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Misra",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "S.",
+          "orcid": "0000-0002-1352-4378"
+        },
+        {
+          "affiliation": "Department of Pediatrics, Division of Neonatology, University of Rochester Medical Center, Rochester, NY, USA",
+          "display_name": "Jeffrey M. Purkerson",
+          "email": "jeffrey_purkerson@URMC.Rochester.edu",
+          "first_name": "Jeffrey",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Purkerson",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M.",
+          "orcid": "0000-0001-7636-4992"
+        },
+        {
+          "affiliation": "Department of Biomedical Engineering, Johns Hopkins University, Baltimore MD, USA",
+          "display_name": "Jean Fan",
+          "email": "jeanfan@jhu.edu",
+          "first_name": "Jean",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Fan",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-0212-5451"
+        },
+        {
+          "affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA",
+          "display_name": "John W. Hickey",
+          "email": "john.hickey@duke.edu",
+          "first_name": "John",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Hickey",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "W.",
+          "orcid": "0000-0001-9961-7673"
+        },
+        {
+          "affiliation": "New York Genome Center, New York, NY, USA",
+          "display_name": "Gesmira Molla",
+          "email": "gmolla@nygenome.org",
+          "first_name": "Gesmira",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Molla",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8628-5056"
+        },
+        {
+          "affiliation": "Cambridge Stem Cell Institute, Jeffrey Cheah Biomedical Centre, Cambridge Biomedical Campus, University of Cambridge, Cambridge, UK",
+          "display_name": "Chuan Xu",
+          "email": "cx267@cam.ac.uk",
+          "first_name": "Chuan",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Xu",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-6265-999X"
+        },
+        {
+          "affiliation": "J. Craig Venter Institute, La Jolla, CA, USA",
+          "display_name": "Yun Zhang",
+          "email": "zhangy@jcvi.org",
+          "first_name": "Yun",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Zhang",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2707-5881"
+        },
+        {
+          "affiliation": "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA",
+          "display_name": "Griffin M. Weber",
+          "email": "weber@hms.harvard.edu",
+          "first_name": "Griffin",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Weber",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M.",
+          "orcid": "0000-0002-2597-881X"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA",
+          "display_name": "Yashvardhan Jain",
+          "email": "yashjain@iu.edu",
+          "first_name": "Yashvardhan",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Jain",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-6300-5568"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA",
+          "display_name": "Danial Qaurooni",
+          "email": "dequeue@iu.edu",
+          "first_name": "Danial",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Qaurooni",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-6190-073X"
+        },
+        {
+          "affiliation": "Center for Cell Lineage Atlas, Center for Biomedical Digital Science, Guangzhou Institutes ofBiomedicine and Health, Chinese Academy of Sciences, Guangzhou 510530, China",
+          "display_name": "Yongxin Kong",
+          "email": "yokong@iu.edu",
+          "first_name": "Yongxin",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Kong",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0006-1887-9860"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA",
+          "display_name": "Andreas Bueckle",
+          "email": "abueckle@iu.edu",
+          "first_name": "Andreas",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Bueckle",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8977-498X"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN, USA",
+          "display_name": "Bruce W. Herr II",
+          "email": "bherr@iu.edu",
+          "first_name": "Bruce",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Herr II",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "W.",
+          "orcid": "0000-0002-6703-7647"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1766007893200,
+      "description": "The Human BioMolecular Atlas Program (HuBMAP) aims to construct a 3D Human Reference Atlas (HRA) of the healthy adult body. Experts from 20+ consortia collaborate to develop a Common Coordinate Framework (CCF), knowledge graphs and tools that describe the multiscale structure of the human body (from organs and tissues down to cells, genes and biomarkers) and to use the HRA to characterize changes that occur with aging, disease and other perturbations. HRA v.2.0 covers 4,499 unique anatomical structures, 1,195 cell types and 2,089 biomarkers (such as genes, proteins and lipids) from 33 ASCT+B tables and 65 3D Reference Objects linked to ontologies. New experimental data can be mapped into the HRA using (1) cell type annotation tools (for example, Azimuth), (2) validated antibody panels or (3) by registering tissue data spatially. This paper describes HRA user stories, terminology, data formats, ontology validation, unified analysis workflows, user interfaces, instructional materials, application programming interfaces, flexible hybrid cloud infrastructure and previews atlas usage applications.",
+      "doi_url": "https://doi.org/10.35079/HBM234.XTGZ.374",
+      "entity_type": "Collection",
+      "group_name": "MC - IU",
+      "group_uuid": "ff2283a0-20ea-11ee-9d2e-0bbf905dd76a",
+      "hubmap_id": "HBM234.XTGZ.374",
+      "last_modified_timestamp": 1766007896323,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM234.XTGZ.374",
+      "title": "A collection of datasets from Publication: Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage",
+      "uuid": "c7ae6602a4085c0f20a68e4ce19e1e7b"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Jeffrey  Purkerson",
+      "email": "jeffrey_purkerson@urmc.rochester.edu",
+      "first_name": "Jeffrey ",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Purkerson",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-7636-4992"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Jeffrey  Purkerson",
+      "email": "jeffrey_purkerson@urmc.rochester.edu",
+      "first_name": "Jeffrey ",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Purkerson",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-7636-4992"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Heidie Huyck",
+      "email": "heidie_huyck@urmc.rochester.edu",
+      "first_name": "Heidie",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Huyck",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-9453-0747"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Luis Colon",
+      "email": "Luis_Colon1@URMC.Rochester.edu",
+      "first_name": "Luis",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Colon",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0003-9604-8008"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Gloria S Pryhuber",
+      "email": "Gloria_Pryhuber@urmc.rochester.edu",
+      "first_name": "Gloria",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Pryhuber",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "S",
+      "orcid": "0000-0002-9185-3994"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Ravi Misra",
+      "email": "Ravi_Misra@URMC.Rochester.edu",
+      "first_name": "Ravi",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Misra",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-1352-4378"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1730815417810,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "Histology",
+  "description": "H&E performed after multiplexed (27 antibody) immunofluorescence assay on same section (HBM748.KCTH.488, 5 micron, FFPE). The tissue section is from the right lower lobe of lung of a 1.6-year-old white female (D115)  born at extremely low gestational age with secondary bronchopulmonary dysplasia, pulmonary hypertension and arrested alveolar development. Pathologist review reports: Classic chronic neonatal lung disease/BPD with severe deficient lung growth, lobular remodeling (fibrosis and smooth muscle hyperplasia), reactive airway epithelium and macrophage accumulation, Pulmonary arteriopathy with medial hypertrophy and intimal hyperplasia. Unable to accurately determine radial alveolar count (RAC) due to severe remodeling.",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Andrew Watts",
+      "created_by_user_email": "Andrew_Watts@URMC.Rochester.edu",
+      "created_by_user_sub": "bd3ebccf-fdf8-44d5-b51f-642311df8d77",
+      "created_timestamp": 1727203001179,
+      "data_access_level": "public",
+      "description": "5.0 micron thick FFPE section",
+      "entity_type": "Sample",
+      "group_name": "University of Rochester Medical Center TMC",
+      "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+      "hubmap_id": "HBM727.JNRP.432",
+      "last_modified_timestamp": 1727203001179,
+      "last_modified_user_displayname": "Andrew Watts",
+      "last_modified_user_email": "Andrew_Watts@URMC.Rochester.edu",
+      "last_modified_user_sub": "bd3ebccf-fdf8-44d5-b51f-642311df8d77",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.bjttknnn",
+      "sample_category": "section",
+      "uuid": "354e7232a92811832d7114e65c67b8af"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM399.VCTL.353",
+  "entity_type": "Dataset",
+  "group_name": "University of Rochester Medical Center TMC",
+  "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+  "hubmap_id": "HBM399.VCTL.353",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "4134c289",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      },
+      {
+        "hash": "85485df5",
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1732636804529,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/University of Rochester Medical Center TMC/7036a70229eff1a51af965454dddbe7d/",
+  "metadata": {
+    "acquisition_instrument_model": "PhenoImager Fusion",
+    "acquisition_instrument_vendor": "Akoya Biosciences",
+    "analyte_class": "Nucleic acid + protein",
+    "contributors_path": "extras/1060_contributors.tsv",
+    "dataset_type": "Histology",
+    "intended_tile_overlap_percentage": "",
+    "is_batch_staining_done": "No",
+    "is_image_preprocessing_required": "No",
+    "is_staining_automated": "No",
+    "is_targeted": "No",
+    "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+    "non_global_files": "",
+    "preparation_instrument_model": "Not applicable",
+    "preparation_instrument_vendor": "Not applicable",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.36wgqjnq3vk5/v4",
+    "scan_direction": "",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "756",
+    "stain_name": "H&E",
+    "stain_technique": "Progressive staining",
+    "tile_configuration": "",
+    "tiled_image_columns": "",
+    "tiled_image_count": "",
+    "time_since_acquisition_instrument_calibration_unit": "day",
+    "time_since_acquisition_instrument_calibration_value": "7"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "D115 H&E : ./D115-RLL-10A3-38",
+  "published_timestamp": 1732636804529,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM399.VCTL.353",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1730815417810,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1730815437478,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1730815597145,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1730815662897,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1732636804529,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology data from the lung (right) of a 1.6-year-old white female",
+  "upload": {
+    "created_by_user_displayname": "Andrew Watts",
+    "created_by_user_email": "Andrew_Watts@URMC.Rochester.edu",
+    "created_by_user_sub": "bd3ebccf-fdf8-44d5-b51f-642311df8d77",
+    "created_timestamp": 1727204614859,
+    "description": "H&E for right lower lobe of lung of donor D115",
+    "entity_type": "Upload",
+    "group_name": "University of Rochester Medical Center TMC",
+    "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+    "hubmap_id": "HBM784.WGTF.568",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231901851,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1727204614859,
+        "changed_by_email": "Andrew_Watts@URMC.Rochester.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1730140502509,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Incomplete"
+      },
+      {
+        "change_timestamp": 1730814849793,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1730814868087,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1730814919411,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1730815384257,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1730815389430,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1730815436271,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "D115 H&E",
+    "uuid": "68c63e48954f1ce3eefa77a1a5bded3a"
+  },
+  "uuid": "7036a70229eff1a51af965454dddbe7d"
+}

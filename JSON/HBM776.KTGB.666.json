@@ -1,0 +1,397 @@
+{
+  "contacts": [
+    {
+      "affiliation": "University of California, San Diego ",
+      "display_name": "Xingzhao Wen",
+      "email": "xzwen@ucsd.edu",
+      "first_name": "Xingzhao",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Wen",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-1463-0359"
+    },
+    {
+      "affiliation": "University of California, San Diego ",
+      "display_name": "Sheng Zhong",
+      "email": "szhong@ucsd.edu",
+      "first_name": "Sheng",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Zhong",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-6419-7453"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "University of California, San Diego ",
+      "display_name": "Xingzhao Wen",
+      "email": "xzwen@ucsd.edu",
+      "first_name": "Xingzhao",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Wen",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-1463-0359"
+    },
+    {
+      "affiliation": "University of California, San Diego ",
+      "display_name": "Sheng Zhong",
+      "email": "szhong@ucsd.edu",
+      "first_name": "Sheng",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Zhong",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-6419-7453"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1715630402082,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "dataset_type": "MUSIC",
+  "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX25654497",
+  "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003568",
+  "description": "Supplementary raw sequencing data for the publication PMID: 38538789, including MUSIC data for frontal cortex tissue from 14 human donors.  : ./MUSIC_Donor12_09-46",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Xingzhao Wen",
+      "created_by_user_email": "xzwen@ucsd.edu",
+      "created_by_user_sub": "604a33f6-821d-4437-b933-590028eabbee",
+      "created_timestamp": 1712646384391,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "TTD - University of San Diego and City of Hope",
+      "group_uuid": "d62c4872-c870-11eb-a8dd-35ce3d8786fe",
+      "hubmap_id": "HBM973.PZQH.525",
+      "last_modified_timestamp": 1712646384391,
+      "last_modified_user_displayname": "Xingzhao Wen",
+      "last_modified_user_email": "xzwen@ucsd.edu",
+      "last_modified_user_sub": "604a33f6-821d-4437-b933-590028eabbee",
+      "protocol_url": "http://dx.doi.org/10.17504/protocols.io.4r3l22kwxl1y/v1 ",
+      "sample_category": "section",
+      "uuid": "afdc8d0f0e83bbee289b05e0f015157f"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM776.KTGB.666",
+  "entity_type": "Dataset",
+  "group_name": "TTD - University of San Diego and City of Hope",
+  "group_uuid": "d62c4872-c870-11eb-a8dd-35ce3d8786fe",
+  "hubmap_id": "HBM776.KTGB.666",
+  "ingest_id": "5b27ac4e8523bd1370e4fb69b728bed0_scan.and.begin.processing_2024-05-13T16:26:18.724094-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "0bdb2364",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1729860929134,
+  "last_modified_user_displayname": "Jackie Uranic",
+  "last_modified_user_email": "juranic@psc.edu",
+  "last_modified_user_sub": "54dc2f06-b4c3-4f95-a97b-8636df4b9f00",
+  "local_directory_rel_path": "protected/TTD - University of San Diego and City of Hope/5b27ac4e8523bd1370e4fb69b728bed0/",
+  "metadata": {
+    "acquisition_instrument_model": "NovaSeq 6000",
+    "acquisition_instrument_vendor": "Illumina",
+    "amount_of_input_analyte_unit": "",
+    "amount_of_input_analyte_value": "",
+    "analyte_class": "DNA + RNA",
+    "assay_input_entity": "tissue (bulk)",
+    "barcode_offset": "0,20-23,41-44",
+    "barcode_read": "Read 2 (R2)",
+    "barcode_size": "14-17,14,14",
+    "capture_batch_id": "",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "MUSIC",
+    "expected_entity_capture_count": "5000",
+    "is_targeted": "No",
+    "is_technical_replicate": "No",
+    "library_adapter_sequence": "Universal Adaptor: AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATC*T, Index Adaptor: CAAGCAGAAGACGGCATACGAGATNNNNNNNNGTGACTGGAGTTCAGACGTGTGCTCTTCCGATC*T",
+    "library_average_fragment_size": "633",
+    "library_concentration_unit": "ng/ul",
+    "library_concentration_value": "20.8",
+    "library_input_amount_unit": "ng",
+    "library_input_amount_value": "",
+    "library_layout": "paired-end",
+    "library_output_amount_unit": "ng",
+    "library_output_amount_value": "728.0",
+    "library_preparation_kit": "Custom",
+    "metadata_schema_id": "5efe0d51-828c-457a-9b94-2ac8090fe14f",
+    "number_of_input_cells_or_nuclei": "5000",
+    "preparation_instrument_kit": "",
+    "preparation_instrument_model": "",
+    "preparation_instrument_vendor": "",
+    "preparation_protocol_doi": "https://www.protocols.io/view/music-protocol-4r3l22kwxl1y/v2",
+    "sample_indexing_kit": "Not applicable",
+    "sample_indexing_set": "SI-GA-A1",
+    "sequencing_batch_id": "",
+    "sequencing_read_format": "28,8,0,150",
+    "sequencing_reagent_kit": "Illumina; NovaSeq 6000 S4 Reagent Kit v1.5 (300 cycles); PN 20028312",
+    "source_storage_duration_unit": "year",
+    "source_storage_duration_value": "12",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": "",
+    "umi_offset": "16",
+    "umi_read": "Read 1 (R1)",
+    "umi_size": "12"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "MUSIC human frontal cortex data  : ./MUSIC_Donor12_09-46",
+  "published_timestamp": 1716327075523,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM776.KTGB.666",
+  "run_id": "5b27ac4e8523bd1370e4fb69b728bed0_scan.and.begin.processing_2024-05-13T16:26:18.724094-04:00",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1715630402082,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1715630442036,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1715631920959,
+      "changed_by_email": "dbetancur@cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1715644757456,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1716327075523,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "MUSIC data from the brain of a 60-year-old white female",
+  "upload": {
+    "created_by_user_displayname": "Xingzhao Wen",
+    "created_by_user_email": "xzwen@ucsd.edu",
+    "created_by_user_sub": "604a33f6-821d-4437-b933-590028eabbee",
+    "created_timestamp": 1713995090193,
+    "description": "Supplementary raw sequencing data for the publication PMID: 38538789, including MUSIC data for frontal cortex tissue from 14 human donors. ",
+    "entity_type": "Upload",
+    "group_name": "TTD - University of San Diego and City of Hope",
+    "group_uuid": "d62c4872-c870-11eb-a8dd-35ce3d8786fe",
+    "hubmap_id": "HBM849.FPJT.976",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231751880,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1713995090193,
+        "changed_by_email": "xzwen@ucsd.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1714146708557,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1714146723579,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1714154332572,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1714154367277,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1714416475792,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1714416526621,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1714481729440,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1714481775794,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1714485458432,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1714485494865,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1714745854397,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1714745901977,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1714761298525,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1714761336390,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1714761390545,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1714792691392,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1715006321257,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1715006326368,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1715006371748,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1715087558363,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1715087565426,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1715087569921,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1715087603335,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1715087780863,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1715200718097,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1715200780265,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      },
+      {
+        "change_timestamp": 1715200806395,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1715372158947,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1715372727898,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1715373141925,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1715373752384,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1715373756400,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1715409359803,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1715630362841,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1715630366362,
+        "changed_by_email": "jpuerto@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1715630430711,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "MUSIC human frontal cortex data ",
+    "uuid": "0c182c97eb0e1fada2d2baca599862d3"
+  },
+  "uuid": "5b27ac4e8523bd1370e4fb69b728bed0"
+}

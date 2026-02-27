@@ -1,0 +1,263 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1723124651089,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "dataset_info": "pas_ftu_segmentation__5eacc268fa94d3419580ff04c9a9c76d__pas-ftu-segmentation-pipeline",
+  "dataset_type": "Histology [Kaggle-1 Glomerulus Segmentation]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey Spraggins",
+          "orcid_id": "0000-0001-9198-5498"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "is_contact": "TRUE",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey Spraggins",
+          "orcid_id": "0000-0001-9198-5498"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jennifer",
+          "last_name": "Harvey",
+          "middle_name_or_initial": "L",
+          "name": "Jennifer L. Harvey",
+          "orcid_id": "0000-0003-3067-1238"
+        },
+        {
+          "affiliation": "Vanderbilt University Medical Center",
+          "first_name": "Agnes",
+          "last_name": "Fogo",
+          "middle_name_or_initial": "B",
+          "name": "Agnes B. Fogo",
+          "orcid_id": "0000-0003-3698-8527"
+        },
+        {
+          "affiliation": "Vanderbilt University Medical Center",
+          "first_name": "Haichun",
+          "last_name": "Yang",
+          "middle_name_or_initial": "",
+          "name": "Haichun Yang",
+          "orcid_id": "0000-0003-4265-7492"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jamie",
+          "last_name": "Allen",
+          "middle_name_or_initial": "L",
+          "name": "Jamie Allen",
+          "orcid_id": "0000-0002-4739-2166"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Danielle",
+          "last_name": "Gutierrez",
+          "middle_name_or_initial": "B",
+          "name": "Danielle Gutierrez",
+          "orcid_id": "0000-0001-6355-2134"
+        }
+      ],
+      "created_by_user_displayname": "Jeff Spraggins",
+      "created_by_user_email": "spraggj@vanderbilt.edu",
+      "created_by_user_sub": "ce74ea5c-86bd-44b1-bfc4-4459d4fe20b5",
+      "created_timestamp": 1589766719911,
+      "data_access_level": "public",
+      "data_types": [
+        "PAS"
+      ],
+      "dataset_info": "Periodic acid-Schiff Stained Microscopy of Human Kidney Tissue\r\n\r\nPeriodic acid-Schiff  Stained Microscopy collected from the Right Kidney of a 44 year old White Female donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Brightfield microscopy images of fresh-frozen tissue sections were collected with a Leica Biosystems SCN400. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+      "dataset_type": "Histology",
+      "description": "Periodic acid-Schiff  Stained Microscopy collected from the Right Kidney of a 44 year old White Female donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Brightfield microscopy images of fresh-frozen tissue sections were collected with a Leica Biosystems SCN400. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+      "doi_url": "https://doi.org/10.35079/HBM874.RZDW.757",
+      "entity_type": "Dataset",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM874.RZDW.757",
+      "ingest_id": "5eacc268fa94d3419580ff04c9a9c76d_scan.and.begin.processing_2020-07-27T20:21:55.434326-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "de1b3fc",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1723120990040,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "local_directory_rel_path": "/Vanderbilt TMC/5eacc268fa94d3419580ff04c9a9c76d",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "SCN400",
+        "acquisition_instrument_vendor": "Leica Biosystems",
+        "analyte_class": "Polysaccharide",
+        "assay_category": "imaging",
+        "assay_type": "PAS microscopy",
+        "collectiontype": "single_metadatatsv",
+        "data_path": ".",
+        "execution_datetime": "11/20/19 15:51",
+        "is_targeted": "FALSE",
+        "metadata_path": "/rawMicroscopy/",
+        "operator": "Elizabeth K. Neumann",
+        "operator_email": "elizabeth.neumann@vanderbilt.edu",
+        "overall_protocols_io_doi": "10.17504/protocols.io.bfskjncw",
+        "pi": "Jeffrey M. Spraggins",
+        "pi_email": "jeff.spraggins@vanderbilt.edu",
+        "protocols_io_doi": "10.17504/protocols.io.4qngvve",
+        "resolution_x_unit": "nm",
+        "resolution_x_value": "500",
+        "resolution_y_unit": "nm",
+        "resolution_y_value": "500",
+        "resolution_z_unit": "nm",
+        "resolution_z_value": "0",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.4qngvve",
+        "stain": "Periodic acid-Schiff"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598105349195,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM874.RZDW.757",
+      "run_id": "5eacc268fa94d3419580ff04c9a9c76d_scan.and.begin.processing_2020-07-27T20:21:55.434326-04:00",
+      "status": "Published",
+      "uuid": "5eacc268fa94d3419580ff04c9a9c76d"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "FTU segmentation masks in json form",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "VAN0012-RK-103-75-PAS_registered.ome_mask.json",
+      "size": 8156704,
+      "type": "json"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/VAN0012-RK-103-75-PAS_registered.ome_mask.ome.tif",
+      "size": 3694436,
+      "type": "unknown"
+    },
+    {
+      "description": "FTU segmentation masks in json form",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/VAN0012-RK-103-75-PAS_registered.ome_mask.offsets.json",
+      "size": 9,
+      "type": "json"
+    }
+  ],
+  "group_name": "Vanderbilt TMC",
+  "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+  "hubmap_id": "HBM882.GPQM.873",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "54d1997",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.14"
+      },
+      {
+        "documentation_url": "",
+        "hash": "54d1997",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.14"
+      },
+      {
+        "documentation_url": "",
+        "hash": "ec6a743",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/pas-ftu-segmentation-pipeline",
+        "version": "v1.1.2"
+      },
+      {
+        "documentation_url": "",
+        "hash": "6e55233",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/create-vis-symlink-archive.git",
+        "version": "v1.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a063a34",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "8270e46",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.38"
+      }
+    ],
+    "workflow_description": "The Kaggle 1 pipeline segments glomeruli in PAS-stained histology images of kidney.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1726775972668,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Vanderbilt TMC/9f256239b05930405a30d0b56edd0abf/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1726775972668,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1723124651089,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1723124664940,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1723127992984,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1726775972668,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology [Kaggle-1 Glomerulus Segmentation] data from the kidney (right) of a 44-year-old white female",
+  "uuid": "9f256239b05930405a30d0b56edd0abf"
+}

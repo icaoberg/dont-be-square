@@ -1,0 +1,252 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1691177085848,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "image_pyramid"
+  ],
+  "dataset_info": "ometiff_pyramid_ims__8d72d5e9ffc2a0a50041b8b77d835645__ometiff_pyramid_ims",
+  "dataset_type": "DESI [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Purdue University",
+          "first_name": "Manxi",
+          "is_contact": "TRUE",
+          "last_name": "Yang",
+          "middle_name_or_initial": "",
+          "name": "Manxi Yang",
+          "orcid_id": "0000-0003-0589-1757",
+          "version": "1"
+        },
+        {
+          "affiliation": "Purdue University",
+          "first_name": "Julia",
+          "is_contact": "TRUE",
+          "last_name": "Laskin",
+          "middle_name_or_initial": "",
+          "name": "Julia Laskin",
+          "orcid_id": "0000-0002-4533-9644",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Purdue University",
+          "first_name": "Xiangtang",
+          "is_contact": "FALSE",
+          "last_name": "Li",
+          "middle_name_or_initial": "",
+          "name": "Xiangtang Li",
+          "orcid_id": "0000-0002-5891-3502",
+          "version": "1"
+        },
+        {
+          "affiliation": "Purdue University",
+          "first_name": "Manxi",
+          "is_contact": "TRUE",
+          "last_name": "Yang",
+          "middle_name_or_initial": "",
+          "name": "Manxi Yang",
+          "orcid_id": "0000-0003-0589-1757",
+          "version": "1"
+        },
+        {
+          "affiliation": "Purdue University",
+          "first_name": "Mushfeqa",
+          "is_contact": "FALSE",
+          "last_name": "Iqfath",
+          "middle_name_or_initial": "",
+          "name": "Mushfeqa Iqfath",
+          "orcid_id": "0000-0001-8464-3799",
+          "version": "1"
+        },
+        {
+          "affiliation": "Purdue University",
+          "first_name": "Julia",
+          "is_contact": "TRUE",
+          "last_name": "Laskin",
+          "middle_name_or_initial": "",
+          "name": "Julia Laskin",
+          "orcid_id": "0000-0002-4533-9644",
+          "version": "1"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "is_contact": "FALSE",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey M. Spraggins",
+          "orcid_id": "0000-0001-9198-5498",
+          "version": "1"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Elizabeth",
+          "is_contact": "FALSE",
+          "last_name": "Neumann",
+          "middle_name_or_initial": "K",
+          "name": "Elizabeth K. Neumann",
+          "orcid_id": "0000-0002-6078-3321",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1691176390988,
+      "data_access_level": "public",
+      "data_types": [
+        "NanoDESI"
+      ],
+      "dataset_type": "DESI",
+      "description": "nanoDESI MSI",
+      "doi_url": "https://doi.org/10.35079/HBM527.XRVT.275",
+      "entity_type": "Dataset",
+      "group_name": "Purdue TTD",
+      "group_uuid": "eb5c5345-79ad-11ea-bc85-0ef992ed7ca1",
+      "hubmap_id": "HBM527.XRVT.275",
+      "ingest_id": "8d72d5e9ffc2a0a50041b8b77d835645_scan.and.begin.processing_2023-08-04T15:19:00.280526-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "a31ad46",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1692635719190,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "Orbitrap Fusion Tribrid",
+        "acquisition_instrument_vendor": "Thermo Scientific",
+        "analyte_class": "Lipid",
+        "assay_category": "mass_spectrometry_imaging",
+        "assay_type": "NanoDESI",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "description": "nanoDESI MSI",
+        "desi_solvent": "MeOH/H20 9/1",
+        "desi_solvent_flow_rate": "1.3",
+        "desi_solvent_flow_rate_unit": "uL/minute",
+        "execution_datetime": "2021-09-01 00:00",
+        "ion_mobility": "",
+        "is_targeted": "False",
+        "mass_resolving_power": "60000",
+        "ms_scan_mode": "MS",
+        "ms_source": "nanoDESI",
+        "mz_range_high_value": "1999",
+        "mz_range_low_value": "133",
+        "mz_resolving_power": "60000",
+        "operator": "Xiangtang Li",
+        "operator_email": "li3298@purdue.edu",
+        "overall_protocols_io_doi": "10.17504/protocols.io.bmwik7ce",
+        "pi": "Julia Laskin",
+        "pi_email": "jlaskin@purdue.edu",
+        "polarity": "positive ion mode",
+        "preparation_instrument_model": "",
+        "preparation_instrument_vendor": "",
+        "preparation_maldi_matrix": "",
+        "preparation_type": "",
+        "processing_protocols_io_doi": "10.17504/protocols.io.bmwik7ce",
+        "protocols_io_doi": "10.17504/protocols.io.bmwik7ce",
+        "resolution_x_unit": "um",
+        "resolution_x_value": "25",
+        "resolution_y_unit": "um",
+        "resolution_y_value": "25",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.bmwnk7de",
+        "version": "2"
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "nanoDESI MSI second data upload : HBM424-FWQV-877-IMS-lipids_pos_mode",
+      "published_timestamp": 1692635719190,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM527.XRVT.275",
+      "run_id": "8d72d5e9ffc2a0a50041b8b77d835645_scan.and.begin.processing_2023-08-04T15:19:00.280526-04:00",
+      "status": "Published",
+      "uuid": "8d72d5e9ffc2a0a50041b8b77d835645"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/ometiffs/HBM424_FWQV_877-IMS_lipids_pos_multilayer.ome.tif",
+      "size": 12540366,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/ometiffs/HBM424_FWQV_877-IMS_lipids_pos_multilayer.offsets.json",
+      "size": 160,
+      "type": "json"
+    }
+  ],
+  "group_name": "Purdue TTD",
+  "group_uuid": "eb5c5345-79ad-11ea-bc85-0ef992ed7ca1",
+  "hubmap_id": "HBM992.KWWS.954",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a31ad46",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.11"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a31ad46",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.11"
+      },
+      {
+        "documentation_url": "",
+        "hash": "b1b40c4",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "0b94a44",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.27"
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1692635911485,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Purdue TTD/8e00487592099e5df469733f5421abb2/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1692635911485,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "DESI [Image Pyramid] data from the heart of a 61-year-old white male",
+  "uuid": "8e00487592099e5df469733f5421abb2"
+}

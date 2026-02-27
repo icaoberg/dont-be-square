@@ -1,0 +1,214 @@
+{
+  "collections": [
+    {
+      "created_timestamp": 1614605800000,
+      "entity_type": "Collection",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM934.MZMW.957",
+      "last_modified_timestamp": 1614605800000,
+      "title": "CODEX",
+      "uuid": "f9b99c7c63d1431ab59a1db598c81974"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Clive",
+      "last_name": "Wasserfall",
+      "name": "Clive Wasserfall",
+      "orcid_id": "0000-0002-3522-8932"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Clive",
+      "is_contact": "TRUE",
+      "last_name": "Wasserfall",
+      "name": "Clive Wasserfall",
+      "orcid_id": "0000-0002-3522-8932"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Jerelyn",
+      "last_name": "Nick",
+      "name": "Jerelyn Nick",
+      "orcid_id": "0000-0002-8928-741X"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Marda",
+      "last_name": "Jorgensen",
+      "name": "Marda Jorgensen",
+      "orcid_id": "0000-0002-7250-3569"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Nick",
+      "last_name": "Harry",
+      "name": "Harry Nick",
+      "orcid_id": "0000-0002-0374-2283"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Mark",
+      "last_name": "Atkinson",
+      "name": "Mark Atkinson",
+      "orcid_id": "0000-0001-8489-4782"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Jesus",
+      "last_name": "Aponte",
+      "middle_name_or_initial": "Penaloza",
+      "name": "Jesus Aponte",
+      "orcid_id": "0000-0001-5903-2291"
+    }
+  ],
+  "created_by_user_displayname": "Jesus Penaloza Aponte",
+  "created_by_user_email": "jesus.penalozaa@ufl.edu",
+  "created_by_user_sub": "2fbc1615-1bfe-479b-92ff-6019902e3d6b",
+  "created_timestamp": 1582042569839,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "data_types": [
+    "CODEX"
+  ],
+  "dataset_info": "19-002_spleen_CC2-A\r\n\r\n19-002_spleen_CC2-A CODEX Dataset",
+  "dataset_type": "CODEX",
+  "description": "19-002_spleen_CC2-A CODEX Dataset",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Marda Jorgensen",
+      "created_by_user_email": "marda@ufl.edu",
+      "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+      "created_timestamp": 1581106216366,
+      "data_access_level": "public",
+      "description": "section is 310um from face edge of block",
+      "entity_type": "Sample",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM688.DQGM.882",
+      "last_modified_timestamp": 1581107421827,
+      "metadata": {
+        "cold_ischemia_time_unit": "minutes",
+        "cold_ischemia_time_value": "904",
+        "health_status": "relatively healthy",
+        "organ_condition": "healthy",
+        "pathologist_report": "normal, no cancer",
+        "perfusion_solution": "Unknown",
+        "sample_id": "UFL0002-SP-2-4-1",
+        "specimen_preservation_temperature": "Room Temperature",
+        "specimen_quality_criteria": "H&E",
+        "specimen_tumor_distance_unit": "cm",
+        "specimen_tumor_distance_value": "",
+        "vital_state": "deceased",
+        "warm_ischemia_time_unit": "minutes",
+        "warm_ischemia_time_value": "0"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.basdiea6",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/0.5/f29ffb1f-90f7-48bf-86cb-09fc3cdb0506",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [],
+        "creation_date": "2/10/2020",
+        "creator": "Marda Jorgensen",
+        "creator_first_name": "Marda",
+        "creator_last_name": "Jorgensen",
+        "dimension_units": "millimeter",
+        "label": "SpatialEntity for Male, Age 1, BMI 21.8",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/0.5/f29ffb1f-90f7-48bf-86cb-09fc3cdb0506_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2/10/2020",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHSpleenCC2",
+          "translation_units": "millimeter",
+          "x_rotation": 0,
+          "x_scaling": 1,
+          "x_translation": 9.5,
+          "y_rotation": 0,
+          "y_scaling": 1,
+          "y_translation": -19.9,
+          "z_rotation": 0,
+          "z_scaling": 1,
+          "z_translation": 0
+        },
+        "x_dimension": 10,
+        "y_dimension": 10,
+        "z_dimension": 10
+      },
+      "sample_category": "section",
+      "uuid": "8d912783076037b57986afa62162f41d"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM987.XGTH.368",
+  "entity_type": "Dataset",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM987.XGTH.368",
+  "ingest_id": "e0ba24d0c4dab528e46aab3f67a1aae8_scan.and.begin.processing_2020-07-24T22:00:59.788878-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "45472e9",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1644609592653,
+  "last_modified_user_displayname": "Zhou Yuan",
+  "last_modified_user_email": "ZHY19@pitt.edu",
+  "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+  "local_directory_rel_path": "public/University of Florida TMC/e0ba24d0c4dab528e46aab3f67a1aae8/",
+  "metadata": {
+    "_from_metadatatsv": true,
+    "acquisition_instrument_model": "BZ-X800",
+    "acquisition_instrument_vendor": "Keyence",
+    "analyte_class": "Protein",
+    "assay_category": "imaging",
+    "assay_type": "CODEX",
+    "collectiontype": "codex",
+    "execution_datetime": "2020-02-10 15:31",
+    "is_targeted": "TRUE",
+    "metadata_path": ".",
+    "number_of_antibodies": "18",
+    "number_of_channels": "4",
+    "number_of_cycles": "9",
+    "operator": "Marda Jorgensen",
+    "operator_email": "marda@ufl.edu",
+    "pi": "Clive Wasserfall",
+    "pi_email": "clive@ufl.edu",
+    "preparation_instrument_model": "version 1 robot",
+    "preparation_instrument_vendor": "CODEX",
+    "protocols_io_doi": "10.17504/protocols.io.bdcbi2sn",
+    "reagent_prep_protocols_io_doi": "10.17504/protocols.io.bc2riyd6",
+    "resolution_x_unit": "nm",
+    "resolution_x_value": "377.4463384",
+    "resolution_y_unit": "nm",
+    "resolution_y_value": "377.4463384",
+    "resolution_z_unit": "nm",
+    "resolution_z_value": "1500",
+    "section_prep_protocols_io_doi": "10.17504/protocols.io.bbsdina6"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1598109134424,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "registered_doi": "10.35079/HBM987.XGTH.368",
+  "run_id": "e0ba24d0c4dab528e46aab3f67a1aae8_scan.and.begin.processing_2020-07-24T22:00:59.788878-04:00",
+  "status": "Published",
+  "thumbnail_file": {
+    "file_uuid": "ffff0b72912a5df3a08ab1df241ed039",
+    "filename": "thumbnail.jpg"
+  },
+  "title": "CODEX data from the spleen of a 1-year-old white male",
+  "uuid": "e0ba24d0c4dab528e46aab3f67a1aae8"
+}

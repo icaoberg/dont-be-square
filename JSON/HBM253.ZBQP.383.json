@@ -1,0 +1,407 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Harvard Medical School",
+      "first_name": "Nils",
+      "last_name": "Gehlenborg",
+      "middle_name_or_initial": "",
+      "name": "Nils Gehlenborg",
+      "orcid_id": "0000-0003-0327-8297"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Ian",
+      "is_contact": "TRUE",
+      "last_name": "McGilvray",
+      "middle_name_or_initial": "D",
+      "name": "Ian D McGilvray ",
+      "orcid_id": "0000-0003-4649-546X",
+      "version": "1"
+    },
+    {
+      "affiliation": "University of Toronto",
+      "first_name": "Gary",
+      "is_contact": "TRUE",
+      "last_name": "Bader",
+      "middle_name_or_initial": "D",
+      "name": "Gary D Bader ",
+      "orcid_id": "0000-0003-0185-8861",
+      "version": "1"
+    },
+    {
+      "affiliation": "University of Toronto",
+      "first_name": "Sonya",
+      "is_contact": "TRUE",
+      "last_name": "MacParland",
+      "middle_name_or_initial": "A",
+      "name": "Sonya A MacParland ",
+      "orcid_id": "0000-0002-8036-1425",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Oyedele",
+      "is_contact": "FALSE",
+      "last_name": "Adeyi",
+      "middle_name_or_initial": "",
+      "name": "Oyedele Adeyi ",
+      "orcid_id": "0000-0003-4272-1095",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Rebecca",
+      "is_contact": "FALSE",
+      "last_name": "Seliga",
+      "middle_name_or_initial": "K",
+      "name": "Rebecca K Seliga ",
+      "orcid_id": "0000-0003-1229-4897",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Rahul",
+      "is_contact": "FALSE",
+      "last_name": "Gupta",
+      "middle_name_or_initial": "",
+      "name": "Rahul Gupta ",
+      "orcid_id": "0000-0003-3658-5074",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Shinichiro",
+      "is_contact": "FALSE",
+      "last_name": "Ogawa",
+      "middle_name_or_initial": "",
+      "name": "Shinichiro Ogawa ",
+      "orcid_id": "0000-0002-4527-4764",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Mina",
+      "is_contact": "FALSE",
+      "last_name": "Ogawa",
+      "middle_name_or_initial": "",
+      "name": "Mina Ogawa ",
+      "orcid_id": "0000-0002-9138-4913",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Nicholas",
+      "is_contact": "FALSE",
+      "last_name": "Khuu",
+      "middle_name_or_initial": "",
+      "name": "Nicholas Khuu ",
+      "orcid_id": "0000-0002-5267-7289",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Blair",
+      "is_contact": "FALSE",
+      "last_name": "Gage",
+      "middle_name_or_initial": "K",
+      "name": "Blair K Gage ",
+      "orcid_id": "0000-0002-6601-6369",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Michael",
+      "is_contact": "FALSE",
+      "last_name": "Cheng",
+      "middle_name_or_initial": "L",
+      "name": "Michael L Cheng ",
+      "orcid_id": "0000-0002-7841-3740",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Lewis",
+      "is_contact": "FALSE",
+      "last_name": "Liu",
+      "middle_name_or_initial": "Y",
+      "name": "Lewis Y Liu ",
+      "orcid_id": "0000-0001-9740-8261",
+      "version": "1"
+    },
+    {
+      "affiliation": "University of Toronto",
+      "first_name": "Brendan",
+      "is_contact": "FALSE",
+      "last_name": "Innes",
+      "middle_name_or_initial": "T",
+      "name": "Brendan T Innes ",
+      "orcid_id": "0000-0003-2496-3154",
+      "version": "1"
+    },
+    {
+      "affiliation": "University of Toronto",
+      "first_name": "Jeff",
+      "is_contact": "FALSE",
+      "last_name": "Liu",
+      "middle_name_or_initial": "C",
+      "name": "Jeff C Liu ",
+      "orcid_id": "0000-0001-8977-6590",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Jason",
+      "is_contact": "FALSE",
+      "last_name": "Fish",
+      "middle_name_or_initial": "E",
+      "name": "Jason E Fish ",
+      "orcid_id": "0000-0003-0640-7277",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Neil",
+      "is_contact": "FALSE",
+      "last_name": "Winegarden",
+      "middle_name_or_initial": "",
+      "name": "Neil Winegarden ",
+      "orcid_id": "0000-0001-5964-5899",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Gordon",
+      "is_contact": "FALSE",
+      "last_name": "Keller",
+      "middle_name_or_initial": "",
+      "name": "Gordon Keller ",
+      "orcid_id": "0000-0001-9309-9297",
+      "version": "1"
+    },
+    {
+      "affiliation": "Hospital for Sick Children",
+      "first_name": "Michael",
+      "is_contact": "FALSE",
+      "last_name": "Wilson",
+      "middle_name_or_initial": "D",
+      "name": "Michael D Wilson ",
+      "orcid_id": "0000-0002-4015-3066",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Justin",
+      "is_contact": "FALSE",
+      "last_name": "Manuel",
+      "middle_name_or_initial": "",
+      "name": "Justin Manuel ",
+      "orcid_id": "0000-0003-2620-4928",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "David",
+      "is_contact": "FALSE",
+      "last_name": "Grant",
+      "middle_name_or_initial": "",
+      "name": "David Grant ",
+      "orcid_id": "0000-0003-4468-8276",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Paul",
+      "is_contact": "FALSE",
+      "last_name": "Greig",
+      "middle_name_or_initial": "",
+      "name": "Paul Greig ",
+      "orcid_id": "0000-0002-1321-4417",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Gonzalo",
+      "is_contact": "FALSE",
+      "last_name": "Sapisochin",
+      "middle_name_or_initial": "",
+      "name": "Gonzalo Sapisochin ",
+      "orcid_id": "0000-0001-9527-8723",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Juan",
+      "is_contact": "FALSE",
+      "last_name": "Echeverri",
+      "middle_name_or_initial": "",
+      "name": "Juan Echeverri ",
+      "orcid_id": "0000-0002-0776-2695",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Ivan",
+      "is_contact": "FALSE",
+      "last_name": "Linares",
+      "middle_name_or_initial": "",
+      "name": "Ivan Linares ",
+      "orcid_id": "0000-0001-5124-9883",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Markus",
+      "is_contact": "FALSE",
+      "last_name": "Selzner",
+      "middle_name_or_initial": "",
+      "name": "Markus Selzner ",
+      "orcid_id": "0000-0002-4326-0887",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Nazia",
+      "is_contact": "FALSE",
+      "last_name": "Selzner",
+      "middle_name_or_initial": "",
+      "name": "Nazia Selzner ",
+      "orcid_id": "0000-0002-9435-2597",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Damra",
+      "is_contact": "FALSE",
+      "last_name": "Camat",
+      "middle_name_or_initial": "",
+      "name": "Damra Camat",
+      "orcid_id": "0000-0001-8435-4073",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Sai",
+      "is_contact": "FALSE",
+      "last_name": "Chung",
+      "middle_name_or_initial": "W",
+      "name": "Sai W Chung",
+      "orcid_id": "0000-0003-2684-7122",
+      "version": "1"
+    },
+    {
+      "affiliation": "University Health Network",
+      "first_name": "Anand",
+      "is_contact": "FALSE",
+      "last_name": "Ghanekar",
+      "middle_name_or_initial": "",
+      "name": "Anand Ghanekar",
+      "orcid_id": "0000-0003-2966-4145",
+      "version": "1"
+    }
+  ],
+  "created_by_user_displayname": "Christine Briggs",
+  "created_by_user_email": "christine_briggs@hms.harvard.edu",
+  "created_by_user_sub": "550cbba6-b30f-41f6-85af-14758aa9da61",
+  "created_timestamp": 1626269710719,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "data_types": [
+    "scRNAseq-10xGenomics-v2"
+  ],
+  "dataset_info": "HCA project title: Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations \n10x single cell sequencing study of healthy caudate liver from deceased donor pre-organ transplantation.",
+  "dataset_type": "RNAseq",
+  "description": "HCA project title: Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations \n10x single cell sequencing study of healthy caudate liver from deceased donor pre-organ transplantation.",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Christine Briggs",
+      "created_by_user_email": "christine_briggs@hms.harvard.edu",
+      "created_by_user_sub": "550cbba6-b30f-41f6-85af-14758aa9da61",
+      "created_timestamp": 1626269506870,
+      "data_access_level": "public",
+      "description": "Healthy caudate liver from deceased donors prior to organ donation. HCA project.",
+      "entity_type": "Sample",
+      "group_name": "EXT - Human Cell Atlas",
+      "group_uuid": "177f92c0-c871-11eb-9a04-a9c8d5e16226",
+      "hubmap_id": "HBM297.FJCP.779",
+      "last_modified_timestamp": 1626269506870,
+      "last_modified_user_displayname": "Christine Briggs",
+      "last_modified_user_email": "christine_briggs@hms.harvard.edu",
+      "last_modified_user_sub": "550cbba6-b30f-41f6-85af-14758aa9da61",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.m9sc96e",
+      "sample_category": "suspension",
+      "uuid": "048e86a76bbb01a36f9e5321ffef41fc"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM253.ZBQP.383",
+  "entity_type": "Dataset",
+  "group_name": "EXT - Human Cell Atlas",
+  "group_uuid": "177f92c0-c871-11eb-9a04-a9c8d5e16226",
+  "hubmap_id": "HBM253.ZBQP.383",
+  "ingest_id": "0eb5e457b4855ce28531bc97147196b6_scan.and.begin.processing_2021-12-09T15:29:27.910467-05:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "b217981",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1652239884139,
+  "last_modified_user_displayname": "Zhou Yuan",
+  "last_modified_user_email": "ZHY19@pitt.edu",
+  "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+  "local_directory_rel_path": "protected/EXT - Human Cell Atlas/0eb5e457b4855ce28531bc97147196b6/",
+  "metadata": {
+    "acquisition_instrument_model": "HiSeq 2500",
+    "acquisition_instrument_vendor": "Illumina",
+    "analyte_class": "RNA",
+    "assay_category": "sequence",
+    "assay_type": "scRNAseq-10xGenomics-v2",
+    "cell_barcode_offset": "0",
+    "cell_barcode_read": "Read 1",
+    "cell_barcode_size": "16",
+    "contributors_path": "HCA_liver_landscape_incomplete_contributors.tsv",
+    "execution_datetime": "2019-09-25 09:08",
+    "is_targeted": "FALSE",
+    "is_technical_replicate": "",
+    "library_adapter_sequence": "",
+    "library_average_fragment_size": "",
+    "library_construction_protocols_io_doi": "10.17504/protocols.io.btdpni5n",
+    "library_final_yield_unit": "",
+    "library_final_yield_value": "",
+    "library_layout": "single",
+    "library_pcr_cycles": "",
+    "library_pcr_cycles_for_sample_index": "",
+    "operator": "",
+    "operator_email": "",
+    "pi": "Ian Mcgilvray",
+    "pi_email": "ian.mcgilvray@uhn.ca",
+    "protocols_io_doi": "10.17504/protocols.io.btdpni5n",
+    "rnaseq_assay_input": "",
+    "rnaseq_assay_method": "3' end single cell RNA sequencing-bcl2fastq",
+    "sc_isolation_cell_number": "6000",
+    "sc_isolation_enrichment": "cell size selection",
+    "sc_isolation_entity": "single cell",
+    "sc_isolation_protocols_io_doi": "10.17504/protocols.io.btdpni5n",
+    "sc_isolation_quality_metric": "",
+    "sc_isolation_tissue_dissociation": "enzymatic dissociation",
+    "sequencing_phix_percent": "",
+    "sequencing_read_format": "",
+    "sequencing_read_percent_q30": "",
+    "sequencing_reagent_kit": "10X_scRNASeq_protocol",
+    "source_project": "HCA"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1646269759418,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM253.ZBQP.383",
+  "run_id": "0eb5e457b4855ce28531bc97147196b6_scan.and.begin.processing_2021-12-09T15:29:27.910467-05:00",
+  "status": "Published",
+  "title": "RNAseq data from the liver of a 44-year-old unknown male",
+  "uuid": "0eb5e457b4855ce28531bc97147196b6"
+}

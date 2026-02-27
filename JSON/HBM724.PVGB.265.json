@@ -1,0 +1,158 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1689629404323,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "publication_ancillary"
+  ],
+  "dataset_info": "gen_pub_ancillary__77ab35880329b5932380104aa58795a4__gen_pub_ancillary",
+  "dataset_type": "Publication [ancillary]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "is_contact": "TRUE",
+          "last_name": "Hickey",
+          "middle_name_or_initial": "W",
+          "name": "John Hickey",
+          "orcid_id": "0000-0001-9961-7673",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "is_contact": "TRUE",
+          "last_name": "Hickey",
+          "middle_name_or_initial": "W",
+          "name": "John Hickey",
+          "orcid_id": "0000-0001-9961-7673",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Chiara",
+          "is_contact": "FALSE",
+          "last_name": "Caraccio",
+          "middle_name_or_initial": "",
+          "name": "Chiara Caraccio",
+          "orcid_id": "0000-0002-3580-1348",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Garry",
+          "is_contact": "FALSE",
+          "last_name": "Nolan",
+          "middle_name_or_initial": "",
+          "name": "Garry Nolan",
+          "orcid_id": "0000-0002-8862-9043",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "John Hickey",
+      "created_by_user_email": "jwhickey@stanford.edu",
+      "created_by_user_sub": "d71156e3-54de-431f-b5d0-257c9666d5a6",
+      "created_timestamp": 1688660721640,
+      "data_access_level": "public",
+      "data_types": [
+        "publication"
+      ],
+      "dataset_type": "Publication",
+      "description": "We investigated the spatial arrangement of individual cells using multiplexed imaging, as well as single-nucleus RNA and open chromatin assays, across eight different regions of the intestine from nine donors. Through comprehensive analyses, we observed significant variations in cell compositions among the intestinal regions and the intricate nature of epithelial subtypes. Furthermore, we discovered that similar cell types form distinct neighborhoods and communities, highlighting the presence of unique immunological niches within the intestine. Additionally, we identified gene regulatory differences within these cells, suggesting the existence of a regulatory differentiation cascade, and established associations between specific cell types and the heritability of intestinal diseases. These findings elucidate the intricate cell composition, regulation, and spatial organization within this organ, providing a valuable reference map for advancing our understanding of human biology and disease.",
+      "entity_type": "Publication",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM222.STTH.665",
+      "ingest_id": "77ab35880329b5932380104aa58795a4_scan.and.begin.processing_2023-07-17T17:28:47.206961-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "a3774b3",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1766007879264,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "assay_type": "publication",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "version": "0"
+      },
+      "omap_doi": "https://doi.org/10.48539/HBM373.HQCB.363",
+      "pipeline_message": "the process ran",
+      "publication_date": "2023-07-20",
+      "publication_doi": "10.1038/s41586-023-05915-x",
+      "publication_status": true,
+      "publication_url": "https://doi.org/10.1038/s41586-023-05915-x",
+      "publication_venue": "Nature",
+      "published_timestamp": 1689700554944,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "run_id": "77ab35880329b5932380104aa58795a4_scan.and.begin.processing_2023-07-17T17:28:47.206961-04:00",
+      "status": "Published",
+      "title": "Organization of the human intestine at single-cell resolution",
+      "uuid": "77ab35880329b5932380104aa58795a4"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "",
+      "edam_term": "",
+      "is_qa_qc": false,
+      "rel_path": "publication_ancillary.json",
+      "size": 23268,
+      "type": "json"
+    }
+  ],
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM724.PVGB.265",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      }
+    ],
+    "workflow_description": "",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1689700560351,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Stanford TMC/d14e085fecdfa7c5cb954d885afba01f/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1689700560351,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "Support data used by a publication's display and vignette visualization(s).",
+  "uuid": "d14e085fecdfa7c5cb954d885afba01f"
+}

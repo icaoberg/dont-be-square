@@ -1,0 +1,88 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603729919612,
+  "data_access_level": "public",
+  "description": "Bissected 1.2 cm lymph node shared with single cell prep for 10x analysis",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603135284298,
+    "data_access_level": "public",
+    "description": "1.2cm lymph node isolated for CODEX and 10x analysis",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM737.RQDB.749",
+    "last_modified_timestamp": 1603135284298,
+    "organ": "LY",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/40c8e355eb0dc94f2555533e62a4d82c/Pathology_Report 20-008 LN.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "773986b8d0c979dba0668d839e84911e"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM784.GSBZ.598",
+  "last_modified_timestamp": 1670964092242,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgnijve",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/751807ff-0130-4789-814a-28bdeec62910",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049"
+    ],
+    "creation_date": "2021-10-01",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/751807ff-0130-4789-814a-28bdeec62910_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-01",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHMRightLymphNode",
+      "translation_units": "millimeter",
+      "x_rotation": 0,
+      "x_scaling": 1,
+      "x_translation": 13.818,
+      "y_rotation": 0,
+      "y_scaling": 1,
+      "y_translation": 5.836,
+      "z_rotation": 0,
+      "z_scaling": 1,
+      "z_translation": 6.483
+    },
+    "x_dimension": 10,
+    "y_dimension": 10,
+    "z_dimension": 12
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffff98c27399db17f3078934b75d30cd",
+    "filename": "HBM784.GSBZ.598.jpg"
+  },
+  "uuid": "9442ad62814729abd33d5810383201b5"
+}

@@ -1,0 +1,211 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1595718405198,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "image_pyramid",
+    "AF"
+  ],
+  "dataset_info": "['ometiff_pyramid__584620d30b86098ece9b96edb407c786__ometiff_pyramid']",
+  "dataset_type": "Auto-fluorescence [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey Spraggins",
+          "orcid_id": "0000-0001-9198-5498"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "is_contact": "TRUE",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey Spraggins",
+          "orcid_id": "0000-0001-9198-5498"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jamie",
+          "last_name": "Allen",
+          "middle_name_or_initial": "L",
+          "name": "Jamie Allen",
+          "orcid_id": "0000-0002-4739-2166"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Elizabeth",
+          "last_name": "Neumann",
+          "middle_name_or_initial": "K",
+          "name": "Elizabeth Neumann",
+          "orcid_id": "0000-0002-6078-3321"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Nathan",
+          "last_name": "Patterson",
+          "middle_name_or_initial": "H",
+          "name": "Nathan Patterson",
+          "orcid_id": "0000-0002-0064-1583"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Danielle",
+          "last_name": "Gutierrez",
+          "middle_name_or_initial": "B",
+          "name": "Danielle Gutierrez",
+          "orcid_id": "0000-0001-6355-2134"
+        }
+      ],
+      "created_by_user_displayname": "Jeff Spraggins",
+      "created_by_user_email": "spraggj@vanderbilt.edu",
+      "created_by_user_sub": "ce74ea5c-86bd-44b1-bfc4-4459d4fe20b5",
+      "created_timestamp": 1589805349438,
+      "data_access_level": "public",
+      "data_types": [
+        "AF"
+      ],
+      "dataset_info": "Autofluorescence Microscopy of Human Kidney Tissue\r\n\r\nAutofluorescence Microscopy collected from the Left Kidney of a 73 year old White Female donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Microscopy images were collected with a Zeiss Axio Scan.Z1 using 3 channels  DAPI (excitation: 335-383 nm/emission: 420-470 nm), eGFP (excitation: 450-490 nm/emission: 500-550 nm), and dsRed (excitation: 538-562 nm/emission: 570-640 nm). Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+      "dataset_type": "Auto-fluorescence",
+      "description": "Autofluorescence Microscopy collected from the Left Kidney of a 73 year old White Female donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Microscopy images were collected with a Zeiss Axio Scan.Z1 using 3 channels  DAPI (excitation: 335-383 nm/emission: 420-470 nm), eGFP (excitation: 450-490 nm/emission: 500-550 nm), and dsRed (excitation: 538-562 nm/emission: 570-640 nm). Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+      "doi_url": "https://doi.org/10.35079/HBM666.RKRD.836",
+      "entity_type": "Dataset",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM666.RKRD.836",
+      "ingest_id": "584620d30b86098ece9b96edb407c786_scan.and.begin.processing_2020-07-25T18:26:58.585002-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "45472e9",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1644679203425,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/Vanderbilt TMC/584620d30b86098ece9b96edb407c786",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "Axio Scan.Z1",
+        "acquisition_instrument_vendor": "Zeiss",
+        "analyte_class": "",
+        "assay_category": "imaging",
+        "assay_type": "AF",
+        "collectiontype": "single_metadatatsv",
+        "data_path": "/rawMicroscopy/",
+        "execution_datetime": "10/28/19 17:35",
+        "is_targeted": "FALSE",
+        "metadata_path": "/rawMicroscopy/",
+        "number_of_channels": "3",
+        "operator": "Elizabeth K. Neumann",
+        "operator_email": "elizabeth.neumann@vanderbilt.edu",
+        "overall_protocols_io_doi": "10.17504/protocols.io.bfskjncw",
+        "pi": "Jeffrey M. Spraggins",
+        "pi_email": "jeff.spraggins@vanderbilt.edu",
+        "protocols_io_doi": "10.17504/protocols.io.7e3hjgn",
+        "resolution_x_unit": "nm",
+        "resolution_x_value": "500",
+        "resolution_y_unit": "nm",
+        "resolution_y_value": "500",
+        "resolution_z_unit": "um",
+        "resolution_z_value": "0"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598104236778,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM666.RKRD.836",
+      "run_id": "584620d30b86098ece9b96edb407c786_scan.and.begin.processing_2020-07-25T18:26:58.585002-04:00",
+      "status": "Published",
+      "uuid": "584620d30b86098ece9b96edb407c786"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/processedMicroscopy/VAN0003-LK-32-22-AF_preMxIF_images/VAN0003-LK-32-22-AF_preMxIF_registered.ome.tif",
+      "size": 8121928637,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/processedMicroscopy/VAN0003-LK-32-22-AF_preMxIF_images/VAN0003-LK-32-22-AF_preMxIF_registered.offsets.json",
+      "size": 36,
+      "type": "json"
+    }
+  ],
+  "group_name": "Vanderbilt TMC",
+  "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+  "hubmap_id": "HBM227.TXJQ.834",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "45472e9",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "45472e9",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "d390484",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid.git",
+        "version": "v1.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "fb19103",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers.git",
+        "version": ""
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1627965029911,
+  "last_modified_user_displayname": "Zhou Yuan",
+  "last_modified_user_email": "ZHY19@pitt.edu",
+  "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+  "local_directory_rel_path": "public/Vanderbilt TMC/cd25af3631d76c34691062d5a2b54e1a/",
+  "pipeline_message": "The process ran",
+  "published_timestamp": 1598104247278,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "status": "Published",
+  "thumbnail_file": {
+    "file_uuid": "ffff4b1bc9451d8393bf13be2a43bcdb",
+    "filename": "thumbnail.jpg"
+  },
+  "title": "Auto-fluorescence [Image Pyramid] data from the kidney (left) of a 73-year-old white female",
+  "uuid": "cd25af3631d76c34691062d5a2b54e1a"
+}

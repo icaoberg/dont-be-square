@@ -1,0 +1,291 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1744899680909,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "dataset_info": "ometiff_pyramid__59422ac13f1c09eb3656ef677db723d8__ometiff_pyramid",
+  "dataset_type": "Histology [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "assigned_to_group_name": "University of Rochester Medical Center TMC",
+      "contacts": [
+        {
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "display_name": "Kenichi Okuda ",
+          "email": "ken_okuda@med.unc.edu",
+          "first_name": "Kenichi",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Okuda",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-9341-2730"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "display_name": "James Hagood ",
+          "email": "jhagood@unc.edu",
+          "first_name": "James",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Hagood",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "S",
+          "orcid": "0000-0003-3938-0330"
+        },
+        {
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "display_name": "Kenichi Okuda ",
+          "email": "ken_okuda@med.unc.edu",
+          "first_name": "Kenichi",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Okuda",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-9341-2730"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Gloria Pryhuber ",
+          "email": "gloria_pryhuber@urmc.rochester.edu",
+          "first_name": "Gloria",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Pryhuber",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-9185-3994"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1744724314415,
+      "data_access_level": "public",
+      "dataset_type": "Histology",
+      "description": "AB-PAS stain on LUL bronchi-bronchiole junction (7-9th): around 2 mm, SMG/cartilage are disappearing, of a 19.99-year-old black or african american male lung. One of 20 region specific dissections from single left lung (D460)",
+      "doi_url": "https://doi.org/10.35079/HBM688.VBCN.873",
+      "entity_type": "Dataset",
+      "group_name": "University of Rochester Medical Center TMC",
+      "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+      "hubmap_id": "HBM688.VBCN.873",
+      "ingest_id": "59422ac13f1c09eb3656ef677db723d8_scan.and.begin.processing_2025-04-17T08:29:36.476945-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "documentation_url": null,
+            "hash": "9d31cf38",
+            "input_parameters": [],
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+            "version": "v4.4.2"
+          }
+        ],
+        "extra_metadata": {
+          "collectiontype": "generic_metadatatsv"
+        }
+      },
+      "ingest_task": "[Missing registration metadata]",
+      "last_modified_timestamp": 1749760213909,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "VS200 Slide Scanner",
+        "acquisition_instrument_vendor": "Evident Scientific (Olympus)",
+        "analyte_class": "Polysaccharide",
+        "contributors_path": "extras/1098_contributors.tsv",
+        "data_path": ".",
+        "dataset_type": "Histology",
+        "intended_tile_overlap_percentage": "",
+        "is_batch_staining_done": "Yes",
+        "is_image_preprocessing_required": "No",
+        "is_staining_automated": "Yes",
+        "is_targeted": "No",
+        "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+        "non_global_files": "",
+        "preparation_instrument_model": "AutoStainer XL",
+        "preparation_instrument_vendor": "Leica Biosystems",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.j8nlk91jdv5r/v1",
+        "scan_direction": "",
+        "source_storage_duration_unit": "day",
+        "source_storage_duration_value": "7",
+        "stain_name": "AB-PAS",
+        "stain_technique": "",
+        "tile_configuration": "",
+        "tiled_image_columns": "",
+        "tiled_image_count": "",
+        "time_since_acquisition_instrument_calibration_unit": "",
+        "time_since_acquisition_instrument_calibration_value": ""
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "D460 airway dissection AB-PAS histology",
+      "published_timestamp": 1749760213909,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM688.VBCN.873",
+      "run_id": "59422ac13f1c09eb3656ef677db723d8_scan.and.begin.processing_2025-04-17T08:29:36.476945-04:00",
+      "status": "Published",
+      "status_history": [
+        {
+          "change_timestamp": 1744724314415,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1744724414746,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Submitted"
+        },
+        {
+          "change_timestamp": 1744725358569,
+          "changed_by_email": "bhonick@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1744726122264,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1744892903625,
+          "changed_by_email": "bhonick@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1744893459595,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1749760213909,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        }
+      ],
+      "uuid": "59422ac13f1c09eb3656ef677db723d8"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/lab_processed/images/Image_ALCN031-LUL-B3D_HE_AB_PAS.ome.tif",
+      "size": 1535188064,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/lab_processed/images/Image_ALCN031-LUL-B3D_HE_AB_PAS.offsets.json",
+      "size": 36,
+      "type": "json"
+    }
+  ],
+  "group_name": "University of Rochester Medical Center TMC",
+  "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+  "hubmap_id": "HBM288.GSWV.928",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "20b68829",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.2.0"
+      },
+      {
+        "documentation_url": null,
+        "hash": "0e280634",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.35"
+      },
+      {
+        "documentation_url": null,
+        "hash": "20b68829",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.2.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a063a34",
+        "input_parameters": [
+          {
+            "parameter_name": "--processes",
+            "value": 6
+          },
+          {
+            "parameter_name": "--ometiff_directory",
+            "value": "/hive/hubmap/data/consortium/University of Rochester Medical Center TMC/59422ac13f1c09eb3656ef677db723d8"
+          }
+        ],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "e3cbf06",
+        "input_parameters": [
+          {
+            "parameter_name": "--input_directory",
+            "value": "/hive/hubmap/scratch/manual__2025-04-17T12:37:50.679408+00:00/cwl_out/ometiff-pyramids"
+          }
+        ],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "0.0.48v0.0.48"
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "1.0.0"
+  },
+  "last_modified_timestamp": 1749760364312,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/University of Rochester Medical Center TMC/096d9d9d63a5bf92544b8172792ca8b1/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1749760364312,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1744899680909,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1744899693738,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1749760364312,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology [Image Pyramid] data from the lung (left) of a 19.99-year-old black or african american male",
+  "uuid": "096d9d9d63a5bf92544b8172792ca8b1"
+}

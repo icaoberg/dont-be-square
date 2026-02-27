@@ -1,0 +1,431 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Scripps Research",
+      "first_name": "Merissa",
+      "is_contact": "TRUE",
+      "last_name": "Olmer",
+      "middle_name_or_initial": "L",
+      "name": "Merissa Olmer",
+      "orcid_id": "0000-0002-2483-4216",
+      "version": "1"
+    },
+    {
+      "affiliation": "Scripps Research",
+      "first_name": "Hannah",
+      "is_contact": "TRUE",
+      "last_name": "Swahn",
+      "middle_name_or_initial": "L",
+      "name": "Hannah Swahn",
+      "orcid_id": "0000-0001-7815-2387",
+      "version": "1"
+    },
+    {
+      "affiliation": "Scripps Research",
+      "first_name": "Martin",
+      "is_contact": "TRUE",
+      "last_name": "Lotz",
+      "middle_name_or_initial": "K",
+      "name": "Martin Lotz",
+      "orcid_id": "0000-0002-6299-8799",
+      "version": "1"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "Scripps Research",
+      "first_name": "Merissa",
+      "is_contact": "TRUE",
+      "last_name": "Olmer",
+      "middle_name_or_initial": "L",
+      "name": "Merissa Olmer",
+      "orcid_id": "0000-0002-2483-4216",
+      "version": "1"
+    },
+    {
+      "affiliation": "Scripps Research",
+      "first_name": "Hannah",
+      "is_contact": "TRUE",
+      "last_name": "Swahn",
+      "middle_name_or_initial": "L",
+      "name": "Hannah Swahn",
+      "orcid_id": "0000-0001-7815-2387",
+      "version": "1"
+    },
+    {
+      "affiliation": "Scripps Research",
+      "first_name": "Martin",
+      "is_contact": "TRUE",
+      "last_name": "Lotz",
+      "middle_name_or_initial": "K",
+      "name": "Martin Lotz",
+      "orcid_id": "0000-0002-6299-8799",
+      "version": "1"
+    },
+    {
+      "affiliation": "Scripps Research",
+      "first_name": "Padmaja  ",
+      "is_contact": "FALSE",
+      "last_name": "Natarajan",
+      "middle_name_or_initial": "",
+      "name": "Padmaja Natarajan",
+      "orcid_id": "0000-0002-0985-3347",
+      "version": "1"
+    },
+    {
+      "affiliation": "Scripps Research",
+      "first_name": "Anthony",
+      "is_contact": "FALSE",
+      "last_name": "Mondala",
+      "middle_name_or_initial": "",
+      "name": "Tony Mondala",
+      "orcid_id": "0000-0002-2809-3187",
+      "version": "1"
+    },
+    {
+      "affiliation": "Scripps Research",
+      "first_name": "Steven ",
+      "is_contact": "FALSE",
+      "last_name": "Head",
+      "middle_name_or_initial": "",
+      "name": "Steven Head",
+      "orcid_id": "0000-0002-5490-2750",
+      "version": "1"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1701180472259,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "data_types": [
+    "scRNAseq-10xGenomics-v3"
+  ],
+  "dataset_type": "RNAseq",
+  "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX28189788",
+  "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003721",
+  "description": "Normal human sc meniscus cells",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Merissa Olmer",
+      "created_by_user_email": "molmer@scripps.edu",
+      "created_by_user_sub": "12e9ffa6-121c-4789-8e7f-a6f3019c6d19",
+      "created_timestamp": 1661366487364,
+      "data_access_level": "public",
+      "description": "R medial meniscus.",
+      "entity_type": "Sample",
+      "group_name": "TMC - University of Connecticut",
+      "group_uuid": "301615f9-c870-11eb-a8dc-35ce3d8786fe",
+      "hubmap_id": "HBM544.SHMV.548",
+      "image_files": [
+        {
+          "description": "Gross image of R menisci.",
+          "file_uuid": "ffff6c39460ea2e949a165729fdfee11",
+          "filename": "19-011_Rt_meniscus_top.JPG"
+        }
+      ],
+      "last_modified_timestamp": 1661370540905,
+      "last_modified_user_displayname": "Merissa Olmer",
+      "last_modified_user_email": "molmer@scripps.edu",
+      "last_modified_user_sub": "12e9ffa6-121c-4789-8e7f-a6f3019c6d19",
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.dm6gpb7p5lzp/v1",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/24b08d7f-72e8-4980-8203-27664b892ed3",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/FMA_35176",
+          "http://purl.org/sig/ont/fma/fma64019"
+        ],
+        "creation_date": "2022-08-24",
+        "creator": "Merissa Olmer",
+        "creator_first_name": "Merissa",
+        "creator_last_name": "Olmer",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/24b08d7f-72e8-4980-8203-27664b892ed3_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2022-08-24",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHMRightKnee",
+          "translation_units": "millimeter",
+          "x_rotation": 17,
+          "x_scaling": 1,
+          "x_translation": 121.25,
+          "y_rotation": 38,
+          "y_scaling": 1,
+          "y_translation": 404.308,
+          "z_rotation": -20,
+          "z_scaling": 1,
+          "z_translation": 104.778
+        },
+        "x_dimension": 16,
+        "y_dimension": 8,
+        "z_dimension": 15
+      },
+      "sample_category": "block",
+      "uuid": "0b6a4da78efba0ea26738f55cfe85e69"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM739.WHPN.858",
+  "entity_type": "Dataset",
+  "group_name": "TMC - University of Connecticut and Scripps",
+  "group_uuid": "301615f9-c870-11eb-a8dc-35ce3d8786fe",
+  "hubmap_id": "HBM739.WHPN.858",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "68661e7",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1725911750545,
+  "last_modified_user_displayname": "Jackie Uranic",
+  "last_modified_user_email": "juranic@psc.edu",
+  "last_modified_user_sub": "54dc2f06-b4c3-4f95-a97b-8636df4b9f00",
+  "local_directory_rel_path": "protected/TMC - University of Connecticut and Scripps/92ae57bd395626ca5aab33f0d38e5b64/",
+  "metadata": {
+    "acquisition_instrument_model": "NextSeq550",
+    "acquisition_instrument_vendor": "Illumina",
+    "analyte_class": "RNA",
+    "assay_category": "sequence",
+    "assay_type": "scRNAseq-10xGenomics-v3",
+    "cell_barcode_offset": "1",
+    "cell_barcode_read": "02regMENISCconHEAnm3_featurebcmatrixfiltered.tar",
+    "cell_barcode_size": "16",
+    "contributors_path": "extras/SCRIPPS-scRNAmeniscus-BJH-rev-202212182312-contributors.tsv",
+    "description": "Normal human sc meniscus cells",
+    "execution_datetime": "2019-11-21 15:00",
+    "expected_cell_count": "12000",
+    "is_targeted": "False",
+    "is_technical_replicate": "False",
+    "library_adapter_sequence": "AGATCGGAAGAG",
+    "library_average_fragment_size": "450",
+    "library_construction_protocols_io_doi": "10.17504/protocols.io.e6nvwkw32vmk/v1",
+    "library_final_yield_unit": "ng",
+    "library_final_yield_value": "427",
+    "library_layout": "paired-end",
+    "library_pcr_cycles": "11",
+    "library_pcr_cycles_for_sample_index": "13",
+    "operator": "Tony Mondala",
+    "operator_email": "tmondala@scripps.edu",
+    "pi": "Martin Lotz",
+    "pi_email": "Mlotz@scripps.edu",
+    "protocols_io_doi": "10.17504/protocols.io.dm6gpb7p5lzp/v1",
+    "rnaseq_assay_input": "20000",
+    "rnaseq_assay_method": "Chromium Single Cell 3' GEM, Library & Gel Bead Kit v3, 4 rxns PN-1000092",
+    "sc_isolation_cell_number": "5000000",
+    "sc_isolation_enrichment": "none",
+    "sc_isolation_entity": "whole cell",
+    "sc_isolation_protocols_io_doi": "10.17504/protocols.io.n2bvj6k7blk5/v1",
+    "sc_isolation_quality_metric": "Trypan Blue staining followed by Cell Countess",
+    "sc_isolation_tissue_dissociation": "collagenase II Digestion",
+    "sequencing_phix_percent": "1",
+    "sequencing_read_format": "28/10/10/90",
+    "sequencing_read_percent_q30": "94.5",
+    "sequencing_reagent_kit": "NSQ 500/550 Hi Output KT v2.5 (150 CYS)",
+    "umi_offset": "17",
+    "umi_read": "R1",
+    "umi_size": "12",
+    "version": "3"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "Meniscus-Data : MenNorm3",
+  "published_timestamp": 1702866120944,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM739.WHPN.858",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1701180472259,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1701182103956,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1701184412523,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1702866120944,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "RNAseq data from the knee (right) of a 20-year-old unknown male",
+  "upload": {
+    "created_by_user_displayname": "Chenyu Zhang",
+    "created_by_user_email": "chenyu.zhang@uconn.edu",
+    "created_by_user_sub": "b6b6017c-36c5-4a04-a696-d24befab91cb",
+    "created_timestamp": 1666113295922,
+    "description": "The data sets are from 7 normal knee donors. scRNAseq was performed on normal meniscal tissue.",
+    "entity_type": "Upload",
+    "group_name": "TMC - University of Connecticut",
+    "group_uuid": "301615f9-c870-11eb-a8dc-35ce3d8786fe",
+    "hubmap_id": "HBM324.XBQS.487",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231307683,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1697810036686,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1697831927818,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1698159601341,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1698159739396,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1698159816690,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1698166457004,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      },
+      {
+        "change_timestamp": 1698168263159,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1698168669592,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      },
+      {
+        "change_timestamp": 1698168683543,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1698168742093,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      },
+      {
+        "change_timestamp": 1698168756406,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1698168867080,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      },
+      {
+        "change_timestamp": 1698168880883,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1698955216981,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1698955229251,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1698955269342,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1698955354387,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1701097291685,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1701097901981,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1701097942195,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1701108619947,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1701108623942,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1701131161266,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1701180427788,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1701180438327,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1701180502632,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      },
+      {
+        "change_timestamp": 1701180515659,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1701181200515,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "Meniscus-Data",
+    "uuid": "0c9b2bb818affb0f36ae0e755f791da5"
+  },
+  "uuid": "92ae57bd395626ca5aab33f0d38e5b64"
+}

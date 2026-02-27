@@ -1,0 +1,77 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1614089324497,
+  "data_access_level": "public",
+  "description": "1cm slab through CCF-1",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1614029758971,
+    "data_access_level": "public",
+    "description": "Intact spleen with small portion of inferior apex missing.",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM738.TXMT.668",
+    "image_file_metadata": [
+      {
+        "description": "Visceral surface/hilum facing up",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/e1588a9d9b4a44130ea42c1c7c9f3fd8/HuBMAP 21-010 Whole Spleen View 1.JPG"
+      },
+      {
+        "description": "Inferior margin facing up",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/e1588a9d9b4a44130ea42c1c7c9f3fd8/HuBMAP 21-010 Whole Spleen View 2.JPG"
+      },
+      {
+        "description": "Superior margin facing up",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/0853c8e80ce451152f1b828be0fcfc98/HuBMAP 21-010 Whole Spleen View 3.JPG"
+      },
+      {
+        "description": "Diaphragmatic surface facing up",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/0853c8e80ce451152f1b828be0fcfc98/HuBMAP 21-010 Whole Spleen View 4.JPG"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Visceral surface/hilum facing up",
+        "file_uuid": "ffff53ff99f5faa2217b686b01678a35",
+        "filename": "HuBMAP_21-010_Whole_Spleen_View_1.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617759175057,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "organ": "SP",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "0853c8e80ce451152f1b828be0fcfc98"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM968.HFNM.663",
+  "image_file_metadata": [
+    {
+      "description": "Section with hilum at top end facing up",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/7cfcc7ef49bd3063d27333fe26713e54/HuBMAP 21-010 Spleen CC1 Region (2nd Cut).JPG"
+    }
+  ],
+  "image_files": [
+    {
+      "description": "Section with hilum at top end facing up",
+      "file_uuid": "ffff7f13978957112c56e4f593589552",
+      "filename": "HuBMAP_21-010_Spleen_CC1_Region_2nd_Cut.JPG"
+    }
+  ],
+  "last_modified_timestamp": 1617759188794,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "sample_category": "block",
+  "uuid": "f7b4aa7d8b55743001b2e507f1cf9d3a"
+}

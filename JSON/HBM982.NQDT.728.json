@@ -1,0 +1,483 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1715170704083,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "dataset_info": "pas_ftu_segmentation__61b6ebb8f9a938a444a6433137833c50__pas-ftu-segmentation-pipeline",
+  "dataset_type": "Histology [Kaggle-1 Glomerulus Segmentation]",
+  "direct_ancestors": [
+    {
+      "assigned_to_group_name": "IEC",
+      "contacts": [
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Jeffrey M. Spraggins",
+          "email": "jeff.spraggins@vanderbilt.edu",
+          "first_name": "Jeffrey",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Spraggins",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M.",
+          "orcid": "0000-0001-9198-5498"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Jamie L. Allen",
+          "email": "jamie.l.allen@vanderbilt.edu",
+          "first_name": "Jamie",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Allen",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "L.",
+          "orcid": "0000-0002-4739-2166"
+        },
+        {
+          "affiliation": "Delft Center for Systems and Control, Delft University of Technology, 2628 CD Delft, The Netherlands",
+          "display_name": "Lukasz Migas",
+          "email": "l.g.migas@tudelft.nl",
+          "first_name": "Lukasz",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Migas",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-1884-6405"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Nathan Heath Patterson",
+          "email": "nathan.h.patterson@vanderbilt.edu",
+          "first_name": "Nathan",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Patterson",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "Heath",
+          "orcid": "0000-0002-0064-1583"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Jeffrey M. Spraggins",
+          "email": "jeff.spraggins@vanderbilt.edu",
+          "first_name": "Jeffrey",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Spraggins",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M.",
+          "orcid": "0000-0001-9198-5498"
+        },
+        {
+          "affiliation": "Delft Center for Systems and Control, Delft University of Technology, 2628 CD Delft, The Netherlands",
+          "display_name": "Leonor Tideman",
+          "email": "l.e.m.tideman@tudelft.nl",
+          "first_name": "Leonoor",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Tideman",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-7405-3146"
+        },
+        {
+          "affiliation": "Delft Center for Systems and Control, Delft University of Technology, 2628 CD Delft, The Netherlands",
+          "display_name": "Raf Van de Plas",
+          "email": "Raf.vandePlas@tudelft.nl",
+          "first_name": "Raf",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Van de Plas",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-2232-7130"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Melissa A. Farrow",
+          "email": "melissa.a.farrow@Vanderbilt.Edu",
+          "first_name": "Melissa",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Farrow",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "A.",
+          "orcid": "0000-0002-6791-0290"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Madeline E. Colley",
+          "email": "madeline.colley@Vanderbilt.Edu",
+          "first_name": "Madeline",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Colley",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "E.",
+          "orcid": "0000-0002-9515-3493"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Ellie L. Pingry",
+          "email": "ellie.l.pingry@Vanderbilt.Edu",
+          "first_name": "Ellie",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Pingry",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "L.",
+          "orcid": "0000-0003-1411-0465"
+        },
+        {
+          "affiliation": "Delft Center for Systems and Control, Delft University of Technology, 2628 CD Delft, The Netherlands",
+          "display_name": "Felipe Moser",
+          "email": "f.a.moser@tudelft.nl",
+          "first_name": "Felipe",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Moser",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-7633-1047"
+        },
+        {
+          "affiliation": "Division of Nephrology and Hypertension, Department of Medicine, Vanderbilt University Medical Center, Nashville, TN 37232, USA",
+          "display_name": "Mark deCaestecker",
+          "email": "mark.de.caestecker@vumc.org",
+          "first_name": "Mark",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "deCaestecker",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-7926-1673"
+        },
+        {
+          "affiliation": "Division of Nephrology and Hypertension, Department of Medicine, Vanderbilt University Medical Center, Nashville, TN 37232, USA",
+          "display_name": "Agnes B. Fogo",
+          "email": "agnes.fogo@Vanderbilt.Edu",
+          "first_name": "Agnes",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Fogo",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "B.",
+          "orcid": "0000-0003-3698-8527"
+        },
+        {
+          "affiliation": "Division of Nephrology and Hypertension, Department of Medicine, Vanderbilt University Medical Center, Nashville, TN 37232, USA",
+          "display_name": "Haichun Yang",
+          "email": "haichun.yang@vumc.org",
+          "first_name": "Haichun",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Yang",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-4265-7492"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Tina Tsui",
+          "email": "tina.tsui@vanderbilt.edu",
+          "first_name": "Tina",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Tsui",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-1018-124X"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Katerina V. Djambazova",
+          "email": "katerina.v.djambazova@vanderbilt.edu",
+          "first_name": "Katerina",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Djambazova",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "V",
+          "orcid": "0000-0002-2680-9014"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Allison B. Esselman",
+          "email": "allison.b.esselman@Vanderbilt.Edu",
+          "first_name": "Allison",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Esselman",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "B.",
+          "orcid": "0000-0002-4122-6773"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1711046703272,
+      "data_access_level": "public",
+      "dataset_type": "Histology",
+      "description": "PAS images for donor VAN0042 right kidney block 3 tissue sections 16- 20  : ./VAN0042-RK-3-18-PAS",
+      "doi_url": "https://doi.org/10.35079/HBM452.NPLF.254",
+      "entity_type": "Dataset",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM452.NPLF.254",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "a6461dd3",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          },
+          {
+            "hash": "333ca821",
+            "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+          }
+        ]
+      },
+      "ingest_task": "Processing",
+      "last_modified_timestamp": 1721762671367,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "Axio Scan.Z1",
+        "acquisition_instrument_vendor": "Zeiss Microscopy",
+        "analyte_class": "Polysaccharide",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "dataset_type": "Histology",
+        "intended_tile_overlap_percentage": "",
+        "is_batch_staining_done": "Yes",
+        "is_image_preprocessing_required": "No",
+        "is_staining_automated": "No",
+        "is_targeted": "Yes",
+        "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+        "non_global_files": "",
+        "preparation_instrument_model": "Not applicable",
+        "preparation_instrument_vendor": "Not applicable",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.x54v98nkzl3e/v3",
+        "scan_direction": "",
+        "source_storage_duration_unit": "day",
+        "source_storage_duration_value": "20",
+        "stain_name": "PAS",
+        "stain_technique": "Not applicable",
+        "tile_configuration": "Not applicable",
+        "tiled_image_columns": "",
+        "tiled_image_count": "",
+        "time_since_acquisition_instrument_calibration_unit": "",
+        "time_since_acquisition_instrument_calibration_value": ""
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "VAN0042-RK-3 block PAS   : ./VAN0042-RK-3-18-PAS",
+      "published_timestamp": 1721762671367,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM452.NPLF.254",
+      "status": "Published",
+      "status_history": [
+        {
+          "change_timestamp": 1711046703272,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1711046736535,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Submitted"
+        },
+        {
+          "change_timestamp": 1711046911508,
+          "changed_by_email": "bhonick@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1711046978631,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1711047083455,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Error"
+        },
+        {
+          "change_timestamp": 1715170582962,
+          "changed_by_email": "bhonick@andrew.cmu.edu",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1715170614439,
+          "changed_by_email": "bhonick@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1715170679188,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1721762671367,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        }
+      ],
+      "uuid": "61b6ebb8f9a938a444a6433137833c50"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "FTU segmentation masks in json form",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "VAN0042-RK-3-18-registered-PAS-to-postAF-registered.ome_mask.json",
+      "size": 2800633,
+      "type": "json"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/VAN0042-RK-3-18-registered-PAS-to-postAF-registered.ome_mask.ome.tif",
+      "size": 1665852,
+      "type": "unknown"
+    },
+    {
+      "description": "FTU segmentation masks in json form",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/VAN0042-RK-3-18-registered-PAS-to-postAF-registered.ome_mask.offsets.json",
+      "size": 9,
+      "type": "json"
+    }
+  ],
+  "group_name": "Vanderbilt TMC",
+  "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+  "hubmap_id": "HBM982.NQDT.728",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a6461dd",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "333ca82",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.19"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a6461dd3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "ec6a743",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/pas-ftu-segmentation-pipeline",
+        "version": "v1.1.2"
+      },
+      {
+        "documentation_url": "",
+        "hash": "6e55233",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/create-vis-symlink-archive.git",
+        "version": "v1.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a063a34",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "00fd6df",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.37"
+      }
+    ],
+    "workflow_description": "The Kaggle 1 pipeline segments glomeruli in PAS-stained histology images of kidney.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1721762683463,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Vanderbilt TMC/c9d9ab5c9ee9642b60dd351024968627/",
+  "next_revision_uuid": "019853139dee8754cdb6b75adaaca203",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1721762683463,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1715170704083,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1715170708147,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1715172253221,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1721762683463,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology [Kaggle-1 Glomerulus Segmentation] data from the kidney (right) of a 57-year-old white male",
+  "uuid": "c9d9ab5c9ee9642b60dd351024968627"
+}

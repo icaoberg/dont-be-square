@@ -1,0 +1,1561 @@
+{
+  "collections": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA",
+          "display_name": "Andreas Bueckle",
+          "email": "abueckle@iu.edu",
+          "first_name": "Andreas",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Bueckle",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8977-498X"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA",
+          "display_name": "Andreas Bueckle",
+          "email": "abueckle@iu.edu",
+          "first_name": "Andreas",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Bueckle",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8977-498X"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA",
+          "display_name": "Bruce W. Herr II",
+          "email": "bherr@iu.edu",
+          "first_name": "Bruce",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Herr II",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "W.",
+          "orcid": "0000-0002-6703-7647"
+        },
+        {
+          "affiliation": "Department of Computer Science, Stony Brook University, Stony Brook, 11794, NY, USA",
+          "display_name": "Lu Chen",
+          "email": "lu.chen.3@stonybrook.edu",
+          "first_name": "Lu",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Chen",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-5998-9317"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA",
+          "display_name": "Daniel Bolin",
+          "email": "axbolin@iu.edu",
+          "first_name": "Daniel",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Bolin",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-3803-2476"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA",
+          "display_name": "Danial Qaurooni",
+          "email": "dequeue@iu.edu",
+          "first_name": "Danial",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Qaurooni",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-6190-073X"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA",
+          "display_name": "Michael P. Ginda",
+          "email": "mginda@iu.edu",
+          "first_name": "Michael",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Ginda",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "P.",
+          "orcid": "0000-0002-7500-8096"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA",
+          "display_name": "Yashvardhan Jain",
+          "email": "yashjain@iu.edu",
+          "first_name": "Yashvardhan",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Jain",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-6300-5568"
+        },
+        {
+          "affiliation": "European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK",
+          "display_name": "Aleix Puig Barbe",
+          "email": "aleix@ebi.ac.uk",
+          "first_name": "Aleix",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Puig Barbe",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-6677-8489"
+        },
+        {
+          "affiliation": "GTEx Laboratory Data Analysis and Coordination Center, Broad Institute, Cambridge, MA 02142, USA",
+          "display_name": "Kristin  Ardlie",
+          "email": "kardlie@broadinstitute.org",
+          "first_name": "Kristin ",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Ardlie",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-4272-6283"
+        },
+        {
+          "affiliation": "Department of Biomedical Informatics, Department of Computer Science, Stony Brook University, Stony Brook, 11794, NY, USA",
+          "display_name": "Fusheng  Wang",
+          "email": "fusheng.wang@stonybrook.edu",
+          "first_name": "Fusheng ",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Wang",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-9369-9361"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408, USA",
+          "display_name": "Katy Borner",
+          "email": "katy@iu.edu",
+          "first_name": "Katy",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Borner",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-3321-6137"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1766018714175,
+      "description": "The human body contains \u223c27\u201336 trillion cells of up to 10,000 cell types (CTs) within a volume of \u223c62\u2013120 liters (males) and 52\u201389 liters (females). The Human Reference Atlas (HRA) v2.3 provides a quantitative 3D framework of CTs across 73 reference organs and 1,283 3D anatomical structures (ASs). The HRA Cell Type Population (HRApop) effort quantifies CTs per AS using high-quality single-cell (sc) data processed through scalable, reproducible workflows and cell type annotation (CTann) tools. HRApop v1.0 includes reference CT populations for 73 ASs (112 when sex-specific) using 662 datasets spatially registered to 230 locations across 17 organs (31 when sex-specific). For 558 sc-transcriptomics datasets (11,042,750 cells), CTs and biomarker expression were computed using Azimuth, CellTypist, and popV. To test generalizability, 104 sc-proteomics datasets (16,576,863 cells) were integrated. In total, HRApop includes 27,619,613 cells. HRApop can be used to predict (1) CT populations for 3D volumes in the human body and (2) the spatial origin of a tissue block, given a CT population. Data and code are at cns-iu.github.io/hra-cell-type-populations-supporting-information.",
+      "doi_url": "https://doi.org/10.35079/HBM675.CJZX.378",
+      "entity_type": "Collection",
+      "group_name": "MC - IU",
+      "group_uuid": "ff2283a0-20ea-11ee-9d2e-0bbf905dd76a",
+      "hubmap_id": "HBM675.CJZX.378",
+      "last_modified_timestamp": 1766018734475,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM675.CJZX.378",
+      "title": "A collection of datasets from Publication: Constructing and Using Cell Type Populations of the Human Reference Atlas",
+      "uuid": "339e4b249f36edf387c5c4fe52e0e7ed"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, USA",
+          "display_name": "Andreas Bueckle",
+          "email": "abueckle@iu.edu",
+          "first_name": "Andreas",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Bueckle",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8977-498X"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, USA",
+          "display_name": "Bruce  W. Herr II",
+          "email": "bherr@iu.edu",
+          "first_name": "Bruce ",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Herr II",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "W.",
+          "orcid": "0000-0002-6703-7647"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, USA",
+          "display_name": "Katy Borner",
+          "email": "katy@iu.edu",
+          "first_name": "Katy",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Borner",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-3321-6137"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, USA",
+          "display_name": "Andreas Bueckle",
+          "email": "abueckle@iu.edu",
+          "first_name": "Andreas",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Bueckle",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8977-498X"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, USA",
+          "display_name": "Bruce  W. Herr II",
+          "email": "bherr@iu.edu",
+          "first_name": "Bruce ",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Herr II",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "W.",
+          "orcid": "0000-0002-6703-7647"
+        },
+        {
+          "affiliation": "Stanford Center for Biomedical Informatics Research, Stanford University, Stanford, California, USA",
+          "display_name": "Josef Hardi",
+          "email": "johardi@stanford.edu",
+          "first_name": "Josef",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Hardi",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-2533-6681"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, USA",
+          "display_name": "Ellen M. Quardokus",
+          "email": "ellenmq@iu.edu",
+          "first_name": "Ellen",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Quardokus",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M.",
+          "orcid": "0000-0001-7655-4833"
+        },
+        {
+          "affiliation": "Stanford Center for Biomedical Informatics Research, Stanford University, Stanford, California, USA",
+          "display_name": "Mark A. Musen",
+          "email": "musen@stanford.edu",
+          "first_name": "Mark",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Musen",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "A.",
+          "orcid": "0000-0003-3325-793X"
+        },
+        {
+          "affiliation": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, USA",
+          "display_name": "Katy Borner",
+          "email": "katy@iu.edu",
+          "first_name": "Katy",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Borner",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-3321-6137"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1766018736075,
+      "description": "The Human Reference Atlas (HRA) for the healthy, adult body is being developed by a team of international, interdisciplinary experts across 25+\u2009consortia. It provides standard terminologies and data structures for describing specimens, biological structures, and spatial positions of experimental datasets and ontology-linked reference anatomical structures (ASs), cell types (CTs), and biomarkers (Bs). This paper introduces the HRA Knowledge Graph (KG) as central data resource for the HRA, supporting cross-scale, biological queries to Resource Description Framework graphs using SPARQL. In May 2025, the HRA KG v2.2 covers 71 organs with 5,800 ASs, 2,268 CTs, 2,531 Bs; it has 10,064,033 nodes, 171,250,177 edges, and a size of 125.84 GB. The HRA KG comprises 13 types of Digital Objects (DOs) using the Common Coordinate Framework Ontology to standardize core concepts and relationships across DOs. This work (1) provides data and code for HRA KG construction; (2) details HRA KG deployment as Linked Open Data; and (3) illustrates HRA KG usage via application programming interfaces, user interfaces, and data products. A companion website is at cns-iu.github.io/hra-kg-supporting-information.",
+      "doi_url": "https://doi.org/10.35079/HBM743.KHJW.527",
+      "entity_type": "Collection",
+      "group_name": "MC - IU",
+      "group_uuid": "ff2283a0-20ea-11ee-9d2e-0bbf905dd76a",
+      "hubmap_id": "HBM743.KHJW.527",
+      "last_modified_timestamp": 1766018764811,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM743.KHJW.527",
+      "title": "A collection of datasets from Publication: Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph",
+      "uuid": "d644d0d276cc567efea896bb4abfbcd8"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1625262741821,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "salmon_rnaseq_snareseq"
+  ],
+  "dataset_info": "salmon_rnaseq_snareseq__b4a975cb708bf442ceeb4ad2377024f4_ee14de43eba29d0c55481a998bc3e4e1_d74c1643f3f4c22a4758e5931029ed75__salmon-rnaseq-snareseq",
+  "dataset_type": "RNAseq [Salmon]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Thu",
+          "last_name": "Duong",
+          "middle_name_or_initial": "",
+          "name": "Thu Duong",
+          "orcid_id": "0000-0001-7122-4448"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Daniel",
+          "last_name": "Jacobsen",
+          "middle_name_or_initial": "",
+          "name": "Daniel Jacobsen",
+          "orcid_id": "0000-0003-4102-6947"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "first_name": "Gloria",
+          "last_name": "Pryhuber",
+          "middle_name_or_initial": "",
+          "name": "Gloria Pryhuber",
+          "orcid_id": "0000-0002-9185-3994"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "first_name": "Heidie",
+          "last_name": "Huyck",
+          "middle_name_or_initial": "",
+          "name": "Heidie Huyck",
+          "orcid_id": "0000-0001-9453-0747"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "first_name": "Ravi",
+          "last_name": "Misra",
+          "middle_name_or_initial": "",
+          "name": "Ravi Misra",
+          "orcid_id": "0000-0002-1352-4378"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Joel Welling",
+      "created_by_user_email": "jw1d@andrew.cmu.edu",
+      "created_by_user_sub": "2586d19b-74b7-4bed-987e-68f5525bee76",
+      "created_timestamp": 1625196034082,
+      "data_access_level": "protected",
+      "data_types": [
+        "SNARE-RNAseq2"
+      ],
+      "dataset_info": "LAPMAP_20200317D_SNARE2-R : LAPMAP_20200317D_SNARE2-R_N722\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human lung : LAPMAP_20200317D_SNARE2-R_N722",
+      "dataset_type": "RNAseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX21024760",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "Lung single nuclei RNAseq SNAREseq2 library paired with single nuclei ATACseq SNAREseq2 library HBM644.JKNJ.684, 3 of 3 libraries in Collection (HBM563.LBGB.334) generated from the right lung of a 37 year old black or african american male (HBM943.SCQQ.877) with intracranial hemorrhage. Part of the experimental dataset Collection (HBM339.NGHD.226)",
+      "doi_url": "https://doi.org/10.35079/HBM398.ZSNW.578",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM398.ZSNW.578",
+      "ingest_id": "d74c1643f3f4c22a4758e5931029ed75_scan.and.begin.processing_2021-07-01T23:59:44.867969-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "71e369d",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652234526167,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "RNA",
+        "assay_category": "sequence",
+        "assay_type": "SNARE2-RNAseq",
+        "cell_barcode_offset": "10,48,86",
+        "cell_barcode_read": "R2",
+        "cell_barcode_size": "8,8,8",
+        "contributors_path": "extras/lapmap_20200317_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2020-03-17 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "CTGTCTCTTATACACATCT",
+        "library_average_fragment_size": "700",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "library_final_yield_unit": "ng",
+        "library_final_yield_value": "502",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "18",
+        "library_pcr_cycles_for_sample_index": "12",
+        "operator": "Dinh Diep",
+        "operator_email": "ddiep@ucsd.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "rnaseq_assay_input": "4000",
+        "rnaseq_assay_method": "SNARE-Seq2-RNA",
+        "sc_isolation_cell_number": "6220000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.bh26j8he",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "20",
+        "sequencing_read_format": "70/6/104",
+        "sequencing_read_percent_q30": "93.86",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1643320149912,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM398.ZSNW.578",
+      "run_id": "d74c1643f3f4c22a4758e5931029ed75_scan.and.begin.processing_2021-07-01T23:59:44.867969-04:00",
+      "status": "Published",
+      "uuid": "d74c1643f3f4c22a4758e5931029ed75"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Thu",
+          "last_name": "Duong",
+          "middle_name_or_initial": "",
+          "name": "Thu Duong",
+          "orcid_id": "0000-0001-7122-4448"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Daniel",
+          "last_name": "Jacobsen",
+          "middle_name_or_initial": "",
+          "name": "Daniel Jacobsen",
+          "orcid_id": "0000-0003-4102-6947"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "first_name": "Gloria",
+          "last_name": "Pryhuber",
+          "middle_name_or_initial": "",
+          "name": "Gloria Pryhuber",
+          "orcid_id": "0000-0002-9185-3994"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "first_name": "Heidie",
+          "last_name": "Huyck",
+          "middle_name_or_initial": "",
+          "name": "Heidie Huyck",
+          "orcid_id": "0000-0001-9453-0747"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "first_name": "Ravi",
+          "last_name": "Misra",
+          "middle_name_or_initial": "",
+          "name": "Ravi Misra",
+          "orcid_id": "0000-0002-1352-4378"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Joel Welling",
+      "created_by_user_email": "jw1d@andrew.cmu.edu",
+      "created_by_user_sub": "2586d19b-74b7-4bed-987e-68f5525bee76",
+      "created_timestamp": 1625196032983,
+      "data_access_level": "protected",
+      "data_types": [
+        "SNARE-RNAseq2"
+      ],
+      "dataset_info": "LAPMAP_20200317D_SNARE2-R : LAPMAP_20200317D_SNARE2-R_N721\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human lung : LAPMAP_20200317D_SNARE2-R_N721",
+      "dataset_type": "RNAseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX21024761",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "Lung single nuclei RNAseq SNAREseq2 library paired with single nuclei ATACseq SNAREseq2 library HBM558.JGRM.977, 2 of 3 libraries in Collection (HBM563.LBGB.334) generated from the right lung of a 37 year old black or african american male (HBM943.SCQQ.877) with intracranial hemorrhage. Part of the experimental dataset Collection (HBM339.NGHD.226)",
+      "doi_url": "https://doi.org/10.35079/HBM846.NMQR.693",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM846.NMQR.693",
+      "ingest_id": "ee14de43eba29d0c55481a998bc3e4e1_scan.and.begin.processing_2021-07-01T23:24:20.514420-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "71e369d",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652234479136,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "RNA",
+        "assay_category": "sequence",
+        "assay_type": "SNARE2-RNAseq",
+        "cell_barcode_offset": "10,48,86",
+        "cell_barcode_read": "R2",
+        "cell_barcode_size": "8,8,8",
+        "contributors_path": "extras/lapmap_20200317_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2020-03-17 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "CTGTCTCTTATACACATCT",
+        "library_average_fragment_size": "700",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "library_final_yield_unit": "ng",
+        "library_final_yield_value": "502",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "18",
+        "library_pcr_cycles_for_sample_index": "12",
+        "operator": "Dinh Diep",
+        "operator_email": "ddiep@ucsd.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "rnaseq_assay_input": "4000",
+        "rnaseq_assay_method": "SNARE-Seq2-RNA",
+        "sc_isolation_cell_number": "6220000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.bh26j8he",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "20",
+        "sequencing_read_format": "70/6/104",
+        "sequencing_read_percent_q30": "93.31",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1643320149607,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM846.NMQR.693",
+      "run_id": "ee14de43eba29d0c55481a998bc3e4e1_scan.and.begin.processing_2021-07-01T23:24:20.514420-04:00",
+      "status": "Published",
+      "uuid": "ee14de43eba29d0c55481a998bc3e4e1"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Kun",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Blue",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Dinh",
+          "last_name": "Diep",
+          "middle_name_or_initial": "H",
+          "name": "Dinh H. Diep",
+          "orcid_id": "0000-0001-6057-4119"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Thu",
+          "last_name": "Duong",
+          "middle_name_or_initial": "",
+          "name": "Thu Duong",
+          "orcid_id": "0000-0001-7122-4448"
+        },
+        {
+          "affiliation": "University of California, San Diego",
+          "first_name": "Daniel",
+          "last_name": "Jacobsen",
+          "middle_name_or_initial": "",
+          "name": "Daniel Jacobsen",
+          "orcid_id": "0000-0003-4102-6947"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "first_name": "Gloria",
+          "last_name": "Pryhuber",
+          "middle_name_or_initial": "",
+          "name": "Gloria Pryhuber",
+          "orcid_id": "0000-0002-9185-3994"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "first_name": "Heidie",
+          "last_name": "Huyck",
+          "middle_name_or_initial": "",
+          "name": "Heidie Huyck",
+          "orcid_id": "0000-0001-9453-0747"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "first_name": "Ravi",
+          "last_name": "Misra",
+          "middle_name_or_initial": "",
+          "name": "Ravi Misra",
+          "orcid_id": "0000-0002-1352-4378"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Peter",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Qiwen",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X"
+        },
+        {
+          "affiliation": "Harvard medical school",
+          "first_name": "Xin",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223"
+        }
+      ],
+      "created_by_user_displayname": "Joel Welling",
+      "created_by_user_email": "jw1d@andrew.cmu.edu",
+      "created_by_user_sub": "2586d19b-74b7-4bed-987e-68f5525bee76",
+      "created_timestamp": 1625196032085,
+      "data_access_level": "protected",
+      "data_types": [
+        "SNARE-RNAseq2"
+      ],
+      "dataset_info": "LAPMAP_20200317D_SNARE2-R : LAPMAP_20200317D_SNARE2-R_N720\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human lung : LAPMAP_20200317D_SNARE2-R_N720",
+      "dataset_type": "RNAseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX21024762",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+      "description": "Lung single nuclei RNAseq SNAREseq2 library paired with single nuclei ATACseq SNAREseq2 library HBM568.DBHK.664, 1 of 3 libraries in Collection (HBM563.LBGB.334) generated from the right lung of a 37 year old black or african american male (HBM943.SCQQ.877) with intracranial hemorrhage. Part of the experimental dataset Collection (HBM339.NGHD.226)",
+      "doi_url": "https://doi.org/10.35079/HBM475.NWHG.922",
+      "entity_type": "Dataset",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM475.NWHG.922",
+      "ingest_id": "b4a975cb708bf442ceeb4ad2377024f4_scan.and.begin.processing_2021-07-01T23:24:07.029283-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "71e369d",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652234217618,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "RNA",
+        "assay_category": "sequence",
+        "assay_type": "SNARE2-RNAseq",
+        "cell_barcode_offset": "10,48,86",
+        "cell_barcode_read": "R2",
+        "cell_barcode_size": "8,8,8",
+        "contributors_path": "extras/lapmap_20200317_contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2020-03-17 11:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "CTGTCTCTTATACACATCT",
+        "library_average_fragment_size": "700",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "library_final_yield_unit": "ng",
+        "library_final_yield_value": "502",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "18",
+        "library_pcr_cycles_for_sample_index": "12",
+        "operator": "Dinh Diep",
+        "operator_email": "ddiep@ucsd.edu",
+        "pi": "Kun Zhang",
+        "pi_email": "kzhang@eng.ucsd.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be5gjg3w",
+        "rnaseq_assay_input": "4000",
+        "rnaseq_assay_method": "SNARE-Seq2-RNA",
+        "sc_isolation_cell_number": "6220000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.bh26j8he",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "20",
+        "sequencing_read_format": "70/6/104",
+        "sequencing_read_percent_q30": "92.92",
+        "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1643320149316,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM475.NWHG.922",
+      "run_id": "b4a975cb708bf442ceeb4ad2377024f4_scan.and.begin.processing_2021-07-01T23:24:07.029283-04:00",
+      "status": "Published",
+      "uuid": "b4a975cb708bf442ceeb4ad2377024f4"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "UMAP plot of cells, colored by Leiden cluster ID",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "umap_by_leiden_cluster.pdf",
+      "size": 156279,
+      "type": "pdf"
+    },
+    {
+      "description": "scVelo RNA velocity stream plot",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "scvelo_embedding_stream.pdf",
+      "size": 5728,
+      "type": "pdf"
+    },
+    {
+      "description": "Quality control report in JSON format",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": true,
+      "rel_path": "qc_results.json",
+      "size": 446,
+      "type": "json"
+    },
+    {
+      "description": "Disperson plot of gene expression",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "dispersion_plot.pdf",
+      "size": 1017301,
+      "type": "pdf"
+    },
+    {
+      "description": "Normalized gene expression with additional metadata, in HDF5 format, readable with the 'anndata' Python package",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "secondary_analysis.h5ad",
+      "size": 1315334182,
+      "type": "h5ad"
+    },
+    {
+      "description": "scVelo RNA velocity grid plot",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "scvelo_embedding_grid.pdf",
+      "size": 248044,
+      "type": "pdf"
+    },
+    {
+      "description": "RNA velocity results, in HDF5 format, readable with the 'anndata' Python package",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "scvelo_annotated.h5ad",
+      "size": 132689141,
+      "type": "h5ad"
+    },
+    {
+      "description": "Quality control results from Scanpy, per-cell and per-gene, in HDF5 format",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_qa_qc": true,
+      "rel_path": "qc_results.hdf5",
+      "size": 10669960,
+      "type": "hdf5"
+    },
+    {
+      "description": "Raw gene expression, in HDF5 format, readable with the 'anndata' Python package, intronic counts collapsed to genes",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "expr.h5ad",
+      "size": 153604536,
+      "type": "h5ad"
+    },
+    {
+      "description": "Raw gene expression, in HDF5 format, readable with the 'anndata' Python package, intronic counts collapsed to genes",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_qa_qc": false,
+      "rel_path": "raw_expr.h5ad",
+      "size": 80793216,
+      "type": "h5ad"
+    },
+    {
+      "description": "UMAP plot of cells, colored by embedding density",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "umap_embedding_density.pdf",
+      "size": 1402363,
+      "type": "pdf"
+    },
+    {
+      "description": "JSON-formatted information about this scRNA-seq's clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.factors.json",
+      "size": 267634,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about the heirarchy scRNA-seq's cells.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.cell-sets.json",
+      "size": 275397,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about this scRNA-seq run including scatterplot coordinates and clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.cells.json",
+      "size": 1056298,
+      "type": "json"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar comma-separated-file format.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.csv",
+      "size": 383255,
+      "type": "csv"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar Apache Arrow format.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/output/secondary_analysis.arrow",
+      "size": 300954,
+      "type": "arrow"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/spliced/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/spliced_unspliced_sum/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/unscaled/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/unspliced/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/neighbors/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/neighbors/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/rank_genes_groups/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/rank_genes_groups/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/leiden/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/leiden/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/hvg/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/umap/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/umap/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/umap_density_params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/pca/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/pca/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obs/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obs/__categories/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/varm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsp/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsp/distances/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsp/connectivities/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/var/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/var/__categories/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsp/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsp/connectivities/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsp/distances/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/var/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/var/__categories/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/neighbors/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/neighbors/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/recover_dynamics/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/leiden/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/leiden/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/umap/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/umap/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/velocity_graph_neg/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/pca/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/pca/params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/velocity_params/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/velocity_graph/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obs/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obs/__categories/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/varm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/spliced_unspliced_sum/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/unspliced/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/spliced/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/LAPMAP_20200317D_N722_S22_R2_fastqc.html",
+      "size": 817925,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/LAPMAP_20200317D_N720_S20_R2_fastqc.html",
+      "size": 816201,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/LAPMAP_20200317D_N721_S21_R2_fastqc.html",
+      "size": 822989,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/LAPMAP_20200317D_N720_S20_R1_fastqc.html",
+      "size": 699038,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/LAPMAP_20200317D_N721_S21_R1_fastqc.html",
+      "size": 702156,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/LAPMAP_20200317D_N722_S22_R1_fastqc.html",
+      "size": 699370,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "University of California San Diego TMC",
+  "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+  "hubmap_id": "HBM364.ZLDR.283",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "71e369d",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.6.7b"
+      },
+      {
+        "documentation_url": "",
+        "hash": "71e369d",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.6.7b"
+      },
+      {
+        "documentation_url": "",
+        "hash": "85892d9",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/salmon-rnaseq",
+        "version": "v2.0.8"
+      },
+      {
+        "documentation_url": "",
+        "hash": "dc56823",
+        "input_parameters": [],
+        "name": "anndata-to-ui.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": ""
+      }
+    ],
+    "workflow_description": "The pipeline for multiome RNA-ATACseq data uses Salmon for alignment free quasi mapping of reads from RNA sequencing to the hg38 reference genome and HISAT2 for short read alignment of ATACseq reads to the same genome.  Barcodes are then mapped between components of the assay to generate an annotated data matrix with consolidated RNA and ATACseq data. This annotated data matrix is then passed to the Muon package for dimensionality reduction, clustering, and multiomic factor analysis.  Cell type annotations are provided by Azimuth when available for the type of tissue being analyzed.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1698985613943,
+  "last_modified_user_displayname": "Karl Burke",
+  "last_modified_user_email": "KBURKE@pitt.edu",
+  "last_modified_user_sub": "3aaa925d-755a-4193-98c7-44455de783ff",
+  "local_directory_rel_path": "public/University of California San Diego TMC/ee6e44b3e6cb77ef1806e722390a01a8/",
+  "next_revision_uuid": "58167d0f778284d5b95af782bd8132da",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1643320163406,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "RNAseq [Salmon] data from the lung (right) of a 37-year-old black or african american male",
+  "uuid": "ee6e44b3e6cb77ef1806e722390a01a8"
+}

@@ -1,0 +1,227 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Univeristy of Washington",
+      "first_name": "Dana",
+      "last_name": "Jackson",
+      "middle_name_or_initial": "L",
+      "name": "Dana L Jackson",
+      "orcid_id": "0000-0002-6917-0580"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Gregory",
+      "last_name": "Booth",
+      "middle_name_or_initial": "T",
+      "name": "Gregory T. Booth",
+      "orcid_id": "0000-0003-3748-5518"
+    },
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Riza",
+      "last_name": "Daza",
+      "middle_name_or_initial": "M",
+      "name": "Riza M. Daza",
+      "orcid_id": "0000-0003-1635-8675"
+    },
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Diana",
+      "last_name": "O'Day",
+      "middle_name_or_initial": "R",
+      "name": "Diana R. O'Day",
+      "orcid_id": "0000-0002-8398-8389"
+    },
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Jay",
+      "last_name": "Shendure",
+      "middle_name_or_initial": "",
+      "name": "Jay Shendure",
+      "orcid_id": "0000-0002-1516-1865"
+    },
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Cole",
+      "last_name": "Trapnell",
+      "middle_name_or_initial": "",
+      "name": "Cole Trapnell",
+      "orcid_id": "0000-0002-8105-4347"
+    },
+    {
+      "affiliation": "Univeristy of Washington",
+      "first_name": "Brent",
+      "last_name": "Ewing",
+      "middle_name_or_initial": "",
+      "name": "Brent Ewing",
+      "orcid_id": "0000-0002-0594-7688"
+    },
+    {
+      "affiliation": "Washington University",
+      "first_name": "Yiing",
+      "last_name": "Lin",
+      "middle_name_or_initial": "",
+      "name": "Yiing Lin",
+      "orcid_id": "0000-0002-0317-7608"
+    }
+  ],
+  "created_by_user_displayname": "Dana L Jackson",
+  "created_by_user_email": "danaj77@uw.edu",
+  "created_by_user_sub": "e3b5b672-4d0a-4625-b73c-99ee0a602963",
+  "created_timestamp": 1614045550956,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "data_types": [
+    "sciATACseq"
+  ],
+  "dataset_info": "W135_lung",
+  "dataset_type": "ATACseq",
+  "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX25192869",
+  "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002267",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Dana L Jackson",
+      "created_by_user_email": "danaj77@uw.edu",
+      "created_by_user_sub": "e3b5b672-4d0a-4625-b73c-99ee0a602963",
+      "created_timestamp": 1613067470758,
+      "data_access_level": "public",
+      "description": "W135_lung, flash frozen",
+      "entity_type": "Sample",
+      "group_name": "California Institute of Technology TMC",
+      "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM288.TQPD.747",
+      "last_modified_timestamp": 1645052635924,
+      "last_modified_user_displayname": "Shin Lin",
+      "last_modified_user_email": "shinlin@uw.edu",
+      "last_modified_user_sub": "30bc4c7e-a52e-45e8-bf99-1559112068c4",
+      "metadata": {
+        "cold_ischemia_time_unit": "minutes",
+        "cold_ischemia_time_value": "160",
+        "health_status": "relatively healthy",
+        "organ_condition": "healthy",
+        "pathologist_report": "no necrosis",
+        "perfusion_solution": "HTK",
+        "procedure_date": "2020-08-20",
+        "specimen_preservation_temperature": "Liquid Nitrogen",
+        "specimen_quality_criteria": "",
+        "specimen_tumor_distance_unit": "cm",
+        "specimen_tumor_distance_value": "",
+        "vital_state": "deceased",
+        "warm_ischemia_time_unit": "minutes",
+        "warm_ischemia_time_value": "0"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.biqqkdvw",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/f627a7e1-843e-487d-92ea-1bfa08e7c7cc",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/UBERON_0002168"
+        ],
+        "creation_date": "2022-02-16",
+        "creator": "Yiing Lin",
+        "creator_first_name": "Yiing",
+        "creator_last_name": "Lin",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/f627a7e1-843e-487d-92ea-1bfa08e7c7cc_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2022-02-16",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHMLung",
+          "translation_units": "millimeter",
+          "x_rotation": 0,
+          "x_scaling": 1,
+          "x_translation": 196.413,
+          "y_rotation": 0,
+          "y_scaling": 1,
+          "y_translation": 43.095,
+          "z_rotation": 90,
+          "z_scaling": 1,
+          "z_translation": 177.648
+        },
+        "x_dimension": 10,
+        "y_dimension": 25,
+        "z_dimension": 10
+      },
+      "sample_category": "block",
+      "uuid": "cfb75894a2611aeee77bb45760f2a4d2"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM594.TSSQ.952",
+  "entity_type": "Dataset",
+  "group_name": "California Institute of Technology TMC",
+  "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM594.TSSQ.952",
+  "ingest_id": "a0df02bda8befa491f86b0d41f2810ed_scan.and.begin.processing_2021-04-28T17:40:53.777811-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "8373d7f",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1725458514276,
+  "last_modified_user_displayname": "Jackie Uranic",
+  "last_modified_user_email": "juranic@psc.edu",
+  "last_modified_user_sub": "54dc2f06-b4c3-4f95-a97b-8636df4b9f00",
+  "local_directory_rel_path": "protected/California Institute of Technology TMC/a0df02bda8befa491f86b0d41f2810ed/",
+  "metadata": {
+    "acquisition_instrument_model": "Novaseq6004",
+    "acquisition_instrument_vendor": "Illumina",
+    "analyte_class": "DNA",
+    "assay_category": "sequence",
+    "assay_type": "sciATACseq",
+    "cell_barcode_offset": "0",
+    "cell_barcode_read": "['I1', 'I2']",
+    "cell_barcode_size": "40",
+    "contributors_path": "extras/contributors.tsv",
+    "execution_datetime": "2020-12-23 12:00",
+    "is_targeted": "False",
+    "is_technical_replicate": "False",
+    "library_adapter_sequence": "AGATGTGTATAAGAGACAG",
+    "library_average_fragment_size": "400",
+    "library_construction_protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+    "library_final_yield": "5",
+    "library_final_yield_unit": "ng",
+    "library_layout": "paired-end",
+    "library_pcr_cycles": "11",
+    "library_pcr_cycles_for_sample_index": "11",
+    "operator": "Riza Daza",
+    "operator_email": "daza@uw.edu",
+    "pi": "Cole Trapnell",
+    "pi_email": "coletrap@uw.edu",
+    "protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+    "sc_isolation_cell_number": "4760000",
+    "sc_isolation_enrichment": "none",
+    "sc_isolation_entity": "nucleus",
+    "sc_isolation_protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+    "sc_isolation_quality_metric": "OK",
+    "sc_isolation_tissue_dissociation": "xyz",
+    "sequencing_phix_percent": "0",
+    "sequencing_read_format": "50+50+20+20",
+    "sequencing_read_percent_q30": "0",
+    "sequencing_reagent_kit": "NovaSeq6000",
+    "transposition_input": "200000",
+    "transposition_kit_number": "",
+    "transposition_method": "sciATACseq",
+    "transposition_transposase_source": "In-house"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1625055981929,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM594.TSSQ.952",
+  "run_id": "a0df02bda8befa491f86b0d41f2810ed_scan.and.begin.processing_2021-04-28T17:40:53.777811-04:00",
+  "status": "Published",
+  "title": "ATACseq data from the lung (right) of a 60-year-old black or african american male",
+  "uuid": "a0df02bda8befa491f86b0d41f2810ed"
+}

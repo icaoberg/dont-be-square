@@ -1,0 +1,98 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1614781905071,
+  "data_access_level": "public",
+  "description": "Intact LN in paraffin for CODEX",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1614027975641,
+    "data_access_level": "public",
+    "description": "1.2cm LN",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM967.QKMV.325",
+    "image_file_metadata": [
+      {
+        "description": "Lymph node at time of collection",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/0fcbee0d50dfdea620dcd968fdb59e13/HuBMAP 21-010 LN#s 1-2-3.JPG"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Lymph node at time of collection",
+        "file_uuid": "ffff5eaa05e39e30bea81ed53eb64540",
+        "filename": "HuBMAP_21-010_LNs_1-2-3.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617759179120,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "organ": "LY",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "62a5c46b5a37c9a6d44934d7067454a7"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM296.RWBN.476",
+  "last_modified_timestamp": 1670964105383,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgnijve",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/dd10edda-787b-47f2-85af-f22e5b85f4d5",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049"
+    ],
+    "creation_date": "2021-10-01",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/dd10edda-787b-47f2-85af-f22e5b85f4d5_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-01",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHMRightLymphNode",
+      "translation_units": "millimeter",
+      "x_rotation": 0,
+      "x_scaling": 1,
+      "x_translation": 8.818,
+      "y_rotation": 0,
+      "y_scaling": 1,
+      "y_translation": 5.336,
+      "z_rotation": 0,
+      "z_scaling": 1,
+      "z_translation": 6.483
+    },
+    "x_dimension": 20,
+    "y_dimension": 12,
+    "z_dimension": 14
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffff9e856e10388fe12b72cbad6efa25",
+    "filename": "HBM296.RWBN.476.jpg"
+  },
+  "uuid": "ec2492579216ce331049731753603a9a"
+}

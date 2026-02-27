@@ -1,0 +1,47 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1575495714283,
+  "data_access_level": "public",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1575492004833,
+    "data_access_level": "public",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM432.DCGC.449",
+    "last_modified_timestamp": 1596122542414,
+    "last_modified_user_displayname": "Marda Jorgensen",
+    "last_modified_user_email": "marda@ufl.edu",
+    "last_modified_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "organ": "SP",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/lz/tissue-reg-data/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f858422c5435bda5d2ee9e9e94345cdb/UFL0004 SP Pathology Report.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+    "sample_category": "organ",
+    "uuid": "f858422c5435bda5d2ee9e9e94345cdb"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM252.CRPM.758",
+  "last_modified_timestamp": 1670963984282,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffff90dddba135ccd060b6f8b39ecf61",
+    "filename": "HBM252.CRPM.758.jpg"
+  },
+  "uuid": "42d58ab17844e1601aef795c4dea775a"
+}

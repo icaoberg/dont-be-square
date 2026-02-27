@@ -1,0 +1,92 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1635262439759,
+  "data_access_level": "public",
+  "description": "lymph node of unspecified size collected for CODEX analysis",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1634136138223,
+    "data_access_level": "public",
+    "description": "1.2 cm mesenteric lymph node",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM693.HJSQ.256",
+    "image_files": [
+      {
+        "description": "image of lymph node 2",
+        "file_uuid": "ffff930e846b0d21bb9b263a683ae73d",
+        "filename": "Case14LN.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1634136138223,
+    "last_modified_user_displayname": "Marda Jorgensen",
+    "last_modified_user_email": "marda@ufl.edu",
+    "last_modified_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "organ": "LY",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgnijve",
+    "sample_category": "organ",
+    "uuid": "560bcbfdb94a6683f8ec32d44499bd21"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM528.RHMC.832",
+  "last_modified_timestamp": 1670964095125,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.8nzhvf6",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/53698889-080e-4f1c-b6c1-cb4dd2d488f6",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049"
+    ],
+    "creation_date": "2021-10-26",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/53698889-080e-4f1c-b6c1-cb4dd2d488f6_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-26",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHMRightLymphNode",
+      "translation_units": "millimeter",
+      "x_rotation": 0,
+      "x_scaling": 1,
+      "x_translation": 8.818,
+      "y_rotation": 0,
+      "y_scaling": 1,
+      "y_translation": 5.336,
+      "z_rotation": 0,
+      "z_scaling": 1,
+      "z_translation": 6.483
+    },
+    "x_dimension": 20,
+    "y_dimension": 14,
+    "z_dimension": 14
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "fffffa779fdac9f7ce03841b7be28de8",
+    "filename": "HBM528.RHMC.832.jpg"
+  },
+  "uuid": "22e189d579508f59a974d5a7662545cc"
+}

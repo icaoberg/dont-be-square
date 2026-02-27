@@ -1,0 +1,208 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Columbia University",
+      "first_name": "Presha",
+      "is_contact": "TRUE",
+      "last_name": "Rajbhandari",
+      "middle_name_or_initial": "",
+      "name": "Presha Rajbhandari",
+      "orcid_id": "0000-0003-2184-7238",
+      "version": "1"
+    },
+    {
+      "affiliation": "University of Pittsburgh",
+      "first_name": "Hua",
+      "is_contact": "TRUE",
+      "last_name": "Tian",
+      "middle_name_or_initial": "",
+      "name": "Hua Tian",
+      "orcid_id": "0000-0002-3598-0219",
+      "version": "1"
+    },
+    {
+      "affiliation": "Columbia University",
+      "first_name": "Brent",
+      "is_contact": "TRUE",
+      "last_name": "Stockwell",
+      "middle_name_or_initial": "R",
+      "name": "Brent Stockwell",
+      "orcid_id": "0000-0002-3532-3868",
+      "version": "1"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Columbia University",
+      "first_name": "Presha",
+      "is_contact": "TRUE",
+      "last_name": "Rajbhandari",
+      "middle_name_or_initial": "",
+      "name": "Presha Rajbhandari",
+      "orcid_id": "0000-0003-2184-7238",
+      "version": "1"
+    },
+    {
+      "affiliation": "University of Pittsburgh",
+      "first_name": "Hua",
+      "is_contact": "TRUE",
+      "last_name": "Tian",
+      "middle_name_or_initial": "",
+      "name": "Hua Tian",
+      "orcid_id": "0000-0002-3598-0219",
+      "version": "1"
+    },
+    {
+      "affiliation": "Columbia University",
+      "first_name": "Aubrianna",
+      "is_contact": "FALSE",
+      "last_name": "Decker",
+      "middle_name_or_initial": "M",
+      "name": "Aubrianna Decker",
+      "orcid_id": "0000-0002-0646-1815",
+      "version": "1"
+    },
+    {
+      "affiliation": "Columbia University",
+      "first_name": "Taruna",
+      "is_contact": "FALSE",
+      "last_name": "Neelakantan",
+      "middle_name_or_initial": "V",
+      "name": "Taruna Neelakantan",
+      "orcid_id": "0000-0003-2222-4630",
+      "version": "1"
+    },
+    {
+      "affiliation": "Columbia University",
+      "first_name": "Brent",
+      "is_contact": "TRUE",
+      "last_name": "Stockwell",
+      "middle_name_or_initial": "R",
+      "name": "Brent Stockwell",
+      "orcid_id": "0000-0002-3532-3868",
+      "version": "1"
+    }
+  ],
+  "created_by_user_displayname": "Presha Rajbhandari",
+  "created_by_user_email": "pr2162@columbia.edu",
+  "created_by_user_sub": "90865c5c-ce41-48cc-b231-9c29511f52c5",
+  "created_timestamp": 1653683438142,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "data_types": [
+    "DESI"
+  ],
+  "dataset_type": "DESI",
+  "description": "DESI mass spectrometry imaging data collected from a 51 year old female, on Waters Synapt G2-Si, in negative ionization mode at 40um spatial resolution.",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Presha Rajbhandari",
+      "created_by_user_email": "pr2162@columbia.edu",
+      "created_by_user_sub": "90865c5c-ce41-48cc-b231-9c29511f52c5",
+      "created_timestamp": 1675889797460,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "TTD - Penn State University and Columbia University",
+      "group_uuid": "b148f323-c870-11eb-b360-4dfdb5d10392",
+      "hubmap_id": "HBM785.BKZB.597",
+      "last_modified_timestamp": 1675889797460,
+      "last_modified_user_displayname": "Presha Rajbhandari",
+      "last_modified_user_email": "pr2162@columbia.edu",
+      "last_modified_user_sub": "90865c5c-ce41-48cc-b231-9c29511f52c5",
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.81wgbyynovpk/v1",
+      "sample_category": "section",
+      "uuid": "4e0587f8d65619b8cb539600dddc6df8"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM238.PWFH.224",
+  "entity_type": "Dataset",
+  "group_name": "TTD - Penn State University and Columbia University",
+  "group_uuid": "b148f323-c870-11eb-b360-4dfdb5d10392",
+  "hubmap_id": "HBM238.PWFH.224",
+  "ingest_id": "5528d177fbaec160dd6240d67b221711_scan.and.begin.processing_2023-04-06T14:29:32.076258-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "3d005da",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1709302415928,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/TTD - Penn State University and Columbia University/5528d177fbaec160dd6240d67b221711/",
+  "metadata": {
+    "acquisition_instrument_model": "Synapt G2-Si",
+    "acquisition_instrument_vendor": "Waters Corp.",
+    "analyte_class": "Lipid + metabolite",
+    "assay_category": "mass_spectrometry_imaging",
+    "assay_type": "DESI",
+    "contributors_path": "./extras/contributors.tsv",
+    "description": "DESI dataset",
+    "desi_solvent": "methanol: water 95:5 (v/v) with 0.01 percent formic acid and 20pg/ul leucine enkephalin",
+    "desi_solvent_flow_rate": "1.5",
+    "desi_solvent_flow_rate_unit": "uL/minute",
+    "execution_datetime": "6/6/2021 20:07",
+    "ion_mobility": "TWIMS",
+    "is_targeted": "FALSE",
+    "mass_resolving_power": "26000",
+    "ms_scan_mode": "MS",
+    "ms_source": "DESI",
+    "mz_range_high_value": "1000",
+    "mz_range_low_value": "100",
+    "mz_resolving_power": "554",
+    "operator": "Presha Rajbhandari",
+    "operator_email": "pr2162@columbia.edu",
+    "overall_protocols_io_doi": "10.17504/protocols.io.kxygx913zg8j/v1",
+    "pi": "Brent R Stockwell",
+    "pi_email": "bstockwell@columbia.edu",
+    "polarity": "negative ion mode",
+    "preparation_instrument_model": "",
+    "preparation_instrument_vendor": "",
+    "preparation_maldi_matrix": "",
+    "preparation_type": "",
+    "processing_protocols_io_doi": "",
+    "protocols_io_doi": "10.17504/protocols.io.ewov1nze7gr2/v1",
+    "resolution_x_unit": "um",
+    "resolution_x_value": "40",
+    "resolution_y_unit": "um",
+    "resolution_y_value": "40",
+    "section_prep_protocols_io_doi": "10.17504/protocols.io.e6nvwjmjzlmk/v1",
+    "version": "2"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1709302415928,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM238.PWFH.224",
+  "run_id": "5528d177fbaec160dd6240d67b221711_scan.and.begin.processing_2023-04-06T14:29:32.076258-04:00",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1708614443118,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1708614447923,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1708614491476,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1709302415928,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "DESI data from the liver of a 51-year-old white female",
+  "uuid": "5528d177fbaec160dd6240d67b221711"
+}

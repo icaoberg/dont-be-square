@@ -1,0 +1,79 @@
+{
+  "created_by_user_displayname": "daniel cotter",
+  "created_by_user_email": "Daniel.cotter@stanford.edu",
+  "created_by_user_sub": "9bc64b24-20e9-4612-bb84-a80e9f806022",
+  "created_timestamp": 1631049923896,
+  "data_access_level": "public",
+  "description": "Sample B004-A-405 from jejunum of small intestine",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Yiing Lin",
+    "created_by_user_email": "liny@wustl.edu",
+    "created_by_user_sub": "be70e17d-9bc1-4a91-a83f-6950bdd1287b",
+    "created_timestamp": 1580132575553,
+    "data_access_level": "public",
+    "entity_type": "Sample",
+    "group_name": "Stanford TMC",
+    "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM896.LDWJ.896",
+    "last_modified_timestamp": 1645056938421,
+    "last_modified_user_displayname": "Shin Lin",
+    "last_modified_user_email": "shinlin@uw.edu",
+    "last_modified_user_sub": "30bc4c7e-a52e-45e8-bf99-1559112068c4",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/lz/tissue-reg-data/def5fd76-ed43-11e8-b56a-0e8017bdda58/efbf777d8d36f03cebe957e02eb9f8fe/W111_B004_histologic_review.xlsx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bin9kdh6",
+    "rui_location": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/3e6555b4-d08d-40b1-a5cc-a2b72ce421e5",
+      "@type": "SpatialEntity",
+      "ccf_annotations": [
+        "http://purl.obolibrary.org/obo/UBERON_0002115"
+      ],
+      "creation_date": "2022-02-17",
+      "creator": "Yiing Lin",
+      "creator_first_name": "Yiing",
+      "creator_last_name": "Lin",
+      "dimension_units": "millimeter",
+      "placement": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/3e6555b4-d08d-40b1-a5cc-a2b72ce421e5_placement",
+        "@type": "SpatialPlacement",
+        "placement_date": "2022-02-17",
+        "rotation_order": "XYZ",
+        "rotation_units": "degree",
+        "scaling_units": "ratio",
+        "target": "http://purl.org/ccf/latest/ccf.owl#VHMSmallIntestine",
+        "translation_units": "millimeter",
+        "x_rotation": 0,
+        "x_scaling": 1,
+        "x_translation": 68.784,
+        "y_rotation": 0,
+        "y_scaling": 1,
+        "y_translation": 188.764,
+        "z_rotation": 122,
+        "z_scaling": 1,
+        "z_translation": 31.088
+      },
+      "x_dimension": 3,
+      "y_dimension": 30,
+      "z_dimension": 15
+    },
+    "sample_category": "block",
+    "uuid": "efbf777d8d36f03cebe957e02eb9f8fe"
+  },
+  "entity_type": "Sample",
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM448.ZXVF.752",
+  "last_modified_timestamp": 1631049984133,
+  "last_modified_user_displayname": "daniel cotter",
+  "last_modified_user_email": "Daniel.cotter@stanford.edu",
+  "last_modified_user_sub": "9bc64b24-20e9-4612-bb84-a80e9f806022",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bin8kdhw",
+  "sample_category": "block",
+  "uuid": "816a5df8f39c357ea19f4522ac7a641f"
+}

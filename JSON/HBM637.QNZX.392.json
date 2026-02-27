@@ -1,0 +1,229 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1596561788813,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "image_pyramid",
+    "IMC"
+  ],
+  "dataset_info": "['ometiff_pyramid__1a4f3118a596ac20ab022913c83a772f__ometiff_pyramid']",
+  "dataset_type": "2D Imaging Mass Cytometry [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "University of Zurich",
+          "first_name": "Bernd",
+          "last_name": "Bodenmiller",
+          "middle_name_or_initial": "",
+          "name": "Bernd Bodenmiller",
+          "orcid_id": "0000-0002-6325-7861"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "University of Zurich",
+          "first_name": "Bernd",
+          "is_contact": "TRUE",
+          "last_name": "Bodenmiller",
+          "middle_name_or_initial": "",
+          "name": "Bernd Bodenmiller",
+          "orcid_id": "0000-0002-6325-7861"
+        },
+        {
+          "affiliation": "University of Zurich",
+          "first_name": "Nicolas",
+          "last_name": "Damon",
+          "middle_name_or_initial": "",
+          "name": "Nicolas Damon",
+          "orcid_id": "0000-0003-3027-8989"
+        },
+        {
+          "affiliation": "University of Zurich",
+          "first_name": "Ruben",
+          "last_name": "Casanova",
+          "middle_name_or_initial": "",
+          "name": "Ruben Casanova",
+          "orcid_id": "0000-0002-3957-8120"
+        },
+        {
+          "affiliation": "University of Zurich",
+          "first_name": "Michelle ",
+          "last_name": "Daniel",
+          "middle_name_or_initial": "",
+          "name": "Michelle Daniel",
+          "orcid_id": "0000-0002-2003-2865"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Mark",
+          "last_name": "Atkinson",
+          "middle_name_or_initial": "",
+          "name": "Mark Atkinson",
+          "orcid_id": "0000-0001-8489-4782"
+        },
+        {
+          "affiliation": "University of Zurich",
+          "first_name": "Esther",
+          "last_name": "Danerberg",
+          "middle_name_or_initial": "",
+          "name": "Esther Danenberg",
+          "orcid_id": "0000-0002-1799-4457"
+        }
+      ],
+      "created_by_user_displayname": "Jesus Penaloza Aponte",
+      "created_by_user_email": "jesus.penalozaa@ufl.edu",
+      "created_timestamp": 1596228082003,
+      "data_access_level": "public",
+      "data_types": [
+        "IMC"
+      ],
+      "dataset_info": "19-003-LN-8-IMC-R4\r\n\r\nLymph Node IMC",
+      "dataset_type": "2D Imaging Mass Cytometry",
+      "description": "Lymph Node IMC",
+      "doi_url": "https://doi.org/10.35079/HBM345.KKNW.528",
+      "entity_type": "Dataset",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM345.KKNW.528",
+      "ingest_id": "1a4f3118a596ac20ab022913c83a772f_scan.and.begin.processing_2020-08-04T13:21:02.721926-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "852d698",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1644609322014,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/University of Florida TMC/1a4f3118a596ac20ab022913c83a772f",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "ablation_distance_between_shots_x_units": "um",
+        "ablation_distance_between_shots_x_value": "1",
+        "ablation_distance_between_shots_y_units": "um",
+        "ablation_distance_between_shots_y_value": "1",
+        "ablation_frequency_unit": "Hz",
+        "ablation_frequency_value": "200",
+        "acquisition_instrument_model": "Hyperion Imaging System",
+        "acquisition_instrument_vendor": "Fluidigm",
+        "analyte_class": "Protein",
+        "assay_category": "imaging",
+        "assay_type": "Imaging Mass Cytometry",
+        "collectiontype": "single_metadatatsv",
+        "data_path": ".",
+        "data_precision_bytes": "4",
+        "dual_count_start": "1",
+        "end_datetime": "2019-12-03 23:43",
+        "execution_datetime": "2019-12-03 22:04",
+        "is_targeted": "TRUE",
+        "max_x_width_unit": "um",
+        "max_x_width_value": "1000",
+        "max_y_height_unit": "um",
+        "max_y_height_value": "1000",
+        "metadata_path": ".",
+        "number_of_channels": "45",
+        "operator": "Esther Danenberg",
+        "operator_email": "esthermaria.danenberg@uzh.ch",
+        "pi": "Bernd Bodenmiller",
+        "pi_email": "bernd.bodenmiller@uzh.ch",
+        "preparation_instrument_model": "HM355S Automatic Microtome",
+        "preparation_instrument_vendor": "Thermo Fisher Scientific",
+        "protocols_io_doi": "10.17504/protocols.io.bgatjsen",
+        "reagent_prep_protocols_io_doi": "10.17504/protocols.io.bfz8jp9w",
+        "roi_description": "ROI_004",
+        "roi_id": "4",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.bfz4jp8w",
+        "segment_data_format": "float",
+        "signal_type": "dual count",
+        "start_datetime": "2019-12-03 22:04"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598109261183,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM345.KKNW.528",
+      "run_id": "1a4f3118a596ac20ab022913c83a772f_scan.and.begin.processing_2020-08-04T13:21:02.721926-04:00",
+      "status": "Published",
+      "uuid": "1a4f3118a596ac20ab022913c83a772f"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiff/20191203_HuBMAP_LN/20191203_HuBMAP_LN_s0_p13_r4_a4_ac.offsets.json",
+      "size": 450,
+      "type": "json"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiff/20191203_HuBMAP_LN/20191203_HuBMAP_LN_s0_p13_r4_a4_ac.ome.tif",
+      "size": 93482165,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM637.QNZX.392",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "852d698",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.3"
+      },
+      {
+        "documentation_url": "",
+        "hash": "852d698",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.3"
+      },
+      {
+        "documentation_url": "",
+        "hash": "8c65f17",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid.git",
+        "version": "v1.2"
+      },
+      {
+        "documentation_url": "",
+        "hash": "fb19103",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers.git",
+        "version": ""
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1598109327804,
+  "last_modified_user_displayname": "Bill Shirey",
+  "last_modified_user_email": "shirey@pitt.edu",
+  "last_modified_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "local_directory_rel_path": "public/University of Florida TMC/2bfcea76447843530fd1265ceff1300b/",
+  "pipeline_message": "The process ran",
+  "published_timestamp": 1598109327804,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "status": "Published",
+  "title": "2D Imaging Mass Cytometry [Image Pyramid] data from the lymph node of a 18-year-old black or african american male",
+  "uuid": "2bfcea76447843530fd1265ceff1300b"
+}

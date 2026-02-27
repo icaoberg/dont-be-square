@@ -1,0 +1,407 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1603931855701,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "bulk_atacseq"
+  ],
+  "dataset_info": "bulk_atacseq__ac1a2b21f3b25950bf340280a59b6ad4_e7f28c44029ada6b1431354afeac61ff__bulk-atac-seq",
+  "dataset_type": "ATACseq [BWA + MACS2]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Aaron",
+          "last_name": "Horning",
+          "middle_name_or_initial": "Marks",
+          "name": "Aaron Horning",
+          "orcid_id": "0000-0003-3247-0798"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Aaron",
+          "last_name": "Horning",
+          "middle_name_or_initial": "Marks",
+          "name": "Aaron Horning",
+          "orcid_id": "0000-0003-3247-0798"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Stephanie",
+          "last_name": "Nevins",
+          "middle_name_or_initial": "Ashley",
+          "name": "Stephanie Nevins",
+          "orcid_id": "0000-0002-2244-6703"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Winston",
+          "last_name": "Becker",
+          "name": "Winston Becker",
+          "orcid_id": "0000-0001-7876-5060"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Roxanne",
+          "last_name": "Chiu",
+          "middle_name_or_initial": "B",
+          "name": "Roxanne Chiu",
+          "orcid_id": "0000-0002-7306-9186"
+        }
+      ],
+      "created_by_user_displayname": "daniel Cotter",
+      "created_by_user_email": "dlcott2@stanford.edu",
+      "created_timestamp": 1596152423601,
+      "data_access_level": "protected",
+      "data_types": [
+        "ATACseq-bulk"
+      ],
+      "dataset_info": "B001-A-101_B-SmallIntestine-Jejunum-bulkATAC\r\n\r\nBulk ATAC sequencing for B001-A-101",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX20680483",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002272",
+      "description": "Bulk ATAC sequencing for B001-A-101",
+      "doi_url": "https://doi.org/10.35079/HBM379.MLVH.522",
+      "entity_type": "Dataset",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM379.MLVH.522",
+      "ingest_id": "e7f28c44029ada6b1431354afeac61ff_scan.and.begin.processing_2020-08-19T21:07:47.847359-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "77f2752",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1683292053783,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "local_directory_rel_path": "/Stanford TMC/e7f28c44029ada6b1431354afeac61ff",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "HiSeq 4000",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "bulkATACseq",
+        "bulk_atac_cell_isolation_protocols_io_doi": "10.17504/protocols.io.bfsnjnde",
+        "bulk_transposition_input_number_nuclei": "50000",
+        "collectiontype": "single_metadatatsv",
+        "data_path": ".",
+        "execution_datetime": "2019-10-04 0:00",
+        "is_targeted": "FALSE",
+        "is_technical_replicate": "TRUE",
+        "library_adapter_sequence": "5'-Adapter:5'-AATGATACGGCGACCACCGAGATCTACACTCGTCGGCAGCGTCAGATGTG-3`,3'-Adapter:5'-CAAGCAGAAGACGGCATACGAGATCATGCCTAGTCTCGTGGGCTCGGAGATGT-3`",
+        "library_average_fragment_size": "960",
+        "library_concentration_unit": "nM",
+        "library_concentration_value": "11.7",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.bfsnjnde",
+        "library_creation_date": "2022-01-22",
+        "library_final_yield_unit": "ng",
+        "library_final_yield_value": "856",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "8",
+        "library_preparation_kit": "Illumina Tagment DNA TDE1 Enzyme and Buffer Kit",
+        "metadata_path": ".",
+        "operator": "Aaron Horning",
+        "operator_email": "ahorning@stanford.edu",
+        "pi": "Michael Snyder",
+        "pi_email": "mpsnyder@stanford.edu",
+        "protocols_io_doi": "10.17504/protocols.io.bfsnjnde",
+        "sample_quality_metric": "OK",
+        "sequencing_phix_percent": "5",
+        "sequencing_read_format": "101/8/8/101",
+        "sequencing_read_percent_q30": "89.6",
+        "sequencing_reagent_kit": "HiSeq 3000/4000 PE Cluster Kit PE-410-1001",
+        "transposition_kit_number": "200034197",
+        "transposition_method": "bulkATACseq",
+        "transposition_transposase_source": "Illumina"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598112330439,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM379.MLVH.522",
+      "run_id": "e7f28c44029ada6b1431354afeac61ff_scan.and.begin.processing_2020-08-19T21:07:47.847359-04:00",
+      "status": "Published",
+      "uuid": "e7f28c44029ada6b1431354afeac61ff"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Aaron",
+          "last_name": "Horning",
+          "middle_name_or_initial": "Marks",
+          "name": "Aaron Horning",
+          "orcid_id": "0000-0003-3247-0798"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Aaron",
+          "last_name": "Horning",
+          "middle_name_or_initial": "Marks",
+          "name": "Aaron Horning",
+          "orcid_id": "0000-0003-3247-0798"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Stephanie",
+          "last_name": "Nevins",
+          "middle_name_or_initial": "Ashley",
+          "name": "Stephanie Nevins",
+          "orcid_id": "0000-0002-2244-6703"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Winston",
+          "last_name": "Becker",
+          "name": "Winston Becker",
+          "orcid_id": "0000-0001-7876-5060"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Roxanne",
+          "last_name": "Chiu",
+          "middle_name_or_initial": "B",
+          "name": "Roxanne Chiu",
+          "orcid_id": "0000-0002-7306-9186"
+        }
+      ],
+      "created_by_user_displayname": "daniel Cotter",
+      "created_by_user_email": "dlcott2@stanford.edu",
+      "created_by_user_sub": "9bc64b24-20e9-4612-bb84-a80e9f806022",
+      "created_timestamp": 1581545900341,
+      "data_access_level": "protected",
+      "data_types": [
+        "ATACseq-bulk"
+      ],
+      "dataset_info": "B001-A-101_A-SmallIntestine-Jejunum-bulkATAC\r\n\r\nBulk ATAC sequencing for B001-A-101",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX20680486",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002272",
+      "description": "Bulk ATAC sequencing for B001-A-101",
+      "doi_url": "https://doi.org/10.35079/HBM666.QBKB.629",
+      "entity_type": "Dataset",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM666.QBKB.629",
+      "ingest_id": "ac1a2b21f3b25950bf340280a59b6ad4_scan.and.begin.processing_2020-08-19T21:13:16.042518-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "77f2752",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1683292061582,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "local_directory_rel_path": "/Stanford TMC/ac1a2b21f3b25950bf340280a59b6ad4",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "HiSeq 4000",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "bulkATACseq",
+        "bulk_atac_cell_isolation_protocols_io_doi": "10.17504/protocols.io.bfsnjnde",
+        "bulk_transposition_input_number_nuclei": "50000",
+        "collectiontype": "single_metadatatsv",
+        "data_path": ".",
+        "execution_datetime": "2019-10-04 0:00",
+        "is_targeted": "FALSE",
+        "is_technical_replicate": "TRUE",
+        "library_adapter_sequence": "5'-Adapter:5'-AATGATACGGCGACCACCGAGATCTACACTCGTCGGCAGCGTCAGATGTG-3`,3'-Adapter:5'-CAAGCAGAAGACGGCATACGAGATAGGAGTCCGTCTCGTGGGCTCGGAGATGT-3`",
+        "library_average_fragment_size": "1206",
+        "library_concentration_unit": "nM",
+        "library_concentration_value": "11.7",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.bfsnjnde",
+        "library_creation_date": "2022-01-22",
+        "library_final_yield_unit": "ng",
+        "library_final_yield_value": "576",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "8",
+        "library_preparation_kit": "Illumina Tagment DNA TDE1 Enzyme and Buffer Kit",
+        "metadata_path": ".",
+        "operator": "Aaron Horning",
+        "operator_email": "ahorning@stanford.edu",
+        "pi": "Michael Snyder",
+        "pi_email": "mpsnyder@stanford.edu",
+        "protocols_io_doi": "10.17504/protocols.io.bfsnjnde",
+        "sample_quality_metric": "OK",
+        "sequencing_phix_percent": "5",
+        "sequencing_read_format": "101/8/8/101",
+        "sequencing_read_percent_q30": "88.3",
+        "sequencing_reagent_kit": "HiSeq 3000/4000 PE Cluster Kit PE-410-1001",
+        "transposition_kit_number": "200034197",
+        "transposition_method": "bulkATACseq",
+        "transposition_transposase_source": "Illumina"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598112319004,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM666.QBKB.629",
+      "run_id": "ac1a2b21f3b25950bf340280a59b6ad4_scan.and.begin.processing_2020-08-19T21:13:16.042518-04:00",
+      "status": "Published",
+      "uuid": "ac1a2b21f3b25950bf340280a59b6ad4"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "NA_summits.bed",
+      "size": 3494370,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "NA_peaks.narrowPeak",
+      "size": 5490422,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "NA_peaks.xls",
+      "size": 6069890,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "NA_model.r",
+      "size": 98938,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "alignment_qc.json",
+      "size": 305,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/SCGPM_B001-A-smallBowel-bulkATAC_H7NFK_L6_TAGGCATG_R1_fastqc.zip",
+      "size": 476870,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/SCGPM_B001-A-smallBowel-bulkATAC_H7NFK_L6_TAGGCATG_R1_fastqc.html",
+      "size": 650147,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/SCGPM_B001-A-smallBowel-bulkATAC_H7NFK_L6_GGACTCCT_R1_fastqc.html",
+      "size": 648587,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/SCGPM_B001-A-smallBowel-bulkATAC_H7NFK_L6_GGACTCCT_R2_fastqc.zip",
+      "size": 483857,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/SCGPM_B001-A-smallBowel-bulkATAC_H7NFK_L6_TAGGCATG_R2_fastqc.zip",
+      "size": 485529,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/SCGPM_B001-A-smallBowel-bulkATAC_H7NFK_L6_GGACTCCT_R1_fastqc.zip",
+      "size": 477637,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/SCGPM_B001-A-smallBowel-bulkATAC_H7NFK_L6_GGACTCCT_R2_fastqc.html",
+      "size": 651510,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/SCGPM_B001-A-smallBowel-bulkATAC_H7NFK_L6_TAGGCATG_R2_fastqc.html",
+      "size": 650526,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM555.CGHX.875",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "620e7c3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.4.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "620e7c3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.4.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "302f1f3",
+        "input_parameters": [],
+        "name": "bulk-atac-seq-pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/sc-atac-seq-pipeline",
+        "version": "v1.2"
+      }
+    ],
+    "workflow_description": "The bulk ATAC seq pipeline performs short read alignment to the hg38 reference genome using HISAT-2, and then calls peaks on the resulting BAM file using MACS2.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1622734969030,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Stanford TMC/2d2660adca127897f22b7decf5730d75/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1622734969030,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "ATACseq [BWA + MACS2] data from the small intestine of a 67-year-old white female",
+  "uuid": "2d2660adca127897f22b7decf5730d75"
+}

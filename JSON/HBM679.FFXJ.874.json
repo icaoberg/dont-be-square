@@ -1,0 +1,330 @@
+{
+  "contacts": [
+    {
+      "affiliation": "University of California San Diego",
+      "display_name": "Louise C. Laurent",
+      "email": "llaurent@health.ucsd.edu",
+      "first_name": "Louise",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Laurent",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "C.",
+      "orcid": "0000-0002-2095-7534"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "University of California San Diego",
+      "display_name": "Louise C. Laurent",
+      "email": "llaurent@health.ucsd.edu",
+      "first_name": "Louise",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Laurent",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "C.",
+      "orcid": "0000-0002-2095-7534"
+    },
+    {
+      "affiliation": "University of California San Diego",
+      "display_name": "Scott A. Lindsay",
+      "email": "slindsayhewett@health.ucsd.edu",
+      "first_name": "Scott",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Lindsay-Hewett",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "A.",
+      "orcid": "0000-0002-2929-7755"
+    },
+    {
+      "affiliation": "University of California San Diego",
+      "display_name": "Valentina Stanley",
+      "email": "vstanley@health.ucsd.edu",
+      "first_name": "Valentina",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Stanley",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-2212-7796"
+    },
+    {
+      "affiliation": "University of Colorado",
+      "display_name": "Anthony Saviola",
+      "email": "anthony.saviola@cuanschutz.edu",
+      "first_name": "Anthony",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Saviola",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-6890-512X"
+    },
+    {
+      "affiliation": "University of Colorado",
+      "display_name": "Kirk C. Hansen",
+      "email": "kirk.hansen@cuanschutz.edu",
+      "first_name": "Hansen",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Kirk",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "C.",
+      "orcid": "0000-0001-5054-838X"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1748354239018,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "LC-MS",
+  "description": "Liquid chromatography-mass spectrometry data from extracellular matrix of placenta.",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Valentina Stanley",
+      "created_by_user_email": "vstanley@ucsd.edu",
+      "created_by_user_sub": "4cbe6583-a52a-4fab-9e5a-2160f8f24576",
+      "created_timestamp": 1654652948353,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "TMC - University of California San Diego focusing on female reproduction",
+      "group_uuid": "1fe64d24-c870-11eb-9a03-a9c8d5e16226",
+      "hubmap_id": "HBM245.MGVF.232",
+      "last_modified_timestamp": 1659481400993,
+      "last_modified_user_displayname": "Valentina Stanley",
+      "last_modified_user_email": "vstanley@ucsd.edu",
+      "last_modified_user_sub": "4cbe6583-a52a-4fab-9e5a-2160f8f24576",
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.kxygxzyo4v8j/v1",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/67d37721-8fe8-4818-94b1-ed7bb1299dae",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/UBERON_0004027",
+          "http://purl.obolibrary.org/obo/UBERON_0000305"
+        ],
+        "creation_date": "2022-08-02",
+        "creator": "Valentina Stanley",
+        "creator_first_name": "Valentina",
+        "creator_last_name": "Stanley",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/67d37721-8fe8-4818-94b1-ed7bb1299dae_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2022-08-02",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHFPlacenta",
+          "translation_units": "millimeter",
+          "x_rotation": 0,
+          "x_scaling": 1,
+          "x_translation": 260.897,
+          "y_rotation": 0,
+          "y_scaling": 1,
+          "y_translation": 115.269,
+          "z_rotation": 0,
+          "z_scaling": 1,
+          "z_translation": 66.891
+        },
+        "x_dimension": 5,
+        "y_dimension": 5,
+        "z_dimension": 5
+      },
+      "sample_category": "block",
+      "uuid": "f50497d7ee2b2d693229c0cb8c519f1c"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM679.FFXJ.874",
+  "entity_type": "Dataset",
+  "group_name": "TMC - University of California San Diego focusing on female reproduction",
+  "group_uuid": "1fe64d24-c870-11eb-9a03-a9c8d5e16226",
+  "hubmap_id": "HBM679.FFXJ.874",
+  "ingest_id": "70074c1b9bd758a70004367768f2e501_scan.and.begin.processing_2025-05-27T11:10:44.847306-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "a6175f9b",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.3.2"
+      },
+      {
+        "documentation_url": null,
+        "hash": "12d5861e",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.36"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "generic_metadatatsv"
+    }
+  },
+  "last_modified_timestamp": 1748455612621,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/TMC - University of California San Diego focusing on female reproduction/70074c1b9bd758a70004367768f2e501/",
+  "metadata": {
+    "acquisition_instrument_model": "Orbitrap Fusion Lumos Tribrid",
+    "acquisition_instrument_vendor": "Thermo Fisher Scientific",
+    "analysis_protocol_doi": "https://dx.doi.org/10.1038/nmeth.4256",
+    "analyte_class": "Peptide",
+    "contributors_path": "extras/contributors.tsv",
+    "data_collection_mode": "DDA",
+    "dataset_type": "LC-MS",
+    "ion_mobility": "",
+    "is_targeted": "No",
+    "label_name": "",
+    "lc_column_length_unit": "cm",
+    "lc_column_length_value": "15",
+    "lc_column_model": "In-House",
+    "lc_column_vendor": "In-House",
+    "lc_flow_rate_unit": "nL/min",
+    "lc_flow_rate_value": "400",
+    "lc_gradient_unit": "",
+    "lc_gradient_value": "",
+    "lc_inner_diameter_unit": "um",
+    "lc_inner_diameter_value": "100",
+    "lc_instrument_model": "EASY-nLC 1200",
+    "lc_instrument_vendor": "Thermo Fisher Scientific",
+    "lc_mobile_phase_a": "0.1% FA in H2O",
+    "lc_mobile_phase_b": "0.1% FA in 80% acetonitrile",
+    "lc_resin": "2.7 um CORTECS C18 (waters)",
+    "lc_temperature_unit": "celsius",
+    "lc_temperature_value": "27.5",
+    "mass_analysis_polarity": "Positive ion mode",
+    "mass_resolving_power": "120000",
+    "mass_to_charge_range_high_value": "1600",
+    "mass_to_charge_range_low_value": "375",
+    "mass_to_charge_resolving_power": "200",
+    "metadata_schema_id": "ef090376-4e19-43cb-92c1-91a1d758ee6e",
+    "ms_ionization_technique": "ESI",
+    "ms_scan_mode": "MS2",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.5qpvob7k7l4o/v1",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "382",
+    "spatial_sampling_target": "",
+    "spatial_sampling_technique": "",
+    "spatial_sampling_type": "",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": ""
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "TMC_Laurent_bulkECM_Placenta",
+  "published_timestamp": 1748455612621,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM679.FFXJ.874",
+  "run_id": "70074c1b9bd758a70004367768f2e501_scan.and.begin.processing_2025-05-27T11:10:44.847306-04:00",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1748354239018,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1748354409993,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1748358527608,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1748359651978,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1748455612621,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "LC-MS data from the placenta of a 35-year-old white female",
+  "upload": {
+    "anticipated_complete_upload_month": "2025-05",
+    "anticipated_dataset_count": 48,
+    "created_by_user_displayname": "Cayla Mason",
+    "created_by_user_email": "cnmason@ucsd.edu",
+    "created_by_user_sub": "8d957b5e-b093-4e97-b530-699c6cff0e3e",
+    "created_timestamp": 1739213360930,
+    "description": "Liquid chromatography-mass spectrometry data from extracellular matrix of placenta.",
+    "entity_type": "Upload",
+    "group_name": "TMC - University of California San Diego focusing on female reproduction",
+    "group_uuid": "1fe64d24-c870-11eb-9a03-a9c8d5e16226",
+    "hubmap_id": "HBM955.GVRD.898",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "intended_dataset_type": "LC-MS",
+    "intended_organ": "PL",
+    "last_modified_timestamp": 1756232686457,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1739213360930,
+        "changed_by_email": "cnmason@ucsd.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1748110550057,
+        "changed_by_email": "cnmason@ucsd.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1748353819454,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1748353823776,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1748353944437,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1748354137237,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1748354141288,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1748354321325,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "TMC_Laurent_bulkECM_Placenta",
+    "uuid": "16c551e3f55a99e5fe56073d13001167"
+  },
+  "uuid": "70074c1b9bd758a70004367768f2e501"
+}

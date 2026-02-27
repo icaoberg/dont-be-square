@@ -1,0 +1,273 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Stanford",
+      "display_name": "John Hickey",
+      "email": "john.hickey@duke.edu",
+      "first_name": "John",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Hickey",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "W",
+      "orcid": "0000-0001-9961-7673"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "Chiara Caraccio",
+      "email": "caraccio@stanford.edu",
+      "first_name": "Chiara",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Caraccio",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-3580-1348"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "Garry Nolan",
+      "email": "gnolan@stanford.edu",
+      "first_name": "Garry",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Nolan",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-8862-9043"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Stanford",
+      "display_name": "Roxanne Chiu",
+      "email": "",
+      "first_name": "Roxanne",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Chiu",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-7306-9186"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "Christian M. Schurch",
+      "email": "schurchlab@gmail.com",
+      "first_name": "Christian",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Schurch",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "M",
+      "orcid": "0000-0002-1792-1768"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "John Hickey",
+      "email": "john.hickey@duke.edu",
+      "first_name": "John",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Hickey",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "W",
+      "orcid": "0000-0001-9961-7673"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "Chiara Caraccio",
+      "email": "caraccio@stanford.edu",
+      "first_name": "Chiara",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Caraccio",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-3580-1348"
+    },
+    {
+      "affiliation": "Stanford",
+      "display_name": "Garry Nolan",
+      "email": "gnolan@stanford.edu",
+      "first_name": "Garry",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Nolan",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-8862-9043"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1721835455166,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "Histology",
+  "description": "H&E performed after CODEX for B001 : Duodenum ",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Thomas Karathanos",
+      "created_by_user_email": "tkarathanos@stanford.edu",
+      "created_by_user_sub": "853d17b6-18ec-46b2-8976-8dbdc2151668",
+      "created_timestamp": 1721426601557,
+      "data_access_level": "public",
+      "description": "Duodenum B001 sample used for CODEX and H&E imaging.",
+      "entity_type": "Sample",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM595.SKPF.568",
+      "last_modified_timestamp": 1721426601557,
+      "last_modified_user_displayname": "Thomas Karathanos",
+      "last_modified_user_email": "tkarathanos@stanford.edu",
+      "last_modified_user_sub": "853d17b6-18ec-46b2-8976-8dbdc2151668",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.bin9kdh6",
+      "sample_category": "section",
+      "uuid": "038e4fcefc00f7ecc537b5d8462e6404"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM579.LPXF.362",
+  "entity_type": "Dataset",
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM579.LPXF.362",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "f95f58a5",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1731709412336,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Stanford TMC/57b475b8ad39fa2cf07ede0cf192b2f6/",
+  "metadata": {
+    "acquisition_instrument_model": "BZ-X710",
+    "acquisition_instrument_vendor": "Keyence",
+    "analyte_class": "Nucleic acid + protein",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "Histology",
+    "intended_tile_overlap_percentage": "",
+    "is_batch_staining_done": "No",
+    "is_image_preprocessing_required": "No",
+    "is_staining_automated": "No",
+    "is_targeted": "No",
+    "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+    "non_global_files": "",
+    "preparation_instrument_model": "",
+    "preparation_instrument_vendor": "",
+    "preparation_protocol_doi": "https://protocols.io/private/8DA69578804511EA88340242AC110006",
+    "scan_direction": "",
+    "source_storage_duration_unit": "year",
+    "source_storage_duration_value": "1.337",
+    "stain_name": "H&E",
+    "stain_technique": "",
+    "tile_configuration": "",
+    "tiled_image_columns": "",
+    "tiled_image_count": "",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": ""
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "H&E performed after CODEX for B001 : ./B001_CL-reg002",
+  "published_timestamp": 1722026651400,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM579.LPXF.362",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1721835455166,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1721835500400,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1721836152437,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1721836217419,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1722026651400,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology data from the small intestine of a 67-year-old white female",
+  "upload": {
+    "created_by_user_displayname": "Thomas Karathanos",
+    "created_by_user_email": "tkarathanos@stanford.edu",
+    "created_by_user_sub": "853d17b6-18ec-46b2-8976-8dbdc2151668",
+    "created_timestamp": 1721067432316,
+    "description": "H&E performed after CODEX for B001",
+    "entity_type": "Upload",
+    "group_name": "Stanford TMC",
+    "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM289.CZWR.775",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231872558,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1721067432316,
+        "changed_by_email": "tkarathanos@stanford.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1721835327495,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1721835382155,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1721835403040,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1721835419722,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1721835485410,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "H&E performed after CODEX for B001",
+    "uuid": "ed7663018fa5902a2e6741183219b6d3"
+  },
+  "uuid": "57b475b8ad39fa2cf07ede0cf192b2f6"
+}

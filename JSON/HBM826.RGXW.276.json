@@ -1,0 +1,219 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Washington University School of Medicine",
+      "first_name": "Madhurima",
+      "last_name": "Kaushal",
+      "middle_name_or_initial": "",
+      "name": "Madhurima Kaushal",
+      "orcid_id": "0000-0003-2760-0586"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "University of California, San Diego",
+      "first_name": "Kun",
+      "last_name": "Zhang",
+      "middle_name_or_initial": "",
+      "name": "Kun Zhang",
+      "orcid_id": "0000-0002-7596-5224"
+    },
+    {
+      "affiliation": "University of California, San Diego",
+      "first_name": "Blue",
+      "last_name": "Lake",
+      "middle_name_or_initial": "B",
+      "name": "Blue B. Lake",
+      "orcid_id": "0000-0002-8637-9044"
+    },
+    {
+      "affiliation": "University of California, San Diego",
+      "first_name": "Dinh",
+      "last_name": "Diep",
+      "middle_name_or_initial": "H",
+      "name": "Dinh H. Diep",
+      "orcid_id": "0000-0001-6057-4119"
+    },
+    {
+      "affiliation": "Washington University School of Medicine",
+      "first_name": "Sanjay",
+      "last_name": "Jain",
+      "middle_name_or_initial": "",
+      "name": "Sanjay Jain",
+      "orcid_id": "0000-0003-2804-127X"
+    },
+    {
+      "affiliation": "Washington University School of Medicine",
+      "first_name": "Diane",
+      "last_name": "Salamon",
+      "middle_name_or_initial": "",
+      "name": "Diane Salamon",
+      "orcid_id": "0000-0003-0427-0262"
+    },
+    {
+      "affiliation": "Washington University School of Medicine",
+      "first_name": "Masato",
+      "last_name": "Hoshi",
+      "middle_name_or_initial": "",
+      "name": "Masato Hoshi",
+      "orcid_id": "0000-0003-2874-1807"
+    },
+    {
+      "affiliation": "Washington University School of Medicine",
+      "first_name": "Amanda",
+      "last_name": "Knoten",
+      "middle_name_or_initial": "",
+      "name": "Amanda Knoten",
+      "orcid_id": "0000-0001-8564-2253"
+    },
+    {
+      "affiliation": "Washington University School of Medicine",
+      "first_name": "Joseph",
+      "last_name": "Gaut",
+      "middle_name_or_initial": "",
+      "name": "Joseph Gaut",
+      "orcid_id": "0000-0002-9580-3951"
+    },
+    {
+      "affiliation": "Harvard medical school",
+      "first_name": "Peter",
+      "last_name": "Kharchenko",
+      "middle_name_or_initial": "V",
+      "name": "Peter V. Kharchenko",
+      "orcid_id": "0000-0002-6036-5875"
+    },
+    {
+      "affiliation": "Harvard medical school",
+      "first_name": "Qiwen",
+      "last_name": "Hu",
+      "middle_name_or_initial": "",
+      "name": "Qiwen Hu",
+      "orcid_id": "0000-0003-2798-919X"
+    },
+    {
+      "affiliation": "Harvard medical school",
+      "first_name": "Xin",
+      "last_name": "Wang",
+      "middle_name_or_initial": "",
+      "name": "Xin Wang",
+      "orcid_id": "0000-0001-8866-5223"
+    }
+  ],
+  "created_by_user_displayname": "Blue Lake",
+  "created_by_user_email": "b1lake@ucsd.edu",
+  "created_by_user_sub": "45e89a2a-5016-46d0-85e3-cff224a0e257",
+  "created_timestamp": 1607453247591,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "data_types": [
+    "snRNAseq"
+  ],
+  "dataset_info": "BUKMAP_20191029_10X-R\r\n\r\n10X snRNA-seq on adult ureter",
+  "dataset_type": "RNAseq",
+  "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX21024788",
+  "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+  "description": "10X snRNA-seq on adult ureter",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Diane Salamon",
+      "created_by_user_email": "salamond@wustl.edu",
+      "created_by_user_sub": "a00bec30-ca4d-4df5-9d96-14d0ccd601a1",
+      "created_timestamp": 1597865764818,
+      "data_access_level": "public",
+      "description": "10x40um sections in RNAlater",
+      "entity_type": "Sample",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM986.FGJM.339",
+      "last_modified_timestamp": 1597865764818,
+      "metadata": {
+        "cold_ischemia_time_unit": "minutes",
+        "cold_ischemia_time_value": "60",
+        "health_status": "relatively healthy",
+        "organ_condition": "healthy",
+        "pathologist_report": "largely normal",
+        "perfusion_solution": "None",
+        "procedure_date": "2019-10-29",
+        "specimen_preservation_temperature": "Freezer (-80 Celsius)",
+        "specimen_quality_criteria": "H&E",
+        "specimen_tumor_distance_unit": "",
+        "specimen_tumor_distance_value": "",
+        "vital_state": "living",
+        "warm_ischemia_time_unit": "minutes",
+        "warm_ischemia_time_value": "19"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.568g9hw",
+      "sample_category": "section",
+      "uuid": "6922948d0f38e7cd69c164812c871878"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM826.RGXW.276",
+  "entity_type": "Dataset",
+  "group_name": "University of California San Diego TMC",
+  "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+  "hubmap_id": "HBM826.RGXW.276",
+  "ingest_id": "24eaa9730abe57c1c22f74573b846a6f_scan.and.begin.processing_2021-06-24T10:25:03.899032-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "9f6aad9",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1678133301778,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "protected/University of California San Diego TMC/24eaa9730abe57c1c22f74573b846a6f/",
+  "metadata": {
+    "acquisition_instrument_model": "NovaSeq",
+    "acquisition_instrument_vendor": "Illumina",
+    "analyte_class": "RNA",
+    "assay_category": "sequence",
+    "assay_type": "snRNAseq",
+    "cell_barcode_offset": "0",
+    "cell_barcode_read": "R1",
+    "cell_barcode_size": "16",
+    "contributors_path": "extras/BUKMAP_20191029_10X-R_contributors.tsv",
+    "execution_datetime": "2019-10-29 11:00",
+    "is_targeted": "False",
+    "is_technical_replicate": "False",
+    "library_adapter_sequence": "AGATCGGAAGAGC",
+    "library_average_fragment_size": "554",
+    "library_construction_protocols_io_doi": "10.17504/protocols.io.86khzcw",
+    "library_final_yield_unit": "ng",
+    "library_final_yield_value": "402.5",
+    "library_layout": "paired-end",
+    "library_pcr_cycles": "12",
+    "library_pcr_cycles_for_sample_index": "14",
+    "operator": "Masato Hoshi",
+    "operator_email": "mhoshi@wustl.edu",
+    "pi": "Kun Zhang",
+    "pi_email": "kzhang@eng.ucsd.edu",
+    "protocols_io_doi": "10.17504/protocols.io.86khzcw",
+    "rnaseq_assay_input": "16260",
+    "rnaseq_assay_method": "snRNAseq-10Xgenomics",
+    "sc_isolation_cell_number": "18027",
+    "sc_isolation_enrichment": "none",
+    "sc_isolation_entity": "nucleus",
+    "sc_isolation_protocols_io_doi": "10.17504/protocols.io.ufketkw",
+    "sc_isolation_quality_metric": "OK",
+    "sc_isolation_tissue_dissociation": "dounce",
+    "sequencing_phix_percent": "1",
+    "sequencing_read_format": "101/8/101",
+    "sequencing_read_percent_q30": "73.26",
+    "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1624926501759,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM826.RGXW.276",
+  "run_id": "24eaa9730abe57c1c22f74573b846a6f_scan.and.begin.processing_2021-06-24T10:25:03.899032-04:00",
+  "status": "Published",
+  "title": "RNAseq data from the kidney (right) of a 54-year-old white male",
+  "uuid": "24eaa9730abe57c1c22f74573b846a6f"
+}

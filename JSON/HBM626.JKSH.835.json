@@ -1,0 +1,391 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1597608335671,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "sc_atac_seq_sci"
+  ],
+  "dataset_info": "['sc_atac_seq_sci__d926c41ac08f3c2ba5e61eec83e90b0c__sci-atac-seq-pipeline']",
+  "dataset_type": "ATACseq [SnapATAC]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "California Institute of Technology ",
+          "first_name": "Jina",
+          "last_name": "Yun",
+          "middle_name_or_initial": "",
+          "name": "Jina Yun",
+          "orcid_id": "0000-0002-7792-3749"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "California Institute of Technology ",
+          "first_name": "Long ",
+          "last_name": "Cai",
+          "middle_name_or_initial": "",
+          "name": "Long Cai",
+          "orcid_id": "0000-0002-7154-5361"
+        },
+        {
+          "affiliation": "California Institute of Technology ",
+          "first_name": "Jina",
+          "last_name": "Yun",
+          "middle_name_or_initial": "",
+          "name": "Jina Yun",
+          "orcid_id": "0000-0002-7792-3749"
+        },
+        {
+          "affiliation": "California Institute of Technology",
+          "first_name": "Nico",
+          "last_name": "Pierson",
+          "middle_name_or_initial": "",
+          "name": "Nico Pierson",
+          "orcid_id": "0000-0002-2451-0633"
+        },
+        {
+          "affiliation": "California Institute of Technology",
+          "first_name": "Nina",
+          "last_name": "Dar",
+          "middle_name_or_initial": "",
+          "name": "Nina Dar",
+          "orcid_id": "0000-0001-6410-0682"
+        }
+      ],
+      "created_by_user_displayname": "Dana L Jackson",
+      "created_by_user_email": "danaj77@washington.edu",
+      "created_by_user_sub": "e3b5b672-4d0a-4625-b73c-99ee0a602963",
+      "created_timestamp": 1577754201661,
+      "data_access_level": "protected",
+      "data_types": [
+        "sciATACseq"
+      ],
+      "dataset_info": " W85 heart, left ventricle ATAC Raw Data",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX13283313",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002267",
+      "doi_url": "https://doi.org/10.35079/HBM666.FFFW.363",
+      "entity_type": "Dataset",
+      "group_name": "California Institute of Technology TMC",
+      "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM666.FFFW.363",
+      "ingest_id": "d926c41ac08f3c2ba5e61eec83e90b0c_scan.and.begin.processing_2020-08-16T16:02:48.548117-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "13febee",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1725458508393,
+      "last_modified_user_displayname": "Jackie Uranic",
+      "last_modified_user_email": "juranic@psc.edu",
+      "last_modified_user_sub": "54dc2f06-b4c3-4f95-a97b-8636df4b9f00",
+      "local_directory_rel_path": "/California Institute of Technology TMC/d926c41ac08f3c2ba5e61eec83e90b0c",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "Nextseq500-NS500488",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "sciATACseq",
+        "cell_barcode_offset": "0,40",
+        "cell_barcode_read": "I1,I2",
+        "cell_barcode_size": "40",
+        "collectiontype": "single_metadatatsv",
+        "data_path": ".",
+        "execution_datetime": "2019-12-11 12:00",
+        "is_targeted": "FALSE",
+        "is_technical_replicate": "FALSE",
+        "library_adapter_sequence": "AGATGTGTATAAGAGACAG",
+        "library_average_fragment_size": "400",
+        "library_construction_protocols_io_doi": "10\\.17504/.protocols.io/edit/scatac-seq-full-protocol-bfikjkcw",
+        "library_final_yield_unit": "ng",
+        "library_final_yield_value": "9.57",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "14",
+        "library_pcr_cycles_for_sample_index": "14",
+        "metadata_path": ".",
+        "operator": "Riza Daza",
+        "operator_email": "daza@uw.edu",
+        "pi": "Cole Trapnell",
+        "pi_email": "coletrap@uw.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+        "sc_isolation_cell_number": "5614500",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/.protocols.io/edit/scatac-seq-nuclei-isolation-bfinjkde/description",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "TRUE",
+        "sequencing_phix_percent": "0",
+        "sequencing_read_format": "50+50+20+20",
+        "sequencing_read_percent_q30": "0",
+        "sequencing_reagent_kit": "Nextseq500",
+        "transposition_input": "100000",
+        "transposition_kit_number": "",
+        "transposition_method": "sciATACseq",
+        "transposition_transposase_source": "Nextera"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598129555354,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM666.FFFW.363",
+      "run_id": "d926c41ac08f3c2ba5e61eec83e90b0c_scan.and.begin.processing_2020-08-16T16:02:48.548117-04:00",
+      "status": "Published",
+      "uuid": "d926c41ac08f3c2ba5e61eec83e90b0c"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "Per-cell UMAP coordinates and cluster assignments",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "umap_coords_clusters.csv",
+      "size": 360948,
+      "type": "csv"
+    },
+    {
+      "description": "SNAP file (HDF5 convention) from SnapTools",
+      "edam_term": "EDAM_1.24.format_3590",
+      "rel_path": "snaptools.snap",
+      "size": 3542997099,
+      "type": "unknown"
+    },
+    {
+      "description": "Peaks called across entire data set",
+      "edam_term": "EDAM_1.24.format_3003",
+      "rel_path": "peaks.combined.bed",
+      "size": 252660,
+      "type": "unknown"
+    },
+    {
+      "description": "Log-log plot of promoter ratios",
+      "edam_term": "EDAM_1.24.format_3508",
+      "rel_path": "PromotorRatioLogPlot.pdf",
+      "size": 879338,
+      "type": "pdf"
+    },
+    {
+      "description": "Cell by gene matrix (smoothed with MAGIC), in HDF5 format",
+      "edam_term": "EDAM_1.24.format_3590",
+      "rel_path": "cell_by_gene.hdf5",
+      "size": 2149237670,
+      "type": "hdf5"
+    },
+    {
+      "description": "Alignment quality control metrics, in JSON format",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "alignment_qc.json",
+      "size": 304,
+      "type": "json"
+    },
+    {
+      "description": "All genome bins",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "Bins.csv",
+      "size": 35858957,
+      "type": "csv"
+    },
+    {
+      "description": "Row labels (cell barcodes) of filtered_cell_by_bin.mtx",
+      "edam_term": "EDAM_1.24.format_3475",
+      "rel_path": "barcodes.txt",
+      "size": 181712,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "EDAM_1.24.format_3508",
+      "rel_path": "BarcodeQualityControlDistributionBefore.pdf",
+      "size": 6303,
+      "type": "pdf"
+    },
+    {
+      "description": "Per-cell deviation scores from chromVAR",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "chromvar_deviation_scores.csv",
+      "size": 23734228,
+      "type": "csv"
+    },
+    {
+      "description": "Per-cell variability scores from chromVAR",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "chromvar_variability_scores.csv",
+      "size": 39209,
+      "type": "csv"
+    },
+    {
+      "description": "Cell by bin matrix, after cell filtering, in MTX format",
+      "edam_term": "EDAM_1.24.format_3916",
+      "rel_path": "filtered_cell_by_bin.mtx",
+      "size": 287322014,
+      "type": "unknown"
+    },
+    {
+      "description": "QC results from SnapTools",
+      "edam_term": "EDAM_1.24.data_3671",
+      "rel_path": "snaptools.snap.qc",
+      "size": 574,
+      "type": "unknown"
+    },
+    {
+      "description": "Gene ranges used for peak calling",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "GenesRanges.csv",
+      "size": 3161162,
+      "type": "csv"
+    },
+    {
+      "description": "Fragment file from Sinto",
+      "edam_term": "EDAM_1.24.format_3003",
+      "rel_path": "frags.sort.bed.gz",
+      "size": 28,
+      "type": "unknown"
+    },
+    {
+      "description": "Column labels (genome bins) of filtered_cell_by_bin.mtx",
+      "edam_term": "EDAM_1.24.format_3475",
+      "rel_path": "bins.txt",
+      "size": 11199312,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "EDAM_1.24.format_3508",
+      "rel_path": "BarcodeQualityControlDistributionAfter.pdf",
+      "size": 6389,
+      "type": "pdf"
+    },
+    {
+      "description": "Motif enrichment, per-cell",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "cellMotif.csv",
+      "size": 24404616,
+      "type": "csv"
+    },
+    {
+      "description": "JSON-formatted information about the heirarchy scRNA-seq's cells.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output/umap_coords_clusters.cell-sets.json",
+      "size": 223088,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about this scATAC-seq run including scatterplot coordinates and clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output/umap_coords_clusters.cells.json",
+      "size": 650384,
+      "type": "json"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar Apache Arrow format.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "rel_path": "output/umap_coords_clusters.arrow",
+      "size": 303850,
+      "type": "arrow"
+    },
+    {
+      "description": "JSON-formatted information about this scATAC-seq's clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output/umap_coords_clusters.factors.json",
+      "size": 219953,
+      "type": "json"
+    },
+    {
+      "description": "Per-cell UMAP coordinates and cluster assignments",
+      "edam_term": "EDAM_1.24.format_3752",
+      "rel_path": "output/umap_coords_clusters.csv",
+      "size": 357900,
+      "type": "csv"
+    },
+    {
+      "description": "FastQC report for fastqc_output/W85_Heart_S0_R1_001.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "rel_path": "fastqc_output/W85_Heart_S0_R1_001_fastqc.html",
+      "size": 584848,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/W85_Heart_S0_R2_001.fastq, HTML version",
+      "edam_term": "EDAM_1.24.format_2331",
+      "rel_path": "fastqc_output/W85_Heart_S0_R2_001_fastqc.html",
+      "size": 592245,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/W85_Heart_S0_R2_001.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "rel_path": "fastqc_output/W85_Heart_S0_R2_001_fastqc.zip",
+      "size": 370006,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report for fastqc_output/W85_Heart_S0_R1_001.fastq, zip version",
+      "edam_term": "EDAM_1.24.format_2333",
+      "rel_path": "fastqc_output/W85_Heart_S0_R1_001_fastqc.zip",
+      "size": 362330,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "California Institute of Technology TMC",
+  "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM626.JKSH.835",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "13febee",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "13febee",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "102d8cb",
+        "input_parameters": [],
+        "name": "create_snap_and_analyze.cwl",
+        "origin": "https://github.com/hubmapconsortium/sc-atac-seq-pipeline",
+        "version": "v1.1.2"
+      },
+      {
+        "documentation_url": "",
+        "hash": "fb19103",
+        "input_parameters": [],
+        "name": "scatac-csv-to-arrow.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers.git",
+        "version": ""
+      }
+    ],
+    "workflow_description": "The pipeline for multiome sciATACseq data uses HISAT2 for short read alignment of ATACseq reads hg38 reference genome and ArchR to convert the resulting BAM file to a cell by bin matrix, which is used to calculate TSS enrichment, differential enrichment of transcription factors, perform clustering of nuclei and additional analysis.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1598129555663,
+  "last_modified_user_displayname": "Bill Shirey",
+  "last_modified_user_email": "shirey@pitt.edu",
+  "last_modified_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "local_directory_rel_path": "public/California Institute of Technology TMC/d4493657cde29702c5ed73932da5317c/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1598129555663,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "status": "Published",
+  "title": "ATACseq [SnapATAC] data from the heart of a 50-year-old black or african american male",
+  "uuid": "d4493657cde29702c5ed73932da5317c"
+}

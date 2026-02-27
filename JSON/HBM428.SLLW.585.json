@@ -1,0 +1,89 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1576084043702,
+  "data_access_level": "public",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1576084026611,
+    "data_access_level": "public",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM267.CGMB.979",
+    "last_modified_timestamp": 1596127277457,
+    "last_modified_user_displayname": "Marda Jorgensen",
+    "last_modified_user_email": "marda@ufl.edu",
+    "last_modified_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "organ": "LY",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/lz/tissue-reg-data/07a29e4c-ed43-11e8-b56a-0e8017bdda58/09b23845c84053b6dff3d1879c3195bd/UFL0003 LN Pathology Report.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgnijve",
+    "sample_category": "organ",
+    "uuid": "09b23845c84053b6dff3d1879c3195bd"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM428.SLLW.585",
+  "last_modified_timestamp": 1670964111833,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.8nzhvf6",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/e9f99b37-6332-4b4b-8889-af3cc495b90e",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049"
+    ],
+    "creation_date": "2021-10-01",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/e9f99b37-6332-4b4b-8889-af3cc495b90e_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-01",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHMRightLymphNode",
+      "translation_units": "millimeter",
+      "x_rotation": 0,
+      "x_scaling": 1,
+      "x_translation": 8.818,
+      "y_rotation": 0,
+      "y_scaling": 1,
+      "y_translation": 5.336,
+      "z_rotation": 0,
+      "z_scaling": 1,
+      "z_translation": 6.483
+    },
+    "x_dimension": 20,
+    "y_dimension": 10,
+    "z_dimension": 12
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffff8a05ccf568af3a8f10cf05daefea",
+    "filename": "HBM428.SLLW.585.jpg"
+  },
+  "uuid": "020cef5bba09c038fa3ff0dabc60a624"
+}

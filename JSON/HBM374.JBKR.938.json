@@ -1,0 +1,207 @@
+{
+  "contacts": [
+    {
+      "affiliation": "California Institute of Technology",
+      "first_name": "Jina",
+      "last_name": "Yun",
+      "middle_name_or_initial": "NA",
+      "name": "Jina Yun",
+      "orcid_id": "0000-0002-7792-3749"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "California Institute of Technology",
+      "first_name": "Nico",
+      "last_name": "Pierson",
+      "middle_name_or_initial": "G",
+      "name": "Nico G Pierson",
+      "orcid_id": "0000-0002-2451-0633"
+    },
+    {
+      "affiliation": "California Institute of Technology",
+      "first_name": "Nina",
+      "last_name": "Dar",
+      "middle_name_or_initial": "NA",
+      "name": "Nina Dar",
+      "orcid_id": "NA"
+    },
+    {
+      "affiliation": "California Institute of Technology",
+      "first_name": "Jina",
+      "last_name": "Yun",
+      "middle_name_or_initial": "NA",
+      "name": "Jina Yun",
+      "orcid_id": "0000-0002-7792-3749"
+    },
+    {
+      "affiliation": "Washington University",
+      "first_name": "Yiing",
+      "last_name": "Lin",
+      "middle_name_or_initial": "NA",
+      "name": "Yiing Lin",
+      "orchid_id": "0000-0002-0317-7608"
+    },
+    {
+      "affiliation": "California Institute of Technology",
+      "first_name": "Long",
+      "last_name": "Cai",
+      "middle_name_or_initial": "NA",
+      "name": "Long Cai",
+      "orcid_id": "0000-0002-7154-5361"
+    }
+  ],
+  "created_by_user_displayname": "Nico Pierson",
+  "created_by_user_email": "nicogpt@caltech.edu",
+  "created_by_user_sub": "17d4e024-0696-4b18-a0fb-c5a4fa42ac48",
+  "created_timestamp": 1577804042930,
+  "creation_action": "Lab Process",
+  "data_access_level": "public",
+  "data_types": [
+    "seqFish_lab_processed"
+  ],
+  "dataset_info": "W101 heart, left ventricle seqFISH processed data\r\n\r\nW101 heart, left ventricle seqFISH processed data includes:\n1. processed images (.tif)\n2. DAPI images (.tif)\n3. offsets for alignment (.csv)\n4. processed images (.mat)\n5. DAPI images (.mat)",
+  "dataset_type": "seqFISH [Lab Processed]",
+  "description": "W101 heart, left ventricle seqFISH processed data includes:\n1. processed images (.tif)\n2. DAPI images (.tif)\n3. offsets for alignment (.csv)\n4. processed images (.mat)\n5. DAPI images (.mat)",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "California Institute of Technology ",
+          "first_name": "Jina",
+          "last_name": "Yun",
+          "middle_name_or_initial": "",
+          "name": "Jina Yun",
+          "orcid_id": "0000-0002-7792-3749"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "California Institute of Technology ",
+          "first_name": "Long ",
+          "last_name": "Cai",
+          "middle_name_or_initial": "",
+          "name": "Long Cai",
+          "orcid_id": "0000-0002-7154-5361"
+        },
+        {
+          "affiliation": "California Institute of Technology ",
+          "first_name": "Jina",
+          "last_name": "Yun",
+          "middle_name_or_initial": "",
+          "name": "Jina Yun",
+          "orcid_id": "0000-0002-7792-3749"
+        },
+        {
+          "affiliation": "California Institute of Technology",
+          "first_name": "Nico",
+          "last_name": "Pierson",
+          "middle_name_or_initial": "",
+          "name": "Nico Pierson",
+          "orcid_id": "0000-0002-2451-0633"
+        },
+        {
+          "affiliation": "California Institute of Technology",
+          "first_name": "Nina",
+          "last_name": "Dar",
+          "middle_name_or_initial": "",
+          "name": "Nina Dar",
+          "orcid_id": "0000-0001-6410-0682"
+        }
+      ],
+      "created_by_user_displayname": "Nico Pierson",
+      "created_by_user_email": "nicogpt@caltech.edu",
+      "created_by_user_sub": "17d4e024-0696-4b18-a0fb-c5a4fa42ac48",
+      "created_timestamp": 1577803629927,
+      "data_access_level": "public",
+      "data_types": [
+        "seqFish"
+      ],
+      "dataset_info": "W101 heart, left ventricle seqFISH raw data\r\n\r\nraw TIF images spanning across field of views 6-11",
+      "dataset_type": "seqFISH",
+      "description": "raw TIF images spanning across field of views 6-11",
+      "doi_url": "https://doi.org/10.35079/HBM434.VLFT.986",
+      "entity_type": "Dataset",
+      "group_name": "California Institute of Technology TMC",
+      "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM434.VLFT.986",
+      "ingest_id": "eaad5ed4b3aa2186bd87e05ff28b593e_scan.and.begin.processing_2020-08-20T18:14:14.497180-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "77f2752",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1644612136707,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/California Institute of Technology TMC/eaad5ed4b3aa2186bd87e05ff28b593e",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "Zyla 4.2 USB3",
+        "acquisition_instrument_vendor": "Andor sCMOS Camera",
+        "analyte_class": "RNA",
+        "assay_category": "imaging",
+        "assay_type": "seqFISH",
+        "collectiontype": "single_metadatatsv",
+        "data_path": ".",
+        "execution_datetime": "2019-11-16 23:59",
+        "is_targeted": "TRUE",
+        "metadata_path": ".",
+        "number_of_barcode_probes": "12",
+        "number_of_barcode_regions_per_barcode_probe": "5",
+        "number_of_channels": "3",
+        "number_of_cycles": "4",
+        "number_of_pseudocolors_per_channel": "1",
+        "number_of_readout_probes_per_channel": "1",
+        "operator": "Nina Dar",
+        "operator_email": "ninadar@caltech.edu",
+        "pi": "Long Cai",
+        "pi_email": "lcai@caltech.edu",
+        "preparation_instrument_model": "custom Hyb Station",
+        "preparation_instrument_vendor": "10.17504/protocols.io.bhfkj3kw",
+        "protocols_io_doi": "10.17504/protocols.io.7e7hjhn",
+        "reagent_prep_protocols_io_doi": "10.17504/protocols.io.7mihk4e",
+        "resolution_x_unit": "um",
+        "resolution_x_value": "0.112",
+        "resolution_y_unit": "um",
+        "resolution_y_value": "0.1126",
+        "resolution_z_unit": "um",
+        "resolution_z_value": "0.75",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.7mdhk26"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598129549427,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM434.VLFT.986",
+      "run_id": "eaad5ed4b3aa2186bd87e05ff28b593e_scan.and.begin.processing_2020-08-20T18:14:14.497180-04:00",
+      "status": "Published",
+      "uuid": "eaad5ed4b3aa2186bd87e05ff28b593e"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM374.JBKR.938",
+  "entity_type": "Dataset",
+  "group_name": "California Institute of Technology TMC",
+  "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM374.JBKR.938",
+  "last_modified_timestamp": 1678134184952,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/California Institute of Technology TMC/ceab8754162592b4014093f09881a47c/",
+  "published_timestamp": 1598129551973,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "registered_doi": "10.35079/HBM374.JBKR.938",
+  "status": "Published",
+  "title": "seqFISH [Lab Processed] data from the heart of a 44-year-old black or african american male",
+  "uuid": "ceab8754162592b4014093f09881a47c"
+}

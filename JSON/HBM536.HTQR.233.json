@@ -1,0 +1,104 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603996261542,
+  "data_access_level": "public",
+  "description": "1cm cube taken from CCF 2 processed into hydrogel.",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603995883574,
+    "data_access_level": "public",
+    "description": "1cm thick cross sectional slab taken 7cm from inferior end through hilum",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM998.KNJQ.234",
+    "image_file_metadata": [
+      {
+        "description": "Dissected organ hilar surface up on sectioning board. Organ piece is located cm 8-9.",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f7d246a1818d1c8b520ab85284351336/HubMap007 Spleen 10.JPG"
+      },
+      {
+        "description": "Organ piece from CCF2, cut into strips to generate tissue blocks",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f7d246a1818d1c8b520ab85284351336/HubMap007 Spleen 17.JPG"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Dissected organ hilar surface up on sectioning board. Organ piece is located cm 8-9.",
+        "file_uuid": "ffffe0d1ea4d062e3aee67afe6b5b3e0",
+        "filename": "HubMap007_Spleen_10.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617759164971,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+    "sample_category": "block",
+    "uuid": "9c13d044a1529cb1f2596bc0b0325dbb"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM536.HTQR.233",
+  "last_modified_timestamp": 1633207225861,
+  "last_modified_user_displayname": "Hunter Hakimian",
+  "last_modified_user_email": "hakimianh13@ufl.edu",
+  "last_modified_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/65156c43-26ef-4898-83f5-316794b12e72",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049",
+      "http://purl.obolibrary.org/obo/UBERON_0005457",
+      "http://purl.obolibrary.org/obo/UBERON_0005469",
+      "http://purl.org/sig/ont/fma/fma15828",
+      "http://purl.org/sig/ont/fma/fma15838",
+      "http://purl.org/sig/ont/fma/fma15837",
+      "http://purl.obolibrary.org/obo/UBERON_0001248",
+      "http://purl.org/sig/ont/fma/fma15839"
+    ],
+    "creation_date": "2021-10-02",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/65156c43-26ef-4898-83f5-316794b12e72_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-02",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHMSpleen",
+      "translation_units": "millimeter",
+      "x_rotation": -91,
+      "x_scaling": 1,
+      "x_translation": 71.877,
+      "y_rotation": -46,
+      "y_scaling": 1,
+      "y_translation": 66.353,
+      "z_rotation": -53,
+      "z_scaling": 1,
+      "z_translation": 12.13
+    },
+    "x_dimension": 10,
+    "y_dimension": 10,
+    "z_dimension": 12
+  },
+  "sample_category": "block",
+  "uuid": "326cdb183a9aef6b1a26c4885444b2e1"
+}

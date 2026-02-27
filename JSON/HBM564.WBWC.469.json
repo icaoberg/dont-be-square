@@ -1,0 +1,1011 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1598656878374,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "image_pyramid",
+    "MALDI-IMS-pos"
+  ],
+  "dataset_info": "ometiff_pyramid_ims__5753250650d5e5a4621e511594f93696__ometiff_pyramid_ims",
+  "dataset_type": "MALDI [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey Spraggins",
+          "orcid_id": "0000-0001-9198-5498"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jeffrey",
+          "is_contact": "TRUE",
+          "last_name": "Spraggins",
+          "middle_name_or_initial": "M",
+          "name": "Jeffrey Spraggins",
+          "orcid_id": "0000-0001-9198-5498"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Jamie",
+          "last_name": "Allen",
+          "middle_name_or_initial": "L",
+          "name": "Jamie Allen",
+          "orcid_id": "0000-0002-4739-2166"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Elizabeth",
+          "last_name": "Neumann",
+          "middle_name_or_initial": "K",
+          "name": "Elizabeth Neumann",
+          "orcid_id": "0000-0002-6078-3321"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Nathan",
+          "last_name": "Patterson",
+          "middle_name_or_initial": "H",
+          "name": "Nathan Patterson",
+          "orcid_id": "0000-0002-0064-1583"
+        },
+        {
+          "affiliation": "Vanderbilt University",
+          "first_name": "Danielle",
+          "last_name": "Gutierrez",
+          "middle_name_or_initial": "B",
+          "name": "Danielle Gutierrez",
+          "orcid_id": "0000-0001-6355-2134"
+        }
+      ],
+      "created_by_user_displayname": "Jeff Spraggins",
+      "created_by_user_email": "spraggj@vanderbilt.edu",
+      "created_by_user_sub": "ce74ea5c-86bd-44b1-bfc4-4459d4fe20b5",
+      "created_timestamp": 1589805355139,
+      "data_access_level": "public",
+      "data_types": [
+        "MALDI-IMS-pos"
+      ],
+      "dataset_info": "MALDI Imaging Mass Spectrometry of Human Kidney Tissue - Positive Ion Mode\r\n\r\nMALDI Imaging MS data collected from the Right Kidney of a 58 year old White Female donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Mass Spectrometry images of Lipids were collected with a Bruker Daltonics MALDI timsTOF Flex Prototype at 10 m from m/z 100-2000 in Positive Ion Mode. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+      "dataset_type": "MALDI",
+      "description": "MALDI Imaging MS data collected from the Right Kidney of a 58 year old White Female donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Mass Spectrometry images of Lipids were collected with a Bruker Daltonics MALDI timsTOF Flex Prototype at 10 m from m/z 100-2000 in Positive Ion Mode. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+      "doi_url": "https://doi.org/10.35079/HBM983.DBTL.373",
+      "entity_type": "Dataset",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM983.DBTL.373",
+      "ingest_id": "5753250650d5e5a4621e511594f93696_scan.and.begin.processing_2020-08-28T19:17:50.512088-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "b042c34",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1644641218139,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/Vanderbilt TMC/5753250650d5e5a4621e511594f93696",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "MALDI timsTOF Flex Prototype",
+        "acquisition_instrument_vendor": "Bruker Daltonics",
+        "analyte_class": "Lipid",
+        "assay_category": "mass_spectrometry",
+        "assay_type": "IMS positive",
+        "collectiontype": "single_metadatatsv",
+        "data_path": "/",
+        "execution_datetime": "12/13/19 15:16",
+        "is_targeted": "FALSE",
+        "metadata_path": "/metadata/",
+        "ms_source": "MALDI",
+        "mz_range_high_value": "2000",
+        "mz_range_low_value": "100",
+        "operator": "Elizabeth K. Neumann",
+        "operator_email": "elizabeth.neumann@vanderbilt.edu",
+        "overall_protocols_io_doi": "10\\.17504/protocols.io.bfskjncw",
+        "pi": "Jeffrey M. Spraggins",
+        "pi_email": "jeff.spraggins@vanderbilt.edu",
+        "polarity": "Positive Ion Mode",
+        "preparation_instrument_model": "M3 TM-Sprayer",
+        "preparation_instrument_vendor": "HTX Imaging",
+        "preparation_maldi_matrix": "1,5-Diaminonaphthalene",
+        "preparation_type": "Sprayed",
+        "protocols_io_doi": "10.17504/protocols.io.7gdhjs6",
+        "resolution_x_unit": "um",
+        "resolution_x_value": "10",
+        "resolution_y_unit": "um",
+        "resolution_y_value": "10",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.4srgwd6"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1599580871380,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM983.DBTL.373",
+      "run_id": "5753250650d5e5a4621e511594f93696_scan.and.begin.processing_2020-08-28T19:17:50.512088-04:00",
+      "status": "Published",
+      "uuid": "5753250650d5e5a4621e511594f93696"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/VAN0005-RK-1-1-IMS_PosMode_multilayer.offsets.json",
+      "size": 610,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz774.601.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz818.546.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz825.625.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz706.538.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz848.557.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz834.601.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz756.551.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz796.585.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz846.541.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz717.591.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz729.591.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz762.483.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz720.554.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz758.569.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz809.651.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz732.554.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz744.554.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz798.541.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz780.551.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz804.554.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz837.682.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz787.669.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz833.711.offsets.json",
+      "size": 7,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz784.585.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz822.541.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz781.619.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz853.656.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz725.557.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz753.588.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz786.601.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz813.684.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz772.525.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz759.638.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz782.569.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz730.538.offsets.json",
+      "size": 7,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz806.569.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz741.531.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz826.572.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz746.569.offsets.json",
+      "size": 7,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz835.666.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz794.606.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz757.622.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz760.585.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz731.606.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz754.538.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz824.557.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz810.601.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz805.679.offsets.json",
+      "size": 7,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz797.593.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz801.684.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz808.585.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz734.569.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz748.585.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz799.669.offsets.json",
+      "size": 7,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz820.525.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz701.559.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "rel_path": "output_offsets/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz703.575.offsets.json",
+      "size": 8,
+      "type": "json"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/VAN0005-RK-1-1-IMS_PosMode_multilayer.ome.tif",
+      "size": 34231259,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz732.554.ome.tif",
+      "size": 638246,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz717.591.ome.tif",
+      "size": 232751,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz725.557.ome.tif",
+      "size": 863744,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz822.541.ome.tif",
+      "size": 787448,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz809.651.ome.tif",
+      "size": 714536,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz703.575.ome.tif",
+      "size": 919457,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz826.572.ome.tif",
+      "size": 682150,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz759.638.ome.tif",
+      "size": 601528,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz756.551.ome.tif",
+      "size": 803691,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz853.656.ome.tif",
+      "size": 714778,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz720.554.ome.tif",
+      "size": 110939,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz781.619.ome.tif",
+      "size": 468893,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz754.538.ome.tif",
+      "size": 387372,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz818.546.ome.tif",
+      "size": 220928,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz780.551.ome.tif",
+      "size": 901131,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz758.569.ome.tif",
+      "size": 965028,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz762.483.ome.tif",
+      "size": 211145,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz706.538.ome.tif",
+      "size": 381974,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz848.557.ome.tif",
+      "size": 710305,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz813.684.ome.tif",
+      "size": 830201,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz833.711.ome.tif",
+      "size": 32034,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz794.606.ome.tif",
+      "size": 172835,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz753.588.ome.tif",
+      "size": 527936,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz805.679.ome.tif",
+      "size": 36052,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz804.554.ome.tif",
+      "size": 850782,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz730.538.ome.tif",
+      "size": 45341,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz820.525.ome.tif",
+      "size": 839721,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz744.554.ome.tif",
+      "size": 118850,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz757.622.ome.tif",
+      "size": 117405,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz801.684.ome.tif",
+      "size": 395181,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz808.585.ome.tif",
+      "size": 850585,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz748.585.ome.tif",
+      "size": 157055,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz772.525.ome.tif",
+      "size": 724434,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz846.541.ome.tif",
+      "size": 534961,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz787.669.ome.tif",
+      "size": 780522,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz701.559.ome.tif",
+      "size": 315826,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz797.593.ome.tif",
+      "size": 516641,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz799.669.ome.tif",
+      "size": 89616,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz731.606.ome.tif",
+      "size": 697397,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz834.601.ome.tif",
+      "size": 524612,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz774.601.ome.tif",
+      "size": 551051,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz835.666.ome.tif",
+      "size": 783894,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz825.625.ome.tif",
+      "size": 661213,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz784.585.ome.tif",
+      "size": 871429,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz837.682.ome.tif",
+      "size": 754637,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz741.531.ome.tif",
+      "size": 841528,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz798.541.ome.tif",
+      "size": 875336,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz729.591.ome.tif",
+      "size": 140221,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz760.585.ome.tif",
+      "size": 948801,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz786.601.ome.tif",
+      "size": 872905,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz824.557.ome.tif",
+      "size": 801890,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz746.569.ome.tif",
+      "size": 92249,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz796.585.ome.tif",
+      "size": 333271,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz734.569.ome.tif",
+      "size": 861833,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz782.569.ome.tif",
+      "size": 945955,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz806.569.ome.tif",
+      "size": 836899,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "rel_path": "ometiff-pyramids/ometiffs/separate/VAN0005-RK-1-1-IMS_PosMode_mz810.601.ome.tif",
+      "size": 857957,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "Vanderbilt TMC",
+  "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+  "hubmap_id": "HBM564.WBWC.469",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "b042c34",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.3.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "b042c34",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.3.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "5224e3a",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.3"
+      },
+      {
+        "documentation_url": "",
+        "hash": "fb19103",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers.git",
+        "version": ""
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1599580879127,
+  "last_modified_user_displayname": "Bill Shirey",
+  "last_modified_user_email": "shirey@pitt.edu",
+  "last_modified_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "local_directory_rel_path": "public/Vanderbilt TMC/86f42c9115c6215ad71cfc24c39f6359/",
+  "pipeline_message": "The process ran",
+  "published_timestamp": 1599580879127,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "status": "Published",
+  "title": "MALDI [Image Pyramid] data from the kidney (right) of a 58-year-old white female",
+  "uuid": "86f42c9115c6215ad71cfc24c39f6359"
+}

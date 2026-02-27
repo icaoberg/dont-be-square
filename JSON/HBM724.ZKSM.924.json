@@ -1,0 +1,239 @@
+{
+  "collections": [
+    {
+      "created_timestamp": 1576697691000,
+      "entity_type": "Collection",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM687.BPNN.565",
+      "last_modified_timestamp": 1576697691000,
+      "title": "HBMP3_thymus_2",
+      "uuid": "67f49a2c86aeb82018fd46f2af50db97"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Maigan",
+      "last_name": "Brusko",
+      "name": "Maigan Brusko",
+      "orcid_id": "0000-0002-4331-2202"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Maigan",
+      "is_contact": "TRUE",
+      "last_name": "Brusko",
+      "name": "Maigan Brusko",
+      "orcid_id": "0000-0002-4331-2202"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Jason",
+      "last_name": "Brant",
+      "name": "Jason Brant",
+      "orcid_id": "0000-0002-9800-9251"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Todd",
+      "last_name": "Brusko",
+      "name": "Todd Brusko",
+      "orcid_id": "0000-0003-2878-9296"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Mark",
+      "last_name": "Atkinson",
+      "name": "Mark Atkinson",
+      "orcid_id": "0000-0001-8489-4782"
+    },
+    {
+      "affiliation": "University of Florida",
+      "first_name": "Jesus",
+      "last_name": "Aponte",
+      "middle_name_or_initial": "Penaloza",
+      "name": "Jesus Aponte",
+      "orcid_id": "0000-0001-5903-2291"
+    }
+  ],
+  "created_by_user_displayname": "Jesus Penaloza Aponte",
+  "created_by_user_email": "jesus.penalozaa@ufl.edu",
+  "created_by_user_sub": "2fbc1615-1bfe-479b-92ff-6019902e3d6b",
+  "created_timestamp": 1576701291435,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "data_types": [
+    "scRNA-Seq-10x"
+  ],
+  "dataset_info": "HBMP3_thymus_2\r\n\r\nCase3 Thymus  2\n",
+  "dataset_type": "RNAseq",
+  "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX24345207",
+  "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002268",
+  "description": "Case3 Thymus  2\n",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Marda Jorgensen",
+      "created_by_user_email": "marda@ufl.edu",
+      "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+      "created_timestamp": 1572366040820,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM365.LNPG.969",
+      "last_modified_timestamp": 1631287266523,
+      "last_modified_user_displayname": "Hunter Hakimian",
+      "last_modified_user_email": "hakimianh13@ufl.edu",
+      "last_modified_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+      "metadata": {
+        "cold_ischemia_time_unit": "minutes",
+        "cold_ischemia_time_value": "912",
+        "health_status": "relatively healthy",
+        "organ_condition": "healthy",
+        "pathologist_report": "normal, no cancer",
+        "perfusion_solution": "UWS",
+        "sample_id": "UFL0001-TH-2-1",
+        "specimen_preservation_temperature": "Liquid Nitrogen",
+        "specimen_quality_criteria": "viability %",
+        "specimen_tumor_distance_unit": "cm",
+        "specimen_tumor_distance_value": "",
+        "vital_state": "deceased",
+        "warm_ischemia_time_unit": "minutes",
+        "warm_ischemia_time_value": "20"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.bd9vi966",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/9d989d45-433f-4a48-9179-33f05c57e601",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/UBERON_0005469",
+          "http://purl.obolibrary.org/obo/UBERON_0005457"
+        ],
+        "creation_date": "2021-09-10",
+        "creator": "Marda Jorgensen",
+        "creator_first_name": "Marda",
+        "creator_last_name": "Jorgensen",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/9d989d45-433f-4a48-9179-33f05c57e601_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2021-09-10",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHMThymus",
+          "translation_units": "millimeter",
+          "x_rotation": 0,
+          "x_scaling": 1,
+          "x_translation": 25.389,
+          "y_rotation": 0,
+          "y_scaling": 1,
+          "y_translation": 13.99,
+          "z_rotation": 0,
+          "z_scaling": 1,
+          "z_translation": 17.54
+        },
+        "x_dimension": 10,
+        "y_dimension": 10,
+        "z_dimension": 10
+      },
+      "sample_category": "suspension",
+      "uuid": "268e8fb044f82a1497b5fd17918500ea"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM724.ZKSM.924",
+  "entity_type": "Dataset",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM724.ZKSM.924",
+  "ingest_id": "8776e9183d5f85d90535a0b1b3b4e32a_scan.and.begin.processing_2020-07-03T20:56:07.026579-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "8c8296d",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1721914243389,
+  "last_modified_user_displayname": "Jackie Uranic",
+  "last_modified_user_email": "juranic@psc.edu",
+  "last_modified_user_sub": "54dc2f06-b4c3-4f95-a97b-8636df4b9f00",
+  "local_directory_rel_path": "protected/University of Florida TMC/8776e9183d5f85d90535a0b1b3b4e32a/",
+  "metadata": {
+    "_from_metadatatsv": true,
+    "acquisition_instrument_model": "NovaSeq 6000",
+    "acquisition_instrument_vendor": "Illumina",
+    "analyte_class": "RNA",
+    "assay_category": "sequence",
+    "assay_type": "scRNAseq-10xGenomics",
+    "cell_barcode_offset": "1",
+    "cell_barcode_read": "R1",
+    "cell_barcode_size": "16",
+    "collectiontype": "rnaseq_10x",
+    "execution_datetime": "2019-11-07 12:00",
+    "is_targeted": "FALSE",
+    "is_technical_replicate": "FALSE",
+    "library_adapter_sequence": "5'-  GATCGGAAGAGCACACGTCTGAACTCCAGTCA -3'       3'- TCTAGCCTTCTCG -5'",
+    "library_average_fragment_size": "511",
+    "library_construction_protocols_io_doi": "10.17504/protocols.io.bffvjjn6",
+    "library_final_yield_unit": "ng",
+    "library_final_yield_value": "250",
+    "library_layout": "paired-end",
+    "library_pcr_cycles": "15",
+    "library_pcr_cycles_for_sample_index": "15",
+    "metadata_path": ".",
+    "operator": "Maigan Brusko",
+    "operator_email": "maigan@ufl.edu",
+    "other_metadata": {
+      "": "GATGCCAA",
+      "10x_Genomics_Index_well_ID": "SI-GA-E3",
+      "Concentration_ng_ul": "14.4",
+      "FRAGMENT_SIZE_report_from_core": "",
+      "HuBMAP Case Identifier": "Case3 Thymus  2",
+      "Name": "HBMP3_thymus_2",
+      "Path": "",
+      "Quantification_method": "Qubit",
+      "Run_date_reported_from_ICBR": "",
+      "SI_INDEX_SEQUENCE": "AGGTATTG",
+      "Seq_run": "NS-1699",
+      "Sequencing_concentration_reported_from_ICBR": "225 pM",
+      "UUID Identifier": "UFL0001-TH-2-2",
+      "Volume_ul": "10",
+      "fragment_analysis_method_report_from_core": "",
+      "qPCR_library_quantification_results": "",
+      "qPCR_quantification_method": ""
+    },
+    "pi": "Todd Brusko",
+    "pi_email": "tbrusko@ufl.edu",
+    "protocols_io_doi": "10.17504/protocols.io.be79jhr6",
+    "rnaseq_assay_input": "18319",
+    "rnaseq_assay_method": "Single Cell 3' v3",
+    "sc_isolation_cell_number": "500000",
+    "sc_isolation_enrichment": "",
+    "sc_isolation_entity": "whole cells",
+    "sc_isolation_protocols_io_doi": "10.17504/protocols.io.bd9vi966",
+    "sc_isolation_quality_metric": "OK",
+    "sc_isolation_tissue_dissociation": "digestion",
+    "sequencing_phix_percent": "0.01",
+    "sequencing_read_format": "28/8/0/91",
+    "sequencing_read_percent_q30": "0.9",
+    "sequencing_reagent_kit": "S4"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1598109430928,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "registered_doi": "10.35079/HBM724.ZKSM.924",
+  "run_id": "8776e9183d5f85d90535a0b1b3b4e32a_scan.and.begin.processing_2020-07-03T20:56:07.026579-04:00",
+  "status": "Published",
+  "title": "RNAseq data from the thymus of a 18-year-old black or african american male",
+  "uuid": "8776e9183d5f85d90535a0b1b3b4e32a"
+}

@@ -1,0 +1,248 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Washington University",
+      "email": "danaj77@uw.edu",
+      "first_name": "Dana",
+      "is_contact": "Yes",
+      "last_name": "Jackson",
+      "middle_name_or_initial": "",
+      "name": "Dana Jackson",
+      "orcid_id": "0000-0002-6917-0580"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Gregory",
+      "is_operator": "Yes",
+      "last_name": "Booth",
+      "middle_name_or_initial": "T",
+      "name": "Gregory T. Booth",
+      "orcid_id": "0000-0003-3748-5518"
+    },
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Riza ",
+      "is_operator": "Yes",
+      "last_name": "Daza",
+      "middle_name_or_initial": "M",
+      "name": "Riza M. Daza",
+      "orcid_id": "0000-0003-1635-8675"
+    },
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Diana",
+      "last_name": "O'Day",
+      "middle_name_or_initial": "R",
+      "name": "Diana R. O'Day",
+      "orcid_id": "0000-0002-8398-8389"
+    },
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Jay",
+      "last_name": "Shendure",
+      "middle_name_or_initial": "",
+      "name": "Jay Shendure",
+      "orcid_id": "0000-0002-1516-1865"
+    },
+    {
+      "affiliation": "University of Washington",
+      "first_name": "Cole",
+      "is_principal_investigator": "Yes",
+      "last_name": "Trapnell",
+      "middle_name_or_initial": "",
+      "name": "Cole Trapnell",
+      "orcid_id": "0000-0002-8105-4347"
+    },
+    {
+      "affiliation": "Washington University",
+      "first_name": "Yiing",
+      "last_name": "Lin",
+      "middle_name_or_initial": "",
+      "name": "Yiing Lin",
+      "orcid_id": "0000-0002-0317-7608"
+    },
+    {
+      "affiliation": "Washington University",
+      "email": "danaj77@uw.edu",
+      "first_name": "Dana",
+      "is_contact": "Yes",
+      "last_name": "Jackson",
+      "middle_name_or_initial": "",
+      "name": "Dana Jackson",
+      "orcid_id": "0000-0002-6917-0580"
+    }
+  ],
+  "created_by_user_displayname": "Dana L Jackson",
+  "created_by_user_email": "danaj77@uw.edu",
+  "created_by_user_sub": "e3b5b672-4d0a-4625-b73c-99ee0a602963",
+  "created_timestamp": 1623368801724,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "data_types": [
+    "sciATACseq"
+  ],
+  "dataset_info": "W139_heart_RV\r\n\r\n",
+  "dataset_type": "ATACseq",
+  "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX30739657",
+  "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002267.v3.p1",
+  "description": "The human circulatory system plays a vital role in the proper functioning of every organ in the human body. Because vascular related diseases, such as atherosclerosis, do not occur homogeneously throughout the vascular tree, differences in the endothelium of various organs must exist. There is even evidence of heterogeneity of adjacent endothelial cells. We are studying normal endothelium throughout the body and across individuals of different ages to characterize these differences. The first step will be to procure normal tissue samples from a wide range of organs. From disaggregated samples of these tissues, we will perform single cell combinatorial indexing (sci-) to generate chromatin accessibility (sci-ATAC-seq) and transcriptome (sci-RNA-seq) data from millions of single cells across hundreds of samples.  Molecular heterogeneity might correlate with multiple facets of the anatomical distribution of endothelium, including vascular vs. lymphatic, arteries vs. veins, capillaries vs. larger vessels, differences between organs, organ zonation, cell-to-cell differences, etc. Based on heterogeneous markers defined from deep profiling of disaggregated cells, we will employ seqFISH to spatially relate the distinct endothelial subpopulations arising from the single nuclei data to histologic preparations. For example, this will allow us to identify subpopulations with particular markers as arterial, capillary, venous, or lymphatic. The end product will include multiparameter images in which the complete gene expression and chromatin accessibility profile can be interactively visualized for every cell.",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Dana L Jackson",
+      "created_by_user_email": "danaj77@uw.edu",
+      "created_by_user_sub": "e3b5b672-4d0a-4625-b73c-99ee0a602963",
+      "created_timestamp": 1612905314700,
+      "data_access_level": "public",
+      "description": "W139_heart_RV",
+      "entity_type": "Sample",
+      "group_name": "California Institute of Technology TMC",
+      "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM797.KHRN.366",
+      "last_modified_timestamp": 1635193076355,
+      "last_modified_user_displayname": "Dana L Jackson",
+      "last_modified_user_email": "danaj77@uw.edu",
+      "last_modified_user_sub": "e3b5b672-4d0a-4625-b73c-99ee0a602963",
+      "metadata": {
+        "cold_ischemia_time_unit": "minutes",
+        "cold_ischemia_time_value": "361",
+        "health_status": "relatively healthy",
+        "organ_condition": "healthy",
+        "pathologist_report": "no necrosis",
+        "perfusion_solution": "HTK",
+        "procedure_date": "2020-09-04",
+        "specimen_preservation_temperature": "Liquid Nitrogen",
+        "specimen_quality_criteria": "",
+        "specimen_tumor_distance_unit": "cm",
+        "specimen_tumor_distance_value": "",
+        "vital_state": "deceased",
+        "warm_ischemia_time_unit": "minutes",
+        "warm_ischemia_time_value": "0"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.biqqkdvw",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/ce5f3bd0-f091-49fe-8fe5-67004848078b",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/UBERON_0002494",
+          "http://purl.org/sig/ont/fma/fma7264",
+          "http://purl.obolibrary.org/obo/UBERON_0002080",
+          "http://purl.obolibrary.org/obo/UBERON_0002094",
+          "http://purl.obolibrary.org/obo/UBERON_0002084"
+        ],
+        "creation_date": "2021-10-25",
+        "creator": "Andreas Bueckle",
+        "creator_first_name": "Andreas",
+        "creator_last_name": "Bueckle",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/ce5f3bd0-f091-49fe-8fe5-67004848078b_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2021-10-25",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart",
+          "translation_units": "millimeter",
+          "x_rotation": -33,
+          "x_scaling": 1,
+          "x_translation": 70.628,
+          "y_rotation": 6,
+          "y_scaling": 1,
+          "y_translation": 42.873,
+          "z_rotation": 0,
+          "z_scaling": 1,
+          "z_translation": 93.052
+        },
+        "x_dimension": 10,
+        "y_dimension": 10,
+        "z_dimension": 10
+      },
+      "sample_category": "block",
+      "uuid": "03947098fe5b5ec44d67ec9d65a391d5"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM788.QPBW.699",
+  "entity_type": "Dataset",
+  "group_name": "California Institute of Technology TMC",
+  "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM788.QPBW.699",
+  "ingest_id": "cc7c63c6d10c762d1efebda45d2dc784_scan.and.begin.processing_2022-09-27T11:06:19.492822-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "7a5be2c",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1756236284301,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "protected/California Institute of Technology TMC/cc7c63c6d10c762d1efebda45d2dc784/",
+  "metadata": {
+    "acquisition_instrument_model": "Novaseq6013",
+    "acquisition_instrument_vendor": "Illumina",
+    "analyte_class": "DNA",
+    "assay_category": "sequence",
+    "assay_type": "sciATACseq",
+    "cell_barcode_offset": "0",
+    "cell_barcode_read": "[I1, I2]",
+    "cell_barcode_size": "40",
+    "contributors_path": "extras/CALT_sciATACseq_contributors.tsv",
+    "description": "sciATACSeq on W139.heart.RV",
+    "execution_datetime": "2020-12-23 12:00",
+    "is_targeted": "FALSE",
+    "is_technical_replicate": "FALSE",
+    "library_adapter_sequence": "AGATGTGTATAAGAGACAG",
+    "library_average_fragment_size": "400",
+    "library_construction_protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+    "library_final_yield": "5",
+    "library_final_yield_unit": "ng",
+    "library_layout": "paired-end",
+    "library_pcr_cycles": "11",
+    "library_pcr_cycles_for_sample_index": "11",
+    "operator": "Riza Daza",
+    "operator_email": "daza@uw.edu",
+    "pi": "Cole Trapnell",
+    "pi_email": "coletrap@uw.edu",
+    "protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+    "sc_isolation_cell_number": "1550000",
+    "sc_isolation_enrichment": "none",
+    "sc_isolation_entity": "nucleus",
+    "sc_isolation_protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+    "sc_isolation_quality_metric": "OK",
+    "sc_isolation_tissue_dissociation": "Pulverized",
+    "sequencing_phix_percent": "0",
+    "sequencing_read_format": "50/50/20/20",
+    "sequencing_read_percent_q30": "0",
+    "sequencing_reagent_kit": "NovaSeq6000",
+    "transposition_input": "200000",
+    "transposition_kit_number": "",
+    "transposition_method": "sciATACseq",
+    "transposition_transposase_source": "In-house",
+    "version": "1"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1756236284301,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM788.QPBW.699",
+  "run_id": "cc7c63c6d10c762d1efebda45d2dc784_scan.and.begin.processing_2022-09-27T11:06:19.492822-04:00",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1756236284301,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "ATACseq data from the heart of a 45-year-old white male",
+  "uuid": "cc7c63c6d10c762d1efebda45d2dc784"
+}

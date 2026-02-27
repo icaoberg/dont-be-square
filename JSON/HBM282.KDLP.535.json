@@ -1,0 +1,89 @@
+{
+  "created_by_user_displayname": "Hunter Hakimian",
+  "created_by_user_email": "hakimianh13@ufl.edu",
+  "created_by_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+  "created_timestamp": 1645044250301,
+  "data_access_level": "public",
+  "description": "1 cm tissue cube collected for CODEX analysis",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1634652013826,
+    "data_access_level": "public",
+    "description": "CCF 3 from spleen 21-012",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM966.VMMS.246",
+    "image_files": [
+      {
+        "description": "image of ccf 3",
+        "file_uuid": "ffff16121217bd0b7a8a5196cbf6640a",
+        "filename": "spleencase12_cc3_dissection.jpeg"
+      }
+    ],
+    "last_modified_timestamp": 1634652013826,
+    "last_modified_user_displayname": "Marda Jorgensen",
+    "last_modified_user_email": "marda@ufl.edu",
+    "last_modified_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+    "sample_category": "block",
+    "uuid": "f908f1b1306e194bf1ee849d7961d1e5"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM282.KDLP.535",
+  "last_modified_timestamp": 1670964055797,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.8nzhvf6",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/1f7d903f-4eca-45eb-ba18-00a855bff926",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.org/sig/ont/fma/fma15828",
+      "http://purl.org/sig/ont/fma/fma15837",
+      "http://purl.obolibrary.org/obo/UBERON_0001248",
+      "http://purl.org/sig/ont/fma/fma15839",
+      "http://purl.org/sig/ont/fma/fma15838"
+    ],
+    "creation_date": "2022-06-06",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/1f7d903f-4eca-45eb-ba18-00a855bff926_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2022-06-06",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHFSpleenV1.1",
+      "translation_units": "millimeter",
+      "x_rotation": -91,
+      "x_scaling": 1,
+      "x_translation": 19.046,
+      "y_rotation": -46,
+      "y_scaling": 1,
+      "y_translation": 78.161,
+      "z_rotation": -53,
+      "z_scaling": 1,
+      "z_translation": 24.571
+    },
+    "x_dimension": 10,
+    "y_dimension": 10,
+    "z_dimension": 5
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffffddb69d8a462b6f36d3c0510bd4bb",
+    "filename": "HBM282.KDLP.535.jpg"
+  },
+  "uuid": "af4732e5047c745817cce7e1dfe45b29"
+}

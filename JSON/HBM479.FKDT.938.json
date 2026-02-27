@@ -1,0 +1,372 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1729052387290,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "dataset_info": "salmon_rnaseq_bulk__c06c7ccc6bdd674e02165e6fa0c4ee15__salmon-rnaseq-bulk",
+  "dataset_type": "RNAseq [Salmon]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "first_name": "Valentina",
+          "is_contact": "TRUE",
+          "last_name": "Stanley",
+          "middle_name_or_initial": "",
+          "name": "Valentina Stanley",
+          "orcid_id": "0000-0002-2212-7796",
+          "version": "1"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "first_name": "Scott",
+          "is_contact": "TRUE",
+          "last_name": "Lindsay",
+          "middle_name_or_initial": "A",
+          "name": "Scott Lindsay",
+          "orcid_id": "0000-0002-2929-7755",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "first_name": "Valentina",
+          "is_contact": "TRUE",
+          "last_name": "Stanley",
+          "middle_name_or_initial": "",
+          "name": "Valentina Stanley",
+          "orcid_id": "0000-0002-2212-7796",
+          "version": "1"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "first_name": "Scott",
+          "is_contact": "TRUE",
+          "last_name": "Lindsay",
+          "middle_name_or_initial": "A",
+          "name": "Scott Lindsay",
+          "orcid_id": "0000-0002-2929-7755",
+          "version": "1"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "first_name": "Kathleen",
+          "is_contact": "FALSE",
+          "last_name": "Fisch",
+          "middle_name_or_initial": "M",
+          "name": "Kathleen Fisch",
+          "orcid_id": "0000-0002-0117-7444",
+          "version": "1"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "first_name": "Mana",
+          "is_contact": "FALSE",
+          "last_name": "Parast",
+          "middle_name_or_initial": "M",
+          "name": "Mana Parast",
+          "orcid_id": "0000-0001-5963-2246",
+          "version": "1"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "first_name": "Louise",
+          "is_contact": "FALSE",
+          "last_name": "Laurent",
+          "middle_name_or_initial": "C",
+          "name": "Louise Laurent",
+          "orcid_id": "0000-0002-2095-7534",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1727205835659,
+      "data_access_level": "protected",
+      "dataset_type": "RNAseq",
+      "description": "Fallopian; Right tube; Fimbrial region. Lab ID: 3555_ftR_RNA_F1",
+      "doi_url": "https://doi.org/10.35079/HBM683.JZGN.384",
+      "entity_type": "Dataset",
+      "group_name": "TMC - University of California San Diego focusing on female reproduction",
+      "group_uuid": "1fe64d24-c870-11eb-9a03-a9c8d5e16226",
+      "hubmap_id": "HBM683.JZGN.384",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "35eb9414",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          },
+          {
+            "hash": "77e13a2c",
+            "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1731608036742,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq 6000",
+        "acquisition_instrument_vendor": "Illumina",
+        "amount_of_input_analyte_unit": "ng",
+        "amount_of_input_analyte_value": "989",
+        "analyte_class": "RNA",
+        "assay_input_entity": "tissue (bulk)",
+        "barcode_offset": "Not applicable",
+        "barcode_read": "Not applicable",
+        "barcode_size": "Not applicable",
+        "capture_batch_id": "",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "dataset_type": "RNAseq",
+        "expected_entity_capture_count": "",
+        "is_targeted": "No",
+        "is_technical_replicate": "No",
+        "library_adapter_sequence": "Illumina_Universal:AGATCGGAAGAG",
+        "library_average_fragment_size": "390",
+        "library_concentration_unit": "nM",
+        "library_concentration_value": "26.9",
+        "library_input_amount_unit": "ng",
+        "library_input_amount_value": "1.134",
+        "library_layout": "paired-end",
+        "library_output_amount_unit": "ng",
+        "library_output_amount_value": "213",
+        "library_preparation_kit": "Custom",
+        "metadata_schema_id": "944e5fa0-f68b-4bdd-8664-74a3909429a9",
+        "number_of_input_cells_or_nuclei": "",
+        "number_of_iterations_of_cdna_amplification": "0",
+        "number_of_pcr_cycles_for_indexing": "11",
+        "preparation_instrument_kit": "",
+        "preparation_instrument_model": "",
+        "preparation_instrument_vendor": "",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.4r3l224p3l1y/v1",
+        "sample_indexing_kit": "Custom",
+        "sample_indexing_set": "UDI 67",
+        "sequencing_batch_id": "230314_A01535_0285_BHVVW3DSX5",
+        "sequencing_read_format": "101,10,24,101",
+        "sequencing_reagent_kit": "Illumina; NovaSeq 6000 S4 Reagent v1.5 Kit (200 Cycles); PN 20028313",
+        "source_storage_duration_unit": "month",
+        "source_storage_duration_value": "1",
+        "time_since_acquisition_instrument_calibration_unit": "",
+        "time_since_acquisition_instrument_calibration_value": "",
+        "umi_offset": "Not applicable",
+        "umi_read": "Not applicable",
+        "umi_size": "Not applicable"
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "TMC_Laurent_bulkRNA_FT_UEMM : ./3555_ftR_RNA_F1",
+      "published_timestamp": 1731608036742,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM683.JZGN.384",
+      "status": "Published",
+      "status_history": [
+        {
+          "change_timestamp": 1727205835659,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1727205983603,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Submitted"
+        },
+        {
+          "change_timestamp": 1727207320545,
+          "changed_by_email": "bhonick@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1727218202039,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Invalid"
+        },
+        {
+          "change_timestamp": 1727277064519,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1731608036742,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        }
+      ],
+      "uuid": "c06c7ccc6bdd674e02165e6fa0c4ee15"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "A hdf5 file containing transcript by sample matrices of TPM and number of reads",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "expression_matrices.h5",
+      "size": 66137952,
+      "type": "unknown"
+    },
+    {
+      "description": "TSV file reporting name, length, effective length, TPM, and numReads for each transcript",
+      "edam_term": "EDAM_1.24.format_3475",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "out/3555_ftR_RNA_F1_S65_L003-quant.sf",
+      "size": 29651417,
+      "type": "unknown"
+    },
+    {
+      "description": "JSON file recording main command line parameters used by salmon to produce these data",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "out/3555_ftR_RNA_F1_S65_L003-cmd_info.json",
+      "size": 482,
+      "type": "json"
+    },
+    {
+      "description": "JSON file reporting number of fragments with at least one compatible mapping, as well as the number that didn't",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": true,
+      "rel_path": "out/lib_format_counts.json",
+      "size": 817,
+      "type": "json"
+    },
+    {
+      "description": "JSON file with statistics about the run, e.g. number of fragments observed/mapped",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "out/aux_info/meta_info.json",
+      "size": 1857,
+      "type": "json"
+    },
+    {
+      "description": "TSV file reporting numbers of uniquely mapped and ambiguous reads for each transcript",
+      "edam_term": "EDAM_1.24.format_3475",
+      "is_data_product": false,
+      "is_qa_qc": true,
+      "rel_path": "out/aux_info/ambig_info.tsv",
+      "size": 2714406,
+      "type": "unknown"
+    },
+    {
+      "description": "Gzipped binary file containing approximation of observed fragment length distributions",
+      "edam_term": "EDAM_1.25.format_3989",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "out/aux_info/fld.gz",
+      "size": 615,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_data_product": false,
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/raw/fastq/RNA/3555_ftR_RNA_F1_S65_L003_R1_001_fastqc.html",
+      "size": 667382,
+      "type": "unknown"
+    },
+    {
+      "description": "FastQC report of input FASTQ file",
+      "edam_term": "EDAM_1.24.format_2331",
+      "is_data_product": false,
+      "is_qa_qc": true,
+      "rel_path": "fastqc_output/raw/fastq/RNA/3555_ftR_RNA_F1_S65_L003_R2_001_fastqc.html",
+      "size": 664954,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "TMC - University of California San Diego focusing on female reproduction",
+  "group_uuid": "1fe64d24-c870-11eb-9a03-a9c8d5e16226",
+  "hubmap_id": "HBM479.FKDT.938",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "eb66bf56",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.4.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "eb66bf56",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.4.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "69da10a",
+        "input_parameters": [],
+        "name": "bulk-pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/salmon-rnaseq",
+        "version": "v2.3.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "eb66bf56",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.4.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "69da10a",
+        "input_parameters": [],
+        "name": "bulk-pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/salmon-rnaseq",
+        "version": "v2.3.0"
+      }
+    ],
+    "workflow_description": "The bulk RNA pipeline uses alignment free quasimapping to the hg38 reference genome via Salmon quant to produce a sample by gene matrix in hdf format.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1731608128469,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/TMC - University of California San Diego focusing on female reproduction/bb818862d2f7c1ca1304fa7bcddf5745/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1731608128469,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1729052387290,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1729052396866,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1729091617987,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1731608128469,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "RNAseq [Salmon] data from the fallopian tube (right) of a 37-year-old white female",
+  "uuid": "bb818862d2f7c1ca1304fa7bcddf5745"
+}

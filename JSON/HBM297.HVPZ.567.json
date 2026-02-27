@@ -1,0 +1,278 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1689624729666,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "publication_ancillary"
+  ],
+  "dataset_info": "gen_pub_ancillary__0de8528cf78f686a3e560c1860ddde63__gen_pub_ancillary",
+  "dataset_type": "Publication [ancillary]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Katy",
+          "is_contact": "TRUE",
+          "last_name": "Borner",
+          "middle_name_or_initial": "",
+          "name": "Katy Borner",
+          "orcid_id": "0000-0002-3321-6137",
+          "version": "1"
+        },
+        {
+          "affiliation": "GE Research Center",
+          "first_name": "Fiona",
+          "is_contact": "TRUE",
+          "last_name": "Ginty",
+          "middle_name_or_initial": "",
+          "name": "Fiona Ginty",
+          "orcid_id": "0000-0001-6638-683X",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "GE Research",
+          "first_name": "Soumya",
+          "is_contact": "FALSE",
+          "last_name": "Ghose",
+          "middle_name_or_initial": "",
+          "name": "Soumya Ghose",
+          "orcid_id": "0000-0002-2730-1482",
+          "version": "1"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Yingnan",
+          "is_contact": "FALSE",
+          "last_name": "Ju",
+          "middle_name_or_initial": "",
+          "name": "Yingnan Ju",
+          "orcid_id": "0000-0001-5498-332X",
+          "version": "1"
+        },
+        {
+          "affiliation": "GE Research Center",
+          "first_name": "Elizabeth",
+          "is_contact": "FALSE",
+          "last_name": "McDonough",
+          "middle_name_or_initial": "",
+          "name": "Elizabeth McDonough",
+          "orcid_id": "0000-0001-7524-8260",
+          "version": "1"
+        },
+        {
+          "affiliation": "University of Pittsburgh School of Medicine",
+          "first_name": "Jonhan",
+          "is_contact": "FALSE",
+          "last_name": "Ho",
+          "middle_name_or_initial": "",
+          "name": "Jonhan Ho",
+          "orcid_id": "0000-0002-1134-8585",
+          "version": "1"
+        },
+        {
+          "affiliation": "University of Pittsburgh School of Medicine",
+          "first_name": "Arivarasan",
+          "is_contact": "FALSE",
+          "last_name": "Karunamurthy",
+          "middle_name_or_initial": "",
+          "name": "Arivarasan Karunamurthy",
+          "orcid_id": "0000-0002-5739-4923",
+          "version": "1"
+        },
+        {
+          "affiliation": "GE Research Center",
+          "first_name": "Chrystal",
+          "is_contact": "FALSE",
+          "last_name": "Chadwick",
+          "middle_name_or_initial": "",
+          "name": "Chrystal Chadwick",
+          "orcid_id": "0000-0001-6355-5677",
+          "version": "1"
+        },
+        {
+          "affiliation": "GE Research Center",
+          "first_name": "Sanghee",
+          "is_contact": "FALSE",
+          "last_name": "Cho",
+          "middle_name_or_initial": "",
+          "name": "Sanghee Cho",
+          "orcid_id": "0000-0001-6715-9348",
+          "version": "1"
+        },
+        {
+          "affiliation": "GE Research Center",
+          "first_name": "Alex",
+          "is_contact": "FALSE",
+          "last_name": "Corwin",
+          "middle_name_or_initial": "",
+          "name": "Alex Corwin",
+          "orcid_id": "0000-0001-8618-0935",
+          "version": "1"
+        },
+        {
+          "affiliation": "GE Research Center",
+          "first_name": "Christine",
+          "is_contact": "FALSE",
+          "last_name": "Surrette",
+          "middle_name_or_initial": "",
+          "name": "Christine Surrette",
+          "orcid_id": "0000-0002-7334-4571",
+          "version": "1"
+        },
+        {
+          "affiliation": "GE Research Center",
+          "first_name": "Anup",
+          "is_contact": "FALSE",
+          "last_name": "Sood",
+          "middle_name_or_initial": "",
+          "name": "Anup Sood",
+          "orcid_id": "0000-0001-7768-0209",
+          "version": "1"
+        },
+        {
+          "affiliation": "GE Research Center",
+          "first_name": "Yousef",
+          "is_contact": "FALSE",
+          "last_name": "Al-Kofahi",
+          "middle_name_or_initial": "",
+          "name": "Yousef Al-Kofahi",
+          "orcid_id": "0000-0001-6093-6001",
+          "version": "1"
+        },
+        {
+          "affiliation": "University of Pittsburgh School of Medicine",
+          "first_name": "Louis",
+          "is_contact": "FALSE",
+          "last_name": "Falo",
+          "middle_name_or_initial": "",
+          "name": "Louis D. Falo, Jr",
+          "orcid_id": "0000-0001-9813-0433",
+          "version": "1"
+        },
+        {
+          "affiliation": "Indiana University",
+          "first_name": "Katy",
+          "is_contact": "TRUE",
+          "last_name": "Borner",
+          "middle_name_or_initial": "",
+          "name": "Katy Borner",
+          "orcid_id": "0000-0002-3321-6137",
+          "version": "1"
+        },
+        {
+          "affiliation": "GE Research Center",
+          "first_name": "Fiona",
+          "is_contact": "TRUE",
+          "last_name": "Ginty",
+          "middle_name_or_initial": "",
+          "name": "Fiona Ginty",
+          "orcid_id": "0000-0001-6638-683X",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "Elizabeth McDonough",
+      "created_by_user_email": "elizabeth.mcdonough@ge.com",
+      "created_by_user_sub": "7ccec8fc-6b28-4362-a2c3-2b9b3174f053",
+      "created_timestamp": 1689098989962,
+      "data_access_level": "public",
+      "data_types": [
+        "publication"
+      ],
+      "dataset_type": "Publication",
+      "description": "Mapping the human body at single cell resolution in three dimensions (3D) is an important step toward a \u201cdigital twin\u201d model that digitizes organ structure and the dynamics of cell-cell interactions. Current approaches for 3D reconstruction of multiplexed serial sections are relatively cumbersome and unautomated. We present an integrated workflow for two-dimensional (2D) cell segmentation and 3D reconstruction for multiplexed sequential tissue sections: MATRICS-A (Multiplexed Image Three-D Reconstruction and Integrated Cell Spatial - Analysis) applied to skin from 12 donors aged 32-72 years. Using MATRICS-A, we show significantly shorter average distance between immune cells and endothelial cells 3D vs 2D (56 \u00b5m vs 108 \u00b5m) and 10-70% more T cells (total) within 30 \u00b5m of a T helper cell in 3D. The average distance of cells positive for DNA damage (p53), repair (DDB2) and proliferation (Ki67) to the skin surface was consistent with age and sun exposure, and largely localized to the lower epidermis. We present new 3D data visualization for cell distance maps and immune cell cluster density differences across samples. MATRICS-A provides a new powerful integrated open access approach to quantify 3D spatial cell relationships in healthy and aging organs and could be further extended to diseased organs.",
+      "entity_type": "Publication",
+      "group_name": "General Electric RTI",
+      "group_uuid": "5c106f29-ea2d-11e9-85e8-0efb3ba9a670",
+      "hubmap_id": "HBM473.RSNH.835",
+      "ingest_id": "0de8528cf78f686a3e560c1860ddde63_scan.and.begin.processing_2023-07-17T16:10:50.244644-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "a3774b3",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1766007839831,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "assay_type": "publication",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "version": "0"
+      },
+      "omap_doi": "10.48539/HBM459.SRBX.598",
+      "pipeline_message": "the process ran",
+      "publication_date": "2023-07-19",
+      "publication_doi": "10.1038/s42003-023-04991-z",
+      "publication_status": true,
+      "publication_url": "https://doi.org/10.1038/s42003-023-04991-z",
+      "publication_venue": "Communications Biology - Nature",
+      "published_timestamp": 1689700548402,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "run_id": "0de8528cf78f686a3e560c1860ddde63_scan.and.begin.processing_2023-07-17T16:10:50.244644-04:00",
+      "status": "Published",
+      "title": "3D reconstruction of skin and spatial mapping of immune cell density, vascular distance and effects of sun exposure and aging",
+      "uuid": "0de8528cf78f686a3e560c1860ddde63"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "",
+      "edam_term": "",
+      "is_qa_qc": false,
+      "rel_path": "publication_ancillary.json",
+      "size": 7073,
+      "type": "json"
+    }
+  ],
+  "group_name": "General Electric RTI",
+  "group_uuid": "5c106f29-ea2d-11e9-85e8-0efb3ba9a670",
+  "hubmap_id": "HBM297.HVPZ.567",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      }
+    ],
+    "workflow_description": "",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1689700564235,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/General Electric RTI/1287c824ce3403c06d29a37842682efe/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1689700564235,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "Support data used by a publication's display and vignette visualization(s).",
+  "uuid": "1287c824ce3403c06d29a37842682efe"
+}

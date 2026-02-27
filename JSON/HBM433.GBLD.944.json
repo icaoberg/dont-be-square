@@ -1,0 +1,218 @@
+{
+  "contacts": [
+    {
+      "affiliation": "The Broad Institute",
+      "first_name": "Evan",
+      "last_name": "Macosko",
+      "middle_name_or_initial": "Z",
+      "name": "Evan Macosko",
+      "orcid_id": "0000-0002-2794-5165"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "The Broad Institute",
+      "first_name": "Evan",
+      "last_name": "Macosko",
+      "middle_name_or_initial": "Z",
+      "name": "Evan Macosko",
+      "orcid_id": "0000-0002-2794-5165"
+    },
+    {
+      "affiliation": "The Broad Institute",
+      "first_name": "Fei",
+      "last_name": "Chen",
+      "middle_name_or_initial": "",
+      "name": "Fei Chen ",
+      "orcid_id": "0000-0003-2308-3649"
+    },
+    {
+      "affiliation": "The Broad Institute",
+      "first_name": "Evan",
+      "last_name": "Murray",
+      "middle_name_or_initial": "",
+      "name": "Evan Murray ",
+      "orcid_id": "0000-0002-9195-7478"
+    },
+    {
+      "affiliation": "The Broad Institute",
+      "first_name": "Jilong ",
+      "last_name": "Li",
+      "middle_name_or_initial": "",
+      "name": "Jilong Li",
+      "orcid_id": "0000-0003-4109-7710"
+    },
+    {
+      "affiliation": "The Broad Institute",
+      "first_name": "Karol ",
+      "last_name": "Balderrama",
+      "middle_name_or_initial": "",
+      "name": "Karol Balderrama",
+      "orcid_id": "0000-0001-8458-1364"
+    },
+    {
+      "affiliation": "The Broad Institute",
+      "first_name": "Jonah ",
+      "last_name": "Langlieb",
+      "middle_name_or_initial": "",
+      "name": "Jonah Langlieb ",
+      "orcid_id": "0000-0002-9949-1123"
+    }
+  ],
+  "created_by_user_displayname": "Joel Welling",
+  "created_by_user_email": "jw1d@andrew.cmu.edu",
+  "created_by_user_sub": "2586d19b-74b7-4bed-987e-68f5525bee76",
+  "created_timestamp": 1631647239416,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "data_types": [
+    "Slide-seq"
+  ],
+  "dataset_info": "Slide-seq data from the kidney (right) of a donor of unknown age, race and sex\r\n\r\n19 Slide-seq arrays of the right kidney cortex from donor UCSD0020  : upload/Puck_200506_08",
+  "dataset_type": "Slide-seq",
+  "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX21024894",
+  "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002249",
+  "description": "19 Slide-seq arrays of the right kidney cortex from donor UCSD0020  : upload/Puck_200506_08",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Diane Salamon",
+      "created_by_user_email": "salamond@wustl.edu",
+      "created_by_user_sub": "a00bec30-ca4d-4df5-9d96-14d0ccd601a1",
+      "created_timestamp": 1603994376838,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "University of California San Diego TMC",
+      "group_uuid": "03b3d854-ed44-11e8-8bce-0e368f3075e8",
+      "hubmap_id": "HBM964.XZCR.478",
+      "last_modified_timestamp": 1663965044486,
+      "last_modified_user_displayname": "Amanda Knoten",
+      "last_modified_user_email": "aknoten@wustl.edu",
+      "last_modified_user_sub": "c4771db5-6a6a-4f88-a874-992e175d77a0",
+      "metadata": {
+        "cold_ischemia_time_unit": "minutes",
+        "cold_ischemia_time_value": "41",
+        "health_status": "relatively healthy",
+        "organ_condition": "healthy",
+        "pathologist_report": "largely normal, no cancer, no necrosis",
+        "perfusion_solution": "None",
+        "procedure_date": "2019-07-01",
+        "specimen_preservation_temperature": "Freezer (-80 Celsius)",
+        "specimen_quality_criteria": "H&E",
+        "specimen_tumor_distance_unit": "",
+        "specimen_tumor_distance_value": "",
+        "vital_state": "living",
+        "warm_ischemia_time_unit": "minutes",
+        "warm_ischemia_time_value": "30"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.568g9hw",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/df0b33f7-371a-47a4-a636-a27db19bdbc9",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/UBERON_0000362",
+          "http://purl.obolibrary.org/obo/UBERON_0002015",
+          "http://purl.obolibrary.org/obo/UBERON_0001225",
+          "http://purl.obolibrary.org/obo/UBERON_0002189",
+          "http://purl.obolibrary.org/obo/UBERON_0004200",
+          "http://purl.obolibrary.org/obo/UBERON_0001284"
+        ],
+        "creation_date": "2022-09-23",
+        "creator": "Amanda Knoten",
+        "creator_first_name": "Amanda",
+        "creator_last_name": "Knoten",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/df0b33f7-371a-47a4-a636-a27db19bdbc9_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2022-09-23",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHMRightKidney",
+          "translation_units": "millimeter",
+          "x_rotation": -30,
+          "x_scaling": 1,
+          "x_translation": 56.641,
+          "y_rotation": -22,
+          "y_scaling": 1,
+          "y_translation": 88.893,
+          "z_rotation": 22,
+          "z_scaling": 1,
+          "z_translation": 30.677
+        },
+        "x_dimension": 4,
+        "y_dimension": 6,
+        "z_dimension": 2
+      },
+      "sample_category": "block",
+      "uuid": "0a558711c6b9d5b9029717d722a2c31c"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM433.GBLD.944",
+  "entity_type": "Dataset",
+  "group_name": "Broad Institute RTI",
+  "group_uuid": "9c4a56ca-79ac-11ea-8359-0e41da796b5d",
+  "hubmap_id": "HBM433.GBLD.944",
+  "ingest_id": "568112d77af9a5a82cf4f4a4195fd3cc_scan.and.begin.processing_2021-09-24T10:25:16.698563-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "cb8655c",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1652240166160,
+  "last_modified_user_displayname": "Zhou Yuan",
+  "last_modified_user_email": "ZHY19@pitt.edu",
+  "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+  "local_directory_rel_path": "protected/Broad Institute RTI/568112d77af9a5a82cf4f4a4195fd3cc/",
+  "metadata": {
+    "acquisition_instrument_model": "NovaSeq 6000",
+    "acquisition_instrument_vendor": "Illumina",
+    "analyte_class": "RNA",
+    "assay_category": "sequence",
+    "assay_type": "Slide-seq",
+    "bead_barcode_offset": "1,27",
+    "bead_barcode_read": "R1",
+    "bead_barcode_size": "8,6",
+    "contributors_path": "extras/contributors.tsv",
+    "description": "Slide-seq on the kidney cortex",
+    "execution_datetime": "2020-10-15 6:11",
+    "is_targeted": "False",
+    "is_technical_replicate": "False",
+    "library_adapter_sequence": "5'- AAGCAGTGGTATCAACGCAGAGTGAATGGG -3'",
+    "library_average_fragment_size": "620",
+    "library_construction_protocols_io_doi": "10.17504/protocols.io.bpgzmjx6",
+    "library_final_yield_unit": "ng",
+    "library_final_yield_value": "13.2",
+    "library_layout": "paired-end",
+    "library_pcr_cycles": "13",
+    "library_pcr_cycles_for_sample_index": "12",
+    "operator": "Evan Murray",
+    "operator_email": "emurray@broadinstitute.org",
+    "pi": "Evan Macosko",
+    "pi_email": "emacosko@broadinstitute.org",
+    "protocols_io_doi": "10.17504/protocols.io.bpgzmjx6",
+    "puck_id": "Puck_200506_08",
+    "rnaseq_assay_method": "Slide-Seq",
+    "sequencing_phix_percent": "0",
+    "sequencing_read_format": "42/8/0/60",
+    "sequencing_read_percent_q30": "0.9",
+    "sequencing_reagent_kit": "S2",
+    "version": "1"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1633795536759,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM433.GBLD.944",
+  "run_id": "568112d77af9a5a82cf4f4a4195fd3cc_scan.and.begin.processing_2021-09-24T10:25:16.698563-04:00",
+  "status": "Published",
+  "title": "Slide-seq data from the kidney (right) of a 67-year-old white male",
+  "uuid": "568112d77af9a5a82cf4f4a4195fd3cc"
+}

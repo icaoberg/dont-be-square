@@ -1,0 +1,1398 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1637514278422,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "codex_cytokit_v1"
+  ],
+  "dataset_info": "codex_cytokit__654418415bed5ecb9596b17a0320a2c6__codex-pipeline",
+  "dataset_type": "CODEX [Cytokit + SPRM]",
+  "direct_ancestors": [
+    {
+      "antibodies": [
+        {
+          "antibody_name": "Anti-CD31 antibody",
+          "channel_id": "Cycle2_CH2",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4450017",
+          "conjugated_tag": "Akoya BX001-Alexa Fluor 750",
+          "dilution": "1/200",
+          "lot_number": "B310793",
+          "rr_id": "AB_1267039",
+          "uniprot_accession_number": "P16284",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD8a antibody",
+          "channel_id": "Cycle2_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4250012",
+          "conjugated_tag": "Akoya BX026-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "B304054",
+          "rr_id": "AB_2650657",
+          "uniprot_accession_number": "P01732",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD20 antibody",
+          "channel_id": "Cycle3_CH2",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4450018",
+          "conjugated_tag": "Akoya BX007-Alexa Fluor 750",
+          "dilution": "1/200",
+          "lot_number": "B310936 ",
+          "rr_id": "AB_10734340",
+          "uniprot_accession_number": "P11836",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-Ki67 antibody",
+          "channel_id": "Cycle3_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4250019",
+          "conjugated_tag": "Akoya BX047-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "B305585",
+          "rr_id": "AB_396287",
+          "uniprot_accession_number": "P46013",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD3e antibody",
+          "channel_id": "Cycle3_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4450030",
+          "conjugated_tag": "Akoya BX045-Cy5",
+          "dilution": "1/200",
+          "lot_number": "B320435",
+          "rr_id": "AB_764498",
+          "uniprot_accession_number": "P07766",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-SMA antibody",
+          "channel_id": "Cycle4_CH2",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "ab240654",
+          "conjugated_tag": "Akoya BX013-Alexa Fluor 750",
+          "dilution": "1/200",
+          "lot_number": "UF-31Jul2020",
+          "rr_id": "AB_2223019",
+          "uniprot_accession_number": "P62736",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-Podoplanin antibody",
+          "channel_id": "Cycle4_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4250004",
+          "conjugated_tag": "Akoya BX023-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "B319036  ",
+          "rr_id": "AB_1595616",
+          "uniprot_accession_number": "Q86YL7",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD68 antibody",
+          "channel_id": "Cycle4_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4350019",
+          "conjugated_tag": "Akoya BX015-Cy5",
+          "dilution": "1/200",
+          "lot_number": "B319545",
+          "rr_id": "AB_11151139",
+          "uniprot_accession_number": "P34810",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-PanCK antibody",
+          "channel_id": "Cycle5_CH2",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4450020",
+          "conjugated_tag": "Akoya BX019-Alexa Fluor 750",
+          "dilution": "1/200",
+          "lot_number": "B304089",
+          "rr_id": "AB_2616960",
+          "uniprot_accession_number": "P04264",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD21 antibody",
+          "channel_id": "Cycle5_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "ab193554",
+          "conjugated_tag": "Akoya BX032-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "UF-21Oct2020",
+          "rr_id": "AB_1267035",
+          "uniprot_accession_number": "P20023",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD4 antibody",
+          "channel_id": "Cycle5_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4350018 ",
+          "conjugated_tag": "Akoya BX004-Cy5",
+          "dilution": "1/200",
+          "lot_number": "B320436    ",
+          "rr_id": "AB_2750883",
+          "uniprot_accession_number": "P01730",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-Lyve1 antibody",
+          "channel_id": "Cycle6_CH2",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "ab232935",
+          "conjugated_tag": "Akoya BX004-Alexa Fluor 750",
+          "dilution": "1/50",
+          "lot_number": "UF-12Feb2020",
+          "rr_id": "AB_2884014",
+          "uniprot_accession_number": "Q9Y5Y7",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD45RO antibody",
+          "channel_id": "Cycle6_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4250023",
+          "conjugated_tag": "Akoya BX017-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "B311690",
+          "rr_id": "AB_314418",
+          "uniprot_accession_number": "P08575",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD11c antibody",
+          "channel_id": "Cycle6_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4350020",
+          "conjugated_tag": "Akoya BX024-Cy5",
+          "dilution": "1/200",
+          "lot_number": "B304058      ",
+          "rr_id": "AB_2572997",
+          "uniprot_accession_number": "P20702",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD35 antibody",
+          "channel_id": "Cycle7_CH2",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "ab240961",
+          "conjugated_tag": "Akoya BX016-Alexa Fluor 750",
+          "dilution": "1/100",
+          "lot_number": "UF-14Oct2020",
+          "rr_id": "AB_2884017",
+          "uniprot_accession_number": "P17927",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-eCAD antibody",
+          "channel_id": "Cycle7_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4250021",
+          "conjugated_tag": "Akoya BX014-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "B317026     ",
+          "rr_id": "AB_2533118",
+          "uniprot_accession_number": "P12830",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD107a antibody",
+          "channel_id": "Cycle7_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4350001",
+          "conjugated_tag": "Akoya BX006-Cy5",
+          "dilution": "1/200",
+          "lot_number": "B319036    ",
+          "rr_id": "AB_1134260",
+          "uniprot_accession_number": "P11279",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD34 antibody",
+          "channel_id": "Cycle8_CH2",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "NBP2-32932",
+          "conjugated_tag": "Akoya BX022-Alexa Fluor 750",
+          "dilution": "1/100",
+          "lot_number": "UF-14Oct2020",
+          "rr_id": "AB_2861355",
+          "uniprot_accession_number": "P28906",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD44 antibody",
+          "channel_id": "Cycle8_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4250002",
+          "conjugated_tag": "Akoya BX005-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "B315320     ",
+          "rr_id": "AB_312952",
+          "uniprot_accession_number": "P16070",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-HLADR antibody",
+          "channel_id": "Cycle8_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "Akoya 4450029",
+          "conjugated_tag": "Akoya BX033-Cy5",
+          "dilution": "1/200",
+          "lot_number": "B292265     ",
+          "rr_id": "AB_10563656",
+          "uniprot_accession_number": "P04233",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-Foxp3 antibody",
+          "channel_id": "Cycle9_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "14-4777-82",
+          "conjugated_tag": "Akoya BX020-Atto 550",
+          "dilution": "1/50",
+          "lot_number": "UF-12Feb2020",
+          "rr_id": "AB_467556",
+          "uniprot_accession_number": "Q9BZS1",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD163 antibody",
+          "channel_id": "Cycle9_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "NBI10-40686",
+          "conjugated_tag": "Akoya BX036-Cy5",
+          "dilution": "1/200",
+          "lot_number": "UF-03Aug2020",
+          "rr_id": "AB_714951",
+          "uniprot_accession_number": "Q86VB7",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-COL4 antibody",
+          "channel_id": "Cycle10_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "ab226485",
+          "conjugated_tag": "Akoya BX029-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "UF-03Aug2020",
+          "rr_id": "AB_2801511",
+          "uniprot_accession_number": "P02462",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-Vimentin antibody",
+          "channel_id": "Cycle10_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "ab8978",
+          "conjugated_tag": "Akoya BX042-Cy5",
+          "dilution": "1/400",
+          "lot_number": "UF-31Jul2020",
+          "rr_id": "AB_306907",
+          "uniprot_accession_number": "P08670",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD15 antibody",
+          "channel_id": "Cycle11_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "559045",
+          "conjugated_tag": "Akoya BX035-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "UF-14Oct2020",
+          "rr_id": "AB_397181",
+          "uniprot_accession_number": "P22083",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD45 antibody",
+          "channel_id": "Cycle11_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "14-9457-82",
+          "conjugated_tag": "Akoya BX027-Cy5",
+          "dilution": "1/100",
+          "lot_number": "UF-13Oct2020",
+          "rr_id": "AB_11063696",
+          "uniprot_accession_number": "P08575",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD5 antibody",
+          "channel_id": "Cycle12_CH3",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "ab213003",
+          "conjugated_tag": "Akoya BX041-Atto 550",
+          "dilution": "1/200",
+          "lot_number": "UF-13Oct2020",
+          "rr_id": "AB_2884016",
+          "uniprot_accession_number": "P06127",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Anti-CD1c antibody",
+          "channel_id": "Cycle12_CH4",
+          "concentration_unit": "ug/ml",
+          "concentration_value": "",
+          "conjugated_cat_number": "ab270797",
+          "conjugated_tag": "Akoya BX-30-Cy5",
+          "dilution": "1/100",
+          "lot_number": "UF-21Oct2020",
+          "rr_id": "AB_2884015",
+          "uniprot_accession_number": "P29017",
+          "version": "2"
+        }
+      ],
+      "contacts": [
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Jerelyn",
+          "last_name": "Nick",
+          "name": "Jerelyn Nick",
+          "orcid_id": "0000-0002-8928-741X"
+        },
+        {
+          "affiliation": "University of Florida",
+          "first_name": "Clive",
+          "last_name": "Wasserfall",
+          "name": "Clive Wasserfall",
+          "orcid_id": "0000-0002-3522-8932"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Mark",
+          "last_name": "Atkinson",
+          "middle_name_or_initial": "A",
+          "name": "Mark A Atkinson",
+          "orcid_id": "0000-0001-8489-4782"
+        },
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Jerelyn",
+          "is_contact": "TRUE",
+          "last_name": "Nick",
+          "middle_name_or_initial": "A",
+          "name": "Jerelyn A Nick",
+          "orcid_id": "0000-0002-8928-741X"
+        },
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Marda ",
+          "last_name": "Jorgensen",
+          "middle_name_or_initial": "L",
+          "name": "Marda L Jorgensen",
+          "orcid_id": "0000-0002-7250-3569"
+        },
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Hunter",
+          "last_name": "Hakimian",
+          "middle_name_or_initial": "B",
+          "name": "Hunter B Hakimian",
+          "orcid_id": "0000-0001-9668-044X"
+        },
+        {
+          "affiliation": "TMC-Florida/Zurich",
+          "first_name": "Clive ",
+          "last_name": "Wasserfall",
+          "middle_name_or_initial": "H",
+          "name": "Clive H Wasserfall",
+          "orcid_id": "0000-0002-3522-8932"
+        }
+      ],
+      "created_by_user_displayname": "Hunter Hakimian",
+      "created_by_user_email": "hakimianh13@ufl.edu",
+      "created_by_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+      "created_timestamp": 1614609400982,
+      "data_access_level": "public",
+      "data_types": [
+        "CODEX"
+      ],
+      "dataset_info": "CODEX data from the spleen of a 21-year-old black or african american female\r\n\r\nCX_20-006_SP_CC2_B dataset\n\nSingle dataset of codex performed on spleen",
+      "dataset_type": "CODEX",
+      "description": "CX_20-006_SP_CC2_B dataset\n\nSingle dataset of codex performed on spleen",
+      "doi_url": "https://doi.org/10.35079/HBM568.NGPL.345",
+      "entity_type": "Dataset",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM568.NGPL.345",
+      "ingest_id": "654418415bed5ecb9596b17a0320a2c6_scan.and.begin.processing_2021-08-30T17:46:59.020817-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "882fc6a",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1652236348403,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/hive/hubmap/data/consortium/University of Florida TMC/654418415bed5ecb9596b17a0320a2c6",
+      "metadata": {
+        "acquisition_instrument_model": "BZ-X800",
+        "acquisition_instrument_vendor": "Keyence",
+        "analyte_class": "Protein",
+        "antibodies_path": "extras/antibodies.tsv",
+        "assay_category": "imaging",
+        "assay_type": "CODEX",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2021-03-02 08:55",
+        "is_targeted": "TRUE",
+        "number_of_antibodies": "28",
+        "number_of_channels": "4",
+        "number_of_cycles": "13",
+        "operator": "Marda Jorgensen",
+        "operator_email": "marda@ufl.edu",
+        "pi": "Clive Wasserfall",
+        "pi_email": "clive@ufl.edu",
+        "preparation_instrument_model": "version 1 robot",
+        "preparation_instrument_vendor": "CODEX",
+        "protocols_io_doi": "10.17504/protocols.io.bdcbi2sn",
+        "reagent_prep_protocols_io_doi": "10.17504/protocols.io.bc2riyd6",
+        "resolution_x_unit": "nm",
+        "resolution_x_value": "377.4038462",
+        "resolution_y_unit": "nm",
+        "resolution_y_value": "377.4038462",
+        "resolution_z_unit": "nm",
+        "resolution_z_value": "1500",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.bbsdina6"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1631125834373,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM568.NGPL.345",
+      "run_id": "654418415bed5ecb9596b17a0320a2c6_scan.and.begin.processing_2021-08-30T17:46:59.020817-04:00",
+      "status": "Published",
+      "uuid": "654418415bed5ecb9596b17a0320a2c6"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/stitched/mask/reg1_stitched_mask.ome.tif",
+      "size": 85399494,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/stitched/expressions/reg1_stitched_expressions.ome.tif",
+      "size": 6259083779,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg1_stitched_expressions.ome.tiff-channel_pca.ome.tif",
+      "size": 291337583,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/reg1_stitched_expressions.ome.tiff-superpixel.ome.tif",
+      "size": 7677370,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg1_stitched_expressions-anndata.zarr/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg1_stitched_expressions-anndata.zarr/obsm/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg1_stitched_expressions-anndata.zarr/obs/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg1_stitched_expressions-anndata.zarr/var/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "AnnData Zarr store for storing and visualizing SPRM outputs.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/reg1_stitched_expressions-anndata.zarr/layers/.zgroup",
+      "size": 24,
+      "type": "unknown"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_json/reg1_stitched_expressions.cell-sets.json",
+      "size": 40578770,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's cluster.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_json/reg1_stitched_expressions.factors.json",
+      "size": 29632302,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell segmented and analyzed in SPRM.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_json/reg1_stitched_expressions.cells.json",
+      "size": 576381557,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information for a heatmap of each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_json/reg1_stitched_expressions.clusters.json",
+      "size": 157452549,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about each cell's expression level.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_json/reg1_stitched_expressions.genes.json",
+      "size": 195764439,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/stitched/mask/reg1_stitched_mask.offsets.json",
+      "size": 40,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/stitched/expressions/reg1_stitched_expressions.offsets.json",
+      "size": 348,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg1_stitched_expressions.ome.tiff-channel_pca.offsets.json",
+      "size": 33,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/reg1_stitched_expressions.ome.tiff-superpixel.offsets.json",
+      "size": 9,
+      "type": "json"
+    },
+    {
+      "description": "mean intensity of pixel intensities for all parts of each cell for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_channel_meanAll.csv",
+      "size": 66377648,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_boundaries_total_legend.csv",
+      "size": 191,
+      "type": "csv"
+    },
+    {
+      "description": "covariance of nuclear pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-nuclei_channel_covar.csv",
+      "size": 1931804295,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyTotalpernuclei.png",
+      "size": 8909266,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance of cell boundary pixel intensities for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_boundaries_channel_covar.csv",
+      "size": 2270789911,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) clusters mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyMeansAll.png",
+      "size": 4896863,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternucleus_boundaries_covariance_legend.csv",
+      "size": 216,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternucleus_boundaries_total_legend.csv",
+      "size": 189,
+      "type": "csv"
+    },
+    {
+      "description": "text file of row and column label for adjacency matrix.",
+      "edam_term": "EDAM_1.24.data_3671",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff_AdjacencyMatrixRowColLabels.txt",
+      "size": 1114044,
+      "type": "unknown"
+    },
+    {
+      "description": "tSNE clusters for all the features used in SPRM mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbytSNEAllFeatures.png",
+      "size": 11831148,
+      "type": "unknown"
+    },
+    {
+      "description": "tSNE 2-Dimensional projection of all SPRM calculated features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-tSNE_allfeatures.csv",
+      "size": 5992718,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternuclei_mean_legend.csv",
+      "size": 197,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyMeanspernuclei.png",
+      "size": 8852025,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternuclei_total_legend.pdf",
+      "size": 11352,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_boundaries_covariance_legend.csv",
+      "size": 217,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for each nucleus.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-nuclei_cluster.csv",
+      "size": 3538397,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyTotalpernucleus_boundaries.png",
+      "size": 10080062,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cluster_meanALLCH_legend.pdf",
+      "size": 9453652,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-nucleus_boundaries_channel_total.csv",
+      "size": 24490847,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternuclei_covariance_legend.pdf",
+      "size": 13517,
+      "type": "pdf"
+    },
+    {
+      "description": "cluster identification for clustering by total intensity in cytoplasm of each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_cluster.csv",
+      "size": 3538397,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_boundaries_channel_total.csv",
+      "size": 25962408,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-nuclei_channel_total.csv",
+      "size": 26343002,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for cell boundary mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyMeanspercell_boundaries.png",
+      "size": 11905332,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity clusters for cells mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyMeanspercell.png",
+      "size": 4931327,
+      "type": "unknown"
+    },
+    {
+      "description": "total intensity clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyTotalpercell_boundaries.png",
+      "size": 11973696,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_boundaries_mean_legend.csv",
+      "size": 196,
+      "type": "csv"
+    },
+    {
+      "description": "cluster identification for clustering by nuclear boundaries total intensity.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-nucleus_boundaries_cluster.csv",
+      "size": 3538397,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyCovarpercell.png",
+      "size": 5205543,
+      "type": "unknown"
+    },
+    {
+      "description": "pixel coordinates of cell centers of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_centers.csv",
+      "size": 3525247,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_mean_legend.csv",
+      "size": 195,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_total_legend.pdf",
+      "size": 11352,
+      "type": "pdf"
+    },
+    {
+      "description": "Signal to noise ratio of each channel image by otsu and z-score.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-SNR.csv",
+      "size": 1273,
+      "type": "csv"
+    },
+    {
+      "description": "silhouette scores for clustering using different subsets of features.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiffclusteringsilhouetteScores.csv",
+      "size": 2562,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_texture_legend.csv",
+      "size": 35,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyCovarpercell_boundaries.png",
+      "size": 11953793,
+      "type": "unknown"
+    },
+    {
+      "description": "Spatial adjacency graph of cells and their connected neighbors.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff_AdjacencyGraph.pdf",
+      "size": 9456329,
+      "type": "pdf"
+    },
+    {
+      "description": "mean intensity of cell boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_boundaries_channel_mean.csv",
+      "size": 78151550,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for cell boundaries mapped back into the spatial location of each respective cell boundary.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyCovarpernucleus_boundaries.png",
+      "size": 9960906,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_covariance_legend.csv",
+      "size": 288,
+      "type": "csv"
+    },
+    {
+      "description": "covariance clusters for nuclei mapped back into the spatial location of each respective nucleus.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyCovarpernuclei.png",
+      "size": 8803666,
+      "type": "unknown"
+    },
+    {
+      "description": "covariance of nuclear boundaries pixels for all channels for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-nucleus_boundaries_channel_covar.csv",
+      "size": 1859571774,
+      "type": "csv"
+    },
+    {
+      "description": "Clustering of pixels by intensities in each channel written out as an ome.tiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-superpixel.ome.tiff",
+      "size": 4786674,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternucleus_boundaries_mean_legend.csv",
+      "size": 195,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity clusters for nucleus boundaries mapped back into the spatial location of each respective nucleus boundary",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyMeanspernucleus_boundaries.png",
+      "size": 10013102,
+      "type": "unknown"
+    },
+    {
+      "description": "foreground and background binarization of the image (used for evaluation of the segmentation).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff_img_binary.png",
+      "size": 121285,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternucleus_boundaries_mean_legend.pdf",
+      "size": 11353,
+      "type": "pdf"
+    },
+    {
+      "description": "nuclei texture ",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-nuclei_1_texture.csv",
+      "size": 122005969,
+      "type": "csv"
+    },
+    {
+      "description": "texture clusters mapped back into the spatial location of each cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyTexture.png",
+      "size": 2714039,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_covariance_legend.pdf",
+      "size": 13321,
+      "type": "pdf"
+    },
+    {
+      "description": "cluster identification for clustering cells by total intensity in cell boundary pixels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_boundaries_cluster.csv",
+      "size": 3538397,
+      "type": "csv"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3) output as an ometiff.",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-channel_pca.ome.tiff",
+      "size": 215968175,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_total_legend.csv",
+      "size": 190,
+      "type": "csv"
+    },
+    {
+      "description": "mean intensity of nuclear boundary pixels for each cell for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-nucleus_boundaries_channel_mean.csv",
+      "size": 66377648,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_mean_legend.pdf",
+      "size": 11352,
+      "type": "pdf"
+    },
+    {
+      "description": "texture features for each cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_1_texture.csv",
+      "size": 122005969,
+      "type": "csv"
+    },
+    {
+      "description": "clustering by cell shape mapped back onto the spatial locations of cells in the image.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-Cluster_Shape.png",
+      "size": 8058244,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of nuclei for each channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-nuclei_channel_mean.csv",
+      "size": 72800442,
+      "type": "csv"
+    },
+    {
+      "description": "total intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channel.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_channel_total.csv",
+      "size": 28752239,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercells_cellshape_legend.pdf",
+      "size": 10801,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_boundaries_mean_legend.pdf",
+      "size": 11354,
+      "type": "pdf"
+    },
+    {
+      "description": "Content of the top 3 principal components in each pixel (Red=PC1,Green=PC2,Blue=PC3).",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-Top3ChannelPCA.png",
+      "size": 102006649,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternuclei_covariance_legend.csv",
+      "size": 294,
+      "type": "csv"
+    },
+    {
+      "description": "Image Quality Measures.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": true,
+      "is_qa_qc": true,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-SPRM_Image_Quality_Measures.json",
+      "size": 10693,
+      "type": "json"
+    },
+    {
+      "description": "Sparse matrix output of cell adjacency matrix.",
+      "edam_term": "EDAM_1.24.format_3916",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff_AdjacencyMatrix.mtx",
+      "size": 16645253,
+      "type": "unknown"
+    },
+    {
+      "description": "Clustering of pixels by intensities of each channel.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-Superpixels.png",
+      "size": 5519952,
+      "type": "unknown"
+    },
+    {
+      "description": "mean intensity of cytoplasm pixels in each cell (not including cell boundary, nucleus or nuclear bounday) for all channels.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_channel_mean.csv",
+      "size": 84322692,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_boundaries_covariance_legend.pdf",
+      "size": 11542,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each mean intensity of all parts of the segmentation mask (cell, nucleus, cell boundary, nucleus boundary) cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cluster_meanALLCH_legend.csv",
+      "size": 196,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each texture cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercells_texture_legend.pdf",
+      "size": 12092,
+      "type": "pdf"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternucleus_boundaries_total_legend.pdf",
+      "size": 11359,
+      "type": "pdf"
+    },
+    {
+      "description": "normalized cell shape coordinates.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_shape.csv",
+      "size": 345879168,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei mean intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternuclei_mean_legend.pdf",
+      "size": 11351,
+      "type": "pdf"
+    },
+    {
+      "description": "covariance of cytoplasm pixel intensities for all channels of each cell (not including cell boundary, nucleus or nuclear bounday).",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_channel_covar.csv",
+      "size": 2350580299,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nuclei total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternuclei_total_legend.csv",
+      "size": 187,
+      "type": "csv"
+    },
+    {
+      "description": "image coordinates for outline of each segmented cell.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-cell_polygons_spatial.csv",
+      "size": 238299324,
+      "type": "csv"
+    },
+    {
+      "description": "top 3 PCA components and their explained variance in each channel in the image.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-channelPCA_summary.csv",
+      "size": 2019,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each tSNE cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_tSNE_legend.csv",
+      "size": 258,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell boundary total intensity cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_boundaries_total_legend.pdf",
+      "size": 11353,
+      "type": "pdf"
+    },
+    {
+      "description": "total intensity clusters for cells (cytoplasm) mapped back into the spatial location of each respective cell.",
+      "edam_term": "EDAM_1.24.format_3603",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusterbyTotalpercell.png",
+      "size": 5325675,
+      "type": "unknown"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each cell shape cluster.",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clustercell_cellshape_legend.csv",
+      "size": 220,
+      "type": "csv"
+    },
+    {
+      "description": "largest 3 channel contributions in the image to each nucleus boundary covariance cluster.",
+      "edam_term": "EDAM_1.24.format_3508",
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/reg1_stitched_expressions.ome.tiff-clusternucleus_boundaries_covariance_legend.pdf",
+      "size": 11539,
+      "type": "pdf"
+    }
+  ],
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM528.NMQV.274",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "6340d6a",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.8.3"
+      },
+      {
+        "documentation_url": "",
+        "hash": "6340d6a",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.8.3"
+      },
+      {
+        "documentation_url": "",
+        "hash": "1c73942",
+        "input_parameters": [],
+        "name": "steps/ometiff_second_stitching.cwl",
+        "origin": "https://github.com/hubmapconsortium/codex-pipeline",
+        "version": "v2.2.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "5b41e86",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/sprm",
+        "version": "v1.0.6.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "6e55233",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/create-vis-symlink-archive",
+        "version": "v1.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "b1b40c4",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "fb94da7",
+        "input_parameters": [],
+        "name": "sprm-to-anndata.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": ""
+      }
+    ],
+    "workflow_description": "The CODEX pipeline performs illumination correction and other pre-processing steps, segments nuclei and cells using Cytokit, and performs spatial analysis of expression data using SPRM, which computes various measures of analyte intensity per cell, performs clustering based on expression and other data, and computes markers for each cluster.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1698995761695,
+  "last_modified_user_displayname": "Karl Burke",
+  "last_modified_user_email": "KBURKE@pitt.edu",
+  "last_modified_user_sub": "3aaa925d-755a-4193-98c7-44455de783ff",
+  "local_directory_rel_path": "public/University of Florida TMC/a689dace3e9945b87c8743a6c3c4744e/",
+  "next_revision_uuid": "404cbb3311378c8e1ab394a026d88d2e",
+  "pipeline_message": "the process ran",
+  "previous_revision_uuid": "7f539bf8404ff94e18a9af973a53b3f3",
+  "published_timestamp": 1642038906852,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "CODEX [Cytokit + SPRM] data from the spleen of a 21-year-old black or african american female",
+  "uuid": "a689dace3e9945b87c8743a6c3c4744e"
+}

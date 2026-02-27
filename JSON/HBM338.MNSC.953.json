@@ -1,0 +1,88 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603732224747,
+  "data_access_level": "public",
+  "description": "Complete 0.8cm lymph node embedded in paraffin",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603130395652,
+    "data_access_level": "public",
+    "description": "0.8cm LN isolated for CODEX analysis",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM374.HKFP.523",
+    "last_modified_timestamp": 1603130395652,
+    "organ": "LY",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/7c262b7c0f51e197c6925c177320f50f/Pathology_Report20-006 LN.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "6435f3a9c427b5bfd21a82f9ecaf0933"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM338.MNSC.953",
+  "last_modified_timestamp": 1670964069798,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgnijve",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/588e9072-9de6-45d0-a134-27c725a68b14",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049"
+    ],
+    "creation_date": "2021-10-01",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/588e9072-9de6-45d0-a134-27c725a68b14_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-01",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHFRightLymphNode",
+      "translation_units": "millimeter",
+      "x_rotation": 0,
+      "x_scaling": 1,
+      "x_translation": 10.117,
+      "y_rotation": 0,
+      "y_scaling": 1,
+      "y_translation": 6.417,
+      "z_rotation": 0,
+      "z_scaling": 1,
+      "z_translation": 6.256
+    },
+    "x_dimension": 20,
+    "y_dimension": 10,
+    "z_dimension": 12
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffff3dc53cd3cf56071878a9f3f6d421",
+    "filename": "HBM338.MNSC.953.jpg"
+  },
+  "uuid": "97bf795bf495df7e9dab1b0dac7b914f"
+}

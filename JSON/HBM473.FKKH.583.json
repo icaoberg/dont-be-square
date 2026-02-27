@@ -1,0 +1,148 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Jeffrey",
+      "last_name": "Spraggins",
+      "middle_name_or_initial": "M",
+      "name": "Jeffrey Spraggins",
+      "orcid_id": "0000-0001-9198-5498"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Jeffrey",
+      "last_name": "Spraggins",
+      "middle_name_or_initial": "M",
+      "name": "Jeffrey Spraggins",
+      "orcid_id": "0000-0001-9198-5498"
+    },
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Jennifer",
+      "last_name": "Harvey",
+      "middle_name_or_initial": "L",
+      "name": "Jennifer L. Harvey",
+      "orcid_id": "0000-0003-3067-1238"
+    },
+    {
+      "affiliation": "Vanderbilt University Medical Center",
+      "first_name": "Agnes",
+      "last_name": "Fogo",
+      "middle_name_or_initial": "B",
+      "name": "Agnes B. Fogo",
+      "orcid_id": "0000-0003-3698-8527"
+    },
+    {
+      "affiliation": "Vanderbilt University Medical Center",
+      "first_name": "Haichun",
+      "last_name": "Yang",
+      "middle_name_or_initial": "",
+      "name": "Haichun Yang",
+      "orcid_id": "0000-0003-4265-7492"
+    },
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Jamie",
+      "last_name": "Allen",
+      "middle_name_or_initial": "L",
+      "name": "Jamie Allen",
+      "orcid_id": "0000-0002-4739-2166"
+    },
+    {
+      "affiliation": "Vanderbilt University",
+      "first_name": "Danielle",
+      "last_name": "Gutierrez",
+      "middle_name_or_initial": "B",
+      "name": "Danielle Gutierrez",
+      "orcid_id": "0000-0001-6355-2134"
+    }
+  ],
+  "created_by_user_displayname": "Jeff Spraggins",
+  "created_by_user_email": "spraggj@vanderbilt.edu",
+  "created_by_user_sub": "ce74ea5c-86bd-44b1-bfc4-4459d4fe20b5",
+  "created_timestamp": 1589805343992,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "data_types": [
+    "PAS"
+  ],
+  "dataset_info": "Periodic acid-Schiff Stained Microscopy of Human Kidney Tissue\r\n\r\nPeriodic acid-Schiff  Stained Microscopy collected from the Right Kidney of a 31 year old White Male donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Brightfield microscopy images of fresh-frozen tissue sections were collected with a Leica Biosystems SCN400. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+  "dataset_type": "Histology",
+  "description": "Periodic acid-Schiff  Stained Microscopy collected from the Right Kidney of a 31 year old White Male donor by the Biomolecular Multimodal Imaging Center (BIOMC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Brightfield microscopy images of fresh-frozen tissue sections were collected with a Leica Biosystems SCN400. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Jamie Allen",
+      "created_by_user_email": "allenj2@vanderbilt.edu",
+      "created_by_user_sub": "83ae233d-6d1d-40eb-baa7-b6f636ab579a",
+      "created_timestamp": 1577417368645,
+      "data_access_level": "public",
+      "description": "01/10/20 - LCMS sections 1-5",
+      "entity_type": "Sample",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM573.FMVK.997",
+      "last_modified_timestamp": 1580316530049,
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.7ethjen",
+      "sample_category": "section",
+      "uuid": "4799f11562a05cda8c0cd6eddb0e9666"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM473.FKKH.583",
+  "entity_type": "Dataset",
+  "group_name": "Vanderbilt TMC",
+  "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+  "hubmap_id": "HBM473.FKKH.583",
+  "ingest_id": "ae7723aee8bc809afe0a05756bdf91de_scan.and.begin.processing_2020-07-27T20:14:44.667824-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "de1b3fc",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1644640789134,
+  "last_modified_user_displayname": "Zhou Yuan",
+  "last_modified_user_email": "ZHY19@pitt.edu",
+  "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+  "local_directory_rel_path": "public/Vanderbilt TMC/ae7723aee8bc809afe0a05756bdf91de/",
+  "metadata": {
+    "_from_metadatatsv": true,
+    "acquisition_instrument_model": "SCN400",
+    "acquisition_instrument_vendor": "Leica Biosystems",
+    "analyte_class": "Polysaccharide",
+    "assay_category": "imaging",
+    "assay_type": "PAS microscopy",
+    "collectiontype": "single_metadatatsv",
+    "execution_datetime": "11/20/19 14:41",
+    "is_targeted": "FALSE",
+    "metadata_path": "/rawMicroscopy/",
+    "operator": "Elizabeth K. Neumann",
+    "operator_email": "elizabeth.neumann@vanderbilt.edu",
+    "overall_protocols_io_doi": "10.17504/protocols.io.bfskjncw",
+    "pi": "Jeffrey M. Spraggins",
+    "pi_email": "jeff.spraggins@vanderbilt.edu",
+    "protocols_io_doi": "10.17504/protocols.io.4qngvve",
+    "resolution_x_unit": "nm",
+    "resolution_x_value": "500",
+    "resolution_y_unit": "nm",
+    "resolution_y_value": "500",
+    "resolution_z_unit": "nm",
+    "resolution_z_value": "0",
+    "section_prep_protocols_io_doi": "10.17504/protocols.io.4qngvve",
+    "stain": "Periodic acid-Schiff"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1598105354347,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "registered_doi": "10.35079/HBM473.FKKH.583",
+  "run_id": "ae7723aee8bc809afe0a05756bdf91de_scan.and.begin.processing_2020-07-27T20:14:44.667824-04:00",
+  "status": "Published",
+  "title": "Histology data from the kidney (right) of a 31-year-old white male",
+  "uuid": "ae7723aee8bc809afe0a05756bdf91de"
+}

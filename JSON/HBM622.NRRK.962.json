@@ -1,0 +1,292 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Stanford University",
+      "display_name": "Patricia Favaro",
+      "email": "favaropb@stanford.edu",
+      "first_name": "Patricia",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "Yes",
+      "last_name": "Favaro",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-3764-9538"
+    },
+    {
+      "affiliation": "Stanford University",
+      "display_name": "Alex Kong",
+      "email": "alkong@stanford.edu",
+      "first_name": "Alex",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Kong",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0003-2650-1428"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Stanford University",
+      "display_name": "Patricia Favaro",
+      "email": "favaropb@stanford.edu",
+      "first_name": "Patricia",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "Yes",
+      "last_name": "Favaro",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-3764-9538"
+    },
+    {
+      "affiliation": "Stanford University",
+      "display_name": "Alex Kong",
+      "email": "alkong@stanford.edu",
+      "first_name": "Alex",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Kong",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0003-2650-1428"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1744915096835,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "CyTOF",
+  "description": "Hematopoietic stem and progenitor cell (HSPC) transplantation is an essential therapy for hematological conditions, but finer definitions of human HSPC subsets with associated function could enable better tuning of grafts and more routine, lower-risk application. To deeply phenotype HSPCs, following a screen of 328 antigens, we quantified 41 surface proteins and functional regulators on millions of CD34+ and CD34\u2212 cells, spanning four primary human hematopoietic tissues: bone marrow, mobilized peripheral blood, cord blood, and fetal liver. We propose more granular definitions of HSPC subsets and provide new, detailed differentiation trajectories of erythroid and myeloid lineages. These aspects of our revised human hematopoietic model were validated with corresponding epigenetic analysis and\u00a0in vitro\u00a0clonal differentiation assays. Overall, we demonstrate the utility of using molecular regulators as surrogates for cellular identity and functional potential, providing a framework for description, prospective isolation, and cross-tissue comparison of HSPCs in humans.\n\nThese samples were derived from umbilical cord blood collected at birth. Due to the nature and timing of collection, some demographic and clinical metadata commonly available for other sample types may be incomplete or unavailable. This is a standard limitation in cord blood research. Despite this, the data remains highly valuable, particularly for studies in developmental biology and regenerative medicine.",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Alex Kong",
+      "created_by_user_email": "alkong@stanford.edu",
+      "created_by_user_sub": "d8395d4a-ecd7-4a9e-86f3-aef49b83bdf8",
+      "created_timestamp": 1742332526452,
+      "data_access_level": "public",
+      "description": "Batch 3, cord blood suspension 3.",
+      "entity_type": "Sample",
+      "group_name": "Stanford University Bone Marrow TMC",
+      "group_uuid": "6f958a31-547c-11ed-ab8d-fb258a2766ef",
+      "hubmap_id": "HBM236.MBQJ.377",
+      "last_modified_timestamp": 1765551250965,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "protocol_url": "http://dx.doi.org/10.17504/protocols.io.14egn69nml5d/v2",
+      "sample_category": "suspension",
+      "uuid": "b92efb339273761d22c3b166401a6612"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM622.NRRK.962",
+  "entity_type": "Dataset",
+  "group_name": "Stanford University Bone Marrow TMC",
+  "group_uuid": "6f958a31-547c-11ed-ab8d-fb258a2766ef",
+  "hubmap_id": "HBM622.NRRK.962",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "9d31cf38",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.4.2"
+      },
+      {
+        "documentation_url": null,
+        "hash": "12d5861e",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.36"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "generic_metadatatsv"
+    }
+  },
+  "last_modified_timestamp": 1765551252096,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Stanford University Bone Marrow TMC/e09945f896d8020c57d8511bcf4cded5/",
+  "metadata": {
+    "acquisition_instrument_model": "CyTOF 2",
+    "acquisition_instrument_vendor": "Standard BioTools (Fluidigm)",
+    "activation_stimulus": "",
+    "analyte_class": "Protein",
+    "antibody_reagent_kit": "Custom",
+    "calibration_kit_lot_number": "",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "CyTOF",
+    "instrument_calibration_bead_kit": "Standard BioTools; EQ Four Element Calibration Beads 100 mL; PN 201078",
+    "is_cell_activation_performed": "No",
+    "is_erythrocyte_lysis_performed": "No",
+    "is_fcr_blocking_applied": "No",
+    "is_heparin_used": "Yes",
+    "is_targeted": "Yes",
+    "loaded_cell_concentration_unit": "",
+    "loaded_cell_concentration_value": "",
+    "metadata_schema_id": "4cb5ad9a-e5cc-4c3f-98cd-e685330165a9",
+    "number_of_mass_channels": "42",
+    "preparation_protocol_doi": "https://www.protocols.io/view/cytof-staining-14egn69nml5d/v2",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "0",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": "",
+    "viability_reagent_kit": "Sigma Aldrich; Cisplatin 25mg; PN P4394"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "TMC-Stanford-Marrow CyTOF",
+  "published_timestamp": 1765551252096,
+  "registered_doi": "10.35079/HBM622.NRRK.962",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1744915096835,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1744915230020,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1749746441353,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1749746911451,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1765551250477,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "CyTOF data from the blood of a 0-year-old unknown unknown",
+  "upload": {
+    "created_by_user_displayname": "Brendan Honick",
+    "created_by_user_email": "bhonick@andrew.cmu.edu",
+    "created_by_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "created_timestamp": 1744911338340,
+    "description": "TMC-Stanford-Marrow CyTOF",
+    "entity_type": "Upload",
+    "group_name": "Stanford University Bone Marrow TMC",
+    "group_uuid": "6f958a31-547c-11ed-ab8d-fb258a2766ef",
+    "hubmap_id": "HBM758.WRBZ.632",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "intended_dataset_type": "CyTOF",
+    "intended_organ": "BM",
+    "last_modified_timestamp": 1756262200992,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1744911338340,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1744911466444,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1744911557666,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1744912001192,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1744912013574,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1744912048092,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1744912238466,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1744912246608,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1744912278711,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1744913604689,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1744913610466,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1744913648339,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1744914805651,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1744914816356,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1744914852210,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1744915007648,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1744915012406,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1744915168507,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "TMC-Stanford-Marrow CyTOF",
+    "uuid": "c27063d97348d5803f967be17eb3ce65"
+  },
+  "uuid": "e09945f896d8020c57d8511bcf4cded5"
+}

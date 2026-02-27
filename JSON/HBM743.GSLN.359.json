@@ -1,0 +1,71 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603741009797,
+  "data_access_level": "public",
+  "description": "2 -1cm thick Slabs cut from 3cm  and 4 cm above inferior end of thymus.",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603129545773,
+    "data_access_level": "public",
+    "description": "intact thymus received with surounding fat",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM288.ZWLS.355",
+    "image_file_metadata": [
+      {
+        "description": "thymus post removal of surrounding fat, prior to dissection",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/17bdd1ef196f267e91a000e8aef5c2a1/IMG_3459.JPG"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "thymus post removal of surrounding fat, prior to dissection",
+        "file_uuid": "ffff6b48579d2b2ff1cf0afd5d4f4cd9",
+        "filename": "IMG_3459.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617750873390,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "organ": "TH",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/17bdd1ef196f267e91a000e8aef5c2a1/Pathology_Report20-006 Thymus.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "391c22ae4fb42bb3e6bedb31fe8c19ee"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM743.GSLN.359",
+  "image_file_metadata": [
+    {
+      "description": "H&E image of organ piece",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/39283cdeb7d7e948e5496b2ec2d4991f/20-006_THY_CC2_B_10X_final stitch.tif"
+    }
+  ],
+  "image_files": [
+    {
+      "description": "H&E image of organ piece",
+      "file_uuid": "ffffe688868cf61b4bc25c6dcbc895f7",
+      "filename": "20-006_THY_CC2_B_10X_final_stitch.tif"
+    }
+  ],
+  "last_modified_timestamp": 1617800829938,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgmiju6",
+  "sample_category": "block",
+  "uuid": "39283cdeb7d7e948e5496b2ec2d4991f"
+}

@@ -1,0 +1,347 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1689618790668,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "publication_ancillary"
+  ],
+  "dataset_info": "gen_pub_ancillary__dd0e7aead91ffbab896ccf1ce8a7c44d__gen_pub_ancillary",
+  "dataset_type": "Publication [ancillary]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Washington University, St. Louis, MO, USA",
+          "first_name": "Sanjay",
+          "is_contact": "TRUE",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Michael",
+          "is_contact": "TRUE",
+          "last_name": "Eadon",
+          "middle_name_or_initial": "T.",
+          "name": "Michael T. Eadon",
+          "orcid_id": "0000-0003-3066-2876",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Anatomy, Cell Biology and Physiology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "James",
+          "is_contact": "TRUE",
+          "last_name": "Williams",
+          "middle_name_or_initial": "C.",
+          "name": "James C. Williams, Jr.",
+          "orcid_id": "0000-0001-6665-6596",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Anatomy, Cell Biology and Physiology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Tarek",
+          "is_contact": "TRUE",
+          "last_name": "El-Achkar",
+          "middle_name_or_initial": "M.",
+          "name": "Tarek El-Achkar",
+          "orcid_id": "0000-0003-4645-3614",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Department of Anatomy, Cell Biology and Physiology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Victor Hugo",
+          "is_contact": "FALSE",
+          "last_name": "Canela",
+          "middle_name_or_initial": "",
+          "name": "Victor Hugo Canela",
+          "orcid_id": "0000-0001-7943-014X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "William",
+          "is_contact": "FALSE",
+          "last_name": "Bowen",
+          "middle_name_or_initial": "S.",
+          "name": "William S. Bowen",
+          "orcid_id": "0009-0005-1408-596X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Ricardo",
+          "is_contact": "FALSE",
+          "last_name": "Melo Ferreira",
+          "middle_name_or_initial": "",
+          "name": "Ricardo Melo Ferreira",
+          "orcid_id": "0000-0003-2063-9744",
+          "version": "1"
+        },
+        {
+          "affiliation": "Center for Diabetes and Metabolic Diseases, Herman B. Wells Center for Pediatric Research, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Farooq",
+          "is_contact": "FALSE",
+          "last_name": "Syed",
+          "middle_name_or_initial": "",
+          "name": "Farooq Syed",
+          "orcid_id": "0000-0002-0284-0631",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Anatomy, Cell Biology and Physiology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Angela",
+          "is_contact": "FALSE",
+          "last_name": "Sabo",
+          "middle_name_or_initial": "R.",
+          "name": "Angela R. Sabo",
+          "orcid_id": "0000-0002-7496-8570",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Daria",
+          "is_contact": "FALSE",
+          "last_name": "Barwinska",
+          "middle_name_or_initial": "",
+          "name": "Daria Barwinska",
+          "orcid_id": "0000-0002-0776-3030",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Anatomy, Cell Biology and Physiology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Seth",
+          "is_contact": "FALSE",
+          "last_name": "Winfree",
+          "middle_name_or_initial": "",
+          "name": "Seth Winfree",
+          "orcid_id": "0000-0002-2396-5871",
+          "version": "1"
+        },
+        {
+          "affiliation": "San Diego Institute of Science, Altos Labs, San Diego, CA, USA",
+          "first_name": "Blue",
+          "is_contact": "FALSE",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B.",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Ying-Hua",
+          "is_contact": "FALSE",
+          "last_name": "Cheng",
+          "middle_name_or_initial": "",
+          "name": "Ying-Hua Cheng",
+          "orcid_id": "0000-0001-7871-8141",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology and Immunology, Washington University, St. Louis, MO, USA",
+          "first_name": "Joseph",
+          "is_contact": "FALSE",
+          "last_name": "Gaut",
+          "middle_name_or_initial": "P.",
+          "name": "Joseph P. Gaut",
+          "orcid_id": "0000-0002-9580-3951",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Michael",
+          "is_contact": "FALSE",
+          "last_name": "Ferkowicz",
+          "middle_name_or_initial": "",
+          "name": "Michael Ferkowicz",
+          "orcid_id": "0000-0002-9531-3899",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Kaice",
+          "is_contact": "FALSE",
+          "last_name": "LaFavers",
+          "middle_name_or_initial": "A.",
+          "name": "Kaice A. LaFavers",
+          "orcid_id": "0000-0003-2052-6248",
+          "version": "1"
+        },
+        {
+          "affiliation": "San Diego Institute of Science, Altos Labs, San Diego, CA, USA",
+          "first_name": "Kun",
+          "is_contact": "FALSE",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, University of Chicago, Chicago, IL, USA",
+          "first_name": "Fredric",
+          "is_contact": "FALSE",
+          "last_name": "Coe",
+          "middle_name_or_initial": "L.",
+          "name": "Fredric L. Coe",
+          "orcid_id": "0000-0001-6729-0389",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, University of Chicago, Chicago, IL, USA",
+          "first_name": "Elaine",
+          "is_contact": "FALSE",
+          "last_name": "Worcester",
+          "middle_name_or_initial": "",
+          "name": "Elaine Worcester",
+          "orcid_id": "0000-0001-7989-2061",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Washington University, St. Louis, MO, USA",
+          "first_name": "Sanjay",
+          "is_contact": "TRUE",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Nephrology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Michael",
+          "is_contact": "TRUE",
+          "last_name": "Eadon",
+          "middle_name_or_initial": "T.",
+          "name": "Michael T. Eadon",
+          "orcid_id": "0000-0003-3066-2876",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Anatomy, Cell Biology and Physiology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "James",
+          "is_contact": "TRUE",
+          "last_name": "Williams",
+          "middle_name_or_initial": "C.",
+          "name": "James C. Williams, Jr.",
+          "orcid_id": "0000-0001-6665-6596",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Anatomy, Cell Biology and Physiology, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Tarek",
+          "is_contact": "TRUE",
+          "last_name": "El-Achkar",
+          "middle_name_or_initial": "M.",
+          "name": "Tarek El-Achkar",
+          "orcid_id": "0000-0003-4645-3614",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "Morgan Turner",
+      "created_by_user_email": "morgan_turner@hms.harvard.edu",
+      "created_by_user_sub": "45aea981-85eb-4462-9dcd-1ef243c01dca",
+      "created_timestamp": 1689173259300,
+      "data_access_level": "public",
+      "data_types": [
+        "publication"
+      ],
+      "dataset_type": "Publication",
+      "description": "Kidney stone disease causes significant morbidity and increases health care utilization. The pathogenesis of stone disease is not completely understood, due in part to the poor characterization of the cellular and molecular makeup of the kidney papilla and its alteration with disease. We deciphered the cellular and molecular niche of the human renal papilla in patients with calcium oxalate (CaOx) stone disease compared to healthy subjects using single nuclear RNA sequencing, spatial transcriptomics and high-resolution large-scale multiplexed 3D and Co-Detection by indexing (CODEX) imaging. In addition to identifying cell types important in papillary physiology, we defined subtypes of immune, stromal and principal cells enriched in the papilla, and characterized an undifferentiated epithelial cell cluster that was more prevalent in stone patients. Despite the focal nature of mineral deposition in nephrolithiasis, we uncovered a global injury signature involving multiple cell types within the papilla, characterized by immune activation, oxidative stress and extracellular matrix remodeling. The microenvironment of mineral deposition had features of an immune synapse with antigen presenting inflammatory macrophages interacting with T cells, and an immune repertoire ranging from inflammation to fibrosis. The expression of MMP7 and MMP9 was associated with stone disease and mineral deposition, respectively. MMP7 and MMP9 were significantly increased in the urine of patients with CaOx stone disease compared to non-stone formers, and their levels correlated with disease activity in stone formers. Our results define the spatial molecular landscape and specific pathways contributing to stone-mediated injury in the human papilla, and identify potential urinary biomarkers.",
+      "entity_type": "Publication",
+      "group_name": "Washington University Kidney TMC",
+      "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+      "hubmap_id": "HBM599.DMWZ.833",
+      "ingest_id": "dd0e7aead91ffbab896ccf1ce8a7c44d_scan.and.begin.processing_2023-07-17T14:31:53.775759-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "a3774b3",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1766007865263,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "assay_type": "publication",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "version": "0"
+      },
+      "pipeline_message": "the process ran",
+      "publication_date": "2023-07-19",
+      "publication_doi": "10.1038/s41467-023-38975-8",
+      "publication_status": true,
+      "publication_url": "https://doi.org/10.1038/s41467-023-38975-8",
+      "publication_venue": "Nature Communications",
+      "published_timestamp": 1689700553738,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "run_id": "dd0e7aead91ffbab896ccf1ce8a7c44d_scan.and.begin.processing_2023-07-17T14:31:53.775759-04:00",
+      "status": "Published",
+      "title": "A spatially anchored transcriptomic atlas of the human kidney papilla identifies significant immune injury in patients with stone disease",
+      "uuid": "dd0e7aead91ffbab896ccf1ce8a7c44d"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "",
+      "edam_term": "",
+      "is_qa_qc": false,
+      "rel_path": "publication_ancillary.json",
+      "size": 2564,
+      "type": "json"
+    }
+  ],
+  "group_name": "Washington University Kidney TMC",
+  "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+  "hubmap_id": "HBM983.ZNGS.824",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      }
+    ],
+    "workflow_description": "",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1689700565977,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Washington University Kidney TMC/110467cbd425b8bbf66e94ccd41ae2be/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1689700565977,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "Support data used by a publication's display and vignette visualization(s).",
+  "uuid": "110467cbd425b8bbf66e94ccd41ae2be"
+}

@@ -1,0 +1,76 @@
+{
+  "created_by_user_displayname": "Yiing Lin",
+  "created_by_user_email": "liny@wustl.edu",
+  "created_by_user_sub": "be70e17d-9bc1-4a91-a83f-6950bdd1287b",
+  "created_timestamp": 1580132696604,
+  "data_access_level": "public",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Yiing Lin",
+    "created_by_user_email": "liny@wustl.edu",
+    "created_by_user_sub": "be70e17d-9bc1-4a91-a83f-6950bdd1287b",
+    "created_timestamp": 1580132317078,
+    "data_access_level": "public",
+    "entity_type": "Sample",
+    "group_name": "Stanford TMC",
+    "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM282.WSJN.883",
+    "last_modified_timestamp": 1580132317078,
+    "organ": "SI",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bin9kdh6",
+    "sample_category": "organ",
+    "uuid": "3280ceaaee2c24e262d46a5f83edfe98"
+  },
+  "entity_type": "Sample",
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM585.HGJZ.542",
+  "last_modified_timestamp": 1645056828348,
+  "last_modified_user_displayname": "Shin Lin",
+  "last_modified_user_email": "shinlin@uw.edu",
+  "last_modified_user_sub": "30bc4c7e-a52e-45e8-bf99-1559112068c4",
+  "portal_metadata_upload_files": [
+    {
+      "description": "",
+      "filepath": "/hive/hubmap/lz/tissue-reg-data/def5fd76-ed43-11e8-b56a-0e8017bdda58/513ceb231c3406e87abddcf7bae9b5aa/W111_B004_histologic_review.xlsx"
+    }
+  ],
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bin9kdh6",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/d14c269b-7528-4830-9b9e-90d4949ee20b",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0002116"
+    ],
+    "creation_date": "2022-02-17",
+    "creator": "Yiing Lin",
+    "creator_first_name": "Yiing",
+    "creator_last_name": "Lin",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/d14c269b-7528-4830-9b9e-90d4949ee20b_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2022-02-17",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHMSmallIntestine",
+      "translation_units": "millimeter",
+      "x_rotation": 0,
+      "x_scaling": 1,
+      "x_translation": 45.361,
+      "y_rotation": 23,
+      "y_scaling": 1,
+      "y_translation": 72.859,
+      "z_rotation": 49,
+      "z_scaling": 1,
+      "z_translation": 48.203
+    },
+    "x_dimension": 3,
+    "y_dimension": 30,
+    "z_dimension": 15
+  },
+  "sample_category": "block",
+  "uuid": "513ceb231c3406e87abddcf7bae9b5aa"
+}

@@ -1,0 +1,1960 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1691789633091,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "mibi_deepcell"
+  ],
+  "dataset_info": "mibi_deepcell__41cd6d7b3517cfbcfb7238dc6e10b3cb__mibi-pipeline",
+  "dataset_type": "MIBI [DeepCell + SPRM]",
+  "direct_ancestors": [
+    {
+      "antibodies": [
+        {
+          "antibody_name": "CD4",
+          "channel_id": "CD4",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR32856442",
+          "rr_id": "AB_2864377",
+          "uniprot_accession_number": "P01730",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD31",
+          "channel_id": "CD31",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR32323692",
+          "rr_id": "AB_1267039",
+          "uniprot_accession_number": "P16284",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD11c",
+          "channel_id": "CD11c",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR32258196",
+          "rr_id": "AB_991699",
+          "uniprot_accession_number": "P20702",
+          "version": "2"
+        },
+        {
+          "antibody_name": "IDO1 (Indoleamine 2, 3-dioxygenase 1)",
+          "channel_id": "IDO",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR32593452",
+          "rr_id": "AB_2894840",
+          "uniprot_accession_number": "P14902",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD57",
+          "channel_id": "CD57",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR33291632",
+          "rr_id": "AB_2910575",
+          "uniprot_accession_number": "Q9P2W7",
+          "version": "2"
+        },
+        {
+          "antibody_name": "GranzymeB",
+          "channel_id": "GrB",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR32299641",
+          "rr_id": "AB_2910576",
+          "uniprot_accession_number": "P10144",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Tryptase",
+          "channel_id": "Tryptase",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR32471283",
+          "rr_id": "AB_2910584",
+          "uniprot_accession_number": "Q15661",
+          "version": "2"
+        },
+        {
+          "antibody_name": "HO-1",
+          "channel_id": "HO1",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR32470782",
+          "rr_id": "AB_2118663",
+          "uniprot_accession_number": "P09601",
+          "version": "2"
+        },
+        {
+          "antibody_name": "iNOS",
+          "channel_id": "iNOS",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR32457631",
+          "rr_id": "AB_2910585",
+          "uniprot_accession_number": "P35228",
+          "version": "2"
+        },
+        {
+          "antibody_name": "HLA-G",
+          "channel_id": "HLAG",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR3178727-13",
+          "rr_id": "AB_880552",
+          "uniprot_accession_number": "P17693",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Ecadherin",
+          "channel_id": "Ecad",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR32231181",
+          "rr_id": "AB_2910587",
+          "uniprot_accession_number": "P12830",
+          "version": "2"
+        },
+        {
+          "antibody_name": "lck",
+          "channel_id": "Lck",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR3203647-2",
+          "rr_id": "AB_2910588",
+          "uniprot_accession_number": "P06239",
+          "version": "2"
+        },
+        {
+          "antibody_name": "HLADR",
+          "channel_id": "HLADR",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "GR3191247-1",
+          "rr_id": "AB_306142",
+          "uniprot_accession_number": "P04440",
+          "version": "2"
+        },
+        {
+          "antibody_name": "DCSIGN",
+          "channel_id": "DCSIGN",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "9282791",
+          "rr_id": "AB_394120",
+          "uniprot_accession_number": "Q9NNX6",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Foxp3",
+          "channel_id": "FoxP3",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "8353822",
+          "rr_id": "AB_10563418",
+          "uniprot_accession_number": "Q9BZS1",
+          "version": "2"
+        },
+        {
+          "antibody_name": "TIGIT",
+          "channel_id": "TIGIT",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "A700-047-01",
+          "rr_id": "AB_2891846",
+          "uniprot_accession_number": "Q495A1",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD20",
+          "channel_id": "CD20",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "1908402",
+          "rr_id": "AB_10983209",
+          "uniprot_accession_number": "P19437",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD8",
+          "channel_id": "CD8",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "1514101",
+          "rr_id": "AB_2864400",
+          "uniprot_accession_number": "P01732",
+          "version": "2"
+        },
+        {
+          "antibody_name": "SMA",
+          "channel_id": "SMA",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "4",
+          "rr_id": "AB_2734735",
+          "uniprot_accession_number": "P62736",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD14",
+          "channel_id": "CD14",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "2",
+          "rr_id": "AB_2799504",
+          "uniprot_accession_number": "P08571",
+          "version": "2"
+        },
+        {
+          "antibody_name": "PD1",
+          "channel_id": "PD1",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "5",
+          "rr_id": "AB_2728836",
+          "uniprot_accession_number": "Q15116",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD68",
+          "channel_id": "CD68",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "2",
+          "rr_id": "AB_2799882",
+          "uniprot_accession_number": "P34810",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD3",
+          "channel_id": "CD3",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "4",
+          "rr_id": "AB_2721019",
+          "uniprot_accession_number": "P07766",
+          "version": "2"
+        },
+        {
+          "antibody_name": "TIM3",
+          "channel_id": "TIM3",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "6",
+          "rr_id": "AB_2716862",
+          "uniprot_accession_number": "Q8TDQ0",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD163",
+          "channel_id": "CD163",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "2",
+          "rr_id": "AB_2800204",
+          "uniprot_accession_number": "Q86VB7",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD16",
+          "channel_id": "CD16",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "2",
+          "rr_id": "AB_2798877",
+          "uniprot_accession_number": "P08637",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD45",
+          "channel_id": "CD45",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "7",
+          "rr_id": "AB_2750898",
+          "uniprot_accession_number": "P08575",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Ki67",
+          "channel_id": "Ki67",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "11",
+          "rr_id": "AB_2797703",
+          "uniprot_accession_number": "P46013",
+          "version": "2"
+        },
+        {
+          "antibody_name": "HH3",
+          "channel_id": "H3",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "15",
+          "rr_id": "AB_10544537",
+          "uniprot_accession_number": "P68431",
+          "version": "2"
+        },
+        {
+          "antibody_name": "Vimentin",
+          "channel_id": "VIM",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "9",
+          "rr_id": "AB_10695459",
+          "uniprot_accession_number": "P08670",
+          "version": "2"
+        },
+        {
+          "antibody_name": "PDL1",
+          "channel_id": "PDL1",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "6",
+          "rr_id": "AB_2687655",
+          "uniprot_accession_number": "Q9NZQ7",
+          "version": "2"
+        },
+        {
+          "antibody_name": "galectin 9",
+          "channel_id": "Galectin9",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "2",
+          "rr_id": "AB_2799456",
+          "uniprot_accession_number": "O00182",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD56",
+          "channel_id": "CD56",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "1923502",
+          "rr_id": "AB_2864402",
+          "uniprot_accession_number": "P13591",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD206",
+          "channel_id": "CD206",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "CEZR0219091",
+          "rr_id": "AB_2800175",
+          "uniprot_accession_number": "P22897",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD44",
+          "channel_id": "CD44",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "UA2700432B",
+          "rr_id": "AB_10986810",
+          "uniprot_accession_number": "P16070",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CD80",
+          "channel_id": "CD80",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "AEX0717111",
+          "rr_id": "AB_2244549",
+          "uniprot_accession_number": "P33681",
+          "version": "2"
+        },
+        {
+          "antibody_name": "CK7",
+          "channel_id": "CK7",
+          "concentration_unit": "",
+          "concentration_value": "",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution": "",
+          "lot_number": "141015",
+          "rr_id": "AB_2910617",
+          "uniprot_accession_number": "P08729",
+          "version": "2"
+        }
+      ],
+      "contacts": [
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Shirley",
+          "is_contact": "TRUE",
+          "last_name": "Greenbaum",
+          "middle_name_or_initial": "",
+          "name": "Shirley Greenbaum",
+          "orcid_id": "0000-0002-0680-7652",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Michael",
+          "is_contact": "TRUE",
+          "last_name": "Angelo",
+          "middle_name_or_initial": "",
+          "name": "Michael Angelo",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Shirley",
+          "is_contact": "TRUE",
+          "last_name": "Greenbaum",
+          "middle_name_or_initial": "",
+          "name": "Shirley Greenbaum",
+          "orcid_id": "0000-0002-0680-7652",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Inna",
+          "is_contact": "FALSE",
+          "last_name": "Averbukh",
+          "middle_name_or_initial": "",
+          "name": "Inna Averbukh",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Erin",
+          "is_contact": "FALSE",
+          "last_name": "Soon",
+          "middle_name_or_initial": "",
+          "name": "Erin Soon",
+          "orcid_id": "0000-0002-9115-9345",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, UCSF",
+          "first_name": "Gabrielle",
+          "is_contact": "FALSE",
+          "last_name": "Rizzuto",
+          "middle_name_or_initial": "",
+          "name": "Gabrielle Rizzuto",
+          "orcid_id": "0000-0003-3052-0253",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Alex",
+          "is_contact": "FALSE",
+          "last_name": "Baranski",
+          "middle_name_or_initial": "",
+          "name": "Alex Baranski",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Noah",
+          "is_contact": "FALSE",
+          "last_name": "Greenwald",
+          "middle_name_or_initial": "",
+          "name": "Noah Greenwald",
+          "orcid_id": "0000-0002-7836-4379",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Marc",
+          "is_contact": "FALSE",
+          "last_name": "Bosse",
+          "middle_name_or_initial": "",
+          "name": "Marc Bosse",
+          "orcid_id": "0000-0003-4912-8059",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Obstetrics, Gynecology & Reproductive Sciences, UCSF",
+          "first_name": "Eleni",
+          "is_contact": "FALSE",
+          "last_name": "Jaswa",
+          "middle_name_or_initial": "G",
+          "name": "Eleni G. Jaswa",
+          "orcid_id": "0000-0003-1653-902X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Zumana",
+          "is_contact": "FALSE",
+          "last_name": "Khair",
+          "middle_name_or_initial": "",
+          "name": "Zumana Khair",
+          "orcid_id": "0000-0003-3617-2472",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Shirley",
+          "is_contact": "FALSE",
+          "last_name": "Kwok",
+          "middle_name_or_initial": "",
+          "name": "Shirley Kwok",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Shiri",
+          "is_contact": "FALSE",
+          "last_name": "Warshawsky",
+          "middle_name_or_initial": "",
+          "name": "Shiri Warshawsky",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Division of Biology and Bioengineering, California Institute of Technology",
+          "first_name": "Geneva",
+          "is_contact": "FALSE",
+          "last_name": "Miller",
+          "middle_name_or_initial": "",
+          "name": "Geneva Miller",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Division of Biology and Bioengineering, California Institute of Technology",
+          "first_name": "Morgan",
+          "is_contact": "FALSE",
+          "last_name": "Shwartz",
+          "middle_name_or_initial": "",
+          "name": "Morgan Shwartz",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Division of Biology and Bioengineering, California Institute of Technology",
+          "first_name": "Will",
+          "is_contact": "FALSE",
+          "last_name": "Graf",
+          "middle_name_or_initial": "",
+          "name": "Will Graf",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Division of Biology and Bioengineering, California Institute of Technology",
+          "first_name": "David",
+          "is_contact": "FALSE",
+          "last_name": "Van Valen",
+          "middle_name_or_initial": "",
+          "name": "David Van Valen",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Molecular Cell Biology, Weizmann Institute of Science",
+          "first_name": "Leeat",
+          "is_contact": "FALSE",
+          "last_name": "Keren",
+          "middle_name_or_initial": "",
+          "name": "Leeat Keren",
+          "orcid_id": "0000-0002-6799-6303",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Memorial Sloan Kettering Cancer Center",
+          "first_name": "Travis",
+          "is_contact": "FALSE",
+          "last_name": "Hollmann",
+          "middle_name_or_initial": "",
+          "name": "Travis Hollmann",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Matt",
+          "is_contact": "FALSE",
+          "last_name": "van de Rjin",
+          "middle_name_or_initial": "",
+          "name": "Matt van de Rjin",
+          "orcid_id": "0000-0002-1909-9739",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Michael",
+          "is_contact": "TRUE",
+          "last_name": "Angelo",
+          "middle_name_or_initial": "",
+          "name": "Michael Angelo",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1653690959701,
+      "data_access_level": "public",
+      "data_types": [
+        "MIBI"
+      ],
+      "dataset_type": "MIBI",
+      "description": "We aim to provide high resolution, high dimensional images of the maternal-fetal interface in the first 20 weeks of pregnancy. Each sample is comprised primarily of decidua basalis from archival FFPE tissue. Some samples also contain adjacent placental villi.",
+      "doi_url": "https://doi.org/10.35079/HBM848.MJVK.888",
+      "entity_type": "Dataset",
+      "group_name": "Stanford RTI",
+      "group_uuid": "f5af3a5a-e93c-11e9-8559-0efb3ba9a670",
+      "hubmap_id": "HBM848.MJVK.888",
+      "ingest_id": "41cd6d7b3517cfbcfb7238dc6e10b3cb_scan.and.begin.processing_2023-01-04T15:37:17.148010-05:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "0ca2004",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1678370778163,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "MIBIscope 1",
+        "acquisition_instrument_vendor": "Ionpath",
+        "analyte_class": "Protein",
+        "antibodies_path": "extras/antibodies.tsv",
+        "area_normalized_ion_dose_unit": "nA*hr/mm2",
+        "area_normalized_ion_dose_value": "7",
+        "assay_category": "mass_spectrometry_imaging",
+        "assay_type": "MIBI",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "data_precision_bytes": "2",
+        "description": "We aim to provide high resolution, high dimensional images of human placenta in early pregnancy by using our multiplexed ion beam imaging methodology for building an atlas of human organs",
+        "dual_count_start": "0",
+        "end_datetime": "2020-06-07 00:00",
+        "execution_datetime": "2020-06-07 00:00",
+        "is_targeted": "True",
+        "max_x_width_unit": "um",
+        "max_x_width_value": "800",
+        "max_y_height_unit": "um",
+        "max_y_height_value": "800",
+        "number_of_antibodies": "37",
+        "number_of_channels": "45",
+        "operator": "Shirley Greenbaum",
+        "operator_email": "greenbaumsh@gmail.com",
+        "pi": "Mike Angelo",
+        "pi_email": "mangelo0@stanford.edu",
+        "pixel_dwell_time_unit": "ms",
+        "pixel_dwell_time_value": "1",
+        "pixel_size_x_unit": "nm",
+        "pixel_size_x_value": "391",
+        "pixel_size_y_unit": "nm",
+        "pixel_size_y_value": "391",
+        "preparation_instrument_model": "Custom",
+        "preparation_instrument_vendor": "Ionpath",
+        "primary_ion": "Xe",
+        "primary_ion_current_unit": "pA",
+        "primary_ion_current_value": "5000",
+        "protocols_io_doi": "10.17504/protocols.io.btnfnmbn",
+        "reagent_prep_protocols_io_doi": "10.17504/protocols.io.bhyej7te",
+        "resolution_x_unit": "nm",
+        "resolution_x_value": "600",
+        "resolution_y_unit": "nm",
+        "resolution_y_value": "600",
+        "roi_description": "decidua",
+        "roi_id": "1",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.byzrpx56",
+        "segment_data_format": "integer",
+        "signal_type": "pulse count",
+        "start_datetime": "2020-06-07 00:00",
+        "version": "1"
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "MIBI at the Maternal-Fetal Interface : dataset-82",
+      "published_timestamp": 1678370778163,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM848.MJVK.888",
+      "run_id": "41cd6d7b3517cfbcfb7238dc6e10b3cb_scan.and.begin.processing_2023-01-04T15:37:17.148010-05:00",
+      "status": "Published",
+      "uuid": "41cd6d7b3517cfbcfb7238dc6e10b3cb"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "session.log",
+      "size": 1714380,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "symlinks.tar",
+      "size": 10240,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/mask/3D_image_stack_mask.ome.tif",
+      "size": 997115,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/pipeline_output/expr/3D_image_stack_expr.ome.tif",
+      "size": 17747319,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/3D_image_stack_expr.ome.tiff-superpixel.ome.tif",
+      "size": 93321,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/sprm_outputs/3D_image_stack_expr.ome.tiff-channel_pca.ome.tif",
+      "size": 4688736,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/mask/3D_image_stack_mask.ome.tiff",
+      "size": 67111744,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "pipeline_output/expr/3D_image_stack_expr.ome.tiff",
+      "size": 394285656,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/mask/3D_image_stack_mask.offsets.json",
+      "size": 32,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/pipeline_output/expr/3D_image_stack_expr.offsets.json",
+      "size": 470,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/3D_image_stack_expr.ome.tiff-superpixel.offsets.json",
+      "size": 7,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/sprm_outputs/3D_image_stack_expr.ome.tiff-channel_pca.offsets.json",
+      "size": 27,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "n5/pipeline_output/mask/3D_image_stack_mask.n5.zip",
+      "size": 1218051,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "n5/pipeline_output/expr/3D_image_stack_expr.n5.zip",
+      "size": 23836414,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "n5/sprm_outputs/3D_image_stack_expr.ome.tiff-superpixel.n5.zip",
+      "size": 179122,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "n5/sprm_outputs/3D_image_stack_expr.ome.tiff-channel_pca.n5.zip",
+      "size": 6288975,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_json/3D_image_stack_expr.factors.json",
+      "size": 272280,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_json/3D_image_stack_expr.cells.json",
+      "size": 5052638,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_json/3D_image_stack_expr.genes.json",
+      "size": 1933661,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_json/3D_image_stack_expr.clusters.json",
+      "size": 1513518,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_json/3D_image_stack_expr.cell-sets.json",
+      "size": 385899,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-nucleus_boundaries_channel_mean.csv",
+      "size": 534897,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-tSNE_allfeatures.csv",
+      "size": 33364,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyTotalpercell.png",
+      "size": 159734,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyTexture.png",
+      "size": 136724,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_boundaries_channel_mean.csv",
+      "size": 590290,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_boundaries_cluster.csv",
+      "size": 30477,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_boundaries_mean_legend.pdf",
+      "size": 13217,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.csv",
+      "size": 203,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyMeanspercell.png",
+      "size": 160932,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff_img_binary.png",
+      "size": 2457,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_cellshapenormalized_legend.csv",
+      "size": 294,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-Cluster_Shape.png",
+      "size": 164870,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff_AdjacencyGraph.pdf",
+      "size": 41596,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternuclei_total_legend.csv",
+      "size": 171,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_boundaries_covariance_legend.pdf",
+      "size": 11782,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-channel_pca.ome.tiff",
+      "size": 3601187,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_channel_meanAll.csv",
+      "size": 534897,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_mean_legend.pdf",
+      "size": 12120,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_covariance_legend.pdf",
+      "size": 11246,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_total_legend.pdf",
+      "size": 11780,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_1_texture.csv",
+      "size": 1533207,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiffclusteringsilhouetteScores.csv",
+      "size": 2840,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-nucleus_boundaries_cluster.csv",
+      "size": 30477,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-nuclei_channel_mean.csv",
+      "size": 586035,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-nuclei_1_texture.csv",
+      "size": 1533207,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyTotalpernuclei.png",
+      "size": 132441,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyCovarpercell.png",
+      "size": 160485,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyMeansAll.png",
+      "size": 160859,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_mean_legend.csv",
+      "size": 210,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_boundaries_covariance_legend.csv",
+      "size": 198,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-tSNE_allfeatures.png",
+      "size": 44023,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_shape_normalized.csv",
+      "size": 2887895,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_boundaries_total_legend.csv",
+      "size": 194,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_cluster.csv",
+      "size": 30477,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-channelPCA_summary.csv",
+      "size": 3158,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyMeanspernucleus_boundaries.png",
+      "size": 137732,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_shape.csv",
+      "size": 2883716,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-UMAP_allfeatures.png",
+      "size": 42350,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternuclei_mean_legend.csv",
+      "size": 220,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyCovarpernuclei.png",
+      "size": 134552,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternucleus_boundaries_covariance_legend.pdf",
+      "size": 11255,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-normalized_cell_outlines.csv",
+      "size": 5409024,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternuclei_mean_legend.pdf",
+      "size": 11933,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_channel_mean.csv",
+      "size": 650508,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-SNR.csv",
+      "size": 2039,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternuclei_total_legend.pdf",
+      "size": 11300,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyMeanspercell_boundaries.png",
+      "size": 188636,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/sprm_version.txt",
+      "size": 7,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternuclei_covariance_legend.csv",
+      "size": 199,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternucleus_boundaries_total_legend.csv",
+      "size": 187,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_total_legend.csv",
+      "size": 185,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyTotalpernucleus_boundaries.png",
+      "size": 137647,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_tSNE_legend.csv",
+      "size": 246,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_texture_legend.csv",
+      "size": 29,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff_AdjacencyMatrix.mtx",
+      "size": 17478,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercells_cellshape_legend.pdf",
+      "size": 11348,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyCovarpercell_boundaries.png",
+      "size": 165665,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff_nmf_components.csv",
+      "size": 2788,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_channel_total.csv",
+      "size": 293281,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_boundaries_channel_covar.csv",
+      "size": 19558036,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-superpixel.ome.tiff",
+      "size": 77110,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_boundaries_channel_total.csv",
+      "size": 275730,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_covariance_legend.csv",
+      "size": 197,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff_nmf_top3.png",
+      "size": 5033471,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-Superpixels.png",
+      "size": 83709,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_channel_covar.csv",
+      "size": 20980668,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-nuclei_channel_total.csv",
+      "size": 283497,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-nucleus_boundaries_channel_covar.csv",
+      "size": 17544969,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-UMAP_allfeatures.csv",
+      "size": 33499,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cluster_meanALLCH_legend.csv",
+      "size": 258,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-Top3ChannelPCA.png",
+      "size": 3884261,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_cellshape_legend.csv",
+      "size": 239,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercells_texture_legend.pdf",
+      "size": 12787,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-Cluster_ShapeNormalized.png",
+      "size": 156262,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-nuclei_cluster.csv",
+      "size": 30477,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_centers.csv",
+      "size": 29535,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternucleus_boundaries_total_legend.pdf",
+      "size": 12410,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-SPRM_Image_Quality_Measures.json",
+      "size": 15315,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff_AdjacencyMatrixRowColLabels.txt",
+      "size": 5940,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff_nmf_components.pdf",
+      "size": 22387,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cluster_meanALLCH_legend.pdf",
+      "size": 13069,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbytSNEAllFeatures.png",
+      "size": 186268,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyMeanspernuclei.png",
+      "size": 134388,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternucleus_boundaries_mean_legend.csv",
+      "size": 209,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternucleus_boundaries_mean_legend.pdf",
+      "size": 12126,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-nucleus_boundaries_channel_total.csv",
+      "size": 272427,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyTotalpercell_boundaries.png",
+      "size": 173182,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusternuclei_covariance_legend.pdf",
+      "size": 11254,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/out.hdf5",
+      "size": 110833472,
+      "type": "hdf5"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-nuclei_channel_covar.csv",
+      "size": 18479996,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_boundaries_total_legend.pdf",
+      "size": 12405,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercells_cellshapenormalized_legend.pdf",
+      "size": 11871,
+      "type": "pdf"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff_AdjacencyMatrix_avg.mtx",
+      "size": 26882,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-cell_polygons_spatial.csv",
+      "size": 1795404,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyCovarpernucleus_boundaries.png",
+      "size": 133732,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clustercell_boundaries_mean_legend.csv",
+      "size": 457,
+      "type": "csv"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "sprm_outputs/3D_image_stack_expr.ome.tiff-clusterbyUMAP.png",
+      "size": 175277,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "anndata-zarr/3D_image_stack_expr-anndata.zarr.zip",
+      "size": 1701744,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "Stanford RTI",
+  "group_uuid": "f5af3a5a-e93c-11e9-8559-0efb3ba9a670",
+  "hubmap_id": "HBM837.VCTX.325",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a31ad46",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.11"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a31ad46",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.11"
+      },
+      {
+        "documentation_url": "",
+        "hash": "8121853",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/mibi-pipeline",
+        "version": "v1.0.2"
+      },
+      {
+        "documentation_url": "",
+        "hash": "cba3af5",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/sprm",
+        "version": "v1.2.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "6e55233",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/create-vis-symlink-archive",
+        "version": "v1.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "b1b40c4",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "0b94a44",
+        "input_parameters": [],
+        "name": "sprm-to-anndata.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.27"
+      }
+    ],
+    "workflow_description": "",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1764608186385,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Stanford RTI/15277bfacb62753c25bc0fa81cc67fea/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1764608186385,
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1764608186017,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "MIBI [DeepCell + SPRM] data from the uterus of a 24.1-year-old unknown female",
+  "uuid": "15277bfacb62753c25bc0fa81cc67fea"
+}

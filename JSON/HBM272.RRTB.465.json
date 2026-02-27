@@ -1,0 +1,470 @@
+{
+  "collections": [
+    {
+      "contacts": [
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "display_name": "Valentina Stanley",
+          "email": "vstanley@ucsd.edu",
+          "first_name": "Valentina",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Stanley",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-2212-7796"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "display_name": "Scott Lindsay",
+          "email": "sclindsay@ucsd.edu",
+          "first_name": "Scott",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Lindsay",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "A",
+          "orcid": "0000-0002-2929-7755"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "display_name": "Valentina Stanley",
+          "email": "vstanley@ucsd.edu",
+          "first_name": "Valentina",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Stanley",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-2212-7796"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "display_name": "Scott Lindsay",
+          "email": "sclindsay@ucsd.edu",
+          "first_name": "Scott",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Lindsay",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "A",
+          "orcid": "0000-0002-2929-7755"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "display_name": "Cayla Mason",
+          "email": "cnmason@ucsd.edu",
+          "first_name": "Cayla",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Mason",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "N",
+          "orcid": "0000-0003-4598-3824"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "display_name": "Kathleen Fisch",
+          "email": "kfisch@ucsd.edu",
+          "first_name": "Kathleen",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Fisch",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M",
+          "orcid": "0000-0002-0117-7444"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "display_name": "Mana Parast",
+          "email": "mparast@ucsd.edu",
+          "first_name": "Mana",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Parast",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M",
+          "orcid": "0000-0001-5963-2246"
+        },
+        {
+          "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+          "display_name": "Louise Laurent",
+          "email": "llaurent@ucsd.edu",
+          "first_name": "Louise",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Laurent",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "C",
+          "orcid": "0000-0002-2095-7534"
+        }
+      ],
+      "created_by_user_displayname": "Brendan Honick",
+      "created_by_user_email": "bhonick@andrew.cmu.edu",
+      "created_by_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+      "created_timestamp": 1727198111730,
+      "description": "Bulk ATAC fastq, metadata, and contributors files from fallopian tubes collected by the UCSD Female Reproductive TMC.",
+      "entity_type": "Collection",
+      "group_name": "TMC - University of California San Diego focusing on female reproduction",
+      "group_uuid": "1fe64d24-c870-11eb-9a03-a9c8d5e16226",
+      "hubmap_id": "HBM936.PVGP.987",
+      "last_modified_timestamp": 1727198111730,
+      "last_modified_user_displayname": "Brendan Honick",
+      "last_modified_user_email": "bhonick@andrew.cmu.edu",
+      "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+      "title": "TMC_Laurent_bulkATAC_FT",
+      "uuid": "7c998df9dd506c63f11fa41a9c7fdb02"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+      "first_name": "Valentina",
+      "is_contact": "TRUE",
+      "last_name": "Stanley",
+      "middle_name_or_initial": "",
+      "name": "Valentina Stanley",
+      "orcid_id": "0000-0002-2212-7796",
+      "version": "1"
+    },
+    {
+      "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+      "first_name": "Scott",
+      "is_contact": "TRUE",
+      "last_name": "Lindsay",
+      "middle_name_or_initial": "A",
+      "name": "Scott Lindsay",
+      "orcid_id": "0000-0002-2929-7755",
+      "version": "1"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+      "first_name": "Valentina",
+      "is_contact": "TRUE",
+      "last_name": "Stanley",
+      "middle_name_or_initial": "",
+      "name": "Valentina Stanley",
+      "orcid_id": "0000-0002-2212-7796",
+      "version": "1"
+    },
+    {
+      "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+      "first_name": "Scott",
+      "is_contact": "TRUE",
+      "last_name": "Lindsay",
+      "middle_name_or_initial": "A",
+      "name": "Scott Lindsay",
+      "orcid_id": "0000-0002-2929-7755",
+      "version": "1"
+    },
+    {
+      "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+      "first_name": "Cayla",
+      "is_contact": "FALSE",
+      "last_name": "Mason",
+      "middle_name_or_initial": "N",
+      "name": "Cayla Mason",
+      "orcid_id": "0000-0003-4598-3824",
+      "version": "1"
+    },
+    {
+      "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+      "first_name": "Kathleen",
+      "is_contact": "FALSE",
+      "last_name": "Fisch",
+      "middle_name_or_initial": "M",
+      "name": "Kathleen Fisch",
+      "orcid_id": "0000-0002-0117-7444",
+      "version": "1"
+    },
+    {
+      "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+      "first_name": "Mana",
+      "is_contact": "FALSE",
+      "last_name": "Parast",
+      "middle_name_or_initial": "M",
+      "name": "Mana Parast",
+      "orcid_id": "0000-0001-5963-2246",
+      "version": "1"
+    },
+    {
+      "affiliation": "UCSD Female Reproductive Tissue Mapping Center",
+      "first_name": "Louise",
+      "is_contact": "FALSE",
+      "last_name": "Laurent",
+      "middle_name_or_initial": "C",
+      "name": "Louise Laurent",
+      "orcid_id": "0000-0002-2095-7534",
+      "version": "1"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1727102840360,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "dataset_type": "ATACseq",
+  "description": "Fallopian; Right tube; Fimbrial region",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Valentina Stanley",
+      "created_by_user_email": "vstanley@ucsd.edu",
+      "created_by_user_sub": "4cbe6583-a52a-4fab-9e5a-2160f8f24576",
+      "created_timestamp": 1655845191819,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "TMC - University of California San Diego focusing on female reproduction",
+      "group_uuid": "1fe64d24-c870-11eb-9a03-a9c8d5e16226",
+      "hubmap_id": "HBM423.SGGX.473",
+      "last_modified_timestamp": 1661971422770,
+      "last_modified_user_displayname": "Valentina Stanley",
+      "last_modified_user_email": "vstanley@ucsd.edu",
+      "last_modified_user_sub": "4cbe6583-a52a-4fab-9e5a-2160f8f24576",
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.dm6gpbd5plzp/v1",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/a17166d6-f0f4-4b93-8aec-7c7bcdd27c74",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [],
+        "creation_date": "2022-08-31",
+        "creator": "Valentina Stanley",
+        "creator_first_name": "Valentina",
+        "creator_last_name": "Stanley",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/a17166d6-f0f4-4b93-8aec-7c7bcdd27c74_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2022-08-31",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHFRightFallopianTube",
+          "translation_units": "millimeter",
+          "x_rotation": -18,
+          "x_scaling": 1,
+          "x_translation": 40.412,
+          "y_rotation": 19,
+          "y_scaling": 1,
+          "y_translation": 22.302,
+          "z_rotation": 0,
+          "z_scaling": 1,
+          "z_translation": 10.436
+        },
+        "x_dimension": 3,
+        "y_dimension": 6,
+        "z_dimension": 2
+      },
+      "sample_category": "block",
+      "uuid": "0e940d352e7bab7f67da55341091aca5"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM272.RRTB.465",
+  "entity_type": "Dataset",
+  "group_name": "TMC - University of California San Diego focusing on female reproduction",
+  "group_uuid": "1fe64d24-c870-11eb-9a03-a9c8d5e16226",
+  "hubmap_id": "HBM272.RRTB.465",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "35eb9414",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      },
+      {
+        "hash": "77e13a2c",
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1731436315402,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "protected/TMC - University of California San Diego focusing on female reproduction/b6afe099b852d7896cce8cf7ba50db8b/",
+  "metadata": {
+    "acquisition_instrument_model": "NovaSeq 6000",
+    "acquisition_instrument_vendor": "Illumina",
+    "analyte_class": "DNA",
+    "assay_category": "sequence",
+    "assay_type": "bulkATACseq",
+    "bulk_atac_cell_isolation_protocols_io_doi": "10.17504/protocols.io.kqdg3p2kel25/v1",
+    "bulk_transposition_input_number_nuclei": "50000",
+    "contributors_path": "extras/contributors.tsv",
+    "description": "Fallopian; Right tube; Fimbrial region",
+    "execution_datetime": "2022-02-11 21:48",
+    "is_targeted": "False",
+    "is_technical_replicate": "False",
+    "library_adapter_sequence": "5-CTGTCTCTTATA",
+    "library_average_fragment_size": "464",
+    "library_concentration_unit": "nM",
+    "library_concentration_value": "25.5",
+    "library_construction_protocols_io_doi": "10.17504/protocols.io.261gen52jg47/v1",
+    "library_creation_date": "2022-01-22",
+    "library_final_yield_unit": "ng",
+    "library_final_yield_value": "133",
+    "library_layout": "paired-end",
+    "library_pcr_cycles": "8",
+    "library_preparation_kit": "IDT for Illumina - Nextera DNA UD Indexes Set C",
+    "operator": "Scott Lindsay-Hewett",
+    "operator_email": "sclindsay@ucsd.edu",
+    "pi": "Louise Laurent",
+    "pi_email": "llaurent@health.ucsd.edu",
+    "protocols_io_doi": "10.17504/protocols.io.5jyl898brv2w/v1",
+    "sample_quality_metric": "OK",
+    "sequencing_phix_percent": "0",
+    "sequencing_read_format": "101/10/24/101",
+    "sequencing_read_percent_q30": "93.59",
+    "sequencing_reagent_kit": "NovaSeq 6000 S4 Reagent Kit v1.5 (200 cycles)",
+    "transposition_kit_number": "20034197",
+    "transposition_method": "Tagment DNA TDE1 Enzyme",
+    "transposition_transposase_source": "Illumina",
+    "version": "1"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "TMC_Laurent_bulkATAC_FT : 3093_ftR_Snf_F_S80",
+  "published_timestamp": 1731436315402,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM272.RRTB.465",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1727102840360,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1727102875012,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1727105198208,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1727107346679,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1731436315402,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "ATACseq data from the fallopian tube (right) of a 34-year-old white female",
+  "upload": {
+    "created_by_user_displayname": "Cayla Mason",
+    "created_by_user_email": "cnmason@ucsd.edu",
+    "created_by_user_sub": "8d957b5e-b093-4e97-b530-699c6cff0e3e",
+    "created_timestamp": 1690323900914,
+    "description": "Bulk ATAC fastq, metadata, and contributors files from fallopian tubes collected by the UCSD Female Reproductive TMC.",
+    "entity_type": "Upload",
+    "group_name": "TMC - University of California San Diego focusing on female reproduction",
+    "group_uuid": "1fe64d24-c870-11eb-9a03-a9c8d5e16226",
+    "hubmap_id": "HBM979.SGRS.887",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231453398,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1723575004839,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1724860424712,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1724860450670,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1727101589882,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1727101599478,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1727101634317,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1727101750264,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1727101760037,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1727101780695,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1727102036645,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1727102041863,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1727102699095,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1727102796510,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1727102802991,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1727102867559,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "TMC_Laurent_bulkATAC_FT",
+    "uuid": "9824b1492e2e6cb598c9cdbb30a640aa"
+  },
+  "uuid": "b6afe099b852d7896cce8cf7ba50db8b"
+}

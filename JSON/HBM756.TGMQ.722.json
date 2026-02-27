@@ -1,0 +1,350 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Junhyong Kim",
+      "email": "junhyong@sas.upenn.edu",
+      "first_name": "Junhyong",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Kim",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-7726-8246"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Junhyong Kim",
+      "email": "junhyong@sas.upenn.edu",
+      "first_name": "Junhyong",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Kim",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-7726-8246"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Kathleen O'Neill",
+      "email": "kathleen.o'neill2@pennmedicine.upenn.edu",
+      "first_name": "Kathleen",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "O'Neill",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-1980-6840"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Stephen Fisher",
+      "email": "safisher@sas.upenn.edu",
+      "first_name": "Stephen",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Fisher",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-8034-7685"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Erik Nordgren",
+      "email": "nordgren@sas.upenn.edu",
+      "first_name": "Erik",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Nordgren",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-5024-0278"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Addie Johnston",
+      "email": "addiejohnston940@gmail.com",
+      "first_name": "Addie",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Johnston",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0005-2286-9078"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Alex Cabrera",
+      "email": "alexander.cabrera@pennmedicine.upenn.edu",
+      "first_name": "Alex",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Cabrera",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0007-0189-026X"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Jean Rosario",
+      "email": "jrosar@sas.upenn.edu",
+      "first_name": "Jean",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Rosario",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-6116-5058"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Hieu Nguyen",
+      "email": "hieung@sas.upenn.edu",
+      "first_name": "Hieu",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Nguyen",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0003-6552-821X"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Lauren Schwartz",
+      "email": "lauren.schwartz@pennmedicine.upenn.edu",
+      "first_name": "Lauren",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Schwartz",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2418-7167"
+    },
+    {
+      "affiliation": "Penn-TMC",
+      "display_name": "Da Kuang",
+      "email": "kuangda@seas.upenn.edu",
+      "first_name": "Da",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Kuang",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-4310-2301"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1752615813165,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "Histology",
+  "description": "H&E Histology dataset from the female reproductive organs, for one of four sections on a slide. The same slide was also used for PhenoCycler proteomics.",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "C. NORDGREN",
+      "created_by_user_email": "nordgren@sas.upenn.edu",
+      "created_by_user_sub": "6e3bbf9a-df76-4735-9ac2-517e1b501fc0",
+      "created_timestamp": 1747697067789,
+      "data_access_level": "public",
+      "entity_type": "Sample",
+      "group_name": "TMC - University of Pennsylvania",
+      "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
+      "hubmap_id": "HBM275.BJBJ.542",
+      "last_modified_timestamp": 1747697067789,
+      "last_modified_user_displayname": "C. NORDGREN",
+      "last_modified_user_email": "nordgren@sas.upenn.edu",
+      "last_modified_user_sub": "6e3bbf9a-df76-4735-9ac2-517e1b501fc0",
+      "metadata": {
+        "area_unit": "",
+        "area_value": "",
+        "histological_report": "",
+        "metadata_schema_id": "01e9bc58-bdf2-49f4-9cf9-dd34f3cc62d7",
+        "notes": "CODEX",
+        "preparation_condition": "Stored in refrigerator",
+        "preparation_medium": "None",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.x54v9p4j1g3e/v1",
+        "processing_time_unit": "",
+        "processing_time_value": "",
+        "quality_criteria": "",
+        "sample_id": "HBM275.BJBJ.542",
+        "section_index_number": "2",
+        "source_id": "HBM572.WJTS.994",
+        "source_storage_duration_unit": "day",
+        "source_storage_duration_value": "203",
+        "storage_medium": "FFPE (Paraffin embedded)",
+        "storage_method": "Stored in ambient temperature",
+        "thickness_unit": "um",
+        "thickness_value": "10"
+      },
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.x54v9p4j1g3e/v1",
+      "sample_category": "section",
+      "uuid": "9b19e177fdd0fbf1f1f8fdde7b7bc13a"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM756.TGMQ.722",
+  "entity_type": "Dataset",
+  "group_name": "TMC - University of Pennsylvania",
+  "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
+  "hubmap_id": "HBM756.TGMQ.722",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "28c31c42",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v5.1.0"
+      },
+      {
+        "documentation_url": null,
+        "hash": "12d5861e",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.36"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "generic_metadatatsv"
+    }
+  },
+  "last_modified_timestamp": 1756230884999,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/TMC - University of Pennsylvania/05cd7297b76869ce95c7969ad697ac13/",
+  "metadata": {
+    "acquisition_instrument_model": "Pannoramic MIDI II Digital Scanner",
+    "acquisition_instrument_vendor": "3DHISTECH",
+    "analyte_class": "Nucleic acid + protein",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "Histology",
+    "intended_tile_overlap_percentage": "",
+    "is_batch_staining_done": "Yes",
+    "is_image_preprocessing_required": "Yes",
+    "is_staining_automated": "Yes",
+    "is_targeted": "No",
+    "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+    "non_global_files": "",
+    "preparation_instrument_model": "",
+    "preparation_instrument_vendor": "",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.rm7vzqrd2vx1/v1",
+    "scan_direction": "",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "148",
+    "stain_name": "H&E",
+    "stain_technique": "Regressive staining",
+    "tile_configuration": "",
+    "tiled_image_columns": "",
+    "tiled_image_count": "",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": ""
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "PhenoHisto-Slide-7",
+  "published_timestamp": 1756230884999,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM756.TGMQ.722",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1752615813165,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1752615928015,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1752671340444,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1752672703496,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1756230884999,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology data from the fallopian tube (right) of a 34-year-old white female",
+  "upload": {
+    "anticipated_complete_upload_month": "2025-07",
+    "anticipated_dataset_count": 4,
+    "created_by_user_displayname": "C. NORDGREN",
+    "created_by_user_email": "nordgren@sas.upenn.edu",
+    "created_by_user_sub": "6e3bbf9a-df76-4735-9ac2-517e1b501fc0",
+    "created_timestamp": 1749584274255,
+    "description": "4 H&E Histology datasets from one slide (also used for PhenoCycler), from F. tube of Donor #17",
+    "entity_type": "Upload",
+    "group_name": "TMC - University of Pennsylvania",
+    "group_uuid": "69cb89c4-c870-11eb-b360-4dfdb5d10392",
+    "hubmap_id": "HBM425.WPHK.688",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "intended_dataset_type": "Histology",
+    "intended_organ": "RF",
+    "last_modified_timestamp": 1756262264532,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1749584274255,
+        "changed_by_email": "nordgren@sas.upenn.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1752615416899,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1752615580880,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1752615785379,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1752615790936,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1752615921760,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "PhenoHisto-Slide-7",
+    "uuid": "e1fa5c2f5115d39751234b0def84b778"
+  },
+  "uuid": "05cd7297b76869ce95c7969ad697ac13"
+}

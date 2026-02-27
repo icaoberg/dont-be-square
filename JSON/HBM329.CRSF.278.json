@@ -1,0 +1,526 @@
+{
+  "antibodies": [
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "5",
+      "antibody_rrid": "AB_2721321",
+      "channel_id": "Cy3 (mouse)",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "100",
+      "hgnc_symbol": "TUBB3",
+      "lot_number": "B366821",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q9ERD7"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "2",
+      "antibody_rrid": "AB_2289903",
+      "channel_id": "Cy5 (goat)",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "100",
+      "hgnc_symbol": "AQP2",
+      "lot_number": "J2414",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P41181"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "2",
+      "antibody_rrid": "AB_2154851",
+      "channel_id": "Cy5 (sheep)",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "100",
+      "hgnc_symbol": "NPHS1",
+      "lot_number": "ZMU0216081",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "O60500"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "5.5",
+      "antibody_rrid": "AB_726362",
+      "channel_id": "Alexa-488 (rabbit)",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "100",
+      "hgnc_symbol": "CD31",
+      "lot_number": "GR3176844-26",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P16284"
+    }
+  ],
+  "collections": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Sanjay Jain",
+          "email": "sanjayjain@wustl.edu",
+          "first_name": "Sanjay",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Jain",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Madhurima Kaushal",
+          "email": "kaushalm@wustl.edu",
+          "first_name": "Madhurima",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Kaushal",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2760-0586"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Sanjay Jain",
+          "email": "sanjayjain@wustl.edu",
+          "first_name": "Sanjay",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Jain",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Madhurima Kaushal",
+          "email": "kaushalm@wustl.edu",
+          "first_name": "Madhurima",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Kaushal",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2760-0586"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Amanda Knoten",
+          "email": "aknoten@wustl.edu",
+          "first_name": "Amanda",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Knoten",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Bo Zhang",
+          "email": "bzhang22@wustl.edu",
+          "first_name": "Bo",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Zhang",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-8895-2206"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Liam McLaughlin",
+          "email": "liamm@wustl.edu",
+          "first_name": "Liam",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "McLaughlin",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0001-6184-4149"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Brittany Minor",
+          "email": "bminor@wustl.edu ",
+          "first_name": "Brittany",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Minor",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-0967-9983"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1766007899097,
+      "description": "The human kidney maintains homeostasis through a complex network of up to a million nephrons, its fundamental tissue units. Using innovative tissue processing and light sheet fluorescence microscopy, we mapped the 3D neurovascular connectivity of nephrons to understand how their structural organization enables coordinated functions like filtration, absorption, and blood pressure regulation. Our analysis revealed developmental changes in glomerular orientation, density, volume, and innervation from birth through aging. We discovered an extensive nerve network connecting different nephron segments and organizing glomeruli into distinct communities. These communities are linked through \u201cmother glomeruli\u201d that serve as control centers, creating a repeating pattern throughout the cortex. This sophisticated neural organization, which is underdeveloped in newborn kidneys and disrupted in conditions like diabetes and hydronephrosis, appears to facilitate synchronized responses to maintain fluid balance. The findings provide insights into how the kidney's structural architecture enables coordinated function across its numerous nephrons.",
+      "doi_url": "https://doi.org/10.35079/HBM992.SKBM.927",
+      "entity_type": "Collection",
+      "group_name": "Washington University Kidney TMC",
+      "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+      "hubmap_id": "HBM992.SKBM.927",
+      "last_modified_timestamp": 1766007902299,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM992.SKBM.927",
+      "title": "A collection of datasets from Publication: Three Dimensional Multiscalar Neurovascular Nephron Connectivity Map of the Human Kidney Across the Lifespan",
+      "uuid": "5ea0b36446864ca3fd305ca2355a7a56"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Sanjay Jain",
+      "email": "sanjayjain@wustl.edu",
+      "first_name": "Sanjay",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Jain",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2804-127X"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Madhurima Kaushal",
+      "email": "kaushalm@wustl.edu",
+      "first_name": "Madhurima",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Kaushal",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2760-0586"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Sanjay Jain",
+      "email": "sanjayjain@wustl.edu",
+      "first_name": "Sanjay",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Jain",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2804-127X"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Madhurima Kaushal",
+      "email": "kaushalm@wustl.edu",
+      "first_name": "Madhurima",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Kaushal",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2760-0586"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Amanda Knoten",
+      "email": "aknoten@wustl.edu",
+      "first_name": "Amanda",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Knoten",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-8564-2253"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Zhang Bo",
+      "email": "bzhang22@wustl.edu",
+      "first_name": "Zhang",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Bo",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-8895-2206"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Liam McLaughlin",
+      "email": "liamm@wustl.edu",
+      "first_name": "Liam",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "McLaughlin",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0001-6184-4149"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1719422759096,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "Light Sheet",
+  "description": "The human kidney is a vital organ with a remarkable ability to coordinate the activity of up to a million nephrons, its main functional tissue unit (FTU), and maintain homeostasis. We developed tissue processing and analytical methods to construct a 3D map of neurovascular nephron connectivity of the human kidney and glean insights into how this structural organization enables coordination of various functions of the nephron, such as glomerular filtration, solute and water absorption, secretion by the tubules, and regulation of blood flow and pressure by the juxtaglomerular apparatus, in addition to how these functions change across disease and lifespans. Using light sheet fluorescence microscopy (LSFM) and morphometric analysis we discovered changes in anatomical orientation of the vascular pole, glomerular density, volume, and innervation through postnatal development and ageing. The extensive nerve network exists from cortex FTUs to medullary loop of Henle, providing connectivity within segments of the same nephron, and between separate nephrons. The nerves organize glomeruli into discreet communities (in the same network of nerves). Adjacent glomerular communities are connected to intercommunal \u201cmother glomeruli\u201d by nerves, a pattern repeating throughout the cortex. These neuro-nephron networks are not developed in postnatal kidneys and are disrupted in diseased kidneys (diabetic or hydronephrosis). This structural organization likely poises the entire glomerular and juxtaglomerular FTUs to synchronize responses to perturbations in fluid homeostasis, utilizing mother glomeruli as network control centers.",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Dominic Bordelon",
+      "created_by_user_email": "dbordelo@andrew.cmu.edu",
+      "created_by_user_sub": "49e6e703-4a8e-4544-8830-a8368c809910",
+      "created_timestamp": 1768365443879,
+      "data_access_level": "public",
+      "description": "20X image, field of view 4",
+      "entity_type": "Sample",
+      "group_name": "Washington University Kidney TMC",
+      "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+      "hubmap_id": "HBM368.MXTF.833",
+      "last_modified_timestamp": 1768365443879,
+      "last_modified_user_displayname": "Dominic Bordelon",
+      "last_modified_user_email": "dbordelo@andrew.cmu.edu",
+      "last_modified_user_sub": "49e6e703-4a8e-4544-8830-a8368c809910",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.eq2lyjxmqlx9/v1",
+      "sample_category": "section",
+      "uuid": "f0108d045399d6c4703b82fcb5a64633"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM329.CRSF.278",
+  "entity_type": "Dataset",
+  "group_name": "Washington University Kidney TMC",
+  "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+  "hubmap_id": "HBM329.CRSF.278",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "eba4dfa",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      },
+      {
+        "hash": "3e4bb1e",
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1747856366360,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Washington University Kidney TMC/0775dc5b1d61c5fe35f8ad57c9f1574d/",
+  "metadata": {
+    "acquisition_instrument_model": "Lightsheet 7",
+    "acquisition_instrument_vendor": "Zeiss Microscopy",
+    "analyte_class": "Nucleic acid + protein",
+    "antibodies_path": "extras/antibodies.tsv",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "Light Sheet",
+    "intended_tile_overlap_percentage": "5",
+    "is_image_preprocessing_required": "Yes",
+    "is_targeted": "Yes",
+    "metadata_schema_id": "a4ff738c-a7e9-40c1-966e-22cf9c885fad",
+    "preparation_protocol_doi": "https://www.protocols.io/view/light-sheet-fluorescence-microscopy-of-human-kidne-eq2lyjxmqlx9/v1",
+    "scan_direction": "Right-and-down",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "372",
+    "tile_configuration": "Snake-by-rows",
+    "tiled_image_columns": "2",
+    "tiled_image_count": "4",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": ""
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "LightSheet_3785_LS-20230223_sk1_5X : ./20X_POV4",
+  "published_timestamp": 1747856366360,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM329.CRSF.278",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1719422759096,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1719437247966,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1719511530316,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1719513469243,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1747856366360,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Light Sheet data from the kidney (right) of a 26-year-old white female",
+  "upload": {
+    "created_by_user_displayname": "Madhurima Kaushal",
+    "created_by_user_email": "kaushalm@wustl.edu",
+    "created_by_user_sub": "b84d802a-956e-445a-824b-d6fc5b262384",
+    "created_timestamp": 1705598280102,
+    "description": "Lightsheet data for 3785_LS-20230223_sk1 at 5X resolution",
+    "entity_type": "Upload",
+    "group_name": "Washington University Kidney TMC",
+    "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+    "hubmap_id": "HBM585.CFZN.487",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231684613,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1705598280102,
+        "changed_by_email": "kaushalm@wustl.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1706730753436,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1706730787438,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1708620784934,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1708620790385,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1708620831573,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1712088260148,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1712088273568,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1712088425428,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1718637988599,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Incomplete"
+      },
+      {
+        "change_timestamp": 1719259659441,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1719259689808,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1719259730753,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1719420899493,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1719420904015,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1719422457116,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1719422725310,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1719422731006,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1719422784878,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Error"
+      },
+      {
+        "change_timestamp": 1719437244299,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      },
+      {
+        "change_timestamp": 1729881878389,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1729881889129,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1729882329724,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "LightSheet_3785_LS-20230223_sk1_5X",
+    "uuid": "be149e31ddccb1dc7ea6f37dae2abe8b"
+  },
+  "uuid": "0775dc5b1d61c5fe35f8ad57c9f1574d"
+}

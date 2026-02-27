@@ -1,0 +1,40 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1575492539096,
+  "data_access_level": "public",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1575492091844,
+    "data_access_level": "public",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM968.XQCF.256",
+    "last_modified_timestamp": 1596122286958,
+    "last_modified_user_displayname": "Marda Jorgensen",
+    "last_modified_user_email": "marda@ufl.edu",
+    "last_modified_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "organ": "TH",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/lz/tissue-reg-data/07a29e4c-ed43-11e8-b56a-0e8017bdda58/ff43d9708a6dfc55abc95685c5f12811/UFL0004 TH Pathology Report.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgmiju6",
+    "sample_category": "organ",
+    "uuid": "ff43d9708a6dfc55abc95685c5f12811"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM936.HVLJ.377",
+  "last_modified_timestamp": 1575492700499,
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgmiju6",
+  "sample_category": "block",
+  "uuid": "5cfa0ee88348bf137f57c04fdac6d8ab"
+}

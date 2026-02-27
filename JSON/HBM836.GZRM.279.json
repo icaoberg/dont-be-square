@@ -1,0 +1,290 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1595553370737,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "salmon_rnaseq_bulk"
+  ],
+  "dataset_info": "['salmon_rnaseq_bulk__69e5acda3ceefb02ef4363be64958c53__salmon-rnaseq-bulk']",
+  "dataset_type": "RNAseq [Salmon]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Stephanie",
+          "last_name": "Nevins",
+          "middle_name_or_initial": "Ashley",
+          "name": "Stephanie Nevins",
+          "orcid_id": "0000-0002-2244-6703"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Stephanie",
+          "last_name": "Nevins",
+          "middle_name_or_initial": "Ashley",
+          "name": "Stephanie Nevins",
+          "orcid_id": "0000-0002-2244-6703"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Roxanne",
+          "last_name": "Chiu",
+          "middle_name_or_initial": "B",
+          "name": "Roxanne Chiu",
+          "orcid_id": "0000-0002-7306-9186"
+        }
+      ],
+      "created_by_user_displayname": "daniel Cotter",
+      "created_by_user_email": "dlcott2@stanford.edu",
+      "created_by_user_sub": "9bc64b24-20e9-4612-bb84-a80e9f806022",
+      "created_timestamp": 1581548633166,
+      "data_access_level": "protected",
+      "data_types": [
+        "bulk-RNA"
+      ],
+      "dataset_info": "B001-A-SmallIntestine-Duodenum-RNAseq\r\n\r\nRNA sequencing for B001-A-201",
+      "dataset_type": "RNAseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX20680494",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002272",
+      "description": "RNA sequencing for B001-A-201",
+      "doi_url": "https://doi.org/10.35079/HBM634.HGLT.739",
+      "entity_type": "Dataset",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM634.HGLT.739",
+      "ingest_id": "69e5acda3ceefb02ef4363be64958c53_scan.and.begin.processing_2020-07-23T20:33:15.518730-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "12917e1",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1644610226408,
+      "last_modified_user_displayname": "Zhou Yuan",
+      "last_modified_user_email": "ZHY19@pitt.edu",
+      "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+      "local_directory_rel_path": "/Stanford TMC/69e5acda3ceefb02ef4363be64958c53",
+      "metadata": {
+        "_from_metadatatsv": true,
+        "acquisition_instrument_model": "NovaSeq6000",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "RNA",
+        "assay_category": "sequence",
+        "assay_type": "bulk RNA",
+        "bulk_rna_isolation_protocols_io_doi": "10.17504/protocols.io.bf52jq8e",
+        "bulk_rna_isolation_quality_metric_value": "8.9",
+        "bulk_rna_yield_units_per_tissue_unit": "ng/mg",
+        "bulk_rna_yield_value": "149.6",
+        "collectiontype": "single_metadatatsv",
+        "data_path": ".",
+        "execution_datetime": "2019-04-22 0:00",
+        "is_targeted": "FALSE",
+        "library_adapter_sequence": "5'Adapter:AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT+3'Adapter:GATCGGAAGAGCACACGTCTGAACTCCAGTCACATCACGATCTCGTATGCCGTCTTCTGCTTG-3'",
+        "library_average_fragment_size": "350",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.bftnjnme",
+        "library_final_yield_unit": "ng",
+        "library_final_yield_value": "10",
+        "library_layout": "paired-end",
+        "library_pcr_cycles_for_sample_index": "10",
+        "metadata_path": ".",
+        "operator": "Stephanie Nevins",
+        "operator_email": "snevins@stanford.edu",
+        "pi": "Mike Snyder",
+        "pi_email": "mpsnyder@stanford.edu",
+        "protocols_io_doi": "10.17504/protocols.io.bftnjnme",
+        "rnaseq_assay_input_unit": "ug",
+        "rnaseq_assay_input_value": "1",
+        "rnaseq_assay_method": "NEBNext Ultra II RNA Library Prep Kit",
+        "sequencing_phix_percent": "1",
+        "sequencing_read_format": "150/8/8/150",
+        "sequencing_read_percent_q30": "94.27",
+        "sequencing_reagent_kit": "NovaSeq 6000 SP Reagent Kit"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1598112466283,
+      "published_user_displayname": "Bill Shirey",
+      "published_user_email": "shirey@pitt.edu",
+      "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+      "registered_doi": "10.35079/HBM634.HGLT.739",
+      "run_id": "69e5acda3ceefb02ef4363be64958c53_scan.and.begin.processing_2020-07-23T20:33:15.518730-04:00",
+      "status": "Published",
+      "uuid": "69e5acda3ceefb02ef4363be64958c53"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "expression_matrices.h5",
+      "size": 15675328,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/B001A201-quant.sf",
+      "size": 8244400,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/B001A201-aux_files.tar.gz",
+      "size": 321801,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/B001A201-cmd_info.json",
+      "size": 394,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/lib_format_counts.json",
+      "size": 740,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/logs/salmon_quant.log",
+      "size": 4063,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/libParams/flenDist.txt",
+      "size": 11673,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/aux_info/fld.gz",
+      "size": 490,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/aux_info/expected_bias.gz",
+      "size": 89,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/aux_info/observed_bias.gz",
+      "size": 54,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/aux_info/observed_bias_3p.gz",
+      "size": 54,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/aux_info/meta_info.json",
+      "size": 1736,
+      "type": "json"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "out/aux_info/ambig_info.tsv",
+      "size": 930974,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/B001A201_1_fastqc.zip",
+      "size": 790026,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/B001A201_1_fastqc.html",
+      "size": 611198,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/B001A201_2_fastqc.html",
+      "size": 616534,
+      "type": "unknown"
+    },
+    {
+      "description": "",
+      "edam_term": "",
+      "rel_path": "fastqc_output/B001A201_2_fastqc.zip",
+      "size": 795030,
+      "type": "unknown"
+    }
+  ],
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM836.GZRM.279",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "12917e1",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "12917e1",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v1.2.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "8af5a1c",
+        "input_parameters": [],
+        "name": "bulk-pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/salmon-rnaseq.git",
+        "version": "v1.3"
+      }
+    ],
+    "workflow_description": "The bulk RNA pipeline uses alignment free quasimapping to the hg38 reference genome via Salmon quant to produce a sample by gene matrix in hdf format.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1598112476863,
+  "last_modified_user_displayname": "Bill Shirey",
+  "last_modified_user_email": "shirey@pitt.edu",
+  "last_modified_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "local_directory_rel_path": "public/Stanford TMC/acf816bed56dd6ba55da82960d937ec4/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1598112476863,
+  "published_user_displayname": "Bill Shirey",
+  "published_user_email": "shirey@pitt.edu",
+  "published_user_sub": "e19adbbb-73c3-43a7-b05e-0eead04f5ff8",
+  "status": "Published",
+  "title": "RNAseq [Salmon] data from the small intestine of a 67-year-old white female",
+  "uuid": "acf816bed56dd6ba55da82960d937ec4"
+}

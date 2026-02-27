@@ -1,0 +1,677 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1689686167617,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "publication_ancillary"
+  ],
+  "dataset_info": "gen_pub_ancillary__3c7273660cdf9ab91a7901533b2cd9a5__gen_pub_ancillary",
+  "dataset_type": "Publication [ancillary]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Michael",
+          "is_contact": "TRUE",
+          "last_name": "Eadon",
+          "middle_name_or_initial": "T.",
+          "name": "Michael T. Eadon",
+          "orcid_id": "0000-0003-3066-2876",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Pierre",
+          "is_contact": "TRUE",
+          "last_name": "Dagher",
+          "middle_name_or_initial": "C.",
+          "name": "Pierre C. Dagher",
+          "orcid_id": "0000-0003-3321-5561",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Tarek",
+          "is_contact": "TRUE",
+          "last_name": "El-Achkar",
+          "middle_name_or_initial": "M.",
+          "name": "Tarek M. El-Achkar",
+          "orcid_id": "0000-0003-4645-3614",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Bioengineering, University of California, San Diego, La Jolla, CA, USA",
+          "first_name": "Kun",
+          "is_contact": "TRUE",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Division of Nephrology, University of Michigan, Ann Arbor, MI, USA",
+          "first_name": "Matthias",
+          "is_contact": "TRUE",
+          "last_name": "Kretzler",
+          "middle_name_or_initial": "",
+          "name": "Matthias Kretzler",
+          "orcid_id": "0000-0003-4064-0582",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St Louis, MO, USA",
+          "first_name": "Sanjay",
+          "is_contact": "TRUE",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Department of Bioengineering, University of California, San Diego, La Jolla, CA, USA",
+          "first_name": "Blue",
+          "is_contact": "FALSE",
+          "last_name": "Lake",
+          "middle_name_or_initial": "B.",
+          "name": "Blue B. Lake",
+          "orcid_id": "0000-0002-8637-9044",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, USA",
+          "first_name": "Rajasree",
+          "is_contact": "FALSE",
+          "last_name": "Menon",
+          "middle_name_or_initial": "",
+          "name": "Rajasree Menon",
+          "orcid_id": "0000-0001-6280-9639",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology and Microbiology, University of Nebraska Medical Center, Omaha, NE, USA",
+          "first_name": "Seth",
+          "is_contact": "FALSE",
+          "last_name": "Winfree",
+          "middle_name_or_initial": "",
+          "name": "Seth Winfree",
+          "orcid_id": "0000-0002-2396-5871",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA",
+          "first_name": "Qiwen",
+          "is_contact": "FALSE",
+          "last_name": "Hu",
+          "middle_name_or_initial": "",
+          "name": "Qiwen Hu",
+          "orcid_id": "0000-0003-2798-919X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Ricardo",
+          "is_contact": "FALSE",
+          "last_name": "Melo Ferreira",
+          "middle_name_or_initial": "",
+          "name": "Ricardo Melo Ferreira",
+          "orcid_id": "0000-0003-2063-9744",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Bioengineering, University of California, San Diego, La Jolla, CA, USA",
+          "first_name": "Kian",
+          "is_contact": "FALSE",
+          "last_name": "Kalhor",
+          "middle_name_or_initial": "",
+          "name": "Kian Kalhor",
+          "orcid_id": "0000-0001-9416-3078",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Daria",
+          "is_contact": "FALSE",
+          "last_name": "Barwinska",
+          "middle_name_or_initial": "",
+          "name": "Daria Barwinska",
+          "orcid_id": "0000-0002-0776-3030",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Division of Nephrology, University of Michigan, Ann Arbor, MI, USA",
+          "first_name": "Edgar",
+          "is_contact": "FALSE",
+          "last_name": "Otto",
+          "middle_name_or_initial": "A.",
+          "name": "Edgar A. Otto",
+          "orcid_id": "0000-0002-2387-9973",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Michael",
+          "is_contact": "FALSE",
+          "last_name": "Ferkowicz",
+          "middle_name_or_initial": "",
+          "name": "Michael Ferkowicz",
+          "orcid_id": "0000-0002-9531-3899",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Bioengineering, University of California, San Diego, La Jolla, CA, USA",
+          "first_name": "Dinh",
+          "is_contact": "FALSE",
+          "last_name": "Diep",
+          "middle_name_or_initial": "",
+          "name": "Dinh Diep",
+          "orcid_id": "0000-0001-6057-4119",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Bioengineering, University of California, San Diego, La Jolla, CA, USA",
+          "first_name": "Nongluk",
+          "is_contact": "FALSE",
+          "last_name": "Plongthongkum",
+          "middle_name_or_initial": "",
+          "name": "Nongluk Plongthongkum",
+          "orcid_id": "0000-0002-1305-285X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St Louis, MO, USA",
+          "first_name": "Amanda",
+          "is_contact": "FALSE",
+          "last_name": "Knoten",
+          "middle_name_or_initial": "",
+          "name": "Amanda Knoten",
+          "orcid_id": "0000-0001-8564-2253",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Bioengineering, University of California, San Diego, La Jolla, CA, USA",
+          "first_name": "Sarah",
+          "is_contact": "FALSE",
+          "last_name": "Urata",
+          "middle_name_or_initial": "",
+          "name": "Sarah Urata",
+          "orcid_id": "0000-0001-7512-4081",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Division of Nephrology, University of Michigan, Ann Arbor, MI, USA",
+          "first_name": "Laura",
+          "is_contact": "FALSE",
+          "last_name": "Mariani",
+          "middle_name_or_initial": "H.",
+          "name": "Laura H. Mariani",
+          "orcid_id": "0000-0002-6055-764X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Division of Nephrology, University of Michigan, Ann Arbor, MI, USA",
+          "first_name": "Abhijit",
+          "is_contact": "FALSE",
+          "last_name": "Naik",
+          "middle_name_or_initial": "S.",
+          "name": "Abhijit S. Naik",
+          "orcid_id": "0000-0003-1602-9425",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Division of Nephrology, University of Michigan, Ann Arbor, MI, USA",
+          "first_name": "Sean",
+          "is_contact": "FALSE",
+          "last_name": "Eddy",
+          "middle_name_or_initial": "",
+          "name": "Sean Eddy",
+          "orcid_id": "0000-0001-8578-3443",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St Louis, MO, USA",
+          "first_name": "Bo",
+          "is_contact": "FALSE",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Bo Zhang",
+          "orcid_id": "0000-0002-6198-7908",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Bioengineering, University of California, San Diego, La Jolla, CA, USA",
+          "first_name": "Yan",
+          "is_contact": "FALSE",
+          "last_name": "Wu",
+          "middle_name_or_initial": "",
+          "name": "Yan Wu",
+          "orcid_id": "0000-0003-2596-1943",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St Louis, MO, USA",
+          "first_name": "Diane",
+          "is_contact": "FALSE",
+          "last_name": "Salamon",
+          "middle_name_or_initial": "",
+          "name": "Diane Salamon",
+          "orcid_id": "0000-0003-0427-0262",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "James",
+          "is_contact": "FALSE",
+          "last_name": "Williams",
+          "middle_name_or_initial": "C.",
+          "name": "James C. Williams",
+          "orcid_id": "0000-0001-6665-6596",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA",
+          "first_name": "Xin",
+          "is_contact": "FALSE",
+          "last_name": "Wang",
+          "middle_name_or_initial": "",
+          "name": "Xin Wang",
+          "orcid_id": "0000-0001-8866-5223",
+          "version": "1"
+        },
+        {
+          "affiliation": "Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "first_name": "Karol",
+          "is_contact": "FALSE",
+          "last_name": "Balderrama",
+          "middle_name_or_initial": "S.",
+          "name": "Karol S. Balderrama",
+          "orcid_id": "0000-0001-8458-1364",
+          "version": "1"
+        },
+        {
+          "affiliation": "Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "first_name": "Paul",
+          "is_contact": "FALSE",
+          "last_name": "Hoover",
+          "middle_name_or_initial": "J.",
+          "name": "Paul J. Hoover",
+          "orcid_id": "0000-0001-5343-429X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "first_name": "Evan",
+          "is_contact": "FALSE",
+          "last_name": "Murray",
+          "middle_name_or_initial": "",
+          "name": "Evan Murray",
+          "orcid_id": "0000-0002-9195-7478",
+          "version": "1"
+        },
+        {
+          "affiliation": "Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "first_name": "Jamie",
+          "is_contact": "FALSE",
+          "last_name": "Marshall",
+          "middle_name_or_initial": "L.",
+          "name": "Jamie L. Marshall",
+          "orcid_id": "0000-0002-2364-391X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "first_name": "Teia",
+          "is_contact": "FALSE",
+          "last_name": "Noel",
+          "middle_name_or_initial": "",
+          "name": "Teia Noel",
+          "orcid_id": "0000-0001-7084-8902",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St Louis, MO, USA",
+          "first_name": "Anitha",
+          "is_contact": "FALSE",
+          "last_name": "Vijayan",
+          "middle_name_or_initial": "",
+          "name": "Anitha Vijayan",
+          "orcid_id": "0000-0002-2128-1417",
+          "version": "1"
+        },
+        {
+          "affiliation": "New York Genome Center, New York, NY, USA",
+          "first_name": "Austin",
+          "is_contact": "FALSE",
+          "last_name": "Hartman",
+          "middle_name_or_initial": "",
+          "name": "Austin Hartman",
+          "orcid_id": "0000-0001-7278-1852",
+          "version": "1"
+        },
+        {
+          "affiliation": "Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "first_name": "Fei",
+          "is_contact": "FALSE",
+          "last_name": "Chen",
+          "middle_name_or_initial": "",
+          "name": "Fei Chen",
+          "orcid_id": "0000-0003-2308-3649",
+          "version": "1"
+        },
+        {
+          "affiliation": "Section of Nephrology, Boston University School of Medicine and Boston Medical Center, Boston, MA, USA",
+          "first_name": "Sushrut",
+          "is_contact": "FALSE",
+          "last_name": "Waikar",
+          "middle_name_or_initial": "S.",
+          "name": "Sushrut S. Waikar",
+          "orcid_id": "0000-0003-4004-326X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Joslin Diabetes Center and Harvard Medical School, Boston, MA, USA",
+          "first_name": "Sylvia",
+          "is_contact": "FALSE",
+          "last_name": "Rosas",
+          "middle_name_or_initial": "",
+          "name": "Sylvia Rosas",
+          "orcid_id": "0000-0002-9903-4002",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Yale University School of Medicine, New Haven, CT, USA",
+          "first_name": "Francis",
+          "is_contact": "FALSE",
+          "last_name": "Wilson",
+          "middle_name_or_initial": "P.",
+          "name": "Francis P. Wilson",
+          "orcid_id": "0000-0002-2633-2412",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+          "first_name": "Paul",
+          "is_contact": "FALSE",
+          "last_name": "Palevsky",
+          "middle_name_or_initial": "M.",
+          "name": "Paul M. Palevsky",
+          "orcid_id": "0000-0002-7334-5400",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Columbia University, New York, NY, USA",
+          "first_name": "Krzysztof",
+          "is_contact": "FALSE",
+          "last_name": "Kiryluk",
+          "middle_name_or_initial": "",
+          "name": "Krzysztof Kiryluk",
+          "orcid_id": "0000-0002-5047-6715",
+          "version": "1"
+        },
+        {
+          "affiliation": "Lerner Research and Glickman Urology and Kidney Institutes, Cleveland Clinic, Cleveland, OH, USA",
+          "first_name": "John",
+          "is_contact": "FALSE",
+          "last_name": "Sedor",
+          "middle_name_or_initial": "R.",
+          "name": "John R. Sedor",
+          "orcid_id": "0000-0002-6780-9168",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, UT Southwestern Medical Center, Dallas, TX, USA",
+          "first_name": "Robert",
+          "is_contact": "FALSE",
+          "last_name": "Toto",
+          "middle_name_or_initial": "D.",
+          "name": "Robert D. Toto",
+          "orcid_id": "0000-0001-9531-1749",
+          "version": "1"
+        },
+        {
+          "affiliation": "Division of Nephrology, Johns Hopkins School of Medicine, Baltimore, MD, USA",
+          "first_name": "Chirag",
+          "is_contact": "FALSE",
+          "last_name": "Parikh",
+          "middle_name_or_initial": "R.",
+          "name": "Chirag R. Parikh",
+          "orcid_id": "0000-0001-9051-7385",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Surgery, Washington University School of Medicine, St Louis, MO, USA",
+          "first_name": "Eric",
+          "is_contact": "FALSE",
+          "last_name": "Kim",
+          "middle_name_or_initial": "H.",
+          "name": "Eric H. Kim",
+          "orcid_id": "0000-0002-0284-8342",
+          "version": "1"
+        },
+        {
+          "affiliation": "New York Genome Center, New York, NY, USA",
+          "first_name": "Rahul",
+          "is_contact": "FALSE",
+          "last_name": "Satija",
+          "middle_name_or_initial": "",
+          "name": "Rahul Satija",
+          "orcid_id": "0000-0001-9448-8833",
+          "version": "1"
+        },
+        {
+          "affiliation": "Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "first_name": "Anna",
+          "is_contact": "FALSE",
+          "last_name": "Greka",
+          "middle_name_or_initial": "",
+          "name": "Anna Greka",
+          "orcid_id": "0000-0001-5697-7791",
+          "version": "1"
+        },
+        {
+          "affiliation": "Broad Institute of Harvard and MIT, Cambridge, MA, USA",
+          "first_name": "Evan",
+          "is_contact": "FALSE",
+          "last_name": "Macosko",
+          "middle_name_or_initial": "Z.",
+          "name": "Evan Z. Macosko",
+          "orcid_id": "0000-0002-2794-5165",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA.",
+          "first_name": "Peter",
+          "is_contact": "FALSE",
+          "last_name": "Kharchenko",
+          "middle_name_or_initial": "V.",
+          "name": "Peter V. Kharchenko",
+          "orcid_id": "0000-0002-6036-5875",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology and Immunology, Washington University School of Medicine, St Louis, MO, USA",
+          "first_name": "Joseph",
+          "is_contact": "FALSE",
+          "last_name": "Gaut",
+          "middle_name_or_initial": "P.",
+          "name": "Joseph P. Gaut",
+          "orcid_id": "0000-0002-9580-3951",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, University of Michigan, Ann Arbor, MI, USA",
+          "first_name": "Jeffrey",
+          "is_contact": "FALSE",
+          "last_name": "Hodgin",
+          "middle_name_or_initial": "B.",
+          "name": "Jeffrey B. Hodgin",
+          "orcid_id": "0000-0003-0534-3048",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Michael",
+          "is_contact": "TRUE",
+          "last_name": "Eadon",
+          "middle_name_or_initial": "T.",
+          "name": "Michael T. Eadon",
+          "orcid_id": "0000-0003-3066-2876",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Pierre",
+          "is_contact": "TRUE",
+          "last_name": "Dagher",
+          "middle_name_or_initial": "C.",
+          "name": "Pierre C. Dagher",
+          "orcid_id": "0000-0003-3321-5561",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA",
+          "first_name": "Tarek",
+          "is_contact": "TRUE",
+          "last_name": "El-Achkar",
+          "middle_name_or_initial": "M.",
+          "name": "Tarek M. El-Achkar",
+          "orcid_id": "0000-0003-4645-3614",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Bioengineering, University of California, San Diego, La Jolla, CA, USA",
+          "first_name": "Kun",
+          "is_contact": "TRUE",
+          "last_name": "Zhang",
+          "middle_name_or_initial": "",
+          "name": "Kun Zhang",
+          "orcid_id": "0000-0002-7596-5224",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Division of Nephrology, University of Michigan, Ann Arbor, MI, USA",
+          "first_name": "Matthias",
+          "is_contact": "TRUE",
+          "last_name": "Kretzler",
+          "middle_name_or_initial": "",
+          "name": "Matthias Kretzler",
+          "orcid_id": "0000-0003-4064-0582",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St Louis, MO, USA",
+          "first_name": "Sanjay",
+          "is_contact": "TRUE",
+          "last_name": "Jain",
+          "middle_name_or_initial": "",
+          "name": "Sanjay Jain",
+          "orcid_id": "0000-0003-2804-127X",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "Nikolay Akhmetov",
+      "created_by_user_email": "nikolay_akhmetov@hms.harvard.edu",
+      "created_by_user_sub": "e04fd1c0-6320-4796-8995-31e9de8c7e33",
+      "created_timestamp": 1689171976758,
+      "data_access_level": "public",
+      "data_types": [
+        "publication"
+      ],
+      "dataset_type": "Publication",
+      "description": "Understanding kidney disease relies on defining the complexity of cell types and states, their associated molecular profiles and interactions within tissue neighbourhoods1. Here we applied multiple single-cell and single-nucleus assays (>400,000 nuclei/cells) and spatial imaging technologies to a broad spectrum of healthy reference kidneys (45 donors) and diseased kidneys (48 patients). This has provided a high-resolution cellular atlas of 51 main cell types that include rare and previously undescribed cell populations. The multi-omic approach provides detailed transcriptomic profiles, epigenomic regulatory factors and spatial localizations spanning the entire kidney. We also define 28 cellular states across nephron segments and interstitium that were altered in kidney injury, encompassing cycling, adaptive or maladaptive repair, transitioning and degenerative states. Molecular signatures permitted the localization of these states within injury neighbourhoods using spatial transcriptomics, while large-scale 3D imaging analysis (around 1.2 million neighbourhoods) provided corresponding linkages to active immune responses. These analyses defined biological pathways that are relevant to injury time-course and niches, including signatures underlying epithelial repair that predicted maladaptive states associated with a decline in kidney function. This integrated multimodal spatial cell atlas of healthy and diseased human kidneys represents a comprehensive benchmark of cellular states, neighbourhoods, outcome-associated signatures and publicly available interactive visualizations.",
+      "entity_type": "Publication",
+      "group_name": "Washington University Kidney TMC",
+      "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+      "hubmap_id": "HBM629.DRFM.952",
+      "ingest_id": "3c7273660cdf9ab91a7901533b2cd9a5_scan.and.begin.processing_2023-07-18T09:14:51.764274-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "a3774b3",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1766007860387,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "assay_type": "publication",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "version": "0"
+      },
+      "pipeline_message": "the process ran",
+      "publication_date": "2023-07-19",
+      "publication_doi": "10.1038/s41586-023-05769-3",
+      "publication_status": true,
+      "publication_url": "https://doi.org/10.1038/s41586-023-05769-3",
+      "publication_venue": "Nature",
+      "published_timestamp": 1689700551914,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "run_id": "3c7273660cdf9ab91a7901533b2cd9a5_scan.and.begin.processing_2023-07-18T09:14:51.764274-04:00",
+      "status": "Published",
+      "title": "An atlas of healthy and injured cell states and niches in the human kidney",
+      "uuid": "3c7273660cdf9ab91a7901533b2cd9a5"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "",
+      "edam_term": "",
+      "is_qa_qc": false,
+      "rel_path": "publication_ancillary.json",
+      "size": 2374,
+      "type": "json"
+    }
+  ],
+  "group_name": "Washington University Kidney TMC",
+  "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+  "hubmap_id": "HBM998.KGNP.952",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      }
+    ],
+    "workflow_description": "",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1689700567681,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Washington University Kidney TMC/f554587899ecbd32221d0555a1332c4f/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1689700567681,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "Support data used by a publication's display and vignette visualization(s).",
+  "uuid": "f554587899ecbd32221d0555a1332c4f"
+}

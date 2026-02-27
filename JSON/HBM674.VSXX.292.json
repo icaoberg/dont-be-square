@@ -1,0 +1,712 @@
+{
+  "antibodies": [
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2895046",
+      "channel_id": "Ki67",
+      "conjugated_cat_number": "4250019",
+      "conjugated_tag": "BX047",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:7107",
+      "lot_number": "220718025",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P46013"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3083456",
+      "channel_id": "Pan-cytokeratin",
+      "conjugated_cat_number": "4450020",
+      "conjugated_tag": "BX019",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:6412, HGNC:6439, HGNC:6440, HGNC:6441, HGNC:6442, HGNC:6443, HGNC:6444, HGNC:20406, HGNC:6445, HGNC:6446, HGNC:6413, HGNC:6416, HGNC:6421, HGNC:6423, HGNC:6436",
+      "lot_number": "B349937",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P04264, P35908, P12035, P19013, P13647, P02538, P04259, P48668, P08729, P05787, P13645, P02533, P19012, P08779, P08727"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2935894",
+      "channel_id": "CD68",
+      "conjugated_cat_number": "4550113",
+      "conjugated_tag": "BX015",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:1693",
+      "lot_number": "220502010",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P34810"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2915960",
+      "channel_id": "CD8",
+      "conjugated_cat_number": "4250012",
+      "conjugated_tag": "BX026",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:1706",
+      "lot_number": "B378416",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P01732"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2915939",
+      "channel_id": "CD20",
+      "conjugated_cat_number": "4450018",
+      "conjugated_tag": "BX007",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:7315",
+      "lot_number": "221219007",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P11836"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2915936",
+      "channel_id": "CD4",
+      "conjugated_cat_number": "4550112",
+      "conjugated_tag": "BX003",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:1678",
+      "lot_number": "230518010",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P01730"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_2081873",
+      "channel_id": "COL1A1",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX054",
+      "dilution_factor": "100",
+      "hgnc_symbol": "HGNC:2197",
+      "lot_number": "GR3449848-3",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P02452"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2915935",
+      "channel_id": "CD31",
+      "conjugated_cat_number": "4450017",
+      "conjugated_tag": "BX001",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:8823",
+      "lot_number": "B389619",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P16284"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2936080",
+      "channel_id": "CD3e",
+      "conjugated_cat_number": "4550119",
+      "conjugated_tag": "BX045",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:1674",
+      "lot_number": "220718023",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P07766"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_2717696",
+      "channel_id": "SFTPC",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX020",
+      "dilution_factor": "500",
+      "hgnc_symbol": "HGNC:10802",
+      "lot_number": "YE3913574A",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P11686"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2936084",
+      "channel_id": "SMA",
+      "conjugated_cat_number": "4450049",
+      "conjugated_tag": "BX013",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:130",
+      "lot_number": "230309013",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P62736"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2928988",
+      "channel_id": "HLA-DR",
+      "conjugated_cat_number": "4550118",
+      "conjugated_tag": "BX033",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:4947",
+      "lot_number": "230502016",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P01903"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_2890241",
+      "channel_id": "ATP1A1",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX005",
+      "dilution_factor": "100",
+      "hgnc_symbol": "HGNC:799",
+      "lot_number": "GR342282-2",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P05023"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_147868",
+      "channel_id": "CXCL4",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX004",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:8861",
+      "lot_number": "1107M043RBCO222",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P02776"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2915946",
+      "channel_id": "CD45",
+      "conjugated_cat_number": "4550121",
+      "conjugated_tag": "BX021",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:9666",
+      "lot_number": "221021035",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P08575"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_303023",
+      "channel_id": "TPSAB1",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX041",
+      "dilution_factor": "1000",
+      "hgnc_symbol": "HGNC:12019",
+      "lot_number": "B359679",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q15661"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_355144",
+      "channel_id": "LYVE1",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX025",
+      "dilution_factor": "100",
+      "hgnc_symbol": "HGNC:14687",
+      "lot_number": "KPY0122011",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q9Y5Y7"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2927679",
+      "channel_id": "FOXP3",
+      "conjugated_cat_number": "4550071",
+      "conjugated_tag": "BX031",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:6106",
+      "lot_number": "B373906",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q9BZS1"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2935895",
+      "channel_id": "CD163",
+      "conjugated_cat_number": "4250079",
+      "conjugated_tag": "BX069",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:1631",
+      "lot_number": "B389421",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q86VB7"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_2884897",
+      "channel_id": "RAGE",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX028",
+      "dilution_factor": "100",
+      "hgnc_symbol": "HGNC:320",
+      "lot_number": "1050444-4",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q15109"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2936079",
+      "channel_id": "CD11c",
+      "conjugated_cat_number": "4550114",
+      "conjugated_tag": "BX024",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:6152",
+      "lot_number": "B377402",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P20702"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2927678",
+      "channel_id": "MPO",
+      "conjugated_cat_number": "4250083",
+      "conjugated_tag": "BX098",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:7218",
+      "lot_number": "230518016",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P05164"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3083458",
+      "channel_id": "Keratin 5",
+      "conjugated_cat_number": "4450090",
+      "conjugated_tag": "BX101",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:6442",
+      "lot_number": "B389468",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P13647"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2927676",
+      "channel_id": "ColIagen IV",
+      "conjugated_cat_number": "4550122",
+      "conjugated_tag": "BX042",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:2202",
+      "lot_number": "B386120",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P02462"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_357520",
+      "channel_id": "B-III Tubulin",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX055",
+      "dilution_factor": "400",
+      "hgnc_symbol": "HGNC:20772",
+      "lot_number": "HGQ0522121",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q13509"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_10818433",
+      "channel_id": "SCEL",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX052",
+      "dilution_factor": "100",
+      "hgnc_symbol": "HGNC:10573",
+      "lot_number": "SA170807DF",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "O95171"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "200",
+      "antibody_rrid": "AB_3083490",
+      "channel_id": "CD1c",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX016",
+      "dilution_factor": "50",
+      "hgnc_symbol": "HGNC:1636",
+      "lot_number": "1621670-1",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P29017"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2895057",
+      "channel_id": "E-Cadherin",
+      "conjugated_cat_number": "4250021",
+      "conjugated_tag": "BX014",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:1748",
+      "lot_number": "B359692",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P12830"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_2183286",
+      "channel_id": "SCGB1A1",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX043",
+      "dilution_factor": "400",
+      "hgnc_symbol": "HGNC:12523",
+      "lot_number": "YWN0222071",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P11684"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_3083495",
+      "channel_id": "TP63",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX006",
+      "dilution_factor": "100",
+      "hgnc_symbol": "HGNC:15979",
+      "lot_number": "1041591-2",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q9H3D4"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_3083498",
+      "channel_id": "SCGB3A2",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX002",
+      "dilution_factor": "400",
+      "hgnc_symbol": "HGNC:18391",
+      "lot_number": "1059178-1",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q96PL1"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_3083499",
+      "channel_id": "MUC5AC",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX040",
+      "dilution_factor": "100",
+      "hgnc_symbol": "HGNC:7515",
+      "lot_number": "1039304-10",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P98088"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_10973827",
+      "channel_id": "ENDRB",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX027",
+      "dilution_factor": "50",
+      "hgnc_symbol": "HGNC:3180",
+      "lot_number": "CFCW0222081",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P24530"
+    },
+    {
+      "antibody_concentration_unit": "ug/ml",
+      "antibody_concentration_value": "400",
+      "antibody_rrid": "AB_2170716",
+      "channel_id": "PROX1",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "BX050",
+      "dilution_factor": "200",
+      "hgnc_symbol": "HGNC:9459",
+      "lot_number": "VIY0522011",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q92786"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Jeffrey  Purkerson",
+      "email": "jeffrey_purkerson@urmc.rochester.edu",
+      "first_name": "Jeffrey ",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Purkerson",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-7636-4992"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Jeffrey  Purkerson",
+      "email": "jeffrey_purkerson@urmc.rochester.edu",
+      "first_name": "Jeffrey ",
+      "is_contact": "Yes",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Purkerson",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-7636-4992"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Heidie Huyck",
+      "email": "heidie_huyck@urmc.rochester.edu",
+      "first_name": "Heidie",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Huyck",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-9453-0747"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Luis Colon",
+      "email": "Luis_Colon1@URMC.Rochester.edu",
+      "first_name": "Luis",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Colon",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0009-0003-9604-8008"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Gloria S Pryhuber",
+      "email": "Gloria_Pryhuber@urmc.rochester.edu",
+      "first_name": "Gloria",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Pryhuber",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "S",
+      "orcid": "0000-0002-9185-3994"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1728318351649,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "PhenoCycler",
+  "description": "This multiplexed immunofluorescence (MxIF) image was generated on a lung tissue section (5 micron, FFPE) from a 9-year-old healthy black male donor using a phenocycler-fusion assay to demonstrate the Lung Organ Mapping Antibody Panel-16 (OMAP-16, HBM888.LNHN.284, 34 antibody + DAPI) that was designed to identify basic structures and approximately level 1-3 cells. H&E stain on the same slide following MxIF (HBM374.FFCH.323) demonstrates normal structure and development, with moderate diffuse acute bronchopneumonia following 48 hours of mechanical ventilation.",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Anthony Corbett",
+      "created_by_user_email": "Anthony_Corbett@URMC.Rochester.edu",
+      "created_by_user_sub": "b4a08f60-d274-11e5-989f-4b82619d2bbe",
+      "created_timestamp": 1718646285264,
+      "data_access_level": "public",
+      "description": "FFPE section from right lower lobe",
+      "entity_type": "Sample",
+      "group_name": "University of Rochester Medical Center TMC",
+      "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+      "hubmap_id": "HBM983.SPSQ.532",
+      "last_modified_timestamp": 1718646285264,
+      "last_modified_user_displayname": "Anthony Corbett",
+      "last_modified_user_email": "Anthony_Corbett@URMC.Rochester.edu",
+      "last_modified_user_sub": "b4a08f60-d274-11e5-989f-4b82619d2bbe",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.kxygxejwdv8j/v3",
+      "sample_category": "section",
+      "uuid": "cb8420d2cc723e0e085a2fdc53e1da30"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM674.VSXX.292",
+  "entity_type": "Dataset",
+  "group_name": "University of Rochester Medical Center TMC",
+  "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+  "hubmap_id": "HBM674.VSXX.292",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "f534942f",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      },
+      {
+        "hash": "0c7d7f73",
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "generic_metadatatsv"
+    }
+  },
+  "last_modified_timestamp": 1738176107738,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/University of Rochester Medical Center TMC/4548e1c9e51c64cb77af39465f7bb546/",
+  "metadata": {
+    "acquisition_instrument_model": "Phenocycler-Fusion 2.0",
+    "acquisition_instrument_vendor": "Akoya Biosciences",
+    "analyte_class": "Protein",
+    "antibodies_path": "extras/1052_34plex-antibodies.tsv",
+    "cell_boundary_marker_or_stain": "CD298",
+    "contributors_path": "extras/1052_contributors.tsv",
+    "dataset_type": "PhenoCycler",
+    "is_targeted": "Yes",
+    "metadata_schema_id": "62af6829-743d-423e-a701-204710e56beb",
+    "non_global_files": "",
+    "nuclear_marker_or_stain": "DAPI",
+    "number_of_antibodies": "34",
+    "number_of_biomarker_imaging_rounds": "12",
+    "number_of_channels": "4",
+    "number_of_total_imaging_rounds": "14",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.36wgq3b9olk5/v1",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "6",
+    "time_since_acquisition_instrument_calibration_unit": "day",
+    "time_since_acquisition_instrument_calibration_value": "24",
+    "total_run_time_unit": "hour",
+    "total_run_time_value": "20.3"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "OMOP-16 AVR data : ./D016-RLL-11B2-6",
+  "published_timestamp": 1738176107738,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM674.VSXX.292",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1728318351649,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1728318368032,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1734324978530,
+      "changed_by_email": "Gloria_Pryhuber@URMC.Rochester.edu",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1738088271002,
+      "changed_by_email": "bhonick@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1738088337933,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1738176107738,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "PhenoCycler data from the lung (right) of a 8.99-year-old black or african american male",
+  "upload": {
+    "created_by_user_displayname": "Anthony Corbett",
+    "created_by_user_email": "Anthony_Corbett@URMC.Rochester.edu",
+    "created_by_user_sub": "b4a08f60-d274-11e5-989f-4b82619d2bbe",
+    "created_timestamp": 1718646857585,
+    "description": "Phenocycler data for OMOP-16 AVR",
+    "entity_type": "Upload",
+    "group_name": "University of Rochester Medical Center TMC",
+    "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+    "hubmap_id": "HBM586.XXCG.896",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231775880,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1718646857585,
+        "changed_by_email": "Anthony_Corbett@URMC.Rochester.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1719436517626,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1719436544081,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1719502048422,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1719502098906,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1728312181679,
+        "changed_by_email": "Anthony_Corbett@URMC.Rochester.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1728315926878,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1728315957521,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1728318326892,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1728318330693,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1728318367219,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "OMOP-16 AVR data",
+    "uuid": "22a3be973860f831245b53bb966db0ff"
+  },
+  "uuid": "4548e1c9e51c64cb77af39465f7bb546"
+}

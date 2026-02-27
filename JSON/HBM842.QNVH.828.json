@@ -1,0 +1,99 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603741657785,
+  "data_access_level": "public",
+  "description": "1cm x 1cm x 0.5cm thymus tissue processed into paraffin",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603741009797,
+    "data_access_level": "public",
+    "description": "2 -1cm thick Slabs cut from 3cm  and 4 cm above inferior end of thymus.",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM743.GSLN.359",
+    "image_file_metadata": [
+      {
+        "description": "H&E image of organ piece",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/39283cdeb7d7e948e5496b2ec2d4991f/20-006_THY_CC2_B_10X_final stitch.tif"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "H&E image of organ piece",
+        "file_uuid": "ffffe688868cf61b4bc25c6dcbc895f7",
+        "filename": "20-006_THY_CC2_B_10X_final_stitch.tif"
+      }
+    ],
+    "last_modified_timestamp": 1617800829938,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgmiju6",
+    "sample_category": "block",
+    "uuid": "39283cdeb7d7e948e5496b2ec2d4991f"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM842.QNVH.828",
+  "last_modified_timestamp": 1670964040347,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgmiju6",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/8d3c5c93-9ec3-42c6-8d21-47c694ac5f23",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049",
+      "http://purl.obolibrary.org/obo/UBERON_0005457",
+      "http://purl.obolibrary.org/obo/UBERON_0005469"
+    ],
+    "creation_date": "2021-10-02",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/8d3c5c93-9ec3-42c6-8d21-47c694ac5f23_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-02",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHFThymus",
+      "translation_units": "millimeter",
+      "x_rotation": -39,
+      "x_scaling": 1,
+      "x_translation": 59.602,
+      "y_rotation": 29,
+      "y_scaling": 1,
+      "y_translation": 41.905,
+      "z_rotation": -2,
+      "z_scaling": 1,
+      "z_translation": 37.68
+    },
+    "x_dimension": 10,
+    "y_dimension": 10,
+    "z_dimension": 10
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffff25512384af0102138dd2531c1b5e",
+    "filename": "HBM842.QNVH.828.jpg"
+  },
+  "uuid": "f1ac23ea89f1364febce7b6435e2f49c"
+}

@@ -1,0 +1,31 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1572362302267,
+  "data_access_level": "public",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1572361915838,
+    "data_access_level": "public",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM749.QJZK.937",
+    "last_modified_timestamp": 1572363991944,
+    "organ": "SP",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+    "sample_category": "organ",
+    "uuid": "d6081a572b16b11263a12fddfc9a8255"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM455.VLSJ.746",
+  "last_modified_timestamp": 1572362302267,
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "sample_category": "block",
+  "uuid": "8841227bbbcb3821d7ba5ba05b019cbe"
+}

@@ -1,0 +1,83 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603995883574,
+  "data_access_level": "public",
+  "description": "1cm thick cross sectional slab taken 7cm from inferior end through hilum",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603132392298,
+    "data_access_level": "public",
+    "description": "greater than 2/3 of a complete spleen",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM546.GPHN.345",
+    "image_file_metadata": [
+      {
+        "description": "diaphragmatic surface up",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f918702c8fa3034a576693997c07f492/HubMap007 Spleen 6.JPG"
+      },
+      {
+        "description": "image taken from superior aspect",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f918702c8fa3034a576693997c07f492/HubMap007 Spleen 7.JPG"
+      },
+      {
+        "description": "Image showing hilar surface",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f918702c8fa3034a576693997c07f492/HubMap007 Spleen 8.JPG"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "diaphragmatic surface up",
+        "file_uuid": "ffff8742a6329df4ffd65dd09969dd61",
+        "filename": "HubMap007_Spleen_6.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617750574887,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "organ": "SP",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f918702c8fa3034a576693997c07f492/Pathology_Report20-007.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "cf42bf8de034cc8d2d3c2f7a8d31dd90"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM998.KNJQ.234",
+  "image_file_metadata": [
+    {
+      "description": "Dissected organ hilar surface up on sectioning board. Organ piece is located cm 8-9.",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f7d246a1818d1c8b520ab85284351336/HubMap007 Spleen 10.JPG"
+    },
+    {
+      "description": "Organ piece from CCF2, cut into strips to generate tissue blocks",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/f7d246a1818d1c8b520ab85284351336/HubMap007 Spleen 17.JPG"
+    }
+  ],
+  "image_files": [
+    {
+      "description": "Dissected organ hilar surface up on sectioning board. Organ piece is located cm 8-9.",
+      "file_uuid": "ffffe0d1ea4d062e3aee67afe6b5b3e0",
+      "filename": "HubMap007_Spleen_10.JPG"
+    }
+  ],
+  "last_modified_timestamp": 1617759164971,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "sample_category": "block",
+  "uuid": "9c13d044a1529cb1f2596bc0b0325dbb"
+}

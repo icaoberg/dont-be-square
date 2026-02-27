@@ -1,0 +1,232 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1680281962235,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "image_pyramid"
+  ],
+  "dataset_info": "ometiff_pyramid_ims__574c32bbdb7fc662d351976584d8df4c__ometiff_pyramid_ims",
+  "dataset_type": "MALDI [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "first_name": "Ljiljana",
+          "is_contact": "TRUE",
+          "last_name": "Pasa-Tolic",
+          "middle_name_or_initial": "",
+          "name": "Ljiljana Pasa-Tolic",
+          "orcid_id": "0000-0001-9853-5457",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "first_name": "Kevin",
+          "is_contact": "FALSE",
+          "last_name": "Zemaitis",
+          "middle_name_or_initial": "",
+          "name": "Kevin Zemaitis",
+          "orcid_id": "0000-0002-3524-9776",
+          "version": "1"
+        },
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "first_name": "Dusan",
+          "is_contact": "FALSE",
+          "last_name": "Velickovic",
+          "middle_name_or_initial": "",
+          "name": "Dusan Velickovic",
+          "orcid_id": "0000-0001-7945-9620",
+          "version": "1"
+        },
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "first_name": "David",
+          "is_contact": "FALSE",
+          "last_name": "Degnan",
+          "middle_name_or_initial": "",
+          "name": "David Degnan",
+          "orcid_id": "0000-0001-5737-7173",
+          "version": "1"
+        },
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "first_name": "Mowei",
+          "is_contact": "FALSE",
+          "last_name": "Zhou",
+          "middle_name_or_initial": "",
+          "name": "Mowei Zhou",
+          "orcid_id": "0000-0003-3575-3224",
+          "version": "1"
+        },
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "first_name": "Ljiljana",
+          "is_contact": "TRUE",
+          "last_name": "Pasa-Tolic",
+          "middle_name_or_initial": "",
+          "name": "Ljiljana Pasa-Tolic",
+          "orcid_id": "0000-0001-9853-5457",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1680281522698,
+      "data_access_level": "public",
+      "data_types": [
+        "MALDI-IMS"
+      ],
+      "dataset_type": "MALDI",
+      "description": "kidney glomeruli, medulla, tubules",
+      "doi_url": "https://doi.org/10.35079/HBM666.BBVZ.767",
+      "entity_type": "Dataset",
+      "group_name": "TTD - Pacific Northwest National Laboratory",
+      "group_uuid": "878a6a26-c870-11eb-a8dc-35ce3d8786fe",
+      "hubmap_id": "HBM666.BBVZ.767",
+      "ingest_id": "574c32bbdb7fc662d351976584d8df4c_scan.and.begin.processing_2023-03-31T12:57:44.376438-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "a754a24",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1681153225592,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "UHMR with Spectroglyph source",
+        "acquisition_instrument_vendor": "Thermo",
+        "analyte_class": "Protein",
+        "assay_category": "mass_spectrometry_imaging",
+        "assay_type": "MALDI-IMS",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "description": "kidney glomeruli, medulla, tubules",
+        "desi_solvent": "",
+        "desi_solvent_flow_rate": "",
+        "desi_solvent_flow_rate_unit": "",
+        "execution_datetime": "2021-06-28 15:01",
+        "ion_mobility": "",
+        "is_targeted": "False",
+        "mass_resolving_power": "34443",
+        "ms_scan_mode": "MS",
+        "ms_source": "MALDI",
+        "mz_range_high_value": "20000",
+        "mz_range_low_value": "4500",
+        "mz_resolving_power": "11306.38",
+        "operator": "Kevin Zemaitis",
+        "operator_email": "kevin.zemaitis@pnnl.gov",
+        "overall_protocols_io_doi": "10.17504/protocols.io.q26g74qn8gwz/v1",
+        "pi": "Ljiljana Pasa-Tolic",
+        "pi_email": "Ljiljana.PasaTolic@pnnl.gov",
+        "polarity": "positive ion mode",
+        "preparation_instrument_model": "M5",
+        "preparation_instrument_vendor": "HTX Technologies",
+        "preparation_maldi_matrix": "",
+        "preparation_type": "Robotic spraying",
+        "processing_protocols_io_doi": "10.17504/protocols.io.4r3l2ode3v1y/v1",
+        "protocols_io_doi": "10.17504/protocols.io.4r3l2onz4v1y/v1",
+        "resolution_x_unit": "um",
+        "resolution_x_value": "40",
+        "resolution_y_unit": "um",
+        "resolution_y_value": "40",
+        "section_prep_protocols_io_doi": "10.17504/protocols.io.6qpvr61x2vmk/v1",
+        "version": "2"
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "MALDI proteoform imaging data for kidney tissue : data_kidney",
+      "published_timestamp": 1681153225592,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM666.BBVZ.767",
+      "run_id": "574c32bbdb7fc662d351976584d8df4c_scan.and.begin.processing_2023-03-31T12:57:44.376438-04:00",
+      "status": "Published",
+      "uuid": "574c32bbdb7fc662d351976584d8df4c"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/ometiffs/20210628_VU_kid_40um_SN0p0_1-89636_centroid_multilayer.ome.tif",
+      "size": 16825418,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/ometiffs/20210628_VU_kid_40um_SN0p0_1-89636_centroid_multilayer.offsets.json",
+      "size": 470,
+      "type": "json"
+    }
+  ],
+  "group_name": "TTD - Pacific Northwest National Laboratory",
+  "group_uuid": "878a6a26-c870-11eb-a8dc-35ce3d8786fe",
+  "hubmap_id": "HBM428.ZCKS.526",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a754a24",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.0.14"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a754a24",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.0.14"
+      },
+      {
+        "documentation_url": "",
+        "hash": "b1b40c4",
+        "input_parameters": [],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.4"
+      },
+      {
+        "documentation_url": "",
+        "hash": "0b94a44",
+        "input_parameters": [],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.27"
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1681153226159,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/TTD - Pacific Northwest National Laboratory/c34b80467a7b87158921e1e22f998f49/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1681153226159,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "MALDI [Image Pyramid] data from the kidney (left) of a 55-year-old white male",
+  "uuid": "c34b80467a7b87158921e1e22f998f49"
+}

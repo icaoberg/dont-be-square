@@ -1,0 +1,311 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1614029758971,
+  "data_access_level": "public",
+  "description": "Intact spleen with small portion of inferior apex missing.",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1611685932116,
+    "data_access_level": "public",
+    "description": "Spleen and 17 LNs 47yo male caucasian, BMI 28.4",
+    "entity_type": "Donor",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM338.KSBT.288",
+    "last_modified_timestamp": 1746706070366,
+    "last_modified_user_displayname": "Joseph Simmons",
+    "last_modified_user_email": "JAS971@pitt.edu",
+    "last_modified_user_sub": "4562a4ca-2e28-4fb7-b3e1-1550bc117bbf",
+    "metadata": {
+      "organ_donor_data": [
+        {
+          "code": "424144002",
+          "concept_id": "C0001779",
+          "data_type": "Numeric",
+          "data_value": "47",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "424144002",
+          "grouping_concept": "C0001779",
+          "grouping_concept_preferred_term": "Age",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "EQ",
+          "preferred_term": "Age",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": "years"
+        },
+        {
+          "code": "413773004",
+          "concept_id": "C0007457",
+          "data_type": "Nominal",
+          "data_value": "White",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "415229000",
+          "grouping_concept": "C0034510",
+          "grouping_concept_preferred_term": "Race",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "White",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "10052007",
+          "concept_id": "C0086582",
+          "data_type": "Nominal",
+          "data_value": "Male",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "57312000",
+          "grouping_concept": "C1522384",
+          "grouping_concept_preferred_term": "Sex",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Male",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "29658002",
+          "concept_id": "C0003130",
+          "data_type": "Nominal",
+          "data_value": "Anoxia",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "184305005",
+          "grouping_concept": "C0007465",
+          "grouping_concept_preferred_term": "Cause of Death",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Anoxia",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "405617006",
+          "concept_id": "C1320716",
+          "data_type": "Nominal",
+          "data_value": "Cardiovascular",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "246078001",
+          "grouping_concept": "C0449413",
+          "grouping_concept_preferred_term": "Mechanism of Injury",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Cardiovascular",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "38605008",
+          "concept_id": "C0277610",
+          "data_type": "Nominal",
+          "data_value": "Natural causes",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "419620001",
+          "grouping_concept": "C0011065",
+          "grouping_concept_preferred_term": "Death Event",
+          "grouping_sab": "SNOMEDCT_US ",
+          "numeric_operator": "",
+          "preferred_term": "Natural causes",
+          "sab": "SNOMEDCT_US ",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "50373000",
+          "concept_id": "C0005890",
+          "data_type": "Numeric",
+          "data_value": "170",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "50373000",
+          "grouping_concept": "C0005890",
+          "grouping_concept_preferred_term": "Height",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "EQ",
+          "preferred_term": "Height",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": "cm"
+        },
+        {
+          "code": "27113001",
+          "concept_id": "C0005910",
+          "data_type": "Numeric",
+          "data_value": "82",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "27113001",
+          "grouping_concept": "C0005910",
+          "grouping_concept_preferred_term": "Weight",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "EQ",
+          "preferred_term": "Weight",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": "kg"
+        },
+        {
+          "code": "60621009",
+          "concept_id": "C1305855",
+          "data_type": "Numeric",
+          "data_value": "28.37",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "60621009",
+          "grouping_concept": "C1305855",
+          "grouping_concept_preferred_term": "Body Mass Index",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "EQ",
+          "preferred_term": "Body Mass Index",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": "kg/m2"
+        },
+        {
+          "code": "C130310",
+          "concept_id": "C4330523",
+          "data_type": "Numeric",
+          "data_value": "60",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "C130310",
+          "grouping_concept": "C4330523",
+          "grouping_concept_preferred_term": "Kidney donor profile index",
+          "grouping_sab": "NCI",
+          "numeric_operator": "EQ",
+          "preferred_term": "Kidney donor profile index",
+          "sab": "NCI",
+          "start_datetime": "",
+          "units": "%"
+        },
+        {
+          "code": "131149001",
+          "concept_id": "C0427621",
+          "data_type": "Nominal",
+          "data_value": "Blood Type A1",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "63915006",
+          "grouping_concept": "C0000778",
+          "grouping_concept_preferred_term": "ABO blood group system",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Blood Type A1",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "127295002",
+          "concept_id": "C0876926",
+          "data_type": "Nominal",
+          "data_value": "Traumatic brain injury",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "392521001",
+          "grouping_concept": "C0262926",
+          "grouping_concept_preferred_term": "Medical History",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Traumatic brain injury",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        },
+        {
+          "code": "91175000",
+          "concept_id": "C0036572",
+          "data_type": "Nominal",
+          "data_value": "Seizures",
+          "end_datetime": "",
+          "graph_version": "UMLS2024AA",
+          "grouping_code": "392521001",
+          "grouping_concept": "C0262926",
+          "grouping_concept_preferred_term": "Medical History",
+          "grouping_sab": "SNOMEDCT_US",
+          "numeric_operator": "",
+          "preferred_term": "Seizures",
+          "sab": "SNOMEDCT_US",
+          "start_datetime": "",
+          "units": ""
+        }
+      ]
+    },
+    "open_consent": "False",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/03c321173b4a961964a4392bd241e561/AIAN003 - Donor Summary_Redacted.pdf"
+      },
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/03c321173b4a961964a4392bd241e561/AIAN003 chart_Redacted.pdf"
+      },
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/03c321173b4a961964a4392bd241e561/AIAN003 consent_Redacted.pdf"
+      },
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/03c321173b4a961964a4392bd241e561/AIAN003 medsoc_Redacted.pdf"
+      },
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/03c321173b4a961964a4392bd241e561/AIAN003 Seros_Redacted.pdf"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "uuid": "03c321173b4a961964a4392bd241e561"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM738.TXMT.668",
+  "image_file_metadata": [
+    {
+      "description": "Visceral surface/hilum facing up",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/e1588a9d9b4a44130ea42c1c7c9f3fd8/HuBMAP 21-010 Whole Spleen View 1.JPG"
+    },
+    {
+      "description": "Inferior margin facing up",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/e1588a9d9b4a44130ea42c1c7c9f3fd8/HuBMAP 21-010 Whole Spleen View 2.JPG"
+    },
+    {
+      "description": "Superior margin facing up",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/0853c8e80ce451152f1b828be0fcfc98/HuBMAP 21-010 Whole Spleen View 3.JPG"
+    },
+    {
+      "description": "Diaphragmatic surface facing up",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/0853c8e80ce451152f1b828be0fcfc98/HuBMAP 21-010 Whole Spleen View 4.JPG"
+    }
+  ],
+  "image_files": [
+    {
+      "description": "Visceral surface/hilum facing up",
+      "file_uuid": "ffff53ff99f5faa2217b686b01678a35",
+      "filename": "HuBMAP_21-010_Whole_Spleen_View_1.JPG"
+    }
+  ],
+  "last_modified_timestamp": 1617759175057,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "organ": "SP",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+  "sample_category": "organ",
+  "uuid": "0853c8e80ce451152f1b828be0fcfc98"
+}

@@ -1,0 +1,307 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1689621085374,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "publication_ancillary"
+  ],
+  "dataset_info": "gen_pub_ancillary__72cbeb8ff605fd5017cb2666cd19dfb7__gen_pub_ancillary",
+  "dataset_type": "Publication [ancillary]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Shirley",
+          "is_contact": "TRUE",
+          "last_name": "Greenbaum",
+          "middle_name_or_initial": "",
+          "name": "Shirley Greenbaum",
+          "orcid_id": "0000-0002-0680-7652",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Michael",
+          "is_contact": "TRUE",
+          "last_name": "Angelo",
+          "middle_name_or_initial": "",
+          "name": "Michael Angelo",
+          "orcid_id": "0000-0003-1531-5067",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Shirley",
+          "is_contact": "TRUE",
+          "last_name": "Greenbaum",
+          "middle_name_or_initial": "",
+          "name": "Shirley Greenbaum",
+          "orcid_id": "0000-0002-0680-7652",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Inna",
+          "is_contact": "FALSE",
+          "last_name": "Averbukh",
+          "middle_name_or_initial": "",
+          "name": "Inna Averbukh",
+          "orcid_id": "0000-0003-1863-205X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Erin",
+          "is_contact": "FALSE",
+          "last_name": "Soon",
+          "middle_name_or_initial": "",
+          "name": "Erin Soon",
+          "orcid_id": "0000-0002-9115-9345",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, UCSF",
+          "first_name": "Gabrielle",
+          "is_contact": "FALSE",
+          "last_name": "Rizzuto",
+          "middle_name_or_initial": "",
+          "name": "Gabrielle Rizzuto",
+          "orcid_id": "0000-0003-3052-0253",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Alex",
+          "is_contact": "FALSE",
+          "last_name": "Baranski",
+          "middle_name_or_initial": "",
+          "name": "Alex Baranski",
+          "orcid_id": "0000-0002-8460-8229",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Noah",
+          "is_contact": "FALSE",
+          "last_name": "Greenwald",
+          "middle_name_or_initial": "",
+          "name": "Noah Greenwald",
+          "orcid_id": "0000-0002-7836-4379",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Marc",
+          "is_contact": "FALSE",
+          "last_name": "Bosse",
+          "middle_name_or_initial": "",
+          "name": "Marc Bosse",
+          "orcid_id": "0000-0003-4912-8059",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Obstetrics, Gynecology & Reproductive Sciences, UCSF",
+          "first_name": "Eleni",
+          "is_contact": "FALSE",
+          "last_name": "Jaswa",
+          "middle_name_or_initial": "G",
+          "name": "Eleni G. Jaswa",
+          "orcid_id": "0000-0003-1653-902X",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Zumana",
+          "is_contact": "FALSE",
+          "last_name": "Khair",
+          "middle_name_or_initial": "",
+          "name": "Zumana Khair",
+          "orcid_id": "0000-0003-3617-2472",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Shirley",
+          "is_contact": "FALSE",
+          "last_name": "Kwok",
+          "middle_name_or_initial": "",
+          "name": "Shirley Kwok",
+          "orcid_id": "0000-0002-5993-8218",
+          "version": "1"
+        },
+        {
+          "affiliation": "Division of Biology and Bioengineering, California Institute of Technology",
+          "first_name": "Geneva",
+          "is_contact": "FALSE",
+          "last_name": "Miller",
+          "middle_name_or_initial": "",
+          "name": "Geneva Miller",
+          "orcid_id": "0000-0001-6910-3559",
+          "version": "1"
+        },
+        {
+          "affiliation": "Division of Biology and Bioengineering, California Institute of Technology",
+          "first_name": "Morgan",
+          "is_contact": "FALSE",
+          "last_name": "Schwartz",
+          "middle_name_or_initial": "",
+          "name": "Morgan Schwartz",
+          "orcid_id": "0000-0001-8131-9125",
+          "version": "1"
+        },
+        {
+          "affiliation": "Division of Biology and Bioengineering, California Institute of Technology",
+          "first_name": "David",
+          "is_contact": "FALSE",
+          "last_name": "Van Valen",
+          "middle_name_or_initial": "",
+          "name": "David Van Valen",
+          "orcid_id": "0000-0001-7534-7621",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Molecular Cell Biology, Weizmann Institute of Science",
+          "first_name": "Leeat",
+          "is_contact": "FALSE",
+          "last_name": "Keren",
+          "middle_name_or_initial": "",
+          "name": "Leeat Keren",
+          "orcid_id": "0000-0002-6799-6303",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Memorial Sloan Kettering Cancer Center",
+          "first_name": "Travis",
+          "is_contact": "FALSE",
+          "last_name": "Hollmann",
+          "middle_name_or_initial": "",
+          "name": "Travis Hollmann",
+          "orcid_id": "0000-0003-1599-0433",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Matt",
+          "is_contact": "FALSE",
+          "last_name": "van de Rjin",
+          "middle_name_or_initial": "",
+          "name": "Matt van de Rjin",
+          "orcid_id": "0000-0002-1909-9739",
+          "version": "1"
+        },
+        {
+          "affiliation": "Department of Pathology, Stanford University",
+          "first_name": "Michael",
+          "is_contact": "TRUE",
+          "last_name": "Angelo",
+          "middle_name_or_initial": "",
+          "name": "Michael Angelo",
+          "orcid_id": "0000-0003-1531-5067",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "Sricharan Reddy Varra",
+      "created_by_user_email": "srivarra@stanford.edu",
+      "created_by_user_sub": "509a1c76-4f5f-46f5-8fd4-fab71760e8a6",
+      "created_timestamp": 1689187251829,
+      "data_access_level": "public",
+      "data_types": [
+        "publication"
+      ],
+      "dataset_type": "Publication",
+      "description": "Beginning in the first trimester, fetally derived extravillous trophoblasts (EVTs) invade the uterus and remodel its spiral arteries, transforming them into large, dilated blood vessels left with a thin, discontinuous smooth muscle layer and partially lined with EVTs. Several mechanisms have been proposed to explain how EVTs coordinate with the maternal decidua to promote a tissue microenvironment conducive to spiral artery remodeling (SAR). However, it remains a matter of debate which immune and stromal cell types participate in these interactions and how this process evolves with respect to gestational age. Here, we used a multiomic approach that combined the strengths of spatial proteomics and transcriptomics to construct the first spatiotemporal atlas of the human maternal-fetal interface in the first half of pregnancy. We used multiplexed ion beam imaging by time of flight (MIBI-TOF) and a 37-plex antibody panel to analyze \u223c500,000 cells and 588 spiral arteries within intact decidua from 66 patients between 6-20 weeks of gestation, integrating this with coregistered transcriptomic profiles. Gestational age substantially influenced the frequency of many maternal immune and stromal cells, with tolerogenic subsets expressing CD206, CD163, TIM-3, Galectin-9, and IDO-1 increasingly enriched and colocalized at later time points. In contrast, SAR progression preferentially correlated with EVT invasion and was transcriptionally defined by 78 gene ontology pathways exhibiting unique monotonic and biphasic trends. Lastly, we developed an integrated model of SAR supporting an intravasation mechanism where invasion is accompanied by upregulation of pro-angiogenic, immunoregulatory EVT programs that promote interactions with vascular endothelium while avoiding activation of immune cells in circulating maternal blood. Taken together, these results support a coordinated model of decidualization in which increasing gestational age drives a transition in maternal decidua towards a tolerogenic niche conducive to locally regulated, EVT-dependent SAR.",
+      "entity_type": "Publication",
+      "group_name": "Stanford RTI",
+      "group_uuid": "f5af3a5a-e93c-11e9-8559-0efb3ba9a670",
+      "hubmap_id": "HBM222.ZBCX.885",
+      "ingest_id": "72cbeb8ff605fd5017cb2666cd19dfb7_scan.and.begin.processing_2023-07-17T15:10:02.099405-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "a3774b3",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1766007834712,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "assay_type": "publication",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "version": "0"
+      },
+      "pipeline_message": "the process ran",
+      "publication_date": "2023-07-19",
+      "publication_doi": "10.1038/s41586-023-06298-9",
+      "publication_status": true,
+      "publication_url": "https://doi.org/10.1038/s41586-023-06298-9",
+      "publication_venue": "Nature",
+      "published_timestamp": 1689696588087,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "run_id": "72cbeb8ff605fd5017cb2666cd19dfb7_scan.and.begin.processing_2023-07-17T15:10:02.099405-04:00",
+      "status": "Published",
+      "title": "A spatially resolved timeline of the human maternal\u2013fetal interface",
+      "uuid": "72cbeb8ff605fd5017cb2666cd19dfb7"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "",
+      "edam_term": "",
+      "is_qa_qc": false,
+      "rel_path": "publication_ancillary.json",
+      "size": 8677,
+      "type": "json"
+    }
+  ],
+  "group_name": "Stanford RTI",
+  "group_uuid": "f5af3a5a-e93c-11e9-8559-0efb3ba9a670",
+  "hubmap_id": "HBM529.STXQ.397",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a3774b3",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.1.10"
+      }
+    ],
+    "workflow_description": "",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1689696592081,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Stanford RTI/dd072da1909b3bec1296ee5d39e14d58/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1689696592081,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "Support data used by a publication's display and vignette visualization(s).",
+  "uuid": "dd072da1909b3bec1296ee5d39e14d58"
+}

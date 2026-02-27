@@ -1,0 +1,411 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1726509120912,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "dataset_info": "sc_atac_seq_sci__8f6b8e19c21a664d67a467c3a08b5630__sci-atac-seq-pipeline",
+  "dataset_type": "ATACseq [ArchR]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "University of Washington",
+          "display_name": "Dana L. Jackson",
+          "email": "",
+          "first_name": "Dana",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Jackson",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "L",
+          "orcid": "0000-0002-6917-0580"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "University of Washington",
+          "display_name": "Gregory T. Booth",
+          "email": "",
+          "first_name": "Gregory",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Booth",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "T",
+          "orcid": "0000-0003-3748-5518"
+        },
+        {
+          "affiliation": "University of Washington",
+          "display_name": "Riza M. Daza",
+          "email": "",
+          "first_name": "Riza",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Daza",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M",
+          "orcid": "0000-0003-1635-8675"
+        },
+        {
+          "affiliation": "University of Washington",
+          "display_name": "Diana R. O'Day",
+          "email": "",
+          "first_name": "Diana",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "O'Day",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "R",
+          "orcid": "0000-0002-8398-8389"
+        },
+        {
+          "affiliation": "University of Washington",
+          "display_name": "Jay Shendure",
+          "email": "",
+          "first_name": "Jay",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Shendure",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-1516-1865"
+        },
+        {
+          "affiliation": "University of Washington",
+          "display_name": "Cole Trapnell",
+          "email": "",
+          "first_name": "Cole",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Trapnell",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8105-4347"
+        },
+        {
+          "affiliation": "Univeristy of Washington",
+          "display_name": "Brent Ewing",
+          "email": "",
+          "first_name": "Brent",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Ewing",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-0594-7688"
+        },
+        {
+          "affiliation": "Washington University",
+          "display_name": "Yiing Lin",
+          "email": "",
+          "first_name": "Yiing",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Lin",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-0317-7608"
+        },
+        {
+          "affiliation": "University of Washington",
+          "display_name": "Dana L. Jackson",
+          "email": "",
+          "first_name": "Dana",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Jackson",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "L",
+          "orcid": "0000-0002-6917-0580"
+        },
+        {
+          "affiliation": "California Institute of Technology",
+          "display_name": "Long Cai",
+          "email": "",
+          "first_name": "Long",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Cai",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-7154-5361"
+        }
+      ],
+      "created_by_user_displayname": "Dana L Jackson",
+      "created_by_user_email": "danaj77@uw.edu",
+      "created_by_user_sub": "e3b5b672-4d0a-4625-b73c-99ee0a602963",
+      "created_timestamp": 1612893801741,
+      "data_access_level": "protected",
+      "data_types": [
+        "sciATACseq"
+      ],
+      "dataset_info": "W139_heart_LV",
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX30569021",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002267.v3.p1",
+      "doi_url": "https://doi.org/10.35079/HBM666.MZZR.482",
+      "entity_type": "Dataset",
+      "group_name": "California Institute of Technology TMC",
+      "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM666.MZZR.482",
+      "ingest_id": "8f6b8e19c21a664d67a467c3a08b5630_scan.and.begin.processing_2021-04-28T10:56:57.566214-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "2a93aed1",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ],
+        "extra_metadata": {
+          "collectiontype": "generic_metadatatsv"
+        }
+      },
+      "last_modified_timestamp": 1737477428643,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "local_directory_rel_path": "/hive/hubmap/data/consortium/California Institute of Technology TMC/8f6b8e19c21a664d67a467c3a08b5630",
+      "metadata": {
+        "acquisition_instrument_model": "Novaseq6012",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "sciATACseq",
+        "cell_barcode_offset": "0",
+        "cell_barcode_read": "['I1', 'I2']",
+        "cell_barcode_size": "40",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2020-12-23 12:00",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "AGATGTGTATAAGAGACAG",
+        "library_average_fragment_size": "400",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+        "library_final_yield": "5",
+        "library_final_yield_unit": "ng",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "11",
+        "library_pcr_cycles_for_sample_index": "11",
+        "operator": "Riza Daza",
+        "operator_email": "daza@uw.edu",
+        "pi": "Cole Trapnell",
+        "pi_email": "coletrap@uw.edu",
+        "protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+        "sc_isolation_cell_number": "990000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.be8mjhu6",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "xyz",
+        "sequencing_phix_percent": "0",
+        "sequencing_read_format": "50+50+20+20",
+        "sequencing_read_percent_q30": "0",
+        "sequencing_reagent_kit": "NovaSeq6000",
+        "transposition_input": "200000",
+        "transposition_kit_number": "",
+        "transposition_method": "sciATACseq",
+        "transposition_transposase_source": "In-house"
+      },
+      "pipeline_message": "the process ran",
+      "published_timestamp": 1737477428643,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM666.MZZR.482",
+      "run_id": "8f6b8e19c21a664d67a467c3a08b5630_scan.and.begin.processing_2021-04-28T10:56:57.566214-04:00",
+      "status": "Published",
+      "status_history": [
+        {
+          "change_timestamp": 1737477428643,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        }
+      ],
+      "uuid": "8f6b8e19c21a664d67a467c3a08b5630"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "Genome build information in JSON format",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "genome_build.json",
+      "size": 103,
+      "type": "json"
+    },
+    {
+      "description": "Sparse cell by bin matrix, in H5AD format",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "cell_by_bin.h5ad",
+      "size": 870770635,
+      "type": "h5ad"
+    },
+    {
+      "description": "Peaks called across entire data set",
+      "edam_term": "EDAM_1.24.format_3003",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "peaks.bed",
+      "size": 10866727,
+      "type": "unknown"
+    },
+    {
+      "description": "Cell by gene matrix (sparse, and smoothed with MAGIC), in H5AD format",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "cell_by_gene.h5ad",
+      "size": 2531823848,
+      "type": "h5ad"
+    },
+    {
+      "description": "Fragment file from Sinto",
+      "edam_term": "EDAM_1.24.format_3003",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "frags.sort.bed.gz",
+      "size": 1106880157,
+      "type": "unknown"
+    },
+    {
+      "description": "Quality control report, in JSON format",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": true,
+      "rel_path": "qc_report.json",
+      "size": 527,
+      "type": "json"
+    },
+    {
+      "description": "Per-cell UMAP coordinates and cluster assignments",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "umap_coords_clusters.csv",
+      "size": 972340,
+      "type": "csv"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar Apache Arrow format.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.arrow",
+      "size": 773802,
+      "type": "arrow"
+    },
+    {
+      "description": "JSON-formatted information about the heirarchy scRNA-seq's cells.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.cell-sets.json",
+      "size": 578633,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about this scATAC-seq run including scatterplot coordinates and clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.cells.json",
+      "size": 1687674,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about this scATAC-seq's clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.factors.json",
+      "size": 551962,
+      "type": "json"
+    },
+    {
+      "description": "Per-cell UMAP coordinates and cluster assignments",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.csv",
+      "size": 926062,
+      "type": "csv"
+    }
+  ],
+  "group_name": "California Institute of Technology TMC",
+  "group_uuid": "308f5ffc-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM758.VLCS.799",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "35eb941",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.19"
+      },
+      {
+        "documentation_url": "",
+        "hash": "35eb9414",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.3.19"
+      }
+    ],
+    "workflow_description": "The pipeline for multiome sciATACseq data uses HISAT2 for short read alignment of ATACseq reads hg38 reference genome and ArchR to convert the resulting BAM file to a cell by bin matrix, which is used to calculate TSS enrichment, differential enrichment of transcription factors, perform clustering of nuclei and additional analysis.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1737477457577,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/California Institute of Technology TMC/b010fa2c7fbbe8200518961cf22ceb4b/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1737477457577,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1726509120912,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1726509130856,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1726700093691,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1737477457577,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "ATACseq [ArchR] data from the heart of a 45-year-old white male",
+  "uuid": "b010fa2c7fbbe8200518961cf22ceb4b"
+}

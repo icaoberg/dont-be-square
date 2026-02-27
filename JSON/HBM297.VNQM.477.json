@@ -1,0 +1,767 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1744802500784,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "dataset_info": "ometiff_pyramid__dbb2db34209be7692eaab41889016ecd__ometiff_pyramid",
+  "dataset_type": "Histology [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "assigned_to_group_name": "University of Rochester Medical Center TMC",
+      "contacts": [
+        {
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "display_name": "Kenichi Okuda ",
+          "email": "ken_okuda@med.unc.edu",
+          "first_name": "Kenichi",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Okuda",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-9341-2730"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "display_name": "Christopher Anderton ",
+          "email": "christopher.anderton@pnnl.gov",
+          "first_name": "Christopher",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Anderton",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-6170-1033"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Gautam Bandyopadhyay ",
+          "email": "gautam_bandyopadhyay@urmc.rochester.edu",
+          "first_name": "Gautam",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Bandyopadhyay",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-4347-6036"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Eric Boone ",
+          "email": "erboone@health.ucsd.edu",
+          "first_name": "Eric",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Boone",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0005-6105-2693"
+        },
+        {
+          "affiliation": "University of California San Diego",
+          "display_name": "Justin Buchanan ",
+          "email": "jbuchanan@health.ucsd.edu",
+          "first_name": "Justin ",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Buchanan",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-5904-222X"
+        },
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "display_name": "Geremy Clair ",
+          "email": "geremy.clair@pnnl.gov",
+          "first_name": "Geremy",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Clair",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-0478-8520"
+        },
+        {
+          "affiliation": "University of California San Diego",
+          "display_name": "Kimberly Conklin",
+          "email": "kconklin@altoslabs.com",
+          "first_name": "Kimberly",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Conklin",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-8141-064X"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Anthony Corbett ",
+          "email": "anthony_corbett@urmc.rochester.edu",
+          "first_name": "Anthony",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Corbett",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-9545-0853"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Alexis Costa ",
+          "email": "alexis_costa@urmc.rochester.edu",
+          "first_name": "Alexis",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Costa",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0007-0361-1711"
+        },
+        {
+          "affiliation": "University of Washington ",
+          "display_name": "Gail Deutsch ",
+          "email": "deutsg@uw.edu",
+          "first_name": "Gail",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Deutsch",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-0571-0285"
+        },
+        {
+          "affiliation": "University of California San Diego",
+          "display_name": "Dinh Diep",
+          "email": "ddiep@altoslabs.com",
+          "first_name": "Dinh",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Diep",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-8387-4966"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Thu Elizabeth Duong ",
+          "email": "taduong@ucsd.edu",
+          "first_name": "Thu",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Duong",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "Elizabeth",
+          "orcid": "0000-0001-7122-4448"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Jennifer Dutra ",
+          "email": "jennifer_dutra@urmc.rochester.edu",
+          "first_name": "Jennifer",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Dutra",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0009-8707-6086"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Kyle Gaulton ",
+          "email": "kgaulton@ucsd.edu",
+          "first_name": "Kyle",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Gaulton",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-1318-7161"
+        },
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "display_name": "Brittney Gorman ",
+          "email": "gormanb9@uw.edu",
+          "first_name": "Brittney",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Gorman",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-5087-3606"
+        },
+        {
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "display_name": "James Hagood ",
+          "email": "jhagood@unc.edu",
+          "first_name": "James",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Hagood",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "S",
+          "orcid": "0000-0003-3938-0330"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Jeanne Holden-Wiltse ",
+          "email": "jeanne_wiltse@urmc.rochester.edu",
+          "first_name": "Jeanne",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Holden-Wiltse",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2694-7465"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Heidei Huyck",
+          "email": "heidie_huyck@urmc.rochester.edu",
+          "first_name": "Heidie",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Huyck",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-9453-0747"
+        },
+        {
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "display_name": "Taro Ishimori",
+          "email": "ishimori@email.unc.edu ",
+          "first_name": "Taro",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Ishimori",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0009-7713-2099"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Matthew Jehrio ",
+          "email": "matthew_jehrio@urmc.rochester.edu",
+          "first_name": "Matthew",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Jehrio",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0000-7735-4024"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Blue Lake ",
+          "email": "blake@altoslabs.com",
+          "first_name": "Blue",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Lake",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Zhi Li ",
+          "email": "zhl026@ucsd.edu",
+          "first_name": "Zhi",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Li",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0008-0675-5494"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Ravi Misra ",
+          "email": "ravi_misra@urmc.rochester.edu",
+          "first_name": "Ravi",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Misra",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-1352-4378"
+        },
+        {
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "display_name": "Hiroaki Murano",
+          "email": "himurano@email.unc.edu ",
+          "first_name": "Hiroaki",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Murano",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0002-3886-9951"
+        },
+        {
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "display_name": "Kenichi Okuda ",
+          "email": "ken_okuda@med.unc.edu",
+          "first_name": "Kenichi",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Okuda",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-9341-2730"
+        },
+        {
+          "affiliation": "University of California San Diego",
+          "display_name": "Jacqueline Olness",
+          "email": "jeolness@health.ucsd.edu",
+          "first_name": "Jacqueline ",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Olness",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0006-0602-0127"
+        },
+        {
+          "affiliation": "University of California San Diego",
+          "display_name": "Sahil Patel",
+          "email": "sspatel@ucsd.edu",
+          "first_name": "Sahil ",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Patel",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0004-0536-3852"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Ariana Pitonzo",
+          "email": "Ariana_Pitonzo@URMC.Rochester.edu",
+          "first_name": "Ariana",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Pitonzo",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0006-6733-5624"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Gloria Pryhuber ",
+          "email": "gloria_pryhuber@urmc.rochester.edu",
+          "first_name": "Gloria",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Pryhuber",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-9185-3994"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Jeffrey Purkerson ",
+          "email": "jeffrey_purkerson@urmc.rochester.edu",
+          "first_name": "Jeffrey",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Purkerson",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-7636-4992"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Lingyan Shi",
+          "email": "l2shi@ucsd.edu",
+          "first_name": "Lingyan",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Shi",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-1373-3206"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Xin Sun ",
+          "email": "xis101@ucsd.edu",
+          "first_name": "Xin",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Sun",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-8387-4966"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Chu-Yi Tai ",
+          "email": "c5tai@ucsd.edu",
+          "first_name": "Chi-Yi",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Tai",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0000-2437-4240"
+        },
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "display_name": "Mereena Ushakumary",
+          "email": "mereena.ushakumary@pnnl.gov",
+          "first_name": "Mereena",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Ushakumary",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-0671-6611"
+        },
+        {
+          "affiliation": "Pacific Northwest National Laboratory",
+          "display_name": "Dusan Velickovic ",
+          "email": "dusan.velickovic@pnnl.gov",
+          "first_name": "Dusan",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Velickovic",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-7945-9620"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Jamie Verheyden ",
+          "email": "jverheyden@ucsd.edu",
+          "first_name": "Jamie",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Verheyden",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-4116-8507"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Allen Wang ",
+          "email": "a5wang@ucsd.edu",
+          "first_name": "Allen",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Wang",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-9870-7888"
+        },
+        {
+          "affiliation": "University of Rochester Medical Center",
+          "display_name": "Andrew Watts ",
+          "email": "andrew_watts@urmc.rochester.edu",
+          "first_name": "Andrew",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Watts",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-9144-6494"
+        },
+        {
+          "affiliation": "University of California San Diego ",
+          "display_name": "Kun Zhang ",
+          "email": "k4zhang@ucsd.edu",
+          "first_name": "Kun",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Zhang",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-7596-5224"
+        },
+        {
+          "affiliation": "University of California San Diego",
+          "display_name": "Zoey Zhao",
+          "email": "zmzhao@health.ucsd.edu",
+          "first_name": "Zoey",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Zhao",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0005-3822-7985"
+        },
+        {
+          "affiliation": "University of California San Diego",
+          "display_name": "Quan Zhu",
+          "email": "quzhu@health.ucsd.edu",
+          "first_name": "Quan",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Zhu",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-5731-4658"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1744774809932,
+      "data_access_level": "public",
+      "dataset_type": "Histology",
+      "description": "H&E on LUL segmental bronchi (3rd) or 4th bronchi (B1+2): >2 mm of a 55-year-old hispanic male lung. Pathology review found signs of COPD and pulmonary arteriopathy. One of 20 region specific dissections from single left lung (D478)",
+      "doi_url": "https://doi.org/10.35079/HBM332.ZXSK.245",
+      "entity_type": "Dataset",
+      "group_name": "University of Rochester Medical Center TMC",
+      "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+      "hubmap_id": "HBM332.ZXSK.245",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "documentation_url": null,
+            "hash": "20b68829",
+            "input_parameters": [],
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+            "version": "v4.2.0"
+          },
+          {
+            "documentation_url": null,
+            "hash": "0e280634",
+            "input_parameters": [],
+            "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+            "version": "v0.0.35"
+          }
+        ],
+        "extra_metadata": {
+          "collectiontype": "generic_metadatatsv"
+        }
+      },
+      "ingest_task": "[Missing registration metadata] [Awaiting donor metadata release]",
+      "last_modified_timestamp": 1750249026829,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "VS200 Slide Scanner",
+        "acquisition_instrument_vendor": "Evident Scientific (Olympus)",
+        "analyte_class": "Nucleic acid + protein",
+        "contributors_path": "extras/1227_contributors.tsv",
+        "data_path": ".",
+        "dataset_type": "Histology",
+        "intended_tile_overlap_percentage": "",
+        "is_batch_staining_done": "Yes",
+        "is_image_preprocessing_required": "No",
+        "is_staining_automated": "Yes",
+        "is_targeted": "No",
+        "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+        "non_global_files": "",
+        "preparation_instrument_model": "AutoStainer XL",
+        "preparation_instrument_vendor": "Leica Biosystems",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.j8nlk91jdv5r/v1",
+        "scan_direction": "",
+        "source_storage_duration_unit": "day",
+        "source_storage_duration_value": "7",
+        "stain_name": "H&E",
+        "stain_technique": "",
+        "tile_configuration": "",
+        "tiled_image_columns": "",
+        "tiled_image_count": "",
+        "time_since_acquisition_instrument_calibration_unit": "",
+        "time_since_acquisition_instrument_calibration_value": ""
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "D478 airway dissection H&E histology",
+      "published_timestamp": 1750249026829,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM332.ZXSK.245",
+      "status": "Published",
+      "status_history": [
+        {
+          "change_timestamp": 1744774809932,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1744774867875,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Submitted"
+        },
+        {
+          "change_timestamp": 1744778015187,
+          "changed_by_email": "dbordelo@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1744778829862,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1750249026829,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        }
+      ],
+      "uuid": "dbb2db34209be7692eaab41889016ecd"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/lab_processed/images/Image_D478-LUL-B2D_HE.ome.tif",
+      "size": 4957490520,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/lab_processed/images/Image_D478-LUL-B2D_HE.offsets.json",
+      "size": 36,
+      "type": "json"
+    }
+  ],
+  "group_name": "University of Rochester Medical Center TMC",
+  "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+  "hubmap_id": "HBM297.VNQM.477",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "20b68829",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.2.0"
+      },
+      {
+        "documentation_url": null,
+        "hash": "0e280634",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.35"
+      },
+      {
+        "documentation_url": null,
+        "hash": "20b68829",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.2.0"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a063a34",
+        "input_parameters": [
+          {
+            "parameter_name": "--processes",
+            "value": 6
+          },
+          {
+            "parameter_name": "--ometiff_directory",
+            "value": "/hive/hubmap/data/consortium/University of Rochester Medical Center TMC/dbb2db34209be7692eaab41889016ecd"
+          }
+        ],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "e3cbf06",
+        "input_parameters": [
+          {
+            "parameter_name": "--input_directory",
+            "value": "/hive/hubmap/scratch/manual__2025-04-16T04:47:17.233995+00:00/cwl_out/ometiff-pyramids"
+          }
+        ],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "0.0.48v0.0.48"
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "1.0.0"
+  },
+  "last_modified_timestamp": 1750249068730,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/University of Rochester Medical Center TMC/e9590db79da7a571b746fbf6ef99165c/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1750249068730,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1744802500784,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1744802519144,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1750249068730,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology [Image Pyramid] data from the lung (left) of a 55-year-old unknown male",
+  "uuid": "e9590db79da7a571b746fbf6ef99165c"
+}

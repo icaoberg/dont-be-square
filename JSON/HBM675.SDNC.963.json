@@ -1,0 +1,235 @@
+{
+  "antibodies": [
+    {
+      "antibody_name": "Anti-Lyve1 antibody",
+      "channel_id": "Alexaflour 488",
+      "concentration_unit": "ug/ml",
+      "concentration_value": "",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution": "1/200",
+      "lot_number": "GR3218005-2",
+      "rr_id": "AB_2884014",
+      "uniprot_accession_number": "Q9Y5Y7",
+      "version": "2"
+    }
+  ],
+  "collections": [
+    {
+      "created_timestamp": 1614617127000,
+      "entity_type": "Collection",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM524.JGZP.374",
+      "last_modified_timestamp": 1614617127000,
+      "title": "LIGHTSHEET",
+      "uuid": "215911ab945a2cf5a182619b4cac31a5"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Hunter",
+      "last_name": "Hakimian",
+      "middle_name_or_initial": "B",
+      "name": "Hunter B Hakimian",
+      "orcid_id": "0000-0001-9668-044X"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Mark",
+      "last_name": "Atkinson",
+      "middle_name_or_initial": "A",
+      "name": "Mark A. Atkinson",
+      "orcid_id": "0000-0001-8489-4782"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Seth",
+      "last_name": "Curlin",
+      "middle_name_or_initial": "W",
+      "name": "Seth W. Curlin",
+      "orcid_id": "0000-0001-6105-6890"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Marda",
+      "last_name": "Jorgensen",
+      "middle_name_or_initial": "L",
+      "name": "Marda L. Jorgensen",
+      "orcid_id": "0000-0002-7250-3569"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Hunter",
+      "is_contact": "TRUE",
+      "last_name": "Hakimian",
+      "middle_name_or_initial": "B",
+      "name": "Hunter B. Hakimian",
+      "orcid_id": "0000-0001-9668-044X"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Kevin",
+      "last_name": "Otto",
+      "middle_name_or_initial": "J",
+      "name": "Kevin J. Otto",
+      "orcid_id": "0000-0002-2317-6194"
+    },
+    {
+      "affiliation": "TMC-Florida/Zurich",
+      "first_name": "Harry",
+      "last_name": "Nick",
+      "middle_name_or_initial": "S",
+      "name": "Harry S. Nick",
+      "orcid_id": "0000-0002-0374-2283"
+    }
+  ],
+  "created_by_user_displayname": "Hunter Hakimian",
+  "created_by_user_email": "hakimianh13@ufl.edu",
+  "created_by_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+  "created_timestamp": 1614620246471,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "data_types": [
+    "Lightsheet"
+  ],
+  "dataset_info": "LS_20-002_TH_CC1_D\r\n\r\nLS_TH_CC1_D dataset\n",
+  "dataset_type": "Light Sheet",
+  "description": "LS_TH_CC1_D dataset\n",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Marda Jorgensen",
+      "created_by_user_email": "marda@ufl.edu",
+      "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+      "created_timestamp": 1613761405226,
+      "data_access_level": "public",
+      "description": "used for FEB 2021 data upload. Stained with Lyve1",
+      "entity_type": "Sample",
+      "group_name": "University of Florida TMC",
+      "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM837.WJCN.372",
+      "last_modified_timestamp": 1631286205401,
+      "last_modified_user_displayname": "Hunter Hakimian",
+      "last_modified_user_email": "hakimianh13@ufl.edu",
+      "last_modified_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+      "metadata": {
+        "cold_ischemia_time_unit": "minutes",
+        "cold_ischemia_time_value": "904",
+        "health_status": "relatively healthy",
+        "organ_condition": "healthy",
+        "pathologist_report": "normal, no cancer",
+        "perfusion_solution": "Unknown",
+        "procedure_date": "2019-07-31",
+        "specimen_preservation_temperature": "Refrigerator (4 Celsius)",
+        "specimen_quality_criteria": "H&E",
+        "specimen_tumor_distance_unit": "",
+        "specimen_tumor_distance_value": "",
+        "vital_state": "deceased",
+        "warm_ischemia_time_unit": "minutes",
+        "warm_ischemia_time_value": "0"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/5b9d0226-45cb-4628-a337-e2dc5c4596fa",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/UBERON_0005469",
+          "http://purl.obolibrary.org/obo/UBERON_0005457"
+        ],
+        "creation_date": "2021-09-10",
+        "creator": "Marda Jorgensen",
+        "creator_first_name": "Marda",
+        "creator_last_name": "Jorgensen",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/5b9d0226-45cb-4628-a337-e2dc5c4596fa_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2021-09-10",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHMThymus",
+          "translation_units": "millimeter",
+          "x_rotation": 0,
+          "x_scaling": 1,
+          "x_translation": -5.719,
+          "y_rotation": 0,
+          "y_scaling": 1,
+          "y_translation": 45.691,
+          "z_rotation": 0,
+          "z_scaling": 1,
+          "z_translation": 17.54
+        },
+        "x_dimension": 10,
+        "y_dimension": 10,
+        "z_dimension": 10
+      },
+      "sample_category": "block",
+      "uuid": "7eb535fdb3711a8138dfd9d88ab5d882"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM675.SDNC.963",
+  "entity_type": "Dataset",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM675.SDNC.963",
+  "ingest_id": "298caad597d4a9eaaa3edbc89d79db82_scan.and.begin.processing_2021-06-25T13:21:19.806578-04:00",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "9f6aad9",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1652236275404,
+  "last_modified_user_displayname": "Zhou Yuan",
+  "last_modified_user_email": "ZHY19@pitt.edu",
+  "last_modified_user_sub": "c0f8907a-ec78-48a7-9c85-7da995b05446",
+  "local_directory_rel_path": "public/University of Florida TMC/298caad597d4a9eaaa3edbc89d79db82/",
+  "metadata": {
+    "acquisition_instrument_model": "Z.1",
+    "acquisition_instrument_vendor": "Zeiss",
+    "analyte_class": "Protein",
+    "antibodies_path": "extras/antibodies.tsv",
+    "assay_category": "imaging",
+    "assay_type": "Light Sheet",
+    "contributors_path": "extras/contributors.tsv",
+    "description": "lightsheet imaging of thymus",
+    "execution_datetime": "2020-07-24 15:28",
+    "increment_z_unit": "um",
+    "increment_z_value": "2.48",
+    "is_targeted": "TRUE",
+    "number_of_antibodies": "1",
+    "number_of_channels": "1",
+    "operator": "Seth Currlin",
+    "operator_email": "scurrlin@ufl.edu",
+    "pi": "Kevin Otto",
+    "pi_email": "Kevin.Otto@bme.ufl.edu",
+    "protocols_io_doi": "10.17504/protocols.io.bqaamsae",
+    "range_z_unit": "um",
+    "range_z_value": "2567",
+    "resolution_x_unit": "um",
+    "resolution_x_value": "3511.61",
+    "resolution_y_unit": "um",
+    "resolution_y_value": "3511.61",
+    "step_z_value": "1035",
+    "version": "2"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1625247770558,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM675.SDNC.963",
+  "run_id": "298caad597d4a9eaaa3edbc89d79db82_scan.and.begin.processing_2021-06-25T13:21:19.806578-04:00",
+  "status": "Published",
+  "title": "Light Sheet data from the thymus of a 1-year-old white male",
+  "uuid": "298caad597d4a9eaaa3edbc89d79db82"
+}

@@ -1,0 +1,616 @@
+{
+  "collections": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "is_contact": "Yes",
+          "last_name": "Hickey",
+          "middle_name_or_initial": "W",
+          "name": "John Hickey",
+          "orcid_id": "0000-0001-9961-7673",
+          "version": "1"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "is_contact": "Yes",
+          "last_name": "Hickey",
+          "middle_name_or_initial": "W",
+          "name": "John Hickey",
+          "orcid_id": "0000-0001-9961-7673",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Chiara",
+          "is_contact": "No",
+          "last_name": "Caraccio",
+          "middle_name_or_initial": "",
+          "name": "Chiara Caraccio",
+          "orcid_id": "0000-0002-3580-1348",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Garry",
+          "is_contact": "No",
+          "last_name": "Nolan",
+          "middle_name_or_initial": "",
+          "name": "Garry Nolan",
+          "orcid_id": "0000-0002-8862-9043",
+          "version": "1"
+        }
+      ],
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1689358656069,
+      "description": "We investigated the spatial arrangement of individual cells using multiplexed imaging, as well as single-nucleus RNA and open chromatin assays, across eight different regions of the intestine from nine donors. Through comprehensive analyses, we observed significant variations in cell compositions among the intestinal regions and the intricate nature of epithelial subtypes. Furthermore, we discovered that similar cell types form distinct neighborhoods and communities, highlighting the presence of unique immunological niches within the intestine. Additionally, we identified gene regulatory differences within these cells, suggesting the existence of a regulatory differentiation cascade, and established associations between specific cell types and the heritability of intestinal diseases. These findings elucidate the intricate cell composition, regulation, and spatial organization within this organ, providing a valuable reference map for advancing our understanding of human biology and disease.",
+      "doi_url": "https://doi.org/10.35079/HBM244.CMBJ.758",
+      "entity_type": "Collection",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM244.CMBJ.758",
+      "last_modified_timestamp": 1755181302964,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM244.CMBJ.758",
+      "title": "Organization of the Human Intestine at Single Cell Resolution",
+      "uuid": "8f2f3f19ce75ae702302bf9a54800f53"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Michael",
+          "last_name": "Snyder",
+          "middle_name_or_initial": "P",
+          "name": "Michael P. Snyder",
+          "orcid_id": "0000-0003-0784-7987"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "last_name": "Hickey",
+          "middle_name_or_initial": "W",
+          "name": "John W. Hickey",
+          "orcid_id": "0000-0001-9961-7673"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "last_name": "Hickey",
+          "middle_name_or_initial": "W",
+          "name": "John W. Hickey",
+          "orcid_id": "0000-0001-9961-7673"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Winston",
+          "last_name": "Becker",
+          "middle_name_or_initial": "R",
+          "name": "Winston R. Becker",
+          "orcid_id": "0000-0001-7876-5060"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Stephanie",
+          "last_name": "Nevins",
+          "middle_name_or_initial": "A",
+          "name": "Stephanie A. Nevins",
+          "orcid_id": "0000-0002-2244-6703"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Aaron",
+          "last_name": "Horning",
+          "name": "Aaron Horning",
+          "orcid_id": "0000-0003-3247-0798"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Almudena",
+          "last_name": "Espin Perez",
+          "name": "Almudena Espin Perez",
+          "orcid_id": "0000-0002-8329-9196"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Chenchen",
+          "last_name": "Zhu",
+          "name": "Chenchen Zhu",
+          "orcid_id": "0000-0003-2165-9456"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Bokai",
+          "last_name": "Zhu",
+          "name": "Bokai Zhu",
+          "orcid_id": "0000-0003-3599-9419"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Bei",
+          "last_name": "Wei",
+          "name": "Bei Wei",
+          "orcid_id": "0000-0003-1516-8802"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Roxanne",
+          "last_name": "Chiu",
+          "name": "Roxanne Chiu",
+          "orcid_id": "0000-0002-7306-9186"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Derek",
+          "last_name": "Chen",
+          "middle_name_or_initial": "C",
+          "name": "Derek C. Chen",
+          "orcid_id": "0000-0001-9652-4885",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Daniel",
+          "last_name": "Cotter",
+          "name": "Daniel Cotter",
+          "orcid_id": "0000-0002-1625-3083"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Edward",
+          "last_name": "Esplin",
+          "middle_name_or_initial": "D",
+          "name": "Edward D. Esplin",
+          "orcid_id": "0000-0001-9205-3756"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Annika",
+          "last_name": "Weimer",
+          "middle_name_or_initial": "K",
+          "name": "Annika K. Weimer",
+          "orcid_id": "0000-0001-9944-8769"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Chiara",
+          "last_name": "Caraccio",
+          "name": "Chiara Caraccio",
+          "orcid_id": "0000-0002-3580-1348"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Vishal",
+          "last_name": "Venkataraaman",
+          "name": "Vishal Venkataraaman",
+          "orcid_id": "0000-0003-2570-0532"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Christian",
+          "last_name": "Schurch",
+          "middle_name_or_initial": "M",
+          "name": "Christian M. Schurch",
+          "orcid_id": "0000-0002-1792-1768"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Sarah",
+          "last_name": "Black",
+          "name": "Sarah Black",
+          "orcid_id": "0000-0002-8098-0576"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Maria",
+          "last_name": "Brbic",
+          "name": "Maria Brbic",
+          "orcid_id": "0000-0002-1120-1778"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Kaidi",
+          "last_name": "Cao",
+          "name": "Kaidi Cao",
+          "orcid_id": "0000-0003-1519-4576"
+        },
+        {
+          "affiliation": "University of Pennsylvania",
+          "first_name": "Shuxiao",
+          "last_name": "Chen",
+          "name": "Shuxiao Chen",
+          "orcid_id": "0000-0001-9028-1624"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Weiruo",
+          "last_name": "Zhang",
+          "name": "Weiruo Zhang",
+          "orcid_id": "0000-0003-3680-7562"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Emma",
+          "last_name": "Monte",
+          "name": "Emma Monte",
+          "orcid_id": "0000-0003-2566-1967"
+        },
+        {
+          "affiliation": "University of Pennsylvania",
+          "first_name": "Nancy",
+          "last_name": "Zhang",
+          "name": "Nancy Zhang",
+          "orcid_id": "0000-0002-0880-5749"
+        },
+        {
+          "affiliation": "University of Pennsylvania",
+          "first_name": "Zongming",
+          "last_name": "Ma",
+          "name": "Zongming Ma",
+          "orcid_id": "0000-0003-2401-0177"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Jure",
+          "last_name": "Leskovec",
+          "name": "Jure Leskovec",
+          "orcid_id": "0000-0002-5411-923X"
+        },
+        {
+          "affiliation": "Washington University",
+          "first_name": "Zhengyan",
+          "last_name": "Zhang",
+          "name": "Zhengyan Zhang",
+          "orcid_id": "0000-0003-4979-9573"
+        },
+        {
+          "affiliation": "University of Washington",
+          "first_name": "Shin",
+          "last_name": "Lin",
+          "name": "Shin Lin",
+          "orcid_id": "0000-0003-0118-0413"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Teri",
+          "last_name": "Longacre",
+          "name": "Teri Longacre",
+          "orcid_id": "0000-0002-0935-7300"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Sylvia",
+          "last_name": "Plevritis",
+          "middle_name_or_initial": "K",
+          "name": "Sylvia K. Plevritis",
+          "orcid_id": "0000-0003-2796-9180"
+        },
+        {
+          "affiliation": "Washington University",
+          "first_name": "Yiing",
+          "last_name": "Lin",
+          "name": "Yiing Lin",
+          "orcid_id": "0000-0002-0317-7608"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Garry",
+          "last_name": "Nolan",
+          "middle_name_or_initial": "P",
+          "name": "Garry P. Nolan",
+          "orcid_id": "0000-0002-8862-9043"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "William",
+          "last_name": "Greenleaf",
+          "middle_name_or_initial": "J",
+          "name": "William J. Greenleaf",
+          "orcid_id": "0000-0003-1409-3095"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Michael",
+          "is_contact": "Yes",
+          "last_name": "Snyder",
+          "middle_name_or_initial": "P",
+          "name": "Michael P. Snyder",
+          "orcid_id": "0000-0003-0784-7987"
+        }
+      ],
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1666876300060,
+      "description": "The colon is a complex organ that promotes digestion, extracts nutrients, participates in immune surveillance, maintains critical symbiotic relationships with microbiota, and affects overall health. To better understand its organization, functions, and its regulation at a single cell level, we performed CODEX multiplexed imaging, as well as single nuclear RNA and open chromatin assays across eight different intestinal sites of four donors. Through systematic analyses we find cell compositions differ dramatically across regions of the intestine, demonstrate the complexity of epithelial subtypes, and find that the same cell types are organized into distinct neighborhoods and communities highlighting distinct immunological niches present in the intestine. We also map gene regulatory differences in these cells suggestive of a regulatory differentiation cascade, and associate intestinal disease heritability with specific cell types. These results describe the complexity of the cell composition, regulation, and organization for this organ, and serve as an important reference map for understanding human biology and disease.",
+      "doi_url": "https://doi.org/10.35079/HBM692.JRZB.356",
+      "entity_type": "Collection",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM692.JRZB.356",
+      "last_modified_timestamp": 1666876300060,
+      "registered_doi": "10.35079/HBM692.JRZB.356",
+      "title": "High Resolution Single Cell Maps Reveals Distinct Cell Organization and Function Across Different Regions of the Human Intestine",
+      "uuid": "074df152c7d3dc2e09ec2400e947bc0c"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "is_contact": "TRUE",
+          "last_name": "Hickey",
+          "middle_name_or_initial": "W",
+          "name": "John Hickey",
+          "orcid_id": "0000-0001-9961-7673",
+          "version": "1"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "John",
+          "is_contact": "TRUE",
+          "last_name": "Hickey",
+          "middle_name_or_initial": "W",
+          "name": "John Hickey",
+          "orcid_id": "0000-0001-9961-7673",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Chiara",
+          "is_contact": "FALSE",
+          "last_name": "Caraccio",
+          "middle_name_or_initial": "",
+          "name": "Chiara Caraccio",
+          "orcid_id": "0000-0002-3580-1348",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Garry",
+          "is_contact": "FALSE",
+          "last_name": "Nolan",
+          "middle_name_or_initial": "",
+          "name": "Garry Nolan",
+          "orcid_id": "0000-0002-8862-9043",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1766007867623,
+      "description": "We investigated the spatial arrangement of individual cells using multiplexed imaging, as well as single-nucleus RNA and open chromatin assays, across eight different regions of the intestine from nine donors. Through comprehensive analyses, we observed significant variations in cell compositions among the intestinal regions and the intricate nature of epithelial subtypes. Furthermore, we discovered that similar cell types form distinct neighborhoods and communities, highlighting the presence of unique immunological niches within the intestine. Additionally, we identified gene regulatory differences within these cells, suggesting the existence of a regulatory differentiation cascade, and established associations between specific cell types and the heritability of intestinal diseases. These findings elucidate the intricate cell composition, regulation, and spatial organization within this organ, providing a valuable reference map for advancing our understanding of human biology and disease.",
+      "doi_url": "https://doi.org/10.35079/HBM357.WFFG.479",
+      "entity_type": "Collection",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM357.WFFG.479",
+      "last_modified_timestamp": 1766007878923,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM357.WFFG.479",
+      "title": "A collection of datasets from Publication: Organization of the human intestine at single-cell resolution",
+      "uuid": "3b494e6ea27004b04b6a2a93b7f67d62"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "Stanford University",
+      "first_name": "Annika",
+      "is_contact": "TRUE",
+      "last_name": "Weimer",
+      "middle_name_or_initial": "",
+      "name": "Annika Weimer",
+      "orcid_id": "0000-0001-9944-8769",
+      "version": "1"
+    },
+    {
+      "affiliation": "Stanford University",
+      "first_name": "Bei",
+      "is_contact": "TRUE",
+      "last_name": "Wei",
+      "middle_name_or_initial": "",
+      "name": "Bei Wei",
+      "orcid_id": "0000-0003-1516-8802",
+      "version": "1"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "Stanford University",
+      "first_name": "Annika",
+      "is_contact": "TRUE",
+      "last_name": "Weimer",
+      "middle_name_or_initial": "",
+      "name": "Annika Weimer",
+      "orcid_id": "0000-0001-9944-8769",
+      "version": "1"
+    },
+    {
+      "affiliation": "Stanford University",
+      "first_name": "Bei",
+      "is_contact": "TRUE",
+      "last_name": "Wei",
+      "middle_name_or_initial": "",
+      "name": "Bei Wei",
+      "orcid_id": "0000-0003-1516-8802",
+      "version": "1"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1665591228883,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "data_types": [
+    "snRNAseq-10xGenomics-v3"
+  ],
+  "dataset_type": "RNAseq",
+  "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX20680566",
+  "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002272",
+  "description": "Colon & heart multiome snRNAseq data : B009/B009-A-405",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Daniel Cotter",
+      "created_by_user_email": "Daniel.cotter@stanford.edu",
+      "created_by_user_sub": "9bc64b24-20e9-4612-bb84-a80e9f806022",
+      "created_timestamp": 1649887556335,
+      "data_access_level": "public",
+      "description": "Sample of proximal jejunum of small intestine from donor B009 / W174",
+      "entity_type": "Sample",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM297.KXMS.689",
+      "last_modified_timestamp": 1654704772301,
+      "last_modified_user_displayname": "Yiing Lin",
+      "last_modified_user_email": "liny@wustl.edu",
+      "last_modified_user_sub": "be70e17d-9bc1-4a91-a83f-6950bdd1287b",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.bqm5mu86",
+      "rui_location": {
+        "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+        "@id": "http://purl.org/ccf/1.5/d9aed544-4c6e-42c2-a137-9a9381d8f8c8",
+        "@type": "SpatialEntity",
+        "ccf_annotations": [
+          "http://purl.obolibrary.org/obo/UBERON_0002114",
+          "http://purl.obolibrary.org/obo/FMA_14926",
+          "http://purl.obolibrary.org/obo/FMA_14928",
+          "http://purl.obolibrary.org/obo/FMA_15077",
+          "http://purl.obolibrary.org/obo/FMA_14930",
+          "http://purl.obolibrary.org/obo/FMA_14929",
+          "http://purl.obolibrary.org/obo/UBERON_0002115",
+          "http://purl.obolibrary.org/obo/UBERON_0004914"
+        ],
+        "creation_date": "2022-06-08",
+        "creator": "Yiing Lin",
+        "creator_first_name": "Yiing",
+        "creator_last_name": "Lin",
+        "dimension_units": "millimeter",
+        "placement": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/d9aed544-4c6e-42c2-a137-9a9381d8f8c8_placement",
+          "@type": "SpatialPlacement",
+          "placement_date": "2022-06-08",
+          "rotation_order": "XYZ",
+          "rotation_units": "degree",
+          "scaling_units": "ratio",
+          "target": "http://purl.org/ccf/latest/ccf.owl#VHMSmallIntestine",
+          "translation_units": "millimeter",
+          "x_rotation": 0,
+          "x_scaling": 1,
+          "x_translation": 68.784,
+          "y_rotation": 0,
+          "y_scaling": 1,
+          "y_translation": 188.764,
+          "z_rotation": 122,
+          "z_scaling": 1,
+          "z_translation": 31.088
+        },
+        "x_dimension": 3,
+        "y_dimension": 30,
+        "z_dimension": 15
+      },
+      "sample_category": "block",
+      "uuid": "4d09d8397267240454e948505d22b5ff"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM684.SLGB.599",
+  "entity_type": "Dataset",
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM684.SLGB.599",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "7a5be2c",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1666794925046,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "protected/Stanford TMC/64e3949e4a4cc433e64745204f20fe27/",
+  "metadata": {
+    "acquisition_instrument_model": "NovaSeq",
+    "acquisition_instrument_vendor": "Illumina",
+    "analyte_class": "RNA",
+    "assay_category": "sequence",
+    "assay_type": "snRNAseq-10xGenomics-v3",
+    "cell_barcode_offset": "0",
+    "cell_barcode_read": "R1",
+    "cell_barcode_size": "16",
+    "contributors_path": "extras/contributors.tsv",
+    "execution_datetime": "2021-03-20 09:30",
+    "is_targeted": "False",
+    "is_technical_replicate": "False",
+    "library_adapter_sequence": "AGATCGGAAGAGCACACGT",
+    "library_average_fragment_size": "475",
+    "library_construction_protocols_io_doi": "10.17504/protocols.io.bffvjjn6",
+    "library_final_yield_unit": "ng",
+    "library_final_yield_value": "410",
+    "library_layout": "paired-end",
+    "library_pcr_cycles": "7",
+    "library_pcr_cycles_for_sample_index": "13",
+    "operator": "Bei Wei, Kristina Paul",
+    "operator_email": "wbei@stanford.edu",
+    "pi": "Mike Snyder",
+    "pi_email": "mpsnyder@stanford.edu",
+    "protocols_io_doi": "10.17504/protocols.io.bvbmn2k6",
+    "rnaseq_assay_input": "4020",
+    "rnaseq_assay_method": "10x Chromium multiome Reagent Kits",
+    "sc_isolation_cell_number": "800000",
+    "sc_isolation_enrichment": "none",
+    "sc_isolation_entity": "nucleus",
+    "sc_isolation_protocols_io_doi": "10.17504/protocols.io.6t8herw",
+    "sc_isolation_quality_metric": "OK",
+    "sc_isolation_tissue_dissociation": "dounce",
+    "sequencing_phix_percent": "1",
+    "sequencing_read_format": "28/10/10/90",
+    "sequencing_read_percent_q30": "96.5",
+    "sequencing_reagent_kit": "NovaSeq"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "Colon & heart multiome snRNAseq data : B009/B009-A-405",
+  "published_timestamp": 1666794925046,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM684.SLGB.599",
+  "status": "Published",
+  "title": "RNAseq data from the small intestine of a 30-year-old white male",
+  "upload": {
+    "created_by_user_displayname": "Daniel Cotter",
+    "created_by_user_email": "Daniel.cotter@stanford.edu",
+    "created_by_user_sub": "9bc64b24-20e9-4612-bb84-a80e9f806022",
+    "created_timestamp": 1662151416288,
+    "description": "Colon & heart multiome snRNAseq data",
+    "entity_type": "Upload",
+    "group_name": "Stanford TMC",
+    "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM528.FGHB.683",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "last_modified_timestamp": 1756231268084,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "title": "Colon & heart multiome snRNAseq data",
+    "uuid": "19f17e57411416487f9e3952b6d2d53c"
+  },
+  "uuid": "64e3949e4a4cc433e64745204f20fe27"
+}

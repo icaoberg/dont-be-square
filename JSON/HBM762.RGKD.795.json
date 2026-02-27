@@ -1,0 +1,117 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1614201613971,
+  "data_access_level": "public",
+  "description": "Paraffin block NBF",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1614089324497,
+    "data_access_level": "public",
+    "description": "1cm slab through CCF-1",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM968.HFNM.663",
+    "image_file_metadata": [
+      {
+        "description": "Section with hilum at top end facing up",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/7cfcc7ef49bd3063d27333fe26713e54/HuBMAP 21-010 Spleen CC1 Region (2nd Cut).JPG"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Section with hilum at top end facing up",
+        "file_uuid": "ffff7f13978957112c56e4f593589552",
+        "filename": "HuBMAP_21-010_Spleen_CC1_Region_2nd_Cut.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617759188794,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+    "sample_category": "block",
+    "uuid": "f7b4aa7d8b55743001b2e507f1cf9d3a"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM762.RGKD.795",
+  "image_file_metadata": [
+    {
+      "description": "CC-1 blocks cut from slab, block A at top",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/96f6329d57ef9c6943603bdfd32ea242/HuBMAP 21-010 Spleen CC Region (2nd Cut) Sectioned.JPG"
+    }
+  ],
+  "image_files": [
+    {
+      "description": "CC-1 blocks cut from slab, block A at top",
+      "file_uuid": "ffffa63dbd4523e80b6114b11da7a33c",
+      "filename": "HuBMAP_21-010_Spleen_CC_Region_2nd_Cut_Sectioned.JPG"
+    }
+  ],
+  "last_modified_timestamp": 1670964015324,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/e1db1f93-161c-44c2-a96e-9bfa26ddb873",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049",
+      "http://purl.obolibrary.org/obo/UBERON_0005457",
+      "http://purl.obolibrary.org/obo/UBERON_0005469",
+      "http://purl.org/sig/ont/fma/fma15828",
+      "http://purl.org/sig/ont/fma/fma15838",
+      "http://purl.org/sig/ont/fma/fma15837",
+      "http://purl.obolibrary.org/obo/UBERON_0001248",
+      "http://purl.org/sig/ont/fma/fma15839"
+    ],
+    "creation_date": "2021-10-02",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/e1db1f93-161c-44c2-a96e-9bfa26ddb873_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-02",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHMSpleen",
+      "translation_units": "millimeter",
+      "x_rotation": -91,
+      "x_scaling": 1,
+      "x_translation": 83.713,
+      "y_rotation": -46,
+      "y_scaling": 1,
+      "y_translation": 43.927,
+      "z_rotation": -53,
+      "z_scaling": 1,
+      "z_translation": 45.923
+    },
+    "x_dimension": 10,
+    "y_dimension": 10,
+    "z_dimension": 12
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffffd0ebb237894ced2e489fdc51f456",
+    "filename": "HBM762.RGKD.795.jpg"
+  },
+  "uuid": "01b0f11f3fc13542c6d837cc47712b85"
+}

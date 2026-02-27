@@ -1,0 +1,65 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1614090135956,
+  "data_access_level": "public",
+  "description": "Thymus left lobe",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1614030340833,
+    "data_access_level": "public",
+    "description": "Left and right lobe of thymus",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM577.BPFV.553",
+    "image_file_metadata": [
+      {
+        "description": "Thymus at time of collection",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/635a623fa80a98c9732b66d8f5dc21b4/HuBMAP 21-011 Thymus L+R Lobe.jpg"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Thymus at time of collection",
+        "file_uuid": "ffff4b33643e006db7636b43f78b2c0c",
+        "filename": "HuBMAP_21-011_Thymus_LR_Lobe.jpg"
+      }
+    ],
+    "last_modified_timestamp": 1617759177149,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "organ": "TH",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "38f86ebcefab20e77bab474529999a6e"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM826.ZFQD.944",
+  "image_file_metadata": [
+    {
+      "description": "Left lobe as recieved",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/4fa4cbed5e393016c49026bd4bb0b5ce/HuBMAP 21-011 Thymus Left Lobe.jpg"
+    }
+  ],
+  "image_files": [
+    {
+      "description": "Left lobe as recieved",
+      "file_uuid": "ffff945c70fbd484c09583c7ae7254be",
+      "filename": "HuBMAP_21-011_Thymus_Left_Lobe.jpg"
+    }
+  ],
+  "last_modified_timestamp": 1617759190937,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgmiju6",
+  "sample_category": "block",
+  "uuid": "2bd4557004212f62a12fcf1963816f09"
+}

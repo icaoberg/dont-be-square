@@ -1,0 +1,282 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1679130945987,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "data_types": [
+    "sn_atac_seq_multiome_10x"
+  ],
+  "dataset_info": "sc_atac_seq_multiome_10x__d71d3988688800eb217cd62d1b62e18d__sn-atac-seq-pipeline",
+  "dataset_type": "ATACseq [SnapATAC]",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Annika",
+          "is_contact": "TRUE",
+          "last_name": "Weimer",
+          "middle_name_or_initial": "",
+          "name": "Annika Weimer",
+          "orcid_id": "0000-0001-9944-8769",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Bei",
+          "is_contact": "TRUE",
+          "last_name": "Wei",
+          "middle_name_or_initial": "",
+          "name": "Bei Wei",
+          "orcid_id": "0000-0003-1516-8802",
+          "version": "1"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Annika",
+          "is_contact": "TRUE",
+          "last_name": "Weimer",
+          "middle_name_or_initial": "",
+          "name": "Annika Weimer",
+          "orcid_id": "0000-0001-9944-8769",
+          "version": "1"
+        },
+        {
+          "affiliation": "Stanford University",
+          "first_name": "Bei",
+          "is_contact": "TRUE",
+          "last_name": "Wei",
+          "middle_name_or_initial": "",
+          "name": "Bei Wei",
+          "orcid_id": "0000-0003-1516-8802",
+          "version": "1"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1665591186587,
+      "data_access_level": "protected",
+      "data_types": [
+        "snATACseq"
+      ],
+      "dataset_type": "ATACseq",
+      "dbgap_sra_experiment_url": "https://www.ncbi.nlm.nih.gov/sra/SRX20680442",
+      "dbgap_study_url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002272",
+      "description": "Colon & heart multiome (single-nucleus ATAC & RNA sequencing) data : B011/B011-A-401\nsnATAC part of multiome experiment. Corresponding snRNA is HBM379.PCLL.836",
+      "doi_url": "https://doi.org/10.35079/HBM673.ZXZT.494",
+      "entity_type": "Dataset",
+      "group_name": "Stanford TMC",
+      "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+      "hubmap_id": "HBM673.ZXZT.494",
+      "ingest_id": "d71d3988688800eb217cd62d1b62e18d_scan.and.begin.processing_2022-10-12T14:28:36.925843-04:00",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "7a5be2c",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1682000415813,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "NovaSeq",
+        "acquisition_instrument_vendor": "Illumina",
+        "analyte_class": "DNA",
+        "assay_category": "sequence",
+        "assay_type": "snATACseq",
+        "cell_barcode_offset": "0",
+        "cell_barcode_read": "I5",
+        "cell_barcode_size": "16",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "execution_datetime": "2021-03-18 09:30",
+        "is_targeted": "False",
+        "is_technical_replicate": "False",
+        "library_adapter_sequence": "AGATCGGAAGAGCACACGT",
+        "library_average_fragment_size": "380",
+        "library_construction_protocols_io_doi": "10.17504/protocols.io.bffvjjn6",
+        "library_final_yield": "440",
+        "library_final_yield_unit": "ng",
+        "library_layout": "paired-end",
+        "library_pcr_cycles": "7",
+        "library_pcr_cycles_for_sample_index": "7",
+        "operator": "Bei Wei, Kristina Paul",
+        "operator_email": "wbei@stanford.edu",
+        "pi": "Mike Snyder",
+        "pi_email": "mpsnyder@stanford.edu",
+        "protocols_io_doi": "10.17504/protocols.io.6t8herw",
+        "sc_isolation_cell_number": "880000",
+        "sc_isolation_enrichment": "none",
+        "sc_isolation_entity": "nucleus",
+        "sc_isolation_protocols_io_doi": "10.17504/protocols.io.bvbmn2k6",
+        "sc_isolation_quality_metric": "OK",
+        "sc_isolation_tissue_dissociation": "dounce",
+        "sequencing_phix_percent": "1",
+        "sequencing_read_format": "50/8/24/50",
+        "sequencing_read_percent_q30": "88",
+        "sequencing_reagent_kit": "NovaSeq",
+        "transposition_input": "2178",
+        "transposition_kit_number": "163732",
+        "transposition_method": "snATACseq",
+        "transposition_transposase_source": "10X snATAC"
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "Colon & heart multiome (single-nucleus ATAC & RNA sequencing) data : B011/B011-A-401",
+      "published_timestamp": 1682000415813,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM673.ZXZT.494",
+      "run_id": "d71d3988688800eb217cd62d1b62e18d_scan.and.begin.processing_2022-10-12T14:28:36.925843-04:00",
+      "status": "Published",
+      "uuid": "d71d3988688800eb217cd62d1b62e18d"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "Genome build information in JSON format",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "genome_build.json",
+      "size": 103,
+      "type": "json"
+    },
+    {
+      "description": "Sparse cell by bin matrix, in H5AD format",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "cell_by_bin.h5ad",
+      "size": 781361947,
+      "type": "h5ad"
+    },
+    {
+      "description": "Cell by gene matrix (sparse, and smoothed with MAGIC), in H5AD format",
+      "edam_term": "EDAM_1.24.format_3590",
+      "is_data_product": true,
+      "is_qa_qc": false,
+      "rel_path": "cell_by_gene.h5ad",
+      "size": 1001445656,
+      "type": "h5ad"
+    },
+    {
+      "description": "Fragment file from Sinto",
+      "edam_term": "EDAM_1.24.format_3003",
+      "is_qa_qc": false,
+      "rel_path": "frags.sort.bed.gz",
+      "size": 1239457740,
+      "type": "unknown"
+    },
+    {
+      "description": "Per-cell UMAP coordinates and cluster assignments",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "umap_coords_clusters.csv",
+      "size": 256385,
+      "type": "csv"
+    },
+    {
+      "description": "Input data relevant for visualization saved in columnar Apache Arrow format.",
+      "edam_term": "EDAM_1.24.format_2333",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.arrow",
+      "size": 193418,
+      "type": "arrow"
+    },
+    {
+      "description": "JSON-formatted information about the heirarchy scRNA-seq's cells.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.cell-sets.json",
+      "size": 131697,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about this scATAC-seq run including scatterplot coordinates and clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.cells.json",
+      "size": 493604,
+      "type": "json"
+    },
+    {
+      "description": "JSON-formatted information about this scATAC-seq's clustering.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.factors.json",
+      "size": 119902,
+      "type": "json"
+    },
+    {
+      "description": "Per-cell UMAP coordinates and cluster assignments",
+      "edam_term": "EDAM_1.24.format_3752",
+      "is_qa_qc": false,
+      "rel_path": "output/umap_coords_clusters.csv",
+      "size": 246528,
+      "type": "csv"
+    }
+  ],
+  "group_name": "Stanford TMC",
+  "group_uuid": "def5fd76-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM424.JNFQ.763",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": "",
+        "hash": "dca7f60",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.0.12"
+      },
+      {
+        "documentation_url": "",
+        "hash": "dca7f60",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v2.0.12"
+      },
+      {
+        "documentation_url": "",
+        "hash": "d0e845d",
+        "input_parameters": [],
+        "name": "sc_atac_seq_prep_process_analyze.cwl",
+        "origin": "https://github.com/hubmapconsortium/sc-atac-seq-pipeline",
+        "version": "v2.0.3"
+      },
+      {
+        "documentation_url": "",
+        "hash": "0b94a44",
+        "input_parameters": [],
+        "name": "scatac-csv-to-arrow.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.27"
+      }
+    ],
+    "workflow_description": "The pipeline for snATACseq data uses HISAT2 for short read alignment of ATACseq reads hg38 reference genome and ArchR to convert the resulting BAM file to a cell by bin matrix, which is used to calculate TSS enrichment, differential enrichment of transcription factors, perform clustering of nuclei and additional analysis.",
+    "workflow_version": "0.0.1"
+  },
+  "last_modified_timestamp": 1699297082409,
+  "last_modified_user_displayname": "Karl Burke",
+  "last_modified_user_email": "KBURKE@pitt.edu",
+  "last_modified_user_sub": "3aaa925d-755a-4193-98c7-44455de783ff",
+  "local_directory_rel_path": "public/Stanford TMC/5ecc0cf41f4e64118d61fcddaeb981bc/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1682000647796,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "status": "Published",
+  "title": "ATACseq [SnapATAC] data from the small intestine of a 54-year-old black or african american female",
+  "uuid": "5ecc0cf41f4e64118d61fcddaeb981bc"
+}

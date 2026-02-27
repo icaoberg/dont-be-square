@@ -1,0 +1,104 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603731952892,
+  "data_access_level": "public",
+  "description": "Bissected 1.2cm lymph node shared with single cell prep",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603130223635,
+    "data_access_level": "public",
+    "description": "1.2cm LN isolated and split for use in CODEX and 10x analysis",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM326.NRWR.638",
+    "image_file_metadata": [
+      {
+        "description": "Lymph node after removal of surrounding fat",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/cd857e1780a0a37dfc5da5ce94536896/IMG_3467.JPG"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Lymph node after removal of surrounding fat",
+        "file_uuid": "ffff0b1c77d29a96d46d09e0314939db",
+        "filename": "IMG_3467.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617750881327,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "organ": "LY",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/cd857e1780a0a37dfc5da5ce94536896/Pathology_Report20-006 LN.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "ed07984278557f3842743172875e49f4"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM756.LVDR.338",
+  "last_modified_timestamp": 1670964022377,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgnijve",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/28c5313f-2a4e-47f8-b5bd-9e4686faf24d",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049"
+    ],
+    "creation_date": "2021-10-01",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/28c5313f-2a4e-47f8-b5bd-9e4686faf24d_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-01",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHFRightLymphNode",
+      "translation_units": "millimeter",
+      "x_rotation": 0,
+      "x_scaling": 1,
+      "x_translation": 10.117,
+      "y_rotation": 0,
+      "y_scaling": 1,
+      "y_translation": 6.417,
+      "z_rotation": 0,
+      "z_scaling": 1,
+      "z_translation": 6.256
+    },
+    "x_dimension": 20,
+    "y_dimension": 10,
+    "z_dimension": 12
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffff577fc12a05dbdd0cd146bfa13838",
+    "filename": "HBM756.LVDR.338.jpg"
+  },
+  "uuid": "017eccf19e93969ce5cd8f30f78bab67"
+}

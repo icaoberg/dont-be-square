@@ -1,0 +1,79 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603996590959,
+  "data_access_level": "public",
+  "description": "1cm slab taken cross sectional through hilum (CCF 2)",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603129304774,
+    "data_access_level": "public",
+    "description": "2/3 of a spleen taken from the center of the organ. ",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM282.GSGK.823",
+    "image_file_metadata": [
+      {
+        "description": "Image of organ as received, hilar surface facing up",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/658a7360c272ff284e3f83c2fb44fd16/IMG_3449.JPG"
+      },
+      {
+        "description": "Image of argan as received, colonic surface facing up",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/658a7360c272ff284e3f83c2fb44fd16/IMG_3448.JPG"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Image of organ as received, hilar surface facing up",
+        "file_uuid": "ffff2de288b6d153dc1f165027928bb2",
+        "filename": "IMG_3449.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617750869149,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "organ": "SP",
+    "portal_metadata_upload_files": [
+      {
+        "description": "",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/658a7360c272ff284e3f83c2fb44fd16/Pathology_Report20-006 Spleen.docx"
+      }
+    ],
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bipykdpw",
+    "sample_category": "organ",
+    "uuid": "c67c421ac4aed2c8bede2a1d0acb4eec"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM595.RJJF.938",
+  "image_file_metadata": [
+    {
+      "description": "Spleen hilum face up on sectioning board with organ piece dissected ( cm 7-8",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/7a78ac3f9e1ceac6f1afa833a80b1334/IMG_3450.JPG"
+    },
+    {
+      "description": "H&E image of organ piece",
+      "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/c3ae72c46047373fa579b4d2e37bdb3b/20-006_SPL_CC2_C_10X_final stitch.tif"
+    }
+  ],
+  "image_files": [
+    {
+      "description": "Spleen hilum face up on sectioning board with organ piece dissected ( cm 7-8",
+      "file_uuid": "ffff67209a25a4d72b18c2636882a1a1",
+      "filename": "IMG_3450.JPG"
+    }
+  ],
+  "last_modified_timestamp": 1617759166631,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "sample_category": "block",
+  "uuid": "c3ae72c46047373fa579b4d2e37bdb3b"
+}

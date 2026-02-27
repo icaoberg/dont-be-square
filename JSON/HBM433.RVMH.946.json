@@ -1,0 +1,103 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1603742412233,
+  "data_access_level": "public",
+  "description": "1cm x 1cm x 0.5cm thymus piece processed into paraffin",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1603742286069,
+    "data_access_level": "public",
+    "description": "1cm slab of thymus dissected 3cm from superior end of organ",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM363.GJNF.946",
+    "image_file_metadata": [
+      {
+        "description": "Image of thymus with slabs dissected",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/363d4dbf4d12ff5c8acd01f09c43e9ec/HubMap008 Thymus 4.JPG"
+      },
+      {
+        "description": "H&E image of organ piece",
+        "filepath": "/hive/hubmap/data/uploads/07a29e4c-ed43-11e8-b56a-0e8017bdda58/1f33cf9a0d54e1eb41d751d12e35de73/20-008_THY_CC-1_A_7x9_10X_final stitch.tif"
+      }
+    ],
+    "image_files": [
+      {
+        "description": "Image of thymus with slabs dissected",
+        "file_uuid": "ffffca42f84735d80f572122a5a5d362",
+        "filename": "HubMap008_Thymus_4.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1617759160485,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgmiju6",
+    "sample_category": "block",
+    "uuid": "1f33cf9a0d54e1eb41d751d12e35de73"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM433.RVMH.946",
+  "last_modified_timestamp": 1670964099254,
+  "last_modified_user_displayname": "Derek Furst",
+  "last_modified_user_email": "DRF57@pitt.edu",
+  "last_modified_user_sub": "c7260962-6ace-48ef-a68f-1df66fcd9874",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bbgmiju6",
+  "rui_location": {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/4ec452bd-a385-4f7e-9910-79955ea29037",
+    "@type": "SpatialEntity",
+    "ccf_annotations": [
+      "http://purl.obolibrary.org/obo/UBERON_0010396",
+      "http://purl.obolibrary.org/obo/UBERON_0002194",
+      "http://purl.obolibrary.org/obo/UBERON_0010748",
+      "http://purl.obolibrary.org/obo/UBERON_0010397",
+      "http://purl.obolibrary.org/obo/UBERON_0002007",
+      "http://purl.obolibrary.org/obo/UBERON_0010417",
+      "http://purl.obolibrary.org/obo/UBERON_0002049",
+      "http://purl.obolibrary.org/obo/UBERON_0005457",
+      "http://purl.obolibrary.org/obo/UBERON_0005469"
+    ],
+    "creation_date": "2021-10-02",
+    "creator": "Hunter Hakimian",
+    "creator_first_name": "Hunter",
+    "creator_last_name": "Hakimian",
+    "dimension_units": "millimeter",
+    "placement": {
+      "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+      "@id": "http://purl.org/ccf/1.5/4ec452bd-a385-4f7e-9910-79955ea29037_placement",
+      "@type": "SpatialPlacement",
+      "placement_date": "2021-10-02",
+      "rotation_order": "XYZ",
+      "rotation_units": "degree",
+      "scaling_units": "ratio",
+      "target": "http://purl.org/ccf/latest/ccf.owl#VHMThymus",
+      "translation_units": "millimeter",
+      "x_rotation": 0,
+      "x_scaling": 1,
+      "x_translation": 14.798,
+      "y_rotation": 0,
+      "y_scaling": 1,
+      "y_translation": 45.999,
+      "z_rotation": 0,
+      "z_scaling": 1,
+      "z_translation": 16.029
+    },
+    "x_dimension": 10,
+    "y_dimension": 10,
+    "z_dimension": 10
+  },
+  "sample_category": "block",
+  "thumbnail_file": {
+    "file_uuid": "ffff756abd2797d31b474beecc9630bb",
+    "filename": "HBM433.RVMH.946.jpg"
+  },
+  "uuid": "7027e24a3ef6e076ea45f4ad9d88b810"
+}

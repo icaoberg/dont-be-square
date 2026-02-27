@@ -1,0 +1,409 @@
+{
+  "contains_human_genetic_sequences": false,
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1746642708576,
+  "creation_action": "Central Process",
+  "data_access_level": "public",
+  "dataset_info": "ometiff_pyramid__545864595ecf2dad6ee5386ea4321f4e__ometiff_pyramid",
+  "dataset_type": "Auto-fluorescence [Image Pyramid]",
+  "direct_ancestors": [
+    {
+      "antibodies": [
+        {
+          "antibody_concentration_unit": "",
+          "antibody_concentration_value": "",
+          "antibody_rrid": "AB_0",
+          "channel_id": "NA",
+          "conjugated_cat_number": "",
+          "conjugated_tag": "",
+          "dilution_factor": "",
+          "hgnc_symbol": "??",
+          "lot_number": "NA",
+          "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+          "uniprot_accession_number": "NA"
+        }
+      ],
+      "contacts": [
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Jeffrey M. Spraggins",
+          "email": "jeff.spraggins@vanderbilt.edu",
+          "first_name": "Jeffrey",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Spraggins",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M.",
+          "orcid": "0000-0001-9198-5498"
+        }
+      ],
+      "contains_human_genetic_sequences": false,
+      "contributors": [
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Jamie L. Allen",
+          "email": "jamie.l.allen@vanderbilt.edu",
+          "first_name": "Jamie",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Allen",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "L.",
+          "orcid": "0000-0002-4739-2166"
+        },
+        {
+          "affiliation": "Department of Cell and Developmental Biology, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Thai H. Pham",
+          "email": "thai.pham@vanderbilt.edu",
+          "first_name": "Thai",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Pham",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "H.",
+          "orcid": "0000-0002-6124-7678"
+        },
+        {
+          "affiliation": "Delft Center for Systems and Control, Delft University of Technology, 2628 CD Delft, The Netherlands",
+          "display_name": "Lukasz Migas",
+          "email": "l.g.migas@tudelft.nl",
+          "first_name": "Lukasz",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Migas",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-1884-6405"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Jeffrey M. Spraggins",
+          "email": "jeff.spraggins@vanderbilt.edu",
+          "first_name": "Jeffrey",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Spraggins",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "M.",
+          "orcid": "0000-0001-9198-5498"
+        },
+        {
+          "affiliation": "Delft Center for Systems and Control, Delft University of Technology, 2628 CD Delft, The Netherlands",
+          "display_name": "Raf Van de Plas",
+          "email": "Raf.vandePlas@tudelft.nl",
+          "first_name": "Raf",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Van de Plas",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-2232-7130"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Melissa A. Farrow",
+          "email": "melissa.a.farrow@vanderbilt.edu",
+          "first_name": "Melissa",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Farrow",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "A.",
+          "orcid": "0000-0002-6791-0290"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Madeline E. Colley",
+          "email": "madeline.colley@vanderbilt.edu",
+          "first_name": "Madeline",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Colley",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "E.",
+          "orcid": "0000-0002-9515-3493"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Ellie L. Pingry",
+          "email": "ellie.l.pingry@vanderbilt.edu",
+          "first_name": "Ellie",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Pingry",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "L.",
+          "orcid": "0000-0003-1411-0465"
+        },
+        {
+          "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+          "display_name": "Tina Tsui",
+          "email": "tina.tsui@vanderbilt.edu",
+          "first_name": "Tina",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Tsui",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-1018-124X"
+        },
+        {
+          "affiliation": "Division of Nephrology and Hypertension, Department of Medicine, Vanderbilt University Medical Center, Nashville, TN 37232, USA",
+          "display_name": "Mark deCaestecker",
+          "email": "mark.de.caestecker@vumc.org",
+          "first_name": "Mark",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "deCaestecker",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-7926-1673"
+        },
+        {
+          "affiliation": "Department of Cell and Developmental Biology, Vanderbilt University, Nashville, TN 37232, USA",
+          "display_name": "Martin Dufresne",
+          "email": "martin.dufresne@vanderbilt.edu",
+          "first_name": "Martin",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Dufresne",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-1731-3666"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1746640529546,
+      "data_access_level": "public",
+      "dataset_type": "Auto-fluorescence",
+      "description": "Autofluorescence microscopy collected by the Biomolecular Multimodal Imaging Center (BIOMIC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Autofluorescence microscopy images were collected with a Carl Zeiss Microscopy AxioScan.Z1 using 3 channels/filters- DAPI (excitation 335-383/emission 420-470 nm), eGFP (excitation 450-490/emission 500-550 nm), and DsRed (excitation 538-562/emission 570-640 nm).",
+      "doi_url": "https://doi.org/10.35079/HBM723.VCVN.849",
+      "entity_type": "Dataset",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM723.VCVN.849",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "documentation_url": null,
+            "hash": "ab5fdfee",
+            "input_parameters": [],
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+            "version": "v4.3.1"
+          },
+          {
+            "documentation_url": null,
+            "hash": "12d5861e",
+            "input_parameters": [],
+            "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+            "version": "v0.0.36"
+          }
+        ],
+        "extra_metadata": {
+          "collectiontype": "generic_metadatatsv"
+        }
+      },
+      "last_modified_timestamp": 1771533297583,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "acquisition_instrument_model": "Axio Scan.Z1",
+        "acquisition_instrument_vendor": "Zeiss Microscopy",
+        "analyte_class": "Endogenous fluorophore",
+        "antibodies_path": "extras/antibodies.tsv",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "dataset_type": "Auto-fluorescence",
+        "intended_tile_overlap_percentage": "0",
+        "is_image_preprocessing_required": "",
+        "is_targeted": "no",
+        "metadata_schema_id": "c9c6a02b-010e-4217-96dc-f7ef71dd14c4",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.7e3hjgn",
+        "scan_direction": "",
+        "source_storage_duration_unit": "day",
+        "source_storage_duration_value": "1738",
+        "tile_configuration": "",
+        "tiled_image_columns": "0",
+        "tiled_image_count": "0",
+        "time_since_acquisition_instrument_calibration_unit": "",
+        "time_since_acquisition_instrument_calibration_value": "0"
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "VU Kidney AF 4 samples Thai",
+      "published_timestamp": 1771533295884,
+      "registered_doi": "10.35079/HBM723.VCVN.849",
+      "status": "Published",
+      "status_history": [
+        {
+          "change_timestamp": 1746640529546,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1746640556556,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Submitted"
+        },
+        {
+          "change_timestamp": 1746641985060,
+          "changed_by_email": "dbordelo@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1746642050687,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1771533294444,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        }
+      ],
+      "uuid": "545864595ecf2dad6ee5386ea4321f4e"
+    }
+  ],
+  "entity_type": "Dataset",
+  "files": [
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/lab_processed/images/VAN0005-RK-3-39-PostAF.ome.tif",
+      "size": 1296706592,
+      "type": "unknown"
+    },
+    {
+      "description": "OME-TIFF pyramid file",
+      "edam_term": "EDAM_1.24.format_3727",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "ometiff-pyramids/lab_processed/images/VAN0005-RK-3-39-PreAF-registered.ome.tif",
+      "size": 2634673235,
+      "type": "unknown"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/lab_processed/images/VAN0005-RK-3-39-PostAF.offsets.json",
+      "size": 24,
+      "type": "json"
+    },
+    {
+      "description": "A list of byte-offsets of a TIFF file for quick access in visualization.",
+      "edam_term": "EDAM_1.24.format_3464",
+      "is_data_product": false,
+      "is_qa_qc": false,
+      "rel_path": "output_offsets/lab_processed/images/VAN0005-RK-3-39-PreAF-registered.offsets.json",
+      "size": 36,
+      "type": "json"
+    }
+  ],
+  "group_name": "Vanderbilt TMC",
+  "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+  "hubmap_id": "HBM597.XBCD.552",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "ab5fdfee",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.3.1"
+      },
+      {
+        "documentation_url": null,
+        "hash": "12d5861e",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.36"
+      },
+      {
+        "documentation_url": null,
+        "hash": "ab5fdfee",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.3.1"
+      },
+      {
+        "documentation_url": "",
+        "hash": "a063a34",
+        "input_parameters": [
+          {
+            "parameter_name": "--processes",
+            "value": 6
+          },
+          {
+            "parameter_name": "--ometiff_directory",
+            "value": "/hive/hubmap/data/consortium/Vanderbilt TMC/545864595ecf2dad6ee5386ea4321f4e"
+          }
+        ],
+        "name": "pipeline.cwl",
+        "origin": "https://github.com/hubmapconsortium/ome-tiff-pyramid",
+        "version": "v1.5"
+      },
+      {
+        "documentation_url": "",
+        "hash": "808962a",
+        "input_parameters": [
+          {
+            "parameter_name": "--input_directory",
+            "value": "/hive/hubmap/scratch/manual__2025-05-07T18:20:59.803411+00:00/cwl_out/ometiff-pyramids"
+          }
+        ],
+        "name": "ome-tiff-offsets.cwl",
+        "origin": "https://github.com/hubmapconsortium/portal-containers",
+        "version": "v0.0.50"
+      }
+    ],
+    "workflow_description": "The Image Pyramid pipeline converts OME-TIFF images into OME-TIFF pyramids.",
+    "workflow_version": "1.0.0"
+  },
+  "last_modified_timestamp": 1771533559151,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Vanderbilt TMC/62ed7c9d947d859c042d3af3d1961538/",
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1771533558799,
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1746642708576,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1746642722692,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1771533558547,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Auto-fluorescence [Image Pyramid] data from the kidney (right) of a 58-year-old white female",
+  "uuid": "62ed7c9d947d859c042d3af3d1961538"
+}

@@ -1,0 +1,848 @@
+{
+  "antibodies": [
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_11000353",
+      "channel_id": "C1",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:1706",
+      "lot_number": "MA5-13473",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P01732"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2847928",
+      "channel_id": "C2",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:634",
+      "lot_number": "ab230170",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P41181"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2832991",
+      "channel_id": "C3",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:6149",
+      "lot_number": "ab216445",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P11215"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_528195",
+      "channel_id": "C4",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:2770",
+      "lot_number": "ab271829",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P17661"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2924341",
+      "channel_id": "C5",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:1695",
+      "lot_number": "ab239755",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P09564"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678538",
+      "channel_id": "C6",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:10912",
+      "lot_number": "ab233401",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P55017"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2895051",
+      "channel_id": "C7",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:8823",
+      "lot_number": "4250009",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P16284"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678438",
+      "channel_id": "C8",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:7315",
+      "lot_number": "ab236434",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P11836"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2864385",
+      "channel_id": "C9",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:4739",
+      "lot_number": "ab215967",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P16104"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_355144",
+      "channel_id": "C10",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:14687",
+      "lot_number": "AF2089",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q9Y5Y7"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3676137",
+      "channel_id": "C11",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:1674",
+      "lot_number": "ab245731",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P07766"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678530",
+      "channel_id": "C12",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:1678",
+      "lot_number": "ab317797",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P01730"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678439",
+      "channel_id": "C13",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:6487",
+      "lot_number": "ab210956",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P55268"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2924410",
+      "channel_id": "C14",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:1434",
+      "lot_number": "ab233018",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P05937"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3086600",
+      "channel_id": "C15",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:30672",
+      "lot_number": "ab282117",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q8N3V7"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2924413",
+      "channel_id": "C16",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:12559",
+      "lot_number": "ab223540",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P07911"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678440",
+      "channel_id": "C17",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:9666",
+      "lot_number": "ab269347",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P08575"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2924414",
+      "channel_id": "C18",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:6307",
+      "lot_number": "ab243912",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P35968"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3674383",
+      "channel_id": "C19",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:2202",
+      "lot_number": "ab226485",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P02462"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678441",
+      "channel_id": "C20",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:7107",
+      "lot_number": "ab279657",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P46013"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2927764",
+      "channel_id": "C21",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:3778",
+      "lot_number": "ab268022",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P02751"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_223019",
+      "channel_id": "C22",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:130",
+      "lot_number": "ab240654",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P62736"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2747117",
+      "channel_id": "C23",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:10910",
+      "lot_number": "PA5-80002",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "Q13621"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678442",
+      "channel_id": "C24",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:7756",
+      "lot_number": "ab242400",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P48681"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2876888",
+      "channel_id": "C25",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:633",
+      "lot_number": "ab178352",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P29972"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678527",
+      "channel_id": "C26",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:2389",
+      "lot_number": "ab247476",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P02511"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2814713",
+      "channel_id": "C27",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:12692",
+      "lot_number": "ab193555",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P08670"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678443",
+      "channel_id": "C28",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:6445",
+      "lot_number": "ab220804",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P08729"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_355568",
+      "channel_id": "C29",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:1748",
+      "lot_number": "AF748",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P12830"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_2924408",
+      "channel_id": "C30",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:2514",
+      "lot_number": "ab196204",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P35222"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678445",
+      "channel_id": "C31",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:799, HGNC:800, HGNC:801, HGNC:14073",
+      "lot_number": "ab300508",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P05023, P50993, P13637, Q13733"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678444",
+      "channel_id": "C32",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:6694",
+      "lot_number": "ab309087",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P98164"
+    },
+    {
+      "antibody_concentration_unit": "",
+      "antibody_concentration_value": "",
+      "antibody_rrid": "AB_3678567",
+      "channel_id": "C33",
+      "conjugated_cat_number": "",
+      "conjugated_tag": "",
+      "dilution_factor": "",
+      "hgnc_symbol": "HGNC:11801",
+      "lot_number": "4450021",
+      "metadata_schema_id": "312f7be0-9aec-4cae-b942-a8864c0aa1ce",
+      "uniprot_accession_number": "P04216"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "display_name": "Jeffrey M. Spraggins",
+      "email": "jeff.spraggins@vanderbilt.edu",
+      "first_name": "Jeffrey",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Spraggins",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "M.",
+      "orcid": "0000-0001-9198-5498"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "display_name": "Jamie L. Allen",
+      "email": "jamie.l.allen@vanderbilt.edu",
+      "first_name": "Jamie",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Allen",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "L.",
+      "orcid": "0000-0002-4739-2166"
+    },
+    {
+      "affiliation": "Department of Cell and Developmental Biology, Vanderbilt University, Nashville, TN 37232 USA",
+      "display_name": "Thai H. Pham",
+      "email": "thai.pham@vanderbilt.edu",
+      "first_name": "Thai",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Pham",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "H.",
+      "orcid": "0000-0002-6124-7678"
+    },
+    {
+      "affiliation": "Delft Center for Systems and Control, Delft University of Technology, 2628 CD Delft, The Netherlands",
+      "display_name": "Lukasz Migas",
+      "email": "l.g.migas@tudelft.nl",
+      "first_name": "Lukasz",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Migas",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-1884-6405"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "display_name": "Jeffrey M. Spraggins",
+      "email": "jeff.spraggins@vanderbilt.edu",
+      "first_name": "Jeffrey",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Spraggins",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "M.",
+      "orcid": "0000-0001-9198-5498"
+    },
+    {
+      "affiliation": "Delft Center for Systems and Control, Delft University of Technology, 2628 CD Delft, The Netherlands",
+      "display_name": "Raf Van de Plas",
+      "email": "Raf.vandePlas@tudelft.nl",
+      "first_name": "Raf",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Van de Plas",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-2232-7130"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "display_name": "Melissa A. Farrow",
+      "email": "melissa.a.farrow@vanderbilt.edu",
+      "first_name": "Melissa",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Farrow",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "A.",
+      "orcid": "0000-0002-6791-0290"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "display_name": "Madeline E. Colley",
+      "email": "madeline.colley@vanderbilt.edu",
+      "first_name": "Madeline",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Colley",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "E.",
+      "orcid": "0000-0002-9515-3493"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "display_name": "Ellie L. Pingry",
+      "email": "ellie.l.pingry@vanderbilt.edu",
+      "first_name": "Ellie",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Pingry",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "L.",
+      "orcid": "0000-0003-1411-0465"
+    },
+    {
+      "affiliation": "Biomolecular Multimodal Imaging Center, Vanderbilt University, Nashville, TN 37232 USA",
+      "display_name": "Tina Tsui",
+      "email": "tina.tsui@vanderbilt.edu",
+      "first_name": "Tina",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Tsui",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-1018-124X"
+    },
+    {
+      "affiliation": "Division of Nephrology and Hypertension, Department of Medicine, Vanderbilt University Medical Center, Nashville, TN 37232, USA",
+      "display_name": "Mark deCaestecker",
+      "email": "mark.de.caestecker@vumc.org",
+      "first_name": "Mark",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "deCaestecker",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-7926-1673"
+    },
+    {
+      "affiliation": "Department of Cell and Developmental Biology, Vanderbilt University, Nashville, TN 37232, USA",
+      "display_name": "Martin Dufresne",
+      "email": "martin.dufresne@vanderbilt.edu",
+      "first_name": "Martin",
+      "is_contact": "No",
+      "is_operator": "Yes",
+      "is_principal_investigator": "No",
+      "last_name": "Dufresne",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-1731-3666"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1747933130804,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "PhenoCycler",
+  "description": "Multiplexed immunofluorescence microscopy collected by the Biomolecular Multimodal Imaging Center (BIOMIC) at Vanderbilt University. BIOMIC is a Tissue Mapping Center that is part of the NIH funded Human Biomolecular Atlas Program (HuBMAP). Multiplexed immunofluorescence images were collected with the Akoya Phenocycler Fusion 2.0 using the ATTO550, Alexa Fluor 647, and Alexa Fluor 750 barcodes. Support was provided by the NIH Common Fund and National Institute of Diabetes and Digestive and Kidney Diseases (U54 DK120058). Tissue was collected through the Cooperative Human Tissue Network with support provided by the NIH National Cancer Institute (5 UM1 CA183727-08).",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Jamie Allen",
+      "created_by_user_email": "jamie.l.allen@vanderbilt.edu",
+      "created_by_user_sub": "83ae233d-6d1d-40eb-baa7-b6f636ab579a",
+      "created_timestamp": 1712086189167,
+      "data_access_level": "public",
+      "description": "06/22/23:  DR4  1-5-trim, 6-7-proteomics, 8-10-lipidomics, 11-PAS, 12-LCM, 13-GeoMX, 14-IMS, 15-Codex, 16-Extra, 17-IMS, 18-Codex, 19-PAS, 20-24-RIN, 25-34-snRNA",
+      "entity_type": "Sample",
+      "group_name": "Vanderbilt TMC",
+      "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+      "hubmap_id": "HBM548.RFKB.897",
+      "last_modified_timestamp": 1771256145508,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "area_unit": "",
+        "area_value": "",
+        "histological_report": "",
+        "is_rehydrated": "",
+        "metadata_schema_id": "01e9bc58-bdf2-49f4-9cf9-dd34f3cc62d7",
+        "notes": "",
+        "preparation_condition": "Frozen on Dry Ice",
+        "preparation_medium": "Fresh Frozen CMC",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.bt8inrue",
+        "processing_time_unit": "",
+        "processing_time_value": "",
+        "quality_criteria": "",
+        "sample_id": "HBM548.RFKB.897",
+        "section_index_number": "39",
+        "source_id": "HBM377.MSVD.682",
+        "source_storage_duration_unit": "day",
+        "source_storage_duration_value": "1738",
+        "storage_medium": "CMC",
+        "storage_method": "Frozen at -80 degrees celsius",
+        "thickness_unit": "um",
+        "thickness_value": "10"
+      },
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.bt8inrue",
+      "sample_category": "section",
+      "uuid": "ba3a6217478b3a08fd1a3f61d1b2128c"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM538.FWHK.783",
+  "entity_type": "Dataset",
+  "group_name": "Vanderbilt TMC",
+  "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+  "hubmap_id": "HBM538.FWHK.783",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "a6175f9b",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.3.2"
+      },
+      {
+        "documentation_url": null,
+        "hash": "12d5861e",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.36"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "generic_metadatatsv"
+    }
+  },
+  "last_modified_timestamp": 1771256145932,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/Vanderbilt TMC/a89c350a6a610e920e4a940d346e9126/",
+  "metadata": {
+    "acquisition_instrument_model": "Phenocycler-Fusion 2.0",
+    "acquisition_instrument_vendor": "Akoya Biosciences",
+    "analyte_class": "Protein",
+    "antibodies_path": "extras/antibodies.tsv",
+    "cell_boundary_marker_or_stain": "Not applicable",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "PhenoCycler",
+    "is_targeted": "yes",
+    "metadata_schema_id": "62af6829-743d-423e-a701-204710e56beb",
+    "non_global_files": "",
+    "nuclear_marker_or_stain": "DAPI",
+    "number_of_antibodies": "33",
+    "number_of_biomarker_imaging_rounds": "12",
+    "number_of_channels": "3",
+    "number_of_total_imaging_rounds": "14",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.x54v9rb24v3e/v1",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "1738",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": "",
+    "total_run_time_unit": "hour",
+    "total_run_time_value": "18"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "VU Kidney Phenocycler 4 samples Thai",
+  "published_timestamp": 1771256145111,
+  "registered_doi": "10.35079/HBM538.FWHK.783",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1747933130804,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1747933158154,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1747933289559,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1747933389440,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1771256144855,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "PhenoCycler data from the kidney (right) of a 58-year-old white female",
+  "upload": {
+    "created_by_user_displayname": "Tina Tsui",
+    "created_by_user_email": "tina.tsui@vanderbilt.edu",
+    "created_by_user_sub": "1112443a-23cc-4b73-b305-3cc262a71b34",
+    "created_timestamp": 1743702551729,
+    "description": "Vanderbilt University Kidney Phenocycler 4 Samples from Thai Pham Upload date 4/3/2025",
+    "entity_type": "Upload",
+    "group_name": "Vanderbilt TMC",
+    "group_uuid": "73bb26e4-ed43-11e8-8f19-0a7c1eab007a",
+    "hubmap_id": "HBM577.JMKB.878",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "intended_dataset_type": "PhenoCycler",
+    "intended_organ": "LK",
+    "last_modified_timestamp": 1756261995174,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1743702551729,
+        "changed_by_email": "tina.tsui@vanderbilt.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1746554859287,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1746631896958,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1746637544839,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1746637571070,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1746641642086,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1746641668145,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1746641846953,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1746641873958,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1746801472589,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1746801508488,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1747932508519,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1747932541307,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1747932834327,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1747932909346,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1747933095708,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1747933105368,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1747933156810,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "VU Kidney Phenocycler 4 samples Thai",
+    "uuid": "834c1c1bd9a79c022fd8f8c58b907fb9"
+  },
+  "uuid": "a89c350a6a610e920e4a940d346e9126"
+}

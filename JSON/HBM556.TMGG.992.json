@@ -1,0 +1,421 @@
+{
+  "contacts": [
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Sanjay Jain",
+      "email": "sanjayjain@wustl.edu",
+      "first_name": "Sanjay",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Jain",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2804-127X"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Madhurima Kaushal",
+      "email": "kaushalm@wustl.edu",
+      "first_name": "Madhurima",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Kaushal",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2760-0586"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Sanjay Jain",
+      "email": "sanjayjain@wustl.edu",
+      "first_name": "Sanjay",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Jain",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2804-127X"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Madhurima Kaushal",
+      "email": "kaushalm@wustl.edu",
+      "first_name": "Madhurima",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Kaushal",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2760-0586"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Amanda Knoten",
+      "email": "aknoten@wustl.edu",
+      "first_name": "Amanda",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Knoten",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-8564-2253"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Zhang Bo",
+      "email": "bzhang22@wustl.edu",
+      "first_name": "Zhang",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Bo",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-8895-2206"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Brittany C. Minor",
+      "email": "bminor@wustl.edu",
+      "first_name": "Brittany",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Minor",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "C.",
+      "orcid": "0000-0002-0967-9983"
+    },
+    {
+      "affiliation": "Altos Lab",
+      "display_name": "Blue Lake",
+      "email": "blake@altoslabs.com",
+      "first_name": "Blue",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Lake",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-8637-9044"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1719452317662,
+  "creation_action": "Multi-Assay Split",
+  "data_access_level": "protected",
+  "dataset_type": "RNAseq",
+  "description": "RNAseq component data from 10X Multiome dataset: 10x multiome dataset for 3723_K2100272_2_D2_N1 (Cortex)\n  : ./1",
+  "direct_ancestors": [
+    {
+      "contacts": [
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Sanjay Jain",
+          "email": "sanjayjain@wustl.edu",
+          "first_name": "Sanjay",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Jain",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Madhurima Kaushal",
+          "email": "kaushalm@wustl.edu",
+          "first_name": "Madhurima",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Kaushal",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2760-0586"
+        }
+      ],
+      "contains_human_genetic_sequences": true,
+      "contributors": [
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Sanjay Jain",
+          "email": "sanjayjain@wustl.edu",
+          "first_name": "Sanjay",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Jain",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2804-127X"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Madhurima Kaushal",
+          "email": "kaushalm@wustl.edu",
+          "first_name": "Madhurima",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Kaushal",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2760-0586"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Amanda Knoten",
+          "email": "aknoten@wustl.edu",
+          "first_name": "Amanda",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Knoten",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Zhang Bo",
+          "email": "bzhang22@wustl.edu",
+          "first_name": "Zhang",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Bo",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-8895-2206"
+        },
+        {
+          "affiliation": "Washington University in St Louis ( TMC WashU) ",
+          "display_name": "Brittany C. Minor",
+          "email": "bminor@wustl.edu",
+          "first_name": "Brittany",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Minor",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "C.",
+          "orcid": "0000-0002-0967-9983"
+        },
+        {
+          "affiliation": "Altos Lab",
+          "display_name": "Blue Lake",
+          "email": "blake@altoslabs.com",
+          "first_name": "Blue",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Lake",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-8637-9044"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1719452232416,
+      "data_access_level": "protected",
+      "dataset_type": "10X Multiome",
+      "description": "10x multiome dataset for 3723_K2100272_2_D2_N1 (Cortex)\n  : ./1",
+      "doi_url": "https://doi.org/10.35079/HBM794.HVLQ.852",
+      "entity_type": "Dataset",
+      "group_name": "Washington University Kidney TMC",
+      "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+      "hubmap_id": "HBM794.HVLQ.852",
+      "ingest_metadata": {
+        "dag_provenance_list": [
+          {
+            "hash": "eba4dfa",
+            "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+          },
+          {
+            "hash": "3e4bb1e",
+            "origin": "https://github.com/hubmapconsortium/ingest-validation-tools"
+          }
+        ]
+      },
+      "last_modified_timestamp": 1760620037269,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "metadata": {
+        "capture_batch_id": "HuBMAP_20220825",
+        "contributors_path": "extras/contributors.tsv",
+        "data_path": ".",
+        "dataset_type": "10X Multiome",
+        "metadata_schema_id": "63c06fb2-4638-4979-aa97-5aff2a840156",
+        "number_of_pre_amplification_pcr_cycles": "7",
+        "preparation_instrument_kit": "10X Genomics; Chromium NextGem Single Cell Multiome ATAC + Gene Expression Reagent Bundle, 16 rxn; PN 1000283",
+        "preparation_instrument_model": "Chromium X",
+        "preparation_instrument_vendor": "10x Genomics",
+        "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.568g9hw"
+      },
+      "pipeline_message": "the process ran",
+      "provider_info": "3723_K2100272_2_D2_N1_multiome : ./1",
+      "published_timestamp": 1760620037269,
+      "published_user_displayname": "HuBMAP Process",
+      "published_user_email": "hubmap@hubmapconsortium.org",
+      "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM794.HVLQ.852",
+      "status": "Published",
+      "status_history": [
+        {
+          "change_timestamp": 1719452232416,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1719452246325,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Submitted"
+        },
+        {
+          "change_timestamp": 1719452328704,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Error"
+        },
+        {
+          "change_timestamp": 1719452426838,
+          "changed_by_email": "dbordelo@andrew.cmu.edu",
+          "status": "New"
+        },
+        {
+          "change_timestamp": 1719452456869,
+          "changed_by_email": "dbordelo@andrew.cmu.edu",
+          "status": "Processing"
+        },
+        {
+          "change_timestamp": 1719469105458,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "QA"
+        },
+        {
+          "change_timestamp": 1760552813363,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        },
+        {
+          "change_timestamp": 1760620037269,
+          "changed_by_email": "hubmap@hubmapconsortium.org",
+          "status": "Published"
+        }
+      ],
+      "uuid": "5a5d9dae27010ac4ce7ba7ddf36f18a2"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM556.TMGG.992",
+  "entity_type": "Dataset",
+  "group_name": "Washington University Kidney TMC",
+  "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+  "hubmap_id": "HBM556.TMGG.992",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "hash": "fcaab2f",
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git"
+      }
+    ]
+  },
+  "last_modified_timestamp": 1764619182992,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "protected/Washington University Kidney TMC/cf321529e5838af137d04426164990cd/",
+  "metadata": {
+    "acquisition_instrument_model": "NovaSeq 6000",
+    "acquisition_instrument_vendor": "Illumina",
+    "amount_of_input_analyte_unit": "",
+    "amount_of_input_analyte_value": "",
+    "analyte_class": "RNA",
+    "assay_input_entity": "single nucleus",
+    "barcode_offset": "0",
+    "barcode_read": "Read 1 (R1)",
+    "barcode_size": "16",
+    "capture_batch_id": "HuBMAP_20220825",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "RNAseq",
+    "expected_entity_capture_count": "",
+    "is_targeted": "Yes",
+    "is_technical_replicate": "No",
+    "library_adapter_sequence": "3':ATCTCGTATGCCGTCTTCTGCTTG",
+    "library_average_fragment_size": "432",
+    "library_concentration_unit": "nM",
+    "library_concentration_value": "1.5",
+    "library_input_amount_unit": "ng",
+    "library_input_amount_value": "34.58",
+    "library_layout": "paired-end",
+    "library_output_amount_unit": "",
+    "library_output_amount_value": "",
+    "library_preparation_kit": "10X Genomics; Chromium NextGem Single Cell Multiome ATAC + Gene Expression Reagent Bundle, 16 rxn; PN 1000283",
+    "metadata_schema_id": "944e5fa0-f68b-4bdd-8664-74a3909429a9",
+    "number_of_input_cells_or_nuclei": "",
+    "number_of_iterations_of_cdna_amplification": "6",
+    "number_of_pcr_cycles_for_indexing": "14",
+    "preparation_instrument_kit": "",
+    "preparation_instrument_model": "",
+    "preparation_instrument_vendor": "",
+    "preparation_protocol_doi": "https://www.protocols.io/view/preparation-of-adult-human-kidney-tissue-for-singl-yxmvm78xbv3p/v1",
+    "sample_indexing_kit": "10X Genomics; Dual Index Kit TT, Set A (96 rxn); PN 1000215",
+    "sample_indexing_set": "SI-TT-A4 CTCTAGCGAG-TATCTTCATC",
+    "sequencing_batch_id": "",
+    "sequencing_read_format": "28,10,10,151 ",
+    "sequencing_reagent_kit": "Illumina; NovaSeq 6000 S4 Reagent v1.5 Kit (200 Cycles); PN 20028313",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "407",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": "",
+    "umi_offset": "16",
+    "umi_read": "Read 1 (R1)",
+    "umi_size": "12"
+  },
+  "pipeline_message": "the process ran",
+  "published_timestamp": 1764619182992,
+  "registered_doi": "10.35079/HBM556.TMGG.992",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1719452317662,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1719452328819,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Error"
+    },
+    {
+      "change_timestamp": 1719452426932,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1719452457004,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1719469105774,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    }
+  ],
+  "title": "RNAseq data from the kidney (left) of a 53-year-old white female",
+  "uuid": "cf321529e5838af137d04426164990cd"
+}

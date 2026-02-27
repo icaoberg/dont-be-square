@@ -1,0 +1,547 @@
+{
+  "collections": [
+    {
+      "created_by_user_displayname": "Brendan Honick",
+      "created_by_user_email": "bhonick@andrew.cmu.edu",
+      "created_by_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+      "created_timestamp": 1758652316566,
+      "description": "Homeostatic interactions between injured kidney epithelium with its surrounding milieu is an\nimportant determinant of repair outcome. Pathogenic or unbalanced signaling may promote\nunresolved states of inflammation and fibrosis, leading to chronic disease. To better understand\nresolved versus unresolved repair states in the human kidney, we have used multiple single cell\nand spatial modalities to interrogate more than 350 samples from more than 250 participants\n(>1.5 million cells). We further integrate these with multiomic profiles for mouse acute to chronic\nkidney injury and aging (>300k cells) and spatial transcriptomic profiles of 150 human biopsies.\nThe resultant cross-species atlas provides functional pathways for segments along the nephron,\nas well as gene regulatory networks and chromatin states for tubules, fibroblasts and immune\ncells as they transition from injury to recovery or failed / unresolved states. Several states were\nfound associated with distinct pathological features, showed dynamic distributions between\nacute kidney injury (AKI) and chronic kidney disease (CKD) and were organized into distinct\nspatial niches. Gene regulatory analyses prioritized transcription factor activities and target\ngenes establishing these states, including the pioneer factors SOX4, SOX9 and KLFs. These\ngene regulatory processes were further linked to clinical outcomes, identifying recovery features\nin diabetic patients undergoing treatment with SGLT2 inhibitors and secreted markers predictive\nof AKI and CKD progression from plasma proteomics.",
+      "entity_type": "Collection",
+      "group_name": "Washington University Kidney TMC",
+      "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+      "hubmap_id": "HBM733.XNGR.978",
+      "last_modified_timestamp": 1758834772938,
+      "last_modified_user_displayname": "Madhurima Kaushal",
+      "last_modified_user_email": "kaushalm@wustl.edu",
+      "last_modified_user_sub": "b84d802a-956e-445a-824b-d6fc5b262384",
+      "title": "Datasets for the Publication \"Cellular and Spatial Drivers of Unresolved Injury and Functional Decline in the Human Kidney\"",
+      "uuid": "8d7043ec884a5a6e820ec76756903cbc"
+    },
+    {
+      "contacts": [
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN 46202, USA",
+          "display_name": "Ricardo Melo Ferreira",
+          "email": "rimelof@iu.edu",
+          "first_name": "Ricardo",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Melo Ferreira",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2063-9744"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Stephanie Reinert",
+          "email": "reinert@wustl.edu",
+          "first_name": "Stephanie",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Reinert",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0001-7871-0999"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Asmita K. Lagwankar",
+          "email": "lagwankar@wustl.edu",
+          "first_name": "Asmita",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Lagwankar",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "K.",
+          "orcid": "0009-0008-5705-6490"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Madhurima Kaushal",
+          "email": "kaushalm@wustl.edu",
+          "first_name": "Madhurima",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Kaushal",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2760-0586"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN 46202, USA",
+          "display_name": "Michael T. Eadon",
+          "email": "meadon@iu.edu",
+          "first_name": "Michael",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Eadon",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "T.",
+          "orcid": "0000-0003-3066-2876"
+        },
+        {
+          "affiliation": "Department of Medicine, Pathology and Immunology, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Sanjay Jain",
+          "email": "sanjayjain@wustl.edu",
+          "first_name": "Sanjay",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Jain",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2804-127X"
+        }
+      ],
+      "contributors": [
+        {
+          "affiliation": "Altos Labs",
+          "display_name": "Blue B. Lake",
+          "email": "blake@altoslabs.com",
+          "first_name": "Blue",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Lake",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "B.",
+          "orcid": "0000-0002-8637-9044"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN 46202, USA",
+          "display_name": "Ricardo Melo Ferreira",
+          "email": "rimelof@iu.edu",
+          "first_name": "Ricardo",
+          "is_contact": "Yes",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Melo Ferreira",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2063-9744"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Stephanie Reinert",
+          "email": "reinert@wustl.edu",
+          "first_name": "Stephanie",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Reinert",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0009-0001-7871-0999"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Asmita K. Lagwankar",
+          "email": "lagwankar@wustl.edu",
+          "first_name": "Asmita",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Lagwankar",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "K.",
+          "orcid": "0009-0008-5705-6490"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Bo Zhang",
+          "email": "bzhang22@wustl.edu",
+          "first_name": "Bo",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Zhang",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0001-8895-2206"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Amanda L. Knoten",
+          "email": "aknoten@wustl.edu",
+          "first_name": "Amanda",
+          "is_contact": "No",
+          "is_operator": "Yes",
+          "is_principal_investigator": "No",
+          "last_name": "Knoten",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "L.",
+          "orcid": "0000-0001-8564-2253"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Madhurima Kaushal",
+          "email": "kaushalm@wustl.edu",
+          "first_name": "Madhurima",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Kaushal",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2760-0586"
+        },
+        {
+          "affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Brittany Minor",
+          "email": "bminor@wustl.edu",
+          "first_name": "Brittany",
+          "is_contact": "No",
+          "is_operator": "No",
+          "is_principal_investigator": "No",
+          "last_name": "Minor",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0002-0967-9983"
+        },
+        {
+          "affiliation": "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN 46202, USA",
+          "display_name": "Michael T. Eadon",
+          "email": "meadon@iu.edu",
+          "first_name": "Michael",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Eadon",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "T.",
+          "orcid": "0000-0003-3066-2876"
+        },
+        {
+          "affiliation": "Department of Medicine, Pathology and Immunology, Washington University School of Medicine, St. Louis, MO 63110, USA",
+          "display_name": "Sanjay Jain",
+          "email": "sanjayjain@wustl.edu",
+          "first_name": "Sanjay",
+          "is_contact": "Yes",
+          "is_operator": "No",
+          "is_principal_investigator": "Yes",
+          "last_name": "Jain",
+          "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+          "middle_name_or_initial": "",
+          "orcid": "0000-0003-2804-127X"
+        }
+      ],
+      "created_by_user_displayname": "HuBMAP Process",
+      "created_by_user_email": "hubmap@hubmapconsortium.org",
+      "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "created_timestamp": 1766007940673,
+      "description": "Building upon a foundational Human Kidney resource, we present a comprehensive multi-modal atlas that defines spatially resolved versus unresolved repair states and mechanisms in human kidney disease. Homeostatic interactions between injured kidney epithelium and its surrounding milieu determine successful repair outcomes, while pathogenic signaling promotes unresolved inflammation and fibrosis leading to chronic disease. We integrated multiple single-cell and spatial modalities across \u223c700 samples from >350 patients (\u223c250 research biopsies), analyzing \u223c1.7 million cells alongside complementary mouse multi-omic profiles spanning acute-to-chronic injury and aging (>300,000 cells) and spatial transcriptomic analysis of >150 human biopsies. This cross-species atlas delineates functional pathways and druggable targets across the nephron and defines gene regulatory networks and chromatin landscapes governing tubular, fibroblast, and immune cell transitions from injury to either recovery or failed repair states. We identified distinct cellular states associated with specific pathological features that show dynamic distributions between acute kidney injury (AKI) and chronic kidney disease (CKD), organized within unique spatial niches that reveal progression mechanisms from early injury to unresolved disease. Gene regulatory analyses prioritized key transcription factor activities (SOX4, SOX9, NFKB1, REL, KLFs) and their target networks establishing disease states and tissue microenvironments. These regulatory programs were directly linked to clinical outcomes, identifying molecular signatures of recovery and secreted biomarkers predictive of AKI-to-CKD progression, providing a key resource for therapeutic development and precision medicine approaches in kidney disease.",
+      "doi_url": "https://doi.org/10.35079/HBM929.TXSR.975",
+      "entity_type": "Collection",
+      "group_name": "Washington University Kidney TMC",
+      "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+      "hubmap_id": "HBM929.TXSR.975",
+      "last_modified_timestamp": 1766007946135,
+      "last_modified_user_displayname": "HuBMAP Process",
+      "last_modified_user_email": "hubmap@hubmapconsortium.org",
+      "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+      "registered_doi": "10.35079/HBM929.TXSR.975",
+      "title": "A collection of datasets from Publication: Cellular and Spatial Drivers of Unresolved Injury and Functional Decline in the Human Kidney",
+      "uuid": "b296785fb703925811ba73ef61fd2583"
+    }
+  ],
+  "contacts": [
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Sanjay Jain",
+      "email": "sanjayjain@wustl.edu",
+      "first_name": "Sanjay",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Jain",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2804-127X"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Madhurima Kaushal",
+      "email": "kaushalm@wustl.edu",
+      "first_name": "Madhurima",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Kaushal",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2760-0586"
+    }
+  ],
+  "contains_human_genetic_sequences": true,
+  "contributors": [
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Sanjay Jain",
+      "email": "sanjayjain@wustl.edu",
+      "first_name": "Sanjay",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Jain",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2804-127X"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Madhurima Kaushal",
+      "email": "kaushalm@wustl.edu",
+      "first_name": "Madhurima",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Kaushal",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0003-2760-0586"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Amanda Knoten",
+      "email": "aknoten@wustl.edu",
+      "first_name": "Amanda",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Knoten",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-8564-2253"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Zhang Bo",
+      "email": "bzhang22@wustl.edu",
+      "first_name": "Zhang",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Bo",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-8895-2206"
+    },
+    {
+      "affiliation": "Washington University in St Louis ( TMC WashU) ",
+      "display_name": "Brittany C. Minor",
+      "email": "bminor@wustl.edu",
+      "first_name": "Brittany",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Minor",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "C.",
+      "orcid": "0000-0002-0967-9983"
+    },
+    {
+      "affiliation": "Altos Lab",
+      "display_name": "Blue Lake",
+      "email": "blake@altoslabs.com",
+      "first_name": "Blue",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Lake",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-8637-9044"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1737064371270,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "protected",
+  "dataset_type": "10X Multiome",
+  "description": "K2100273_3_D1_2_N1 -  HuBMAP_20220825F : ./1",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Amanda Knoten",
+      "created_by_user_email": "aknoten@wustl.edu",
+      "created_by_user_sub": "c4771db5-6a6a-4f88-a874-992e175d77a0",
+      "created_timestamp": 1671744052103,
+      "data_access_level": "public",
+      "description": "Singel nuclei extraction HuBMAP_20220825F",
+      "entity_type": "Sample",
+      "group_name": "Washington University Kidney TMC",
+      "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+      "hubmap_id": "HBM929.JDGL.529",
+      "last_modified_timestamp": 1671744052103,
+      "last_modified_user_displayname": "Amanda Knoten",
+      "last_modified_user_email": "aknoten@wustl.edu",
+      "last_modified_user_sub": "c4771db5-6a6a-4f88-a874-992e175d77a0",
+      "protocol_url": "dx.doi.org/10.17504/protocols.io.568g9hw",
+      "sample_category": "suspension",
+      "uuid": "572ef6a715d37b1728555224f3c44d93"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM267.GZXW.995",
+  "entity_type": "Dataset",
+  "group_name": "Washington University Kidney TMC",
+  "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+  "hubmap_id": "HBM267.GZXW.995",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "3d931b88",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v3.13.0"
+      },
+      {
+        "documentation_url": null,
+        "hash": "2b9c5e1d",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-validation-tools",
+        "version": "v0.0.33"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "multiassay_metadatatsv"
+    }
+  },
+  "last_modified_timestamp": 1760620078808,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "protected/Washington University Kidney TMC/a21c40ab3a77717f3c6cd1072fdf1e16/",
+  "metadata": {
+    "capture_batch_id": "HuBMAP_20220825",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "10X Multiome",
+    "metadata_schema_id": "63c06fb2-4638-4979-aa97-5aff2a840156",
+    "number_of_pre_amplification_pcr_cycles": "7",
+    "preparation_instrument_kit": "10X Genomics; Chromium NextGem Single Cell Multiome ATAC + Gene Expression Reagent Bundle, 16 rxn; PN 1000283",
+    "preparation_instrument_model": "Chromium X",
+    "preparation_instrument_vendor": "10x Genomics",
+    "preparation_protocol_doi": "https://www.protocols.io/view/preparation-of-adult-human-kidney-tissue-for-singl-yxmvm78xbv3p/v1"
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "3723_K2100273_3_D1_2_N1 : ./1",
+  "published_timestamp": 1760620078808,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM267.GZXW.995",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1737064371270,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1737064385759,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1741811288926,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1741824758800,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1760620078808,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "10X Multiome data from the kidney (left) of a 53-year-old white female",
+  "upload": {
+    "created_by_user_displayname": "Madhurima Kaushal",
+    "created_by_user_email": "kaushalm@wustl.edu",
+    "created_by_user_sub": "b84d802a-956e-445a-824b-d6fc5b262384",
+    "created_timestamp": 1718984794245,
+    "description": "K2100273_3_D1_2_N1 -  HuBMAP_20220825F",
+    "entity_type": "Upload",
+    "group_name": "Washington University Kidney TMC",
+    "group_uuid": "86b18408-547c-11ed-ab8d-fb258a2766ef",
+    "hubmap_id": "HBM536.DBLJ.268",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "intended_dataset_type": "10X Multiome",
+    "intended_organ": "LK",
+    "last_modified_timestamp": 1756231787091,
+    "last_modified_user_displayname": "Brendan Honick",
+    "last_modified_user_email": "bhonick@andrew.cmu.edu",
+    "last_modified_user_sub": "ddcac904-2f06-4ffa-830e-d1b205fa9faa",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1718984794245,
+        "changed_by_email": "kaushalm@wustl.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1724871175383,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1724871200133,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1730210564852,
+        "changed_by_email": "bhonick@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1730912564189,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1730912612547,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Invalid"
+      },
+      {
+        "change_timestamp": 1736967028329,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1736985934031,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1737064343074,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1737064348330,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1737064384850,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "3723_K2100273_3_D1_2_N1",
+    "uuid": "f4fd17f438ef8543c97c65d77ab63507"
+  },
+  "uuid": "a21c40ab3a77717f3c6cd1072fdf1e16"
+}

@@ -1,0 +1,249 @@
+{
+  "contacts": [
+    {
+      "affiliation": "University of North Carolina at Chapel Hill",
+      "display_name": "Kenichi Okuda ",
+      "email": "ken_okuda@med.unc.edu",
+      "first_name": "Kenichi",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Okuda",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-9341-2730"
+    }
+  ],
+  "contains_human_genetic_sequences": false,
+  "contributors": [
+    {
+      "affiliation": "University of North Carolina at Chapel Hill",
+      "display_name": "James Hagood ",
+      "email": "jhagood@unc.edu",
+      "first_name": "James",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Hagood",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "S",
+      "orcid": "0000-0003-3938-0330"
+    },
+    {
+      "affiliation": "University of North Carolina at Chapel Hill",
+      "display_name": "Kenichi Okuda ",
+      "email": "ken_okuda@med.unc.edu",
+      "first_name": "Kenichi",
+      "is_contact": "Yes",
+      "is_operator": "No",
+      "is_principal_investigator": "No",
+      "last_name": "Okuda",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0001-9341-2730"
+    },
+    {
+      "affiliation": "University of Rochester Medical Center",
+      "display_name": "Gloria Pryhuber ",
+      "email": "gloria_pryhuber@urmc.rochester.edu",
+      "first_name": "Gloria",
+      "is_contact": "No",
+      "is_operator": "No",
+      "is_principal_investigator": "Yes",
+      "last_name": "Pryhuber",
+      "metadata_schema_id": "94dae6f8-0756-4ab0-a47b-138e446a9501",
+      "middle_name_or_initial": "",
+      "orcid": "0000-0002-9185-3994"
+    }
+  ],
+  "created_by_user_displayname": "HuBMAP Process",
+  "created_by_user_email": "hubmap@hubmapconsortium.org",
+  "created_by_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "created_timestamp": 1747254305192,
+  "creation_action": "Create Dataset Activity",
+  "data_access_level": "public",
+  "dataset_type": "Histology",
+  "description": "H&E from the LUL bronchi-bronchiole junction (7-9th): around 2 mm, SMG/cartilage are disappearing of a 19.99-year-old black or african american male. One of 20 region specific dissections from single left lung (D460)",
+  "direct_ancestors": [
+    {
+      "created_by_user_displayname": "Andrew Watts",
+      "created_by_user_email": "Andrew_Watts@URMC.Rochester.edu",
+      "created_by_user_sub": "bd3ebccf-fdf8-44d5-b51f-642311df8d77",
+      "created_timestamp": 1724340610731,
+      "data_access_level": "public",
+      "description": "H&E Section",
+      "entity_type": "Sample",
+      "group_name": "University of Rochester Medical Center TMC",
+      "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+      "hubmap_id": "HBM693.CCZN.459",
+      "last_modified_timestamp": 1724340610731,
+      "last_modified_user_displayname": "Andrew Watts",
+      "last_modified_user_email": "Andrew_Watts@URMC.Rochester.edu",
+      "last_modified_user_sub": "bd3ebccf-fdf8-44d5-b51f-642311df8d77",
+      "protocol_url": "https://dx.doi.org/10.17504/protocols.io.kxygxejwdv8j/v3",
+      "sample_category": "section",
+      "uuid": "9d289ccad19c11d68248a87636006ec8"
+    }
+  ],
+  "doi_url": "https://doi.org/10.35079/HBM672.JSRK.297",
+  "entity_type": "Dataset",
+  "group_name": "University of Rochester Medical Center TMC",
+  "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+  "hubmap_id": "HBM672.JSRK.297",
+  "ingest_metadata": {
+    "dag_provenance_list": [
+      {
+        "documentation_url": null,
+        "hash": "f59688f8",
+        "input_parameters": [],
+        "origin": "https://github.com/hubmapconsortium/ingest-pipeline.git",
+        "version": "v4.4.0"
+      }
+    ],
+    "extra_metadata": {
+      "collectiontype": "generic_metadatatsv"
+    }
+  },
+  "last_modified_timestamp": 1749500503068,
+  "last_modified_user_displayname": "HuBMAP Process",
+  "last_modified_user_email": "hubmap@hubmapconsortium.org",
+  "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "local_directory_rel_path": "public/University of Rochester Medical Center TMC/77e72487ce3f060b9e5ce81d98c584de/",
+  "metadata": {
+    "acquisition_instrument_model": "VS200 Slide Scanner",
+    "acquisition_instrument_vendor": "Evident Scientific (Olympus)",
+    "analyte_class": "Nucleic acid + protein",
+    "contributors_path": "extras/contributors.tsv",
+    "dataset_type": "Histology",
+    "intended_tile_overlap_percentage": "",
+    "is_batch_staining_done": "Yes",
+    "is_image_preprocessing_required": "No",
+    "is_staining_automated": "Yes",
+    "is_targeted": "No",
+    "metadata_schema_id": "907d89c7-6cf4-4ec6-9edd-63cf0441d689",
+    "non_global_files": "",
+    "preparation_instrument_model": "AutoStainer XL",
+    "preparation_instrument_vendor": "Leica Biosystems",
+    "preparation_protocol_doi": "https://dx.doi.org/10.17504/protocols.io.j8nlk91jdv5r/v1",
+    "scan_direction": "",
+    "source_storage_duration_unit": "day",
+    "source_storage_duration_value": "7",
+    "stain_name": "H&E",
+    "stain_technique": "",
+    "tile_configuration": "",
+    "tiled_image_columns": "",
+    "tiled_image_count": "",
+    "time_since_acquisition_instrument_calibration_unit": "",
+    "time_since_acquisition_instrument_calibration_value": ""
+  },
+  "pipeline_message": "the process ran",
+  "provider_info": "D460 airway dissection H&E histology",
+  "published_timestamp": 1749500503068,
+  "published_user_displayname": "HuBMAP Process",
+  "published_user_email": "hubmap@hubmapconsortium.org",
+  "published_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+  "registered_doi": "10.35079/HBM672.JSRK.297",
+  "status": "Published",
+  "status_history": [
+    {
+      "change_timestamp": 1747254305192,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "New"
+    },
+    {
+      "change_timestamp": 1747254377672,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1747254433331,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1747254532266,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Submitted"
+    },
+    {
+      "change_timestamp": 1747334735387,
+      "changed_by_email": "dbordelo@andrew.cmu.edu",
+      "status": "Processing"
+    },
+    {
+      "change_timestamp": 1747335387561,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "QA"
+    },
+    {
+      "change_timestamp": 1749500503068,
+      "changed_by_email": "hubmap@hubmapconsortium.org",
+      "status": "Published"
+    }
+  ],
+  "title": "Histology data from the lung (left) of a 19.99-year-old black or african american male",
+  "upload": {
+    "created_by_user_displayname": "Andrew Watts",
+    "created_by_user_email": "Andrew_Watts@URMC.Rochester.edu",
+    "created_by_user_sub": "bd3ebccf-fdf8-44d5-b51f-642311df8d77",
+    "created_timestamp": 1742501344728,
+    "description": "20 H&E histology slides from donor D460\n\nReplaces bad images in HBM346.BVDF.758",
+    "entity_type": "Upload",
+    "group_name": "University of Rochester Medical Center TMC",
+    "group_uuid": "5402d50b-547c-11ed-869b-4fc917a4d930",
+    "hubmap_id": "HBM947.FWBV.587",
+    "ingest_task": "[Reorganized. All datasets have HuBMAP IDs.]",
+    "intended_dataset_type": "Histology",
+    "intended_organ": "LL",
+    "last_modified_timestamp": 1756262280405,
+    "last_modified_user_displayname": "HuBMAP Process",
+    "last_modified_user_email": "hubmap@hubmapconsortium.org",
+    "last_modified_user_sub": "3e7bce63-129d-33d0-8f6c-834b34cd382e",
+    "status": "Reorganized",
+    "status_history": [
+      {
+        "change_timestamp": 1742501344728,
+        "changed_by_email": "Andrew_Watts@URMC.Rochester.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1744898003653,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1747250195369,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "New"
+      },
+      {
+        "change_timestamp": 1747250202165,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1747250345056,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Valid"
+      },
+      {
+        "change_timestamp": 1747254219212,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Submitted"
+      },
+      {
+        "change_timestamp": 1747254228344,
+        "changed_by_email": "dbordelo@andrew.cmu.edu",
+        "status": "Processing"
+      },
+      {
+        "change_timestamp": 1747254345432,
+        "changed_by_email": "hubmap@hubmapconsortium.org",
+        "status": "Reorganized"
+      }
+    ],
+    "title": "D460 airway dissection H&E histology",
+    "uuid": "e654849e6185da56696f6af1c84c3ab0"
+  },
+  "uuid": "77e72487ce3f060b9e5ce81d98c584de"
+}

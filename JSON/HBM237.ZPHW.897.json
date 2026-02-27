@@ -1,0 +1,68 @@
+{
+  "created_by_user_displayname": "Marda Jorgensen",
+  "created_by_user_email": "marda@ufl.edu",
+  "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+  "created_timestamp": 1634652496832,
+  "data_access_level": "public",
+  "description": "CCF 2 from Spleen 21-014",
+  "direct_ancestor": {
+    "created_by_user_displayname": "Marda Jorgensen",
+    "created_by_user_email": "marda@ufl.edu",
+    "created_by_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "created_timestamp": 1634136616832,
+    "data_access_level": "public",
+    "description": "2/3 of spleen",
+    "entity_type": "Sample",
+    "group_name": "University of Florida TMC",
+    "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+    "hubmap_id": "HBM292.WDQS.245",
+    "image_files": [
+      {
+        "description": "image of diaphragmatic surface of spleen",
+        "file_uuid": "fffff1d6e7c28e3beaf73d5a406cb2a4",
+        "filename": "014DiaphragmaticSurface.JPG"
+      },
+      {
+        "description": "image of inferior pole of spleen",
+        "file_uuid": "fffff257f58d2ecb4d7b54315b7ae19e",
+        "filename": "014InferiorPole.JPG"
+      },
+      {
+        "description": "image of superior surface of spleen",
+        "file_uuid": "ffff1306fcc66dac2fa9f27cf211c50a",
+        "filename": "014SuperiorSurface.JPG"
+      },
+      {
+        "description": "image of visceral surface of spleen",
+        "file_uuid": "ffffd924c1686047f5fb22015fa46e14",
+        "filename": "014VisceralMeasured.JPG"
+      }
+    ],
+    "last_modified_timestamp": 1634136616832,
+    "last_modified_user_displayname": "Marda Jorgensen",
+    "last_modified_user_email": "marda@ufl.edu",
+    "last_modified_user_sub": "694c6f6a-1deb-41a6-880f-d1ad8af3705f",
+    "organ": "SP",
+    "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+    "sample_category": "organ",
+    "uuid": "e6c5c8466734b13bdc22479c3e9a0726"
+  },
+  "entity_type": "Sample",
+  "group_name": "University of Florida TMC",
+  "group_uuid": "07a29e4c-ed43-11e8-b56a-0e8017bdda58",
+  "hubmap_id": "HBM237.ZPHW.897",
+  "image_files": [
+    {
+      "description": "image of CCF 2",
+      "file_uuid": "ffff381380694b690dfc43b0241fc261",
+      "filename": "014CC2PartialDissection.JPG"
+    }
+  ],
+  "last_modified_timestamp": 1635976665449,
+  "last_modified_user_displayname": "Hunter Hakimian",
+  "last_modified_user_email": "hakimianh13@ufl.edu",
+  "last_modified_user_sub": "a3b383a2-d98f-438a-b081-10e968fc3f37",
+  "protocol_url": "dx.doi.org/10.17504/protocols.io.bc3kiykw",
+  "sample_category": "block",
+  "uuid": "13a44f80abd374e1686d1a4c8049d62a"
+}
