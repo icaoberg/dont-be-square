@@ -136,7 +136,7 @@ def list_objct_to_list_df(list_datasets):
 ##################
 if __name__ == "__main__":
     # ideal size to cover all datasetes per uni should be 1,700
-    list_uni = find_by_university(300)
+    list_uni = find_by_university(1700)
     df_list = list_objct_to_list_df(list_uni)
     
     file_path = "fair/fair_results.json" 

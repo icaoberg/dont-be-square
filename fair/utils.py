@@ -282,7 +282,7 @@ def create_heatmap_for(result, result_for):
         st.subheader("🖼️ FAIR Heatmap")
 
         output_file = f"FAIR_{result_for}_{datetime.now().strftime('%Y%m%d-%H%M%S')}.png"
-        fairhelp.create_fair_plot(
+        output_path = fairhelp.create_fair_plot(
             np.array(result).reshape(2, 2),
             output_file=output_file,
             scale=100,
@@ -290,7 +290,7 @@ def create_heatmap_for(result, result_for):
             curated=False,
         )
 
-        st.image(output_file, caption=f"FAIR Heatmap {result_for}")
+        st.image(output_path, caption=f"FAIR Heatmap {result_for}")
 
 ###########################
 def read_json_fair(file=None):
