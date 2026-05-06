@@ -1,0 +1,14 @@
+flowchart TD
+    Start([Script Start]) --> SetID[Set hubmap_id]
+    SetID --> GetMetadata[__get_metadata]
+    GetMetadata --> PrintResult[Print metadata]
+    PrintResult --> End([Complete])
+    
+    subgraph "Metadata Retrieval"
+        GetMetadata --> API[Entity API Call]
+        API --> ReturnMetadata[Return metadata dict]
+    end
+    
+    style Start fill:#e1f5ff
+    style End fill:#e1f5ff
+    style GetMetadata fill:#fff4e1

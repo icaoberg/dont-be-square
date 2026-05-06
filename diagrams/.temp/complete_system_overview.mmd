@@ -1,0 +1,102 @@
+flowchart TD
+    Start([System Overview]) --> Phase1[Phase 1: Precomputation]
+    Phase1 --> Phase2[Phase 2: Data Storage]
+    Phase2 --> Phase3[Phase 3: Application Display]
+    
+    subgraph Phase1["Phase 1: Precomputation Pipeline"]
+        direction TB
+        P1Start([create_fair_json.py execution]) --> P1SDK[Initialize HuBMAP SDKs]
+        P1SDK --> P1Search[SearchSdk: Search by university groups]
+        P1Search --> P1Entity[EntitySdk: Get dataset metadata]
+        P1Entity --> P1Convert[Convert Dataset objects to DataFrames]
+        P1Convert --> P1Process[process_fair_multi_datastes]
+        
+        P1Process --> P1FAIR[Calculate FAIR scores for each dataset]
+        P1FAIR --> P1Findable[findable: 8 checks]
+        P1FAIR --> P1Accessible[accessible: 7 checks]
+        P1FAIR --> P1Interoperable[interoperable: 7 checks]
+        P1FAIR --> P1Reproducible[reproducible: 11 checks]
+        
+        P1Findable --> P1Collect[Collect F/A/I/R scores]
+        P1Accessible --> P1Collect
+        P1Interoperable --> P1Collect
+        P1Reproducible --> P1Collect
+        
+        P1Collect --> P1Store[Store results in memory]
+    end
+    
+    subgraph Phase2["Phase 2: Data Storage"]
+        direction TB
+        P2Start[Precomputation complete] --> P2Write[Write to fair_results.json]
+        P2Write --> P2Structure["JSON Structure:<br/>Array of objects with:<br/>- group_name<br/>- hubmap_id<br/>- dataset_type<br/>- fair: [F, A, I, R]"]
+        P2Structure --> P2File[fair/fair_results.json file]
+        P2File --> P2Ready[Data ready for application]
+    end
+    
+    subgraph Phase3["Phase 3: Streamlit Application"]
+        direction TB
+        P3Start([streamlit_test.py launch]) --> P3Load[Load fair_results.json]
+        P3Load --> P3Parse[Parse JSON to DataFrame]
+        P3Parse --> P3Extract[Extract unique labs and assays]
+        P3Extract --> P3UI[Render Streamlit UI]
+        
+        P3UI --> P3User[User interaction]
+        P3User --> P3Select[User selects search type]
+        P3Select --> P3Filter[Filter DataFrame]
+        
+        P3Filter --> P3SearchLab[search_by_lab]
+        P3Filter --> P3SearchAssay[search_by_assay]
+        P3Filter --> P3SearchBoth[search_by_lab_assay]
+        P3Filter --> P3SearchID[search_by_id]
+        P3Filter --> P3SearchAll[search_all_id]
+        
+        P3SearchLab --> P3ExtractFAIR[Extract FAIR scores]
+        P3SearchAssay --> P3ExtractFAIR
+        P3SearchBoth --> P3ExtractFAIR
+        P3SearchID --> P3ExtractFAIR
+        P3SearchAll --> P3ExtractFAIR
+        
+        P3ExtractFAIR --> P3Mean[Calculate mean scores]
+        P3Mean --> P3Aggregate[Aggregate: [mean_F, mean_A, mean_I, mean_R]]
+        P3Aggregate --> P3Visualize[Create heatmap visualization]
+        P3Visualize --> P3Display[Display results to user]
+        P3Display --> P3User
+    end
+    
+    P1Store --> P2Start
+    P2Ready --> P3Start
+    
+    subgraph "External Dependencies"
+        direction LR
+        Ext1[HuBMAP Search API v3]
+        Ext2[HuBMAP Entity API]
+        Ext3[UNIPROT API]
+        Ext4[ORCID API]
+        Ext5[DOI URLs]
+    end
+    
+    P1Search -.->|API calls| Ext1
+    P1Entity -.->|API calls| Ext2
+    P1Findable -.->|Validate| Ext3
+    P1Findable -.->|Validate| Ext4
+    P1Accessible -.->|Check| Ext5
+    
+    subgraph "Data Flow"
+        direction LR
+        DF1[22 University Groups] --> DF2[Dataset IDs]
+        DF2 --> DF3[Dataset Objects]
+        DF3 --> DF4[DataFrames]
+        DF4 --> DF5[FAIR Scores]
+        DF5 --> DF6[JSON File]
+        DF6 --> DF7[Filtered Results]
+        DF7 --> DF8[Aggregated Scores]
+        DF8 --> DF9[Visualization]
+    end
+    
+    style Phase1 fill:#e1f5ff
+    style Phase2 fill:#fff4e1
+    style Phase3 fill:#e1ffe1
+    style P1FAIR fill:#ffe1f5
+    style P2File fill:#e1ffe1
+    style P3Visualize fill:#ffe1f5
+    style Start fill:#f0f0f0

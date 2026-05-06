@@ -1,0 +1,83 @@
+flowchart TD
+    Start([Script Execution: create_fair_json.py]) --> InitSDK[Initialize HuBMAP SDKs]
+    InitSDK --> SearchSDK[SearchSdk instance]
+    InitSDK --> EntitySDK[EntitySdk instance]
+    
+    SearchSDK --> FindUni[find_by_university]
+    FindUni --> LoopGroups[Loop through 22 university groups]
+    
+    LoopGroups --> CreateQuery[SearchInstance_group_name]
+    CreateQuery --> SearchAPI[SearchSdk.search API call]
+    SearchAPI --> GetHits[Extract hit IDs from results]
+    GetHits --> ConvertDatasets[convert_to_dataset]
+    
+    ConvertDatasets --> LoopHits[Loop through each hit]
+    LoopHits --> GetEntity[EntitySdk.get_entity_by_id]
+    GetEntity --> AddToList[Add Dataset object to list]
+    AddToList --> Sleep[Sleep 1 second]
+    Sleep --> MoreHits{More hits?}
+    MoreHits -->|Yes| LoopHits
+    MoreHits -->|No| MoreGroups{More groups?}
+    MoreGroups -->|Yes| LoopGroups
+    MoreGroups -->|No| ListToDF[list_objct_to_list_df]
+    
+    ListToDF --> LoopDatasets[Loop through all datasets]
+    LoopDatasets --> DatasetToDF[dataset_to_df]
+    DatasetToDF --> ExtractAttrs[Extract all attributes]
+    ExtractAttrs --> CreateDFRow[Create DataFrame row]
+    CreateDFRow --> AddToDFList[Add to DataFrame list]
+    AddToDFList --> MoreDFs{More datasets?}
+    MoreDFs -->|Yes| LoopDatasets
+    MoreDFs -->|No| ProcessFAIR[process_fair_multi_datastes]
+    
+    ProcessFAIR --> LoopDataFrames[Loop through each DataFrame]
+    LoopDataFrames --> ExtractID[Extract hubmap_id]
+    ExtractID --> CalcFindable[findable module]
+    ExtractID --> CalcAccessible[accessible module]
+    ExtractID --> CalcInteroperable[interoperable module]
+    ExtractID --> CalcReproducible[reproducible module]
+    
+    CalcFindable --> GetMetadata1[Get metadata from API]
+    CalcAccessible --> GetMetadata2[Get metadata from API]
+    CalcInteroperable --> GetMetadata3[Get metadata from API]
+    CalcReproducible --> GetMetadata4[Get metadata from API]
+    
+    GetMetadata1 --> ScoreFindable[Calculate findable score]
+    GetMetadata2 --> ScoreAccessible[Calculate accessible score]
+    GetMetadata3 --> ScoreInteroperable[Calculate interoperable score]
+    GetMetadata4 --> ScoreReproducible[Calculate reproducible score]
+    
+    ScoreFindable --> CollectFAIR[Collect F/A/I/R scores]
+    ScoreAccessible --> CollectFAIR
+    ScoreInteroperable --> CollectFAIR
+    ScoreReproducible --> CollectFAIR
+    
+    CollectFAIR --> CreateResult[Create result dictionary]
+    CreateResult --> StoreResult[Store in all_assay_results]
+    StoreResult --> WriteJSON[Write to fair_results.json]
+    WriteJSON --> MoreDataFrames{More DataFrames?}
+    MoreDataFrames -->|Yes| LoopDataFrames
+    MoreDataFrames -->|No| End([Precomputation Complete])
+    
+    subgraph "HuBMAP API Integration"
+        SearchAPI --> SearchEndpoint[Search API v3]
+        GetEntity --> EntityEndpoint[Entity API]
+    end
+    
+    subgraph "FAIR Scoring Modules"
+        CalcFindable --> FindableChecks[8 findability checks]
+        CalcAccessible --> AccessibleChecks[7 accessibility checks]
+        CalcInteroperable --> InteroperableChecks[7 interoperability checks]
+        CalcReproducible --> ReproducibleChecks[11 reproducibility checks]
+    end
+    
+    subgraph "Data Storage"
+        WriteJSON --> JSONFile[fair/fair_results.json]
+        JSONFile --> JSONStructure["Array of objects:<br/>- group_name<br/>- hubmap_id<br/>- dataset_type<br/>- fair: [F,A,I,R]"]
+    end
+    
+    style Start fill:#e1f5ff
+    style End fill:#e1ffe1
+    style ProcessFAIR fill:#fff4e1
+    style WriteJSON fill:#ffe1f5
+    style JSONFile fill:#e1ffe1

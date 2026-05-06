@@ -1,0 +1,29 @@
+flowchart TD
+    Start([Function Call]) --> ValidateInput[Validate input shape 2x2]
+    ValidateInput --> CheckValues[Check values <= 1]
+    CheckValues --> SetupOutput[Setup output file path]
+    SetupOutput --> CreateLabels[Create F/A/I/R labels]
+    CreateLabels --> MaskData[Mask negative values]
+    MaskData --> CreateColormap[Create blue-white-red colormap]
+    CreateColormap --> CreateFigure[Create matplotlib figure]
+    CreateFigure --> AddSubplot[Add subplot with GridSpec]
+    AddSubplot --> DisplayHeatmap[Display heatmap with imshow]
+    DisplayHeatmap --> AddLabels[Add text labels F/A/I/R]
+    AddLabels --> AddColorbar[Add colorbar]
+    AddColorbar --> SavePlot[Save plot to file]
+    SavePlot --> End([Return file path])
+    
+    subgraph "Streamlit Functions"
+        ShowLogs[show_logs_in_streamlit]
+        ShowStatus[show_status]
+    end
+    
+    subgraph "Plot Configuration"
+        CreateColormap --> SetBadColor[Set bad color to white]
+        CreateFigure --> SetFigSize[Set figure size with scale]
+    end
+    
+    style Start fill:#e1f5ff
+    style End fill:#e1f5ff
+    style DisplayHeatmap fill:#fff4e1
+    style SavePlot fill:#e1ffe1

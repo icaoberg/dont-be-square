@@ -1,0 +1,139 @@
+flowchart TD
+    Start([Research Data Normalization Process]) --> Phase1[Phase I: FAIR Structures Comparison]
+    Phase1 --> Phase2[Phase II: Multi-Assay Evaluation]
+    Phase2 --> Phase3[Phase III: Multi-Version Evaluation]
+    Phase3 --> Phase4[Phase IV: Merging Data Evaluation]
+    Phase4 --> Phase5[Phase V: Adapting FAIR to HuBMAP]
+    Phase5 --> End([Normalized FAIR Structure])
+    
+    subgraph Phase1["Phase I: FAIR Structures Comparison"]
+        direction TB
+        P1Start[Collect FAIR Resources] --> P1Frameworks[Analyze Frameworks]
+        P1Start --> P1Guidelines[Review FAIR Guidelines]
+        P1Start --> P1Workflows[Examine Workflows]
+        P1Start --> P1Toolkits[Study Toolkits]
+        
+        P1Frameworks --> P1Comparative[Comparative Analysis]
+        P1Guidelines --> P1Comparative
+        P1Workflows --> P1Comparative
+        P1Toolkits --> P1Comparative
+        
+        P1Comparative --> P1Evaluating[Evaluating Tool]
+        P1Evaluating --> P1FinalFile[Create Final Comparison File]
+        P1FinalFile --> P1Results[End Results: Standardized FAIR Structure]
+    end
+    
+    subgraph Phase2["Phase II: Multi-Assay Evaluation"]
+        direction TB
+        P2Start[Load All Datasets] --> P2Scan[Scan All Datasets]
+        P2Scan --> P2Extract[Extract Assay Types]
+        P2Extract --> P2Identify[Identify Unique Assay Types]
+        P2Identify --> P2CreateNames[Create Assay Type Names List]
+        P2CreateNames --> P2Catalog[Catalog Available Assay Types]
+        P2Catalog --> P2AssayList["Output: Complete Assay Type Inventory<br/>- CODEX<br/>- IMC<br/>- 10X Multiome<br/>- scRNAseq<br/>- ATACseq<br/>- etc."]
+    end
+    
+    subgraph Phase3["Phase III: Multi-Version Evaluation"]
+        direction TB
+        P3Start[For Each Assay Type] --> P3Group[Group by Assay Type]
+        P3Group --> P3IdentifyVersions[Identify All Versions]
+        P3IdentifyVersions --> P3VersionList["Version Examples:<br/>- scRNAseq-10xGenomics-v2<br/>- scRNAseq-10xGenomics-v3<br/>- snRNAseq-10xGenomics-v3"]
+        
+        P3VersionList --> P3Verify[Verify Data Availability]
+        P3Verify --> P3CheckFields[Check Available Fields per Version]
+        P3CheckFields --> P3MapFields[Map Fields Across Versions]
+        P3MapFields --> P3VersionMatrix["Output: Version Comparison Matrix<br/>Fields available in each version"]
+        
+        P3VersionMatrix --> P3MoreAssays{More Assay Types?}
+        P3MoreAssays -->|Yes| P3Start
+        P3MoreAssays -->|No| P3Complete[All Versions Evaluated]
+    end
+    
+    subgraph Phase4["Phase IV: Merging Data Evaluation"]
+        direction TB
+        P4Start[Analyze Common Features] --> P4PerAssay[For Each Assay Type]
+        P4PerAssay --> P4AcrossVersions[Across All Versions]
+        P4AcrossVersions --> P4IdentifyCommon[Identify Common Features]
+        
+        P4IdentifyCommon --> P4Categorize[Categorize Features]
+        P4Categorize --> P4AlwaysRequired[Always Required Features]
+        P4Categorize --> P4ConditionalRequired[Conditional Required Features]
+        P4Categorize --> P4Optional[Optional Features]
+        
+        P4AlwaysRequired --> P4BaseRequirements[Base Requirements Set]
+        P4ConditionalRequired --> P4ConditionalRules[Conditional Rules:<br/>Required for some assay types<br/>Optional for others]
+        P4Optional --> P4OptionalSet[Optional Features Set]
+        
+        P4BaseRequirements --> P4Merge[Create Global Version]
+        P4ConditionalRules --> P4Merge
+        P4OptionalSet --> P4Merge
+        
+        P4Merge --> P4GlobalStructure["Output: Global Merged Structure<br/>- Always Required<br/>- Conditional Required<br/>- Optional"]
+        
+        P4GlobalStructure --> P4MoreAssays{More Assay Types?}
+        P4MoreAssays -->|Yes| P4PerAssay
+        P4MoreAssays -->|No| P4Complete[All Assays Merged]
+    end
+    
+    subgraph Phase5["Phase V: Adapting FAIR to HuBMAP"]
+        direction TB
+        P5Start[Take Global Merged Structure] --> P5MapFAIR[Map to FAIR Categories]
+        P5MapFAIR --> P5Findable[Findable Category]
+        P5MapFAIR --> P5Accessible[Accessible Category]
+        P5MapFAIR --> P5Interoperable[Interoperable Category]
+        P5MapFAIR --> P5Reproducible[Reproducible Category]
+        
+        P5Findable --> P5EvaluateMetric[Evaluate Metric]
+        P5Accessible --> P5EvaluateMetric
+        P5Interoperable --> P5EvaluateMetric
+        P5Reproducible --> P5EvaluateMetric
+        
+        P5EvaluateMetric --> P5DetermineCategory[Determine FAIR Category]
+        P5DetermineCategory --> P5AssignScore[Assign Scoring Logic]
+        P5AssignScore --> P5HuBMAPStructure["Output: HuBMAP-Adapted FAIR Structure<br/>- Metric Evaluation Rules<br/>- Category Assignments<br/>- Scoring Criteria"]
+    end
+    
+    P1Results --> P2Start
+    P2AssayList --> P3Start
+    P3Complete --> P4Start
+    P4Complete --> P5Start
+    P5HuBMAPStructure --> End
+    
+    subgraph "Data Sources"
+        DS1[FAIR Frameworks]
+        DS2[FAIR Guidelines]
+        DS3[FAIR Workflows]
+        DS4[FAIR Toolkits]
+        DS5[HuBMAP Datasets]
+    end
+    
+    P1Frameworks -.->|Input| DS1
+    P1Guidelines -.->|Input| DS2
+    P1Workflows -.->|Input| DS3
+    P1Toolkits -.->|Input| DS4
+    P2Scan -.->|Input| DS5
+    
+    subgraph "Output Artifacts"
+        OA1[Final Comparison File]
+        OA2[Assay Type Inventory]
+        OA3[Version Comparison Matrix]
+        OA4[Global Merged Structure]
+        OA5[HuBMAP FAIR Structure]
+    end
+    
+    P1FinalFile -.->|Produces| OA1
+    P2AssayList -.->|Produces| OA2
+    P3VersionMatrix -.->|Produces| OA3
+    P4GlobalStructure -.->|Produces| OA4
+    P5HuBMAPStructure -.->|Produces| OA5
+    
+    style Phase1 fill:#e1f5ff
+    style Phase2 fill:#fff4e1
+    style Phase3 fill:#e1ffe1
+    style Phase4 fill:#ffe1f5
+    style Phase5 fill:#f0e1ff
+    style Start fill:#f0f0f0
+    style End fill:#e1ffe1
+    style P1Comparative fill:#fff4e1
+    style P4Merge fill:#ffe1f5
+    style P5EvaluateMetric fill:#f0e1ff

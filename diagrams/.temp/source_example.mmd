@@ -1,0 +1,35 @@
+flowchart TD
+    Start([Script Start]) --> LoopStart[For each assay in data]
+    LoopStart --> GetID[Extract hubmap_id]
+    GetID --> CalcFindable[findable]
+    GetID --> CalcAccessible[accessible]
+    GetID --> CalcInteroperable[interoperable]
+    GetID --> CalcReproducible[reproducible]
+    
+    CalcFindable --> CollectScores[Collect scores]
+    CalcAccessible --> CollectScores
+    CalcInteroperable --> CollectScores
+    CalcReproducible --> CollectScores
+    
+    CollectScores --> CreatePlot[create_fair_plot]
+    CreatePlot --> StoreResults[Store in all_assay_results]
+    StoreResults --> LoopCheck{More datasets?}
+    LoopCheck -->|Yes| LoopStart
+    LoopCheck -->|No| PrintResults[Print all results]
+    PrintResults --> End([Complete])
+    
+    subgraph "FAIR Scoring Modules"
+        CalcFindable
+        CalcAccessible
+        CalcInteroperable
+        CalcReproducible
+    end
+    
+    subgraph "Visualization"
+        CreatePlot --> Matplotlib[matplotlib visualization]
+    end
+    
+    style Start fill:#e1f5ff
+    style End fill:#e1f5ff
+    style CollectScores fill:#fff4e1
+    style CreatePlot fill:#e1ffe1

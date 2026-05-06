@@ -1,0 +1,97 @@
+// Graphviz diagram for Live Scoring Path
+// Matches codebase logic: streamlit_app.py, fair/*.py, fairhelp.create_fair_plot
+
+digraph LiveScoringFlow {
+    rankdir=TB;
+    splines=ortho;
+    node [fontname="Arial", fontsize=10];
+    edge [fontname="Arial", fontsize=9];
+
+    node [shape=box, style="rounded,filled", color=black];
+
+    // ─── Phase 1: Input ─────────────────────────────────────────────────────
+    subgraph cluster_input {
+        label="Phase 1: Input";
+        style="dashed,rounded";
+        fillcolor=lightgray;
+        color=gray;
+
+        User [label="User\nhubmap_id", fillcolor=lightblue];
+        StreamlitUI [label="Streamlit UI\nstreamlit_app.py", fillcolor=lightgreen];
+    }
+
+    // ─── Phase 2: FAIR Scoring ──────────────────────────────────────────────
+    subgraph cluster_fair {
+        label="Phase 2: FAIR Scoring";
+        style="dashed,rounded";
+        fillcolor=lightgray;
+        color=gray;
+
+        Findable [label="Findable\nfair/findable.py", fillcolor=lightgreen];
+        Accessible [label="Accessible\nfair/accessible.py", fillcolor=lightgreen];
+        Interoperable [label="Interoperable\nfair/interoperable.py", fillcolor=lightgreen];
+        Reproducible [label="Reproducible\nfair/reproducible.py", fillcolor=lightgreen];
+    }
+
+    // ─── Phase 3: External APIs (used by FAIR modules) ───────────────────────
+    subgraph cluster_apis {
+        label="Phase 3: External Validation";
+        style="dashed,rounded";
+        fillcolor=lightgray;
+        color=gray;
+
+        HubmapAPI [label="HuBMAP Entity API\nentity.api.hubmapconsortium.org/entities/{id}", shape=ellipse, fillcolor=lightyellow];
+        ORCIDAPI [label="ORCID API\npub.orcid.org/v3.0/{id}", shape=ellipse, fillcolor=lightyellow];
+        UniProtAPI [label="UniProt REST\nrest.uniprot.org/uniprotkb/{accession}", shape=ellipse, fillcolor=lightyellow];
+        DOIResolvers [label="DOI Resolvers\ndoi.org / dx.doi.org", shape=ellipse, fillcolor=lightyellow];
+    }
+
+    // ─── Storage ─────────────────────────────────────────────────────────────
+    MetadataSnapshot [label="Metadata Snapshot\nJSON/<id>.json", shape=cylinder, fillcolor=lightcoral];
+
+    // ─── Phase 4: Visualization ──────────────────────────────────────────────
+    subgraph cluster_output {
+        label="Phase 4: Visualization";
+        style="dashed,rounded";
+        fillcolor=lightgray;
+        color=gray;
+
+        Aggregate [label="Aggregate Scores\n[F, A, I, R]", fillcolor=lightgreen];
+        Plotter [label="Plotter\nfairhelp.create_fair_plot", fillcolor=lightgreen];
+        PNGFile [label="PNG File\nheatmap", shape=cylinder, fillcolor=lightcoral];
+    }
+
+    // ─── Edges: Phase 1 ──────────────────────────────────────────────────────
+    User -> StreamlitUI [label="hubmap_id"];
+
+    // ─── Edges: Phase 2 (UI → FAIR modules) ──────────────────────────────────
+    StreamlitUI -> Findable [label="hubmap_id"];
+    StreamlitUI -> Accessible [label="hubmap_id"];
+    StreamlitUI -> Interoperable [label="hubmap_id"];
+    StreamlitUI -> Reproducible [label="hubmap_id"];
+
+    // ─── Edges: FAIR modules → HuBMAP API (via __get_metadata in findable) ───
+    Findable -> HubmapAPI [label="GET metadata"];
+    Accessible -> HubmapAPI [label="GET metadata"];
+    Interoperable -> HubmapAPI [label="GET metadata"];
+    Reproducible -> HubmapAPI [label="GET metadata"];
+
+    HubmapAPI -> MetadataSnapshot [label="save JSON"];
+
+    // ─── Edges: Findable-only → ORCID, UniProt ──────────────────────────────
+    Findable -> ORCIDAPI [label="validate ORCID"];
+    Findable -> UniProtAPI [label="validate accessions"];
+
+    // ─── Edges: Accessible-only → DOI resolvers ──────────────────────────────
+    Accessible -> DOIResolvers [label="validate URLs"];
+
+    // ─── Edges: FAIR modules → Aggregate → Plotter → PNG → display ───────────
+    Findable -> Aggregate [label="score"];
+    Accessible -> Aggregate [label="score"];
+    Interoperable -> Aggregate [label="score"];
+    Reproducible -> Aggregate [label="score"];
+
+    Aggregate -> Plotter [label="[F,A,I,R]"];
+    Plotter -> PNGFile [label="save PNG"];
+    PNGFile -> StreamlitUI [label="display", style=dashed];
+}

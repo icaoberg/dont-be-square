@@ -1,0 +1,55 @@
+# Phase III: Creating Multi-Assay Evaluation
+
+## Description
+Evaluation phase for comparing metadata elements across all different assay types to identify common patterns.
+
+## Phase III Workflow
+
+```mermaid
+flowchart TD
+    Start([Phase III: Multi-Assay Evaluation]) --> P3Focus[Focus: Check all general metadata elements<br/>and compare metadata elements<br/>for all assay types]
+    
+    P3Focus --> P3Branches[Branches]
+    
+    P3Branches --> P3AllDatasets[All Datasets<br/>Database Representation]
+    P3Branches --> P3CompareFormats[Compare Formats/Metadata]
+    
+    P3CompareFormats --> P3ATACRNA[ATAC RNA]
+    P3CompareFormats --> P3RNASeq[RNA Seq]
+    P3CompareFormats --> P3SingleCell[Single Cell]
+    P3CompareFormats --> P3BulkRNA[Bulk RNA]
+    P3CompareFormats --> P3Other[etc]
+    
+    P3AllDatasets --> P3Compare[Compare metadata elements]
+    P3ATACRNA --> P3Compare
+    P3RNASeq --> P3Compare
+    P3SingleCell --> P3Compare
+    P3BulkRNA --> P3Compare
+    P3Other --> P3Compare
+    
+    P3Compare --> P3Result[General metadata elements<br/>across all assay types]
+    P3Result --> End([Phase III Complete])
+    
+    style Start fill:#e1f5ff
+    style End fill:#e1ffe1
+    style P3Focus fill:#fff4e1
+    style P3Compare fill:#ffe1f5
+    style P3Result fill:#e1ffe1
+```
+
+## Phase III Components
+
+**Focus**: Check all general metadata elements and compare metadata elements for all assay types.
+
+**Branches**:
+- All Datasets (Database Representation)
+- Compare Formats/Metadata:
+  - ATAC RNA
+  - RNA Seq
+  - Single Cell
+  - Bulk RNA
+  - etc
+
+**Process**: Compare metadata elements across different assay types.
+
+**Output**: General metadata elements across all assay types.

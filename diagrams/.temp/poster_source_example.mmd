@@ -1,0 +1,18 @@
+flowchart TD
+    Start([Start Assessment]) --> SelectDataset[Select HuBMAP dataset]
+    SelectDataset --> AssessFAIR[Assess FAIR compliance]
+    AssessFAIR --> GenerateHeatmap[Generate FAIR heatmap]
+    GenerateHeatmap --> DisplayResults[Display assessment results]
+    DisplayResults --> End([Complete])
+    
+    subgraph "FAIR Metrics"
+        AssessFAIR --> Findable[Findability assessment]
+        AssessFAIR --> Accessible[Accessibility assessment]
+        AssessFAIR --> Interoperable[Interoperability assessment]
+        AssessFAIR --> Reproducible[Reproducibility assessment]
+    end
+    
+    style Start fill:#e1f5ff
+    style End fill:#e1ffe1
+    style AssessFAIR fill:#fff4e1
+    style GenerateHeatmap fill:#e1ffe1

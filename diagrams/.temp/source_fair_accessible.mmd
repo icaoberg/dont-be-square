@@ -1,0 +1,40 @@
+flowchart TD
+    Start([accessible function]) --> GetMetadata[__get_metadata]
+    GetMetadata --> CheckDOI[Check doi_url accessible]
+    GetMetadata --> CheckGroupName[__has_group_name]
+    GetMetadata --> CheckGroupUUID[__has_group_uuid]
+    GetMetadata --> CheckHubmapID[__has_hubmap_id]
+    GetMetadata --> CheckRegDOI[__has_register_doi]
+    GetMetadata --> CheckProtocolDOI[__has_protocols_io_doi]
+    GetMetadata --> CheckReagentDOI[__has_reagent_prep_protocols_io_doi]
+    
+    CheckDOI --> CollectScores[Collect all scores]
+    CheckGroupName --> CollectScores
+    CheckGroupUUID --> CollectScores
+    CheckHubmapID --> CollectScores
+    CheckRegDOI --> CollectScores
+    CheckProtocolDOI --> CollectScores
+    CheckReagentDOI --> CollectScores
+    
+    CollectScores --> CalcMean[Calculate mean score]
+    CalcMean --> ReturnResult[Return result and score list]
+    ReturnResult --> End([Complete])
+    
+    subgraph "URL Accessibility Checks"
+        CheckDOI --> IsLinkAccessible[__is_link_accessible]
+        CheckRegDOI --> IsLinkAccessible
+        CheckProtocolDOI --> IsLinkAccessible
+        CheckReagentDOI --> IsLinkAccessible
+        IsLinkAccessible --> HTTPRequest[HTTP GET request]
+    end
+    
+    subgraph "Metadata Checks"
+        CheckGroupName --> HasValue[Check if value exists]
+        CheckGroupUUID --> HasValue
+        CheckHubmapID --> HasValue
+    end
+    
+    style Start fill:#e1f5ff
+    style End fill:#e1f5ff
+    style CollectScores fill:#fff4e1
+    style CalcMean fill:#e1ffe1
